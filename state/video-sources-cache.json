@@ -235,6 +235,25 @@
         "poster": "https://image.tmdb.org/t/p/w780/93G5xLkTan3fdkUzQVvCcf8IAMx.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha-episodio-01"
       }
+    },
+    "anime:sora-wa-akai-kawa-no-hotori:1": {
+      "at": 1783803934119,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://ccdn.xyz/stream.php?f=Letra-S/Sora-wa-Akai-Kawa-no-Hotori/01/playlist.m3u8&e=1846528431&t=a7cdee3f4400c8e3028241e17b0609a9fbc379f7499343d50c3184689cd3dce4",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fccdn.xyz%2Fstream.php%3Ff%3DLetra-S%2FSora-wa-Akai-Kawa-no-Hotori%2F01%2Fplaylist.m3u8%26e%3D1846528431%26t%3Da7cdee3f4400c8e3028241e17b0609a9fbc379f7499343d50c3184689cd3dce4&ref=aoc"
+          }
+        ],
+        "episode": 1,
+        "slug": "sora-wa-akai-kawa-no-hotori",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/tA0nEHf1G0KdtGJOdRZWiTpPuwi.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/sora-wa-akai-kawa-no-hotori-episodio-01"
+      }
     }
   }
 }
