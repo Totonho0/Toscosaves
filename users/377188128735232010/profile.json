@@ -93,6 +93,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1ib2t1LW5vLWhlcm8tYWNhZGVtaWEtNS10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaW1lc2RpZ2l0YWwuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "smoking-behind-the-supermarket-with-you": {
+      "slug": "smoking-behind-the-supermarket-with-you",
+      "title": "Super no Ura de Yani Suu Futari",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9na21FNDFBNWV2NU0yOTloTGdYM0pyV0FNMTYuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -148,9 +155,17 @@
     ],
     "boku-no-hero-academia-5": [
       1
+    ],
+    "smoking-behind-the-supermarket-with-you": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "smoking-behind-the-supermarket-with-you",
+      "ep": 1,
+      "at": 1783804011806
+    },
     {
       "slug": "boku-no-hero-academia-5",
       "ep": 1,
@@ -283,5 +298,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783803987092
+  "updatedAt": 1783804011258
 }
