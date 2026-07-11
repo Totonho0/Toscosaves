@@ -38,6 +38,12 @@
       "title": "Maou-sama, Retry! 2",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9mSGQwc083amd3U3FZa3pzVVhjV1REZU1GU24uanBn",
       "kind": "anime"
+    },
+    "black-clover": {
+      "slug": "black-clover",
+      "title": "black clover",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1ibGFjay1jbG92ZXItdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbmltZXNkaWdpdGFsLmpwZw",
+      "kind": "anime"
     }
   },
   "watched": {},
@@ -66,11 +72,13 @@
     "9km2jy09": {
       "id": "9km2jy09",
       "title": "Minha lista",
-      "slugs": [],
+      "slugs": [
+        "black-clover"
+      ],
       "public": true,
       "createdAt": 1783778781343,
-      "updatedAt": 1783778781343
+      "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783778781343
+  "updatedAt": 1783778790206
 }
