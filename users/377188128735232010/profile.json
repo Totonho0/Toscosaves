@@ -127,6 +127,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9oa241QWsxNEx5WmY3UGVaUFhZblNEV0NhRE8uanBn",
       "kind": "anime",
       "adult": false
+    },
+    "amagami-san-chi-no-enmusubi-dublado": {
+      "slug": "amagami-san-chi-no-enmusubi-dublado",
+      "title": "Amagami-san Chi no Enmusubi Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9uekh2VWdpdDI2aGNZVmo4bHlSR3hjdmp0anAuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -204,9 +211,17 @@
     ],
     "anne-shirley": [
       1
+    ],
+    "amagami-san-chi-no-enmusubi-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "amagami-san-chi-no-enmusubi-dublado",
+      "ep": 1,
+      "at": 1783806644866
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -385,5 +400,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783806540434
+  "updatedAt": 1783806644267
 }
