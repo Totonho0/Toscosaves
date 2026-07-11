@@ -112,6 +112,67 @@
         "provider": "anitube"
       }
     },
+    "67043": {
+      "at": 1783805879507,
+      "data": {
+        "slug": "67043",
+        "title": "Afro Samurai –",
+        "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWFmcm8tc2FtdXJhaS10b2Rvcy1vcy1lcGlzb2Rpb3MtdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbml0dWJlLmpwZw",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Afro Samurai – Episódio 01",
+            "url": "https://www.anitube.zip/video/928039/",
+            "videoId": "928039"
+          },
+          {
+            "number": 2,
+            "title": "Afro Samurai – Episódio 02",
+            "url": "https://www.anitube.zip/video/928038/",
+            "videoId": "928038"
+          },
+          {
+            "number": 3,
+            "title": "Afro Samurai – Episódio 03",
+            "url": "https://www.anitube.zip/video/928037/",
+            "videoId": "928037"
+          },
+          {
+            "number": 4,
+            "title": "Afro Samurai – Episódio 04",
+            "url": "https://www.anitube.zip/video/928036/",
+            "videoId": "928036"
+          },
+          {
+            "number": 5,
+            "title": "Afro Samurai – Episódio 05",
+            "url": "https://www.anitube.zip/video/928035/",
+            "videoId": "928035"
+          }
+        ],
+        "totalEpisodes": 5,
+        "kind": "anime",
+        "provider": "anitube",
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "afro-samurai",
+              "title": "Afro Samurai – Todos os Episódios",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "67043",
+              "title": "Afro Samurai – (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            }
+          }
+        }
+      }
+    },
     "1034362": {
       "at": 1783801948201,
       "data": {
