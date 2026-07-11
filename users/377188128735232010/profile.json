@@ -12,7 +12,7 @@
     "8029": {
       "slug": "8029",
       "title": "Yosuga no Sora",
-      "poster": "https://www.anitube.zip/wp-content/uploads/Yosuga-no-Sora-poster.jpg",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL1lvc3VnYS1uby1Tb3JhLXBvc3Rlci5qcGc",
       "kind": "anime"
     },
     "chainsmoker-cat": {
@@ -25,7 +25,8 @@
       "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
       "title": "Watashi Ga Motenai No Wa Dou Kangaetemo Omaera Ga Warui - Animes",
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci13YXRhc2hpLWdhLW1vdGVuYWktbm8td2EtZG91LWthbmdhZXRlbW8tb21hZXJhLWdhLXdhcnVpLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pbWVzZGlnaXRhbC5qcGc",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "tongari-boushi-no-atelier-dublado": {
       "slug": "tongari-boushi-no-atelier-dublado",
@@ -178,5 +179,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783779336588
+  "updatedAt": 1783779339854
 }
