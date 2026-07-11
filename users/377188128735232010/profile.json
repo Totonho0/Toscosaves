@@ -15,6 +15,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL1lvc3VnYS1uby1Tb3JhLXBvc3Rlci5qcGc",
       "kind": "anime"
     },
+    "1034362": {
+      "slug": "1034362",
+      "title": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWFuZHJvaWQtd2Eta2Vpa2VuLW5pbnp1dS1uaS1oYWlyaW1hc3Uta2EtdG9kb3Mtb3MtZXBpc29kaW9zLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pdHViZS5qcGc",
+      "kind": "anime",
+      "adult": false
+    },
     "chainsmoker-cat": {
       "slug": "chainsmoker-cat",
       "title": "Yani Neko",
@@ -74,6 +81,9 @@
     "8029": [
       1
     ],
+    "1034362": [
+      1
+    ],
     "chainsmoker-cat": [
       1
     ],
@@ -91,6 +101,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "1034362",
+      "ep": 1,
+      "at": 1783801961516
+    },
     {
       "slug": "does-it-count-if-you-lose-your-virginity-to-an-android",
       "ep": 1,
@@ -193,5 +208,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783801955194
+  "updatedAt": 1783801961035
 }
