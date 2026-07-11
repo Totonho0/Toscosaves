@@ -100,6 +100,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9na21FNDFBNWV2NU0yOTloTGdYM0pyV0FNMTYuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "chainsaw-man-dublado": {
+      "slug": "chainsaw-man-dublado",
+      "title": "Chainsaw Man Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC81RFVNUEJTbkhPWnNiQnY4MUdGWFpYdkRwbzYuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -158,9 +165,17 @@
     ],
     "smoking-behind-the-supermarket-with-you": [
       1
+    ],
+    "chainsaw-man-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "chainsaw-man-dublado",
+      "ep": 1,
+      "at": 1783804038359
+    },
     {
       "slug": "smoking-behind-the-supermarket-with-you",
       "ep": 1,
@@ -298,5 +313,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783804011258
+  "updatedAt": 1783804037811
 }
