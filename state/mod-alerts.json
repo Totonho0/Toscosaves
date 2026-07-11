@@ -2,22 +2,18 @@
   "alerts": {
     "d:377188128735232010": {
       "userKey": "d:377188128735232010",
-      "messageId": "1525503816559099945",
+      "messageId": "1525599845518151872",
       "channelId": "1522313132574244918",
       "ip": "143.131.235.95",
       "discordId": "377188128735232010",
       "username": "Totonho",
-      "lastSeenAt": 1783779345866,
-      "lastAlertAt": 1783779731246,
+      "lastSeenAt": 1783801747615,
+      "lastAlertAt": 1783801746732,
       "componentsOk": true,
-      "viaBot": false,
-      "embedOnlineStatus": false,
-      "displayName": "Visitante #D5F7A9B0",
-      "visitorShortId": "D5F7A9B0",
-      "viewingKind": "anime",
-      "viewingTitle": "Watashi Ga Motenai No Wa Dou Kangaetemo Omaera Ga Warui - Animes",
-      "viewingDetail": "Watashi Ga Motenai No Wa Dou Kangaetemo Omaera Ga Warui Episódio 01 5 anos atrás",
-      "viewingUpdatedAt": 1783779345866
+      "viaBot": true,
+      "embedOnlineStatus": true,
+      "displayName": "Visitante #ED7EB353",
+      "visitorShortId": "ED7EB353"
     },
     "v:d8cc27ac-d3f2-42f3-b6ef-f93d23e997e8": {
       "userKey": "v:d8cc27ac-d3f2-42f3-b6ef-f93d23e997e8",
@@ -183,21 +179,6 @@
       "viaBot": false,
       "componentsOk": true,
       "embedOnlineStatus": false
-    },
-    "v:ed7eb353-bfa0-41cb-851a-9ad1886124b6": {
-      "userKey": "v:ed7eb353-bfa0-41cb-851a-9ad1886124b6",
-      "messageId": "1525599649535361046",
-      "channelId": "1522313133513904161",
-      "ip": "143.131.235.95",
-      "discordId": "",
-      "username": "",
-      "displayName": "Visitante #ED7EB353",
-      "visitorShortId": "ED7EB353",
-      "lastSeenAt": 1783801701950,
-      "lastAlertAt": 1783801700594,
-      "viaBot": true,
-      "componentsOk": true,
-      "embedOnlineStatus": true
     }
   },
   "links": {
@@ -206,6 +187,7 @@
     "ip:84f757da9050388e": "d:377188128735232010",
     "v:a935924b-1335-4017-a604-f2d9ca113cca": "d:995170142277349476",
     "d:995170142277349476": "ip:1992ab4a48681981",
-    "ip:1992ab4a48681981": "d:995170142277349476"
+    "ip:1992ab4a48681981": "d:995170142277349476",
+    "v:ed7eb353-bfa0-41cb-851a-9ad1886124b6": "d:377188128735232010"
   }
 }
