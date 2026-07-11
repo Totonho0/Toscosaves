@@ -692,6 +692,46 @@
         "poster": "https://www.anitube.ninja/wp-content/uploads/ja.png",
         "episodeUrl": "https://www.anitube.zip/video/19478/"
       }
+    },
+    "filme:19479:23": {
+      "at": 1783812499060,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/w/19479/01.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/filme/19479",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fw%2F19479%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "19479",
+        "kind": "filme",
+        "provider": "animesdigital",
+        "poster": "https://www.anitube.ninja/wp-content/uploads/ja.png",
+        "episodeUrl": "https://animesdigital.org/filme/19479"
+      }
+    },
+    "filme:19479:1": {
+      "at": 1783812499708,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/w/19479/01.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/filme/19479",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fw%2F19479%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "19479",
+        "kind": "filme",
+        "provider": "animesdigital",
+        "poster": "https://www.anitube.ninja/wp-content/uploads/ja.png",
+        "episodeUrl": "https://animesdigital.org/filme/19479"
+      }
     }
   }
 }
