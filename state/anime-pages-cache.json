@@ -6325,7 +6325,7 @@
       }
     },
     "tomb-raider-king": {
-      "at": 1783801832965,
+      "at": 1783803271820,
       "data": {
         "slug": "tomb-raider-king",
         "title": "Tomb Raider King",
@@ -6349,11 +6349,28 @@
           "Aventura",
           "Fantasia",
           "Sci-Fi"
+        ],
+        "animeSources": [
+          {
+            "server": 1,
+            "provider": "aoc",
+            "slug": "tomb-raider-king"
+          },
+          {
+            "server": 2,
+            "provider": "animesdrive",
+            "slug": "tomb-raider-king"
+          },
+          {
+            "server": 3,
+            "provider": "animeplay",
+            "slug": "tomb-raider-king"
+          }
         ]
       }
     },
     "clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou-dublado": {
-      "at": 1783801834550,
+      "at": 1783803273703,
       "data": {
         "slug": "clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou-dublado",
         "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou Dublado",
@@ -6363,12 +6380,12 @@
           {
             "number": 1,
             "title": "Episódio 01 - Seminário Solsein",
-            "url": "https://animesonline.cloud/episodio/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou-dublado-episodio-01"
+            "url": "https://animesdrive.online/episodio/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou-dublado-episodio-01"
           }
         ],
         "totalEpisodes": 1,
         "kind": "anime",
-        "provider": "aoc",
+        "provider": "animesdrive",
         "genres": [
           "Legendado",
           "Dublado",
@@ -12378,7 +12395,7 @@
       }
     },
     "clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou": {
-      "at": 1783802997816,
+      "at": 1783803273365,
       "data": {
         "slug": "clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou",
         "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
@@ -12388,12 +12405,12 @@
           {
             "number": 1,
             "title": "Episódio 01 - Seminário Solsein",
-            "url": "https://animesonline.cloud/episodio/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou-episodio-01"
+            "url": "https://animesdrive.online/episodio/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou-episodio-01"
           }
         ],
         "totalEpisodes": 1,
         "kind": "anime",
-        "provider": "aoc",
+        "provider": "animesdrive",
         "genres": [
           "Legendado",
           "Dublado",
@@ -12401,24 +12418,7 @@
           "Animação",
           "Drama",
           "Sci-Fi & Fantasia"
-        ],
-        "audioVariants": {
-          "current": "default",
-          "variants": {
-            "default": {
-              "slug": "clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou",
-              "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou-dublado",
-              "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou Dublado",
-              "audio": "dub",
-              "label": "Dublado"
-            }
-          }
-        }
+        ]
       }
     },
     "ibitte-konai-gibo-to-gishi": {
@@ -12447,7 +12447,7 @@
       }
     },
     "koukaku-kidoutai-tv-dublado": {
-      "at": 1783802999214,
+      "at": 1783803274059,
       "data": {
         "slug": "koukaku-kidoutai-tv-dublado",
         "title": "Koukaku Kidoutai (TV) Dublado",
@@ -12457,12 +12457,12 @@
           {
             "number": 1,
             "title": "Episódio 01 - Prólogo + Método Super Espartano",
-            "url": "https://animesonline.cloud/episodio/koukaku-kidoutai-tv-dublado-episodio-01"
+            "url": "https://animesdrive.online/episodio/koukaku-kidoutai-tv-dublado-episodio-01"
           }
         ],
         "totalEpisodes": 1,
         "kind": "anime",
-        "provider": "aoc",
+        "provider": "animesdrive",
         "genres": [
           "Legendado",
           "Dublado",
@@ -12471,24 +12471,7 @@
           "Aventura",
           "Fantasia",
           "Sci-Fi"
-        ],
-        "audioVariants": {
-          "current": "dub",
-          "variants": {
-            "default": {
-              "slug": "koukaku-kidoutai-tv",
-              "title": "Koukaku Kidoutai (TV)",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "koukaku-kidoutai-tv-dublado",
-              "title": "Koukaku Kidoutai (TV) Dublado",
-              "audio": "dub",
-              "label": "Dublado"
-            }
-          }
-        }
+        ]
       }
     },
     "katainaka-no-ossan-kensei-ni-naru-ii-dublado": {
@@ -12519,7 +12502,7 @@
       }
     },
     "yoroi-shin-den-samurai-troopers-part-2": {
-      "at": 1783803000444,
+      "at": 1783803273898,
       "data": {
         "slug": "yoroi-shin-den-samurai-troopers-part-2",
         "title": "Yoroi Shin Den Samurai Troopers Part 2",
@@ -12529,12 +12512,12 @@
           {
             "number": 1,
             "title": "Episódio 01 - Um Novo Capítulo",
-            "url": "https://animesonline.cloud/episodio/yoroi-shin-den-samurai-troopers-part-2-episodio-01"
+            "url": "https://animesdrive.online/episodio/yoroi-shin-den-samurai-troopers-part-2-episodio-01"
           }
         ],
         "totalEpisodes": 1,
         "kind": "anime",
-        "provider": "aoc",
+        "provider": "animesdrive",
         "genres": [
           "Legendado",
           "Dublado",
@@ -12547,7 +12530,7 @@
       }
     },
     "katainaka-no-ossan-kensei-ni-naru-ii": {
-      "at": 1783803000800,
+      "at": 1783803272859,
       "data": {
         "slug": "katainaka-no-ossan-kensei-ni-naru-ii",
         "title": "Katainaka no Ossan, Kensei ni Naru II",
@@ -12557,12 +12540,12 @@
           {
             "number": 1,
             "title": "Episódio 01 - Um homem de meia-idade de uma cidade rural começa um novo emprego.",
-            "url": "https://animesonline.cloud/episodio/katainaka-no-ossan-kensei-ni-naru-ii-episodio-01"
+            "url": "https://animesdrive.online/episodio/katainaka-no-ossan-kensei-ni-naru-ii-episodio-01"
           }
         ],
         "totalEpisodes": 1,
         "kind": "anime",
-        "provider": "aoc",
+        "provider": "animesdrive",
         "genres": [
           "Legendado",
           "Dublado",
@@ -12570,24 +12553,7 @@
           "Animação",
           "Comédia",
           "Sci-Fi & Fantasia"
-        ],
-        "audioVariants": {
-          "current": "default",
-          "variants": {
-            "default": {
-              "slug": "katainaka-no-ossan-kensei-ni-naru-ii",
-              "title": "Katainaka no Ossan, Kensei ni Naru II",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "katainaka-no-ossan-kensei-ni-naru-ii-dublado",
-              "title": "Katainaka no Ossan, Kensei ni Naru II Dublado",
-              "audio": "dub",
-              "label": "Dublado"
-            }
-          }
-        }
+        ]
       }
     },
     "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2": {
