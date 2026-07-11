@@ -65,6 +65,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC95Q1JxNDlZSU53STdwc0FLNVZFemJLTExTRmsuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "crowned-in-a-hundred-days": {
+      "slug": "crowned-in-a-hundred-days",
+      "title": "Crowned in a Hundred Days",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9zQ2lBUDQ1azdJdm5nVTl4WGRMb2JhdVcxN2YuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -108,9 +115,17 @@
     ],
     "tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai": [
       1
+    ],
+    "crowned-in-a-hundred-days": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "crowned-in-a-hundred-days",
+      "ep": 1,
+      "at": 1783803334313
+    },
     {
       "slug": "tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai",
       "ep": 1,
@@ -223,5 +238,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783803268814
+  "updatedAt": 1783803334074
 }
