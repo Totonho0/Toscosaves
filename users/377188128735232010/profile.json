@@ -12,7 +12,7 @@
     "8029": {
       "slug": "8029",
       "title": "Yosuga no Sora",
-      "poster": "https://www.anitube.zip/wp-content/uploads/Yosuga-no-Sora-poster.jpg",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL1lvc3VnYS1uby1Tb3JhLXBvc3Rlci5qcGc",
       "kind": "anime"
     },
     "chainsmoker-cat": {
@@ -44,6 +44,13 @@
       "title": "black clover",
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1ibGFjay1jbG92ZXItdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbmltZXNkaWdpdGFsLmpwZw",
       "kind": "anime"
+    },
+    "does-it-count-if-you-lose-your-virginity-to-an-android": {
+      "slug": "does-it-count-if-you-lose-your-virginity-to-an-android",
+      "title": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96SUx5TVpUWlJLbGVRdUUxR2Z1Q0U3b1pCSXYuanBn",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -78,9 +85,17 @@
     ],
     "maou-sama-retry": [
       1
+    ],
+    "does-it-count-if-you-lose-your-virginity-to-an-android": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "does-it-count-if-you-lose-your-virginity-to-an-android",
+      "ep": 1,
+      "at": 1783801855259
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -178,5 +193,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783801827607
+  "updatedAt": 1783801854787
 }
