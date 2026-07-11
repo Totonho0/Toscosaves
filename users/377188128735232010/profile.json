@@ -86,6 +86,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC90QTBuRUhmMUcwS2R0R0pPZFJaV2lUcFB1d2kuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "boku-no-hero-academia-5": {
+      "slug": "boku-no-hero-academia-5",
+      "title": "Boku no Hero Academia 5 - Animes",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1ib2t1LW5vLWhlcm8tYWNhZGVtaWEtNS10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaW1lc2RpZ2l0YWwuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -138,9 +145,17 @@
     ],
     "sora-wa-akai-kawa-no-hotori": [
       1
+    ],
+    "boku-no-hero-academia-5": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "boku-no-hero-academia-5",
+      "ep": 1,
+      "at": 1783803987636
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -268,5 +283,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783803974450
+  "updatedAt": 1783803987092
 }
