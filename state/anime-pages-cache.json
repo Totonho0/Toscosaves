@@ -614,6 +614,69 @@
         }
       }
     },
+    "1061298": {
+      "at": 1783809832301,
+      "data": {
+        "slug": "1061298",
+        "title": "Black Torch",
+        "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWJsYWNrLXRvcmNoLXRvZG9zLW9zLWVwaXNvZGlvcy10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaXR1YmUuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Black Torch – Episódio 01",
+            "url": "https://www.anitube.zip/video/1061300/",
+            "videoId": "1061300"
+          },
+          {
+            "number": 2,
+            "title": "Black Torch – Episódio 02",
+            "url": "https://www.anitube.zip/video/1061808/",
+            "videoId": "1061808"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "anitube",
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "black-torch",
+              "title": "Black Torch",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "black-torch-dublado",
+              "title": "Black Torch Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
+    },
+    "1061808": {
+      "at": 1783809834125,
+      "data": {
+        "slug": "1061808",
+        "title": "Black Torch – Episódio 02",
+        "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2JsYWNrLXRvcmNoLXRodW1icGFkcmExLmpwZw",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Black Torch – Episódio 01",
+            "url": "https://www.anitube.zip/video/1061300/",
+            "videoId": "1061300"
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "anime",
+        "provider": "anitube"
+      }
+    },
     "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui": {
       "at": 1783677102451,
       "data": {
