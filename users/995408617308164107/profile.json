@@ -26,6 +26,13 @@
       "title": "Assistir Kill Ao Dublado Online em HD - Todos os Episódios Atualizados",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC92ZVZwVTkxVklUa0xzdWE5RW5ScXRnTmJ5VlUuanBn",
       "kind": "anime"
+    },
+    "black-torch": {
+      "slug": "black-torch",
+      "title": "Black Torch",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xaU9uSVNWb2VsMnNuWWR4dWJkVEFaalk4WUUuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -39,8 +46,17 @@
       10
     ]
   },
-  "started": {},
+  "started": {
+    "black-torch": [
+      1
+    ]
+  },
   "watchHistoryLog": [
+    {
+      "slug": "black-torch",
+      "ep": 1,
+      "at": 1783809827259
+    },
     {
       "slug": "kill-ao-dublado",
       "ep": 10,
@@ -95,5 +111,5 @@
   },
   "filmePlayback": {},
   "customLists": {},
-  "updatedAt": 1783809800298
+  "updatedAt": 1783809829371
 }
