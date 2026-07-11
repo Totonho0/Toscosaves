@@ -107,6 +107,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC81RFVNUEJTbkhPWnNiQnY4MUdGWFpYdkRwbzYuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "afro-samurai": {
+      "slug": "afro-samurai",
+      "title": "Afro Samurai",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avb3JpZ2luYWwvNE1nSTRzcDVoTGR6NFpaOU9pZVlqSGs3eTVOLmpwZw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -168,9 +175,17 @@
     ],
     "chainsaw-man-dublado": [
       1
+    ],
+    "afro-samurai": [
+      2
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "afro-samurai",
+      "ep": 2,
+      "at": 1783805850440
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -313,5 +328,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783805145883
+  "updatedAt": 1783805849852
 }
