@@ -161,7 +161,7 @@
       }
     },
     "anime:crowned-in-a-hundred-days:1": {
-      "at": 1783803338366,
+      "at": 1783803340339,
       "data": {
         "sources": [
           {
@@ -177,6 +177,25 @@
         "provider": "aoc",
         "poster": "https://image.tmdb.org/t/p/w780/sCiAP45k7IvngU9xXdLobauW17f.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/crowned-in-a-hundred-days-episodio-01"
+      }
+    },
+    "anime:crowned-in-a-hundred-days:2": {
+      "at": 1783803341811,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://ccdn.xyz/stream.php?f=Letra-C/Crowned-in-a-Hundred-Days/02/playlist.m3u8&e=1846191999&t=4b34b933767e9af615b48e90d075067860380352477c3bc7afe7229f711d8c79",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fccdn.xyz%2Fstream.php%3Ff%3DLetra-C%2FCrowned-in-a-Hundred-Days%2F02%2Fplaylist.m3u8%26e%3D1846191999%26t%3D4b34b933767e9af615b48e90d075067860380352477c3bc7afe7229f711d8c79&ref=aoc"
+          }
+        ],
+        "episode": 2,
+        "slug": "crowned-in-a-hundred-days",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/sCiAP45k7IvngU9xXdLobauW17f.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/crowned-in-a-hundred-days-episodio-02"
       }
     }
   }
