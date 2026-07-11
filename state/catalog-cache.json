@@ -8841,7 +8841,24 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
             "rating": "8.9",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "one-piece"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           },
           {
             "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
@@ -8850,7 +8867,24 @@
             "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
             "rating": "8.6",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              }
+            ]
           },
           {
             "title": "Uzumaki – Todos os Episódios",
@@ -8859,7 +8893,24 @@
             "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
             "rating": "5",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "uzumaki"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "uzumaki"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "uzumaki"
+              }
+            ]
           },
           {
             "title": "Hitoribocchi no Isekai Kouryaku",
@@ -8868,7 +8919,24 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
             "rating": "7.4",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              }
+            ]
           },
           {
             "title": "Maou-sama, Retry! 2 – Todos os Episódios",
@@ -8877,7 +8945,24 @@
             "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
             "rating": "10",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "maou-sama-retry"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "maou-sama-retry"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "maou-sama-retry"
+              }
+            ]
           },
           {
             "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
@@ -8886,151 +8971,435 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              }
+            ]
           },
           {
             "title": "Uchi no Otouto-domo ga Sumimasen",
             "slug": "uchi-no-otouto-domo-ga-sumimasen",
             "url": "https://animesonline.cloud/anime/uchi-no-otouto-domo-ga-sumimasen",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/sFSwNfxWxDGAjfbbzEJYz9BUIbC-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/sFSwNfxWxDGAjfbbzEJYz9BUIbC-185x278.jpg",
             "rating": "6.65",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "uchi-no-otouto-domo-ga-sumimasen"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "uchi-no-otouto-domo-ga-sumimasen"
+              }
+            ]
           },
           {
             "title": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
             "slug": "the-frontier-lord-begins-with-zero-subjects",
             "url": "https://animesonline.cloud/anime/the-frontier-lord-begins-with-zero-subjects",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/xWgtg6l6vLaucO5caOwy5GywpX9-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/xWgtg6l6vLaucO5caOwy5GywpX9-185x278.jpg",
             "rating": "8.5",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "the-frontier-lord-begins-with-zero-subjects"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "the-frontier-lord-begins-with-zero-subjects"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "the-frontier-lord-begins-with-zero-subjects"
+              }
+            ]
           },
           {
             "title": "Crowned in a Hundred Days",
             "slug": "crowned-in-a-hundred-days",
             "url": "https://animesonline.cloud/anime/crowned-in-a-hundred-days",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/5XbPHLjPf4WK1S7rH6htbjCcOAw-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/5XbPHLjPf4WK1S7rH6htbjCcOAw-185x278.jpg",
             "rating": "8.5",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "crowned-in-a-hundred-days"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "crowned-in-a-hundred-days"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "crowned-in-a-hundred-days"
+              }
+            ]
           },
           {
             "title": "Kore Kaite Shine",
             "slug": "kore-kaite-shine",
             "url": "https://animesonline.cloud/anime/kore-kaite-shine",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/wyNF7ZhfyOihNwLponoegKK7xQQ-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/wyNF7ZhfyOihNwLponoegKK7xQQ-185x278.jpg",
             "rating": "7.1",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kore-kaite-shine"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kore-kaite-shine"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kore-kaite-shine"
+              }
+            ]
           },
           {
             "title": "Yani Neko",
             "slug": "yani-neko",
             "url": "https://animesonline.cloud/anime/yani-neko",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
             "rating": "5",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "yani-neko"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "yani-neko"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "yani-neko"
+              }
+            ]
           },
           {
             "title": "Reiwa no Dara-san",
             "slug": "dara-san-of-reiwa",
             "url": "https://animesonline.cloud/anime/dara-san-of-reiwa",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/cxuYfX3M66tX9hAY5nx9VcV5AX5-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/cxuYfX3M66tX9hAY5nx9VcV5AX5-185x278.jpg",
             "rating": "7.9",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dara-san-of-reiwa"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "dara-san-of-reiwa"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dara-san-of-reiwa"
+              }
+            ]
           },
           {
             "title": "BanG Dream! YUME∞MITA",
             "slug": "bang-dream-yume∞mita",
             "url": "https://animesonline.cloud/anime/bang-dream-yume%e2%88%9emita",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/13CKWGOOoSvaarTkKDxbcJ3mfNB-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/13CKWGOOoSvaarTkKDxbcJ3mfNB-185x278.jpg",
             "rating": "7.5",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "bang-dream-yume∞mita"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "bang-dream-yume∞mita"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "bang-dream-yume∞mita"
+              }
+            ]
           },
           {
             "title": "Hanazakari no Kimitachi e 2nd",
             "slug": "hanazakari-no-kimitachi-e-2nd",
             "url": "https://animesonline.cloud/anime/hanazakari-no-kimitachi-e-2nd",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/AfESsmxyudxPncqLxSYR0mdQjTD-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/AfESsmxyudxPncqLxSYR0mdQjTD-185x278.jpg",
             "rating": "8.4",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hanazakari-no-kimitachi-e-2nd"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "hanazakari-no-kimitachi-e-2nd"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hanazakari-no-kimitachi-e-2nd"
+              }
+            ]
           },
           {
             "title": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
             "slug": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu",
             "url": "https://animesonline.cloud/anime/mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/gHtmP0fpNbPXRxYGIYzrbJsUuWi-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/gHtmP0fpNbPXRxYGIYzrbJsUuWi-185x278.jpg",
             "rating": "8.1",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu"
+              }
+            ]
           },
           {
             "title": "Neko to Ryuu",
             "slug": "neko-to-ryuu",
             "url": "https://animesonline.cloud/anime/neko-to-ryuu",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/yxk6gTbLKnENVzej1ER4mH6zfkB-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/yxk6gTbLKnENVzej1ER4mH6zfkB-185x278.jpg",
             "rating": "8.1",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "neko-to-ryuu"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "neko-to-ryuu"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "neko-to-ryuu"
+              }
+            ]
           },
           {
             "title": "Acchi Kocchi",
             "slug": "acchi-kocchi",
             "url": "https://animesonline.cloud/anime/acchi-kocchi",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/8ScaxBUvjSt36CGqiCEmGcuo2Bw-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/8ScaxBUvjSt36CGqiCEmGcuo2Bw-185x278.jpg",
             "rating": "6.607",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "acchi-kocchi"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "acchi-kocchi"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "acchi-kocchi"
+              }
+            ]
           },
           {
             "title": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
             "slug": "rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku",
             "url": "https://animesonline.cloud/anime/rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/t3PY70vsvRWSNewgUQmrSRIY0nW-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/t3PY70vsvRWSNewgUQmrSRIY0nW-185x278.jpg",
             "rating": "6.63",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku"
+              }
+            ]
           },
           {
             "title": "Ahiru no Sora",
             "slug": "ahiru-no-sora",
             "url": "https://animesonline.cloud/anime/ahiru-no-sora",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/emHuXZPwTxqkzNtwOTsmf0CERrX-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/emHuXZPwTxqkzNtwOTsmf0CERrX-185x278.jpg",
             "rating": "8.434",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ahiru-no-sora"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "ahiru-no-sora"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ahiru-no-sora"
+              }
+            ]
           },
           {
             "title": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
             "slug": "heroine-seijo-iie-all-works-maid-desu-hokori",
             "url": "https://animesonline.cloud/anime/heroine-seijo-iie-all-works-maid-desu-hokori",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/1dOBL5Px9mHbS6GMqSom0fO48Yk-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/1dOBL5Px9mHbS6GMqSom0fO48Yk-185x278.jpg",
             "rating": "8",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "heroine-seijo-iie-all-works-maid-desu-hokori"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "heroine-seijo-iie-all-works-maid-desu-hokori"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "heroine-seijo-iie-all-works-maid-desu-hokori"
+              }
+            ]
           },
           {
             "title": "Baki-dou Part 2 Dublado",
             "slug": "baki-dou-part-2-dublado",
             "url": "https://animesonline.cloud/anime/baki-dou-part-2-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/xngJuAfsBYHO96S1IsbZ7cgIZyL-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/xngJuAfsBYHO96S1IsbZ7cgIZyL-185x278.jpg",
             "rating": "8",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "baki-dou-part-2-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "baki-dou-part-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "baki-dou-part-2-dublado"
+              }
+            ]
           },
           {
             "title": "Shadows House Dublado",
             "slug": "shadows-house-dublado",
             "url": "https://animesonline.cloud/anime/shadows-house-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
             "rating": "8.027",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "shadows-house-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "shadows-house-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "shadows-house-dublado"
+              }
+            ]
           },
           {
             "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
@@ -9039,7 +9408,19 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/dRBV8LaKwLrIOpa8Ud3ShxWKRnn-185x278.jpg",
             "rating": "6.74",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season"
+              }
+            ]
           },
           {
             "title": "Hotaru no Yomeiri",
@@ -9048,7 +9429,24 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/ccIPacvHWo4vO55S9PKl0ZWki49-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hotaru-no-yomeiri"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "hotaru-no-yomeiri"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hotaru-no-yomeiri"
+              }
+            ]
           },
           {
             "title": "Lv999 no Murabito",
@@ -9057,7 +9455,24 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/b62MUHX0v8aVVyqH9P0zlEYhf9n-185x278.jpg",
             "rating": "8.6",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "lv999-no-murabito"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "lv999-no-murabito"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "lv999-no-murabito"
+              }
+            ]
           },
           {
             "title": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
@@ -9066,7 +9481,24 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/sdWNqtcPJpudPItPG3zBdyGyzTH-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den"
+              }
+            ]
           },
           {
             "title": "Ranma ½ (2024) 3rd Season",
@@ -9075,7 +9507,24 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/fSDzEp1RnBhTgyWmOLQoOoo5fdP-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ranma-½-2024-3rd-season"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "ranma-½-2024-3rd-season"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ranma-½-2024-3rd-season"
+              }
+            ]
           },
           {
             "title": "Tougen Anki: Nikko Kegon no Taki-hen",
@@ -9084,7 +9533,24 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/dTT6VYgsEWloFOV1nsqibQijQ7c-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tougen-anki-nikko-kegon-no-taki-hen"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tougen-anki-nikko-kegon-no-taki-hen"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tougen-anki-nikko-kegon-no-taki-hen"
+              }
+            ]
           },
           {
             "title": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
@@ -9093,7 +9559,24 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/svcJyWDhj1STkOTSfxgd2hOvZ0z-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita"
+              }
+            ]
           },
           {
             "title": "Nige Jouzu no Wakagimi 2nd Season",
@@ -9102,14 +9585,187 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/oe396waCa3Two9py6FLv6mxKDgh-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "nige-jouzu-no-wakagimi-2nd-season"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nige-jouzu-no-wakagimi-2nd-season"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nige-jouzu-no-wakagimi-2nd-season"
+              }
+            ]
+          },
+          {
+            "title": "Kimi ga Shinu made Koi wo Shitai",
+            "slug": "kimi-ga-shinu-made-koi-wo-shitai",
+            "url": "https://animesdrive.online/anime/kimi-ga-shinu-made-koi-wo-shitai",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/ff1G9mLkK3Fzb8M1eKKj1lmPoi8-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kimi-ga-shinu-made-koi-wo-shitai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kimi-ga-shinu-made-koi-wo-shitai"
+              }
+            ]
+          },
+          {
+            "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+            "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
+            "url": "https://animesdrive.online/anime/the-exiled-heavy-knight-knows-how-to-game-the-system",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/oulMDIOJBoFqMvM5Fku5XKazYGX-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "blazbluealtermemory",
+            "slug": "blazbluealtermemory",
+            "url": "https://animesdigital.org/anime/a/blazbluealtermemory",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-blazblue-alter-memory-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "battlegirlhighschoolbattlegirlproject",
+            "slug": "battlegirlhighschoolbattlegirlproject",
+            "url": "https://animesdigital.org/anime/a/battlegirlhighschoolbattlegirlproject",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-battle-girl-high-school-battle-girl-project-todos-os-episodios-online-animesdigital.png",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "mugyutto black clover",
+            "slug": "mugyutto-black-clover",
+            "url": "https://animesdigital.org/anime/a/mugyutto-black-clover",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-mugyutto-black-clover-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bthebeginning",
+            "slug": "bthebeginning",
+            "url": "https://animesdigital.org/anime/a/bthebeginning",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-b-the-beginning-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "b the beginning succession",
+            "slug": "b-the-beginning-succession",
+            "url": "https://animesdigital.org/anime/a/b-the-beginning-succession",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-b-the-beginning-succession-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "binankoukouchikyuuboueibuhappykiss",
+            "slug": "binankoukouchikyuuboueibuhappykiss",
+            "url": "https://animesdigital.org/anime/a/binankoukouchikyuuboueibuhappykiss",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-binan-koukou-chikyuu-boueibu-happy-kiss-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "boogiepopwawarawanai2019",
+            "slug": "boogiepopwawarawanai2019",
+            "url": "https://animesdigital.org/anime/a/boogiepopwawarawanai2019",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-boogiepop-wa-warawanai-2019-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bermudatrianglecolorfulpastrale",
+            "slug": "bermudatrianglecolorfulpastrale",
+            "url": "https://animesdigital.org/anime/a/bermudatrianglecolorfulpastrale",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-bermuda-triangle-colorful-pastrale-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bprojectzecchouemotion",
+            "slug": "bprojectzecchouemotion",
+            "url": "https://animesdigital.org/anime/a/bprojectzecchouemotion",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-b-project-zecchouemotion-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bakumatsugijindenroman",
+            "slug": "bakumatsugijindenroman",
+            "url": "https://animesdigital.org/anime/a/bakumatsugijindenroman",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-bakumatsu-gijinden-roman-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "beastfightertheapocalypse",
+            "slug": "beastfightertheapocalypse",
+            "url": "https://animesdigital.org/anime/a/beastfightertheapocalypse",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-beast-fighter-the-apocalypse-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "beastsaga",
+            "slug": "beastsaga",
+            "url": "https://animesdigital.org/anime/a/beastsaga",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-beast-saga-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "avatar a lenda de korra",
+            "slug": "avatar-a-lenda-de-korra",
+            "url": "https://animesdigital.org/anime/a/avatar-a-lenda-de-korra",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "avatar a lenda de korra livro 2 2",
+            "slug": "avatar-a-lenda-de-korra-livro-2-2",
+            "url": "https://animesdigital.org/anime/a/avatar-a-lenda-de-korra-livro-2-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "avatar a lenda de korra livro 4 2",
+            "slug": "avatar-a-lenda-de-korra-livro-4-2",
+            "url": "https://animesdigital.org/anime/a/avatar-a-lenda-de-korra-livro-4-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "avatar a lenda de korra livro 3 2",
+            "slug": "avatar-a-lenda-de-korra-livro-3-2",
+            "url": "https://animesdigital.org/anime/a/avatar-a-lenda-de-korra-livro-3-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
           }
         ],
         "category": "todos",
         "page": 3,
         "hasMore": true,
-        "total": 535,
-        "cachedAt": 1783779294875,
+        "total": 568,
+        "cachedAt": 1783779330518,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -9156,7 +9812,7 @@
           "fixHint": null
         }
       },
-      "at": 1783779294907
+      "at": 1783779333457
     },
     "todos|4||120": {
       "data": {
@@ -20146,7 +20802,7 @@
         "page": 4,
         "hasMore": true
       },
-      "at": 1783779295608
+      "at": 1783779334173
     },
     "todos|5||48": {
       "data": {
@@ -31034,7 +31690,1003 @@
         "partnerId": "animeplay"
       },
       "at": 1783779331783
+    },
+    "partner:animesdrive|todos|3||48": {
+      "data": {
+        "items": [
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesdrive.online/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Uzumaki – Todos os Episódios",
+            "slug": "uzumaki",
+            "url": "https://animesdrive.online/anime/uzumaki",
+            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Hitoribocchi no Isekai Kouryaku",
+            "slug": "hitoribocchi-no-isekai-kouryaku",
+            "url": "https://animesdrive.online/anime/hitoribocchi-no-isekai-kouryaku",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Maou-sama, Retry! 2 – Todos os Episódios",
+            "slug": "maou-sama-retry",
+            "url": "https://animesdrive.online/anime/maou-sama-retry-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
+            "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+            "url": "https://animesdrive.online/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
+            "slug": "the-frontier-lord-begins-with-zero-subjects",
+            "url": "https://animesdrive.online/anime/the-frontier-lord-begins-with-zero-subjects",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/xWgtg6l6vLaucO5caOwy5GywpX9-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Crowned in a Hundred Days",
+            "slug": "crowned-in-a-hundred-days",
+            "url": "https://animesdrive.online/anime/crowned-in-a-hundred-days",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/5XbPHLjPf4WK1S7rH6htbjCcOAw-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Kore Kaite Shine",
+            "slug": "kore-kaite-shine",
+            "url": "https://animesdrive.online/anime/kore-kaite-shine",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/wyNF7ZhfyOihNwLponoegKK7xQQ-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Yani Neko",
+            "slug": "yani-neko",
+            "url": "https://animesdrive.online/anime/yani-neko",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Reiwa no Dara-san",
+            "slug": "dara-san-of-reiwa",
+            "url": "https://animesdrive.online/anime/dara-san-of-reiwa",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/cxuYfX3M66tX9hAY5nx9VcV5AX5-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "BanG Dream! YUME∞MITA",
+            "slug": "bang-dream-yume∞mita",
+            "url": "https://animesdrive.online/anime/bang-dream-yume%e2%88%9emita",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/13CKWGOOoSvaarTkKDxbcJ3mfNB-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Hanazakari no Kimitachi e 2nd",
+            "slug": "hanazakari-no-kimitachi-e-2nd",
+            "url": "https://animesdrive.online/anime/hanazakari-no-kimitachi-e-2nd",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/AfESsmxyudxPncqLxSYR0mdQjTD-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+            "slug": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu",
+            "url": "https://animesdrive.online/anime/mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/gHtmP0fpNbPXRxYGIYzrbJsUuWi-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Neko to Ryuu",
+            "slug": "neko-to-ryuu",
+            "url": "https://animesdrive.online/anime/neko-to-ryuu",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/yxk6gTbLKnENVzej1ER4mH6zfkB-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Acchi Kocchi",
+            "slug": "acchi-kocchi",
+            "url": "https://animesdrive.online/anime/acchi-kocchi",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/8ScaxBUvjSt36CGqiCEmGcuo2Bw-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
+            "slug": "rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku",
+            "url": "https://animesdrive.online/anime/rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/t3PY70vsvRWSNewgUQmrSRIY0nW-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Ahiru no Sora",
+            "slug": "ahiru-no-sora",
+            "url": "https://animesdrive.online/anime/ahiru-no-sora",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/emHuXZPwTxqkzNtwOTsmf0CERrX-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
+            "slug": "heroine-seijo-iie-all-works-maid-desu-hokori",
+            "url": "https://animesdrive.online/anime/heroine-seijo-iie-all-works-maid-desu-hokori",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/1dOBL5Px9mHbS6GMqSom0fO48Yk-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Baki-dou Part 2 Dublado",
+            "slug": "baki-dou-part-2-dublado",
+            "url": "https://animesdrive.online/anime/baki-dou-part-2-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/xngJuAfsBYHO96S1IsbZ7cgIZyL-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Shadows House Dublado",
+            "slug": "shadows-house-dublado",
+            "url": "https://animesdrive.online/anime/shadows-house-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Hotaru no Yomeiri",
+            "slug": "hotaru-no-yomeiri",
+            "url": "https://animesdrive.online/anime/hotaru-no-yomeiri",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/ccIPacvHWo4vO55S9PKl0ZWki49-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Lv999 no Murabito",
+            "slug": "lv999-no-murabito",
+            "url": "https://animesdrive.online/anime/lv999-no-murabito",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/b62MUHX0v8aVVyqH9P0zlEYhf9n-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
+            "slug": "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den",
+            "url": "https://animesdrive.online/anime/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/sdWNqtcPJpudPItPG3zBdyGyzTH-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Ranma ½ (2024) 3rd Season",
+            "slug": "ranma-½-2024-3rd-season",
+            "url": "https://animesdrive.online/anime/ranma-%c2%bd-2024-3rd-season",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/fSDzEp1RnBhTgyWmOLQoOoo5fdP-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Tougen Anki: Nikko Kegon no Taki-hen",
+            "slug": "tougen-anki-nikko-kegon-no-taki-hen",
+            "url": "https://animesdrive.online/anime/tougen-anki-nikko-kegon-no-taki-hen",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/dTT6VYgsEWloFOV1nsqibQijQ7c-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
+            "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita",
+            "url": "https://animesdrive.online/anime/koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/svcJyWDhj1STkOTSfxgd2hOvZ0z-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Nige Jouzu no Wakagimi 2nd Season",
+            "slug": "nige-jouzu-no-wakagimi-2nd-season",
+            "url": "https://animesdrive.online/anime/nige-jouzu-no-wakagimi-2nd-season",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/oe396waCa3Two9py6FLv6mxKDgh-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Kimi ga Shinu made Koi wo Shitai",
+            "slug": "kimi-ga-shinu-made-koi-wo-shitai",
+            "url": "https://animesdrive.online/anime/kimi-ga-shinu-made-koi-wo-shitai",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/ff1G9mLkK3Fzb8M1eKKj1lmPoi8-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+            "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
+            "url": "https://animesdrive.online/anime/the-exiled-heavy-knight-knows-how-to-game-the-system",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/oulMDIOJBoFqMvM5Fku5XKazYGX-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          }
+        ],
+        "category": "todos",
+        "page": 3,
+        "hasMore": true,
+        "partnerId": "animesdrive"
+      },
+      "at": 1783779333383
+    },
+    "partner:anitube|todos|4||48": {
+      "data": {
+        "items": [
+          {
+            "title": "Adachi to Shimamura (Legendado)",
+            "slug": "897570",
+            "url": "https://www.anitube.zip/video/897570/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Adachi-to-Shimamura-Todos-os-Episódios-AniTube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "AEon Flux (Legendado)",
+            "slug": "64693",
+            "url": "https://www.anitube.zip/video/64693/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/AEon-Flux.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Africa no Salaryman (Legendado)",
+            "slug": "882482",
+            "url": "https://www.anitube.zip/video/882482/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Africa-no-Salaryman-Todos-os-Episódios.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Afro Samurai – (Legendado)",
+            "slug": "67043",
+            "url": "https://www.anitube.zip/video/67043/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-afro-samurai-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Agatha Christie No Meitantei Poirot To Marple (Legendado)",
+            "slug": "875814",
+            "url": "https://www.anitube.zip/video/875814/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Agatha-Christie-No-Meitantei-Poirot-To-Marple.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Agent Aika – (Legendado)",
+            "slug": "67034",
+            "url": "https://www.anitube.zip/video/67034/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Agent-Aika.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Aharen-san wa Hakarenai (Legendado)",
+            "slug": "909934",
+            "url": "https://www.anitube.zip/video/909934/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Aharen-san-wa-Hakarenai-Todos-os-Episódios-AniTube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Aharen-san wa Hakarenai 2 (Legendado)",
+            "slug": "1001090",
+            "url": "https://www.anitube.zip/video/1001090/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-aharen-san-wa-hakarenai-2-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Ahiru no Sora (Legendado)",
+            "slug": "882052",
+            "url": "https://www.anitube.zip/video/882052/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Ahiru-no-Sora-Todos-Episódios-AniTube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Aho Girl – (Legendado)",
+            "slug": "67490",
+            "url": "https://www.anitube.zip/video/67490/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Aho-Girl-1.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Ai Mai Mi: Mousou Catastrophe (Legendado)",
+            "slug": "875862",
+            "url": "https://www.anitube.zip/video/875862/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Ai-Mai-Mi-Mousou-Catastrophe.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Ai Mai Mii – (Legendado)",
+            "slug": "67021",
+            "url": "https://www.anitube.zip/video/67021/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Ai-Mai-Mii.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Ai Mai Mii: Surgical Friends – (Legendado)",
+            "slug": "67009",
+            "url": "https://www.anitube.zip/video/67009/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Ai-Mai-Mii-Surgical-Friends.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "AI no Idenshi (Legendado)",
+            "slug": "919812",
+            "url": "https://www.anitube.zip/video/919812/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-ai-no-idenshi-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Ai Tenchi Muyo! – (Legendado)",
+            "slug": "66535",
+            "url": "https://www.anitube.zip/video/66535/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Ai-Tenchi-Muyo.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Ai Yori Aoshi – (Legendado)",
+            "slug": "66483",
+            "url": "https://www.anitube.zip/video/66483/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Ai-Yori-Aoshi.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Ai Yori Aoshi: Enishi – (Legendado)",
+            "slug": "66454",
+            "url": "https://www.anitube.zip/video/66454/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Ai-Yori-Aoshi-Enishi.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Aika Zero (Legendado)",
+            "slug": "875904",
+            "url": "https://www.anitube.zip/video/875904/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Aika-Zero.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          }
+        ],
+        "category": "todos",
+        "page": 4,
+        "hasMore": true,
+        "partnerId": "anitube"
+      },
+      "at": 1783779334526
+    },
+    "partner:animesdigital|todos|4||48": {
+      "data": {
+        "items": [
+          {
+            "title": "chouyuusekaibeingthereality",
+            "slug": "chouyuusekaibeingthereality",
+            "url": "https://animesdigital.org/anime/a/chouyuusekaibeingthereality",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "cinderellagirlsgekijou",
+            "slug": "cinderellagirlsgekijou",
+            "url": "https://animesdigital.org/anime/a/cinderellagirlsgekijou",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "carnivalphantasm",
+            "slug": "carnivalphantasm",
+            "url": "https://animesdigital.org/anime/a/carnivalphantasm",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-carnival-phantasm-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "concretercgtls",
+            "slug": "concretercgtls",
+            "url": "https://animesdigital.org/anime/a/concretercgtls",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-concrete-revolutio-choujin-gensou-the-last-song-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "centaurnonayami",
+            "slug": "centaurnonayami",
+            "url": "https://animesdigital.org/anime/a/centaurnonayami",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-centaur-no-nayami-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "clionenoakari",
+            "slug": "clionenoakari",
+            "url": "https://animesdigital.org/anime/a/clionenoakari",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-clione-no-akari-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "captaintsubasa2018",
+            "slug": "captaintsubasa2018",
+            "url": "https://animesdigital.org/anime/a/captaintsubasa2018",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-captain-tsubasa-2018-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "caligula",
+            "slug": "caligula",
+            "url": "https://animesdigital.org/anime/a/caligula",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-caligula-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "comicgirls",
+            "slug": "comicgirls",
+            "url": "https://animesdigital.org/anime/a/comicgirls",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-comic-girls-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "cutiehoneyuniverse",
+            "slug": "cutiehoneyuniverse",
+            "url": "https://animesdigital.org/anime/a/cutiehoneyuniverse",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-cutie-honey-universe-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "chiochannotsuugakuro",
+            "slug": "chiochannotsuugakuro",
+            "url": "https://animesdigital.org/anime/a/chiochannotsuugakuro",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-chio-chan-no-tsuugakuro-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "queens blade rebellion",
+            "slug": "queens-blade-rebellion",
+            "url": "https://animesdigital.org/anime/a/queens-blade-rebellion",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-queens-blade-rebellion-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "circletprincess",
+            "slug": "circletprincess",
+            "url": "https://animesdigital.org/anime/a/circletprincess",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "chouhenshincosprayers",
+            "slug": "chouhenshincosprayers",
+            "url": "https://animesdigital.org/anime/a/chouhenshincosprayers",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "quanzhi fashi",
+            "slug": "quanzhi-fashi",
+            "url": "https://animesdigital.org/anime/a/quanzhi-fashi",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "quanzhi fashi 2",
+            "slug": "quanzhi-fashi-2",
+            "url": "https://animesdigital.org/anime/a/quanzhi-fashi-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "quanzhi fashi 3",
+            "slug": "quanzhi-fashi-3",
+            "url": "https://animesdigital.org/anime/a/quanzhi-fashi-3",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "rail wars",
+            "slug": "rail-wars",
+            "url": "https://animesdigital.org/anime/a/rail-wars",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "regalia the three sacred stars",
+            "slug": "regalia-the-three-sacred-stars",
+            "url": "https://animesdigital.org/anime/a/regalia-the-three-sacred-stars",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "roboticsnotes",
+            "slug": "roboticsnotes",
+            "url": "https://animesdigital.org/anime/a/roboticsnotes",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "copcraft",
+            "slug": "copcraft",
+            "url": "https://animesdigital.org/anime/a/copcraft-todos-os-episodios",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "cannonbusters",
+            "slug": "cannonbusters",
+            "url": "https://animesdigital.org/anime/a/cannonbusters",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "cestvstheromanfighter",
+            "slug": "cestvstheromanfighter",
+            "url": "https://animesdigital.org/anime/a/cestvstheromanfighter",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "cheatkusushinoslowlife",
+            "slug": "cheatkusushinoslowlife",
+            "url": "https://animesdigital.org/anime/a/cheatkusushinoslowlife",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "cidernoyounikotobagawakiagaru",
+            "slug": "cidernoyounikotobagawakiagaru",
+            "url": "https://animesdigital.org/anime/a/cidernoyounikotobagawakiagaru",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "dgraymanhallow",
+            "slug": "dgraymanhallow",
+            "url": "https://animesdigital.org/anime/a/dgraymanhallow",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "diesirae",
+            "slug": "diesirae",
+            "url": "https://animesdigital.org/anime/a/diesirae",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "dienow",
+            "slug": "dienow",
+            "url": "https://animesdigital.org/anime/a/dienow",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "dfrag",
+            "slug": "dfrag",
+            "url": "https://animesdigital.org/anime/a/dfrag",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "dagashikashi",
+            "slug": "dagashikashi",
+            "url": "https://animesdigital.org/anime/a/dagashikashi",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "dagashikashi2",
+            "slug": "dagashikashi2",
+            "url": "https://animesdigital.org/anime/a/dagashikashi2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "daitoshokannohitsujikai",
+            "slug": "daitoshokannohitsujikai",
+            "url": "https://animesdigital.org/anime/a/daitoshokannohitsujikai",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "dakarabokuwahgadekinai",
+            "slug": "dakarabokuwahgadekinai",
+            "url": "https://animesdigital.org/anime/a/dakarabokuwahgadekinai",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "danballsenki",
+            "slug": "danballsenki",
+            "url": "https://animesdigital.org/anime/a/danballsenki",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "danball senki w",
+            "slug": "danball-senki-w",
+            "url": "https://animesdigital.org/anime/a/danball-senki-w",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "danballsenkiwars",
+            "slug": "danballsenkiwars",
+            "url": "https://animesdigital.org/anime/a/danballsenkiwars",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "danceinthevampirebund",
+            "slug": "danceinthevampirebund",
+            "url": "https://animesdigital.org/anime/a/danceinthevampirebund",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "dansaibunrinocrimeedge",
+            "slug": "dansaibunrinocrimeedge",
+            "url": "https://animesdigital.org/anime/a/dansaibunrinocrimeedge",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "deathparade",
+            "slug": "deathparade",
+            "url": "https://animesdigital.org/anime/a/deathparade",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "deltoraquest",
+            "slug": "deltoraquest",
+            "url": "https://animesdigital.org/anime/a/deltoraquest",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "denkigainohonyasan",
+            "slug": "denkigainohonyasan",
+            "url": "https://animesdigital.org/anime/a/denkigainohonyasan",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "devilsurvivor2theanimation",
+            "slug": "devilsurvivor2theanimation",
+            "url": "https://animesdigital.org/anime/a/devilsurvivor2theanimation",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "digicharat",
+            "slug": "digicharat",
+            "url": "https://animesdigital.org/anime/a/digicharat",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "dimensionw",
+            "slug": "dimensionw",
+            "url": "https://animesdigital.org/anime/a/dimensionw",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "romeo x juliet",
+            "slug": "romeo-x-juliet",
+            "url": "https://animesdigital.org/anime/a/romeo-x-juliet",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "dokidokiprecure",
+            "slug": "dokidokiprecure",
+            "url": "https://animesdigital.org/anime/a/dokidokiprecure",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "diamondnoace",
+            "slug": "diamondnoace",
+            "url": "https://animesdigital.org/anime/a/diamondnoace",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "diamondnoace2",
+            "slug": "diamondnoace2",
+            "url": "https://animesdigital.org/anime/a/diamondnoace2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          }
+        ],
+        "category": "todos",
+        "page": 4,
+        "hasMore": true,
+        "partnerId": "animesdigital"
+      },
+      "at": 1783779334728
+    },
+    "partner:animeplay|todos|4||48": {
+      "data": {
+        "items": [
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animeplay.cloud/anime/one-piece",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animeplay.cloud/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Uzumaki – Todos os Episódios",
+            "slug": "uzumaki",
+            "url": "https://animeplay.cloud/anime/uzumaki",
+            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Hitoribocchi no Isekai Kouryaku",
+            "slug": "hitoribocchi-no-isekai-kouryaku",
+            "url": "https://animeplay.cloud/anime/hitoribocchi-no-isekai-kouryaku",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Maou-sama, Retry! 2 – Todos os Episódios",
+            "slug": "maou-sama-retry",
+            "url": "https://animeplay.cloud/anime/maou-sama-retry-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
+            "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+            "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+            "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
+            "url": "https://animeplay.cloud/anime/the-exiled-heavy-knight-knows-how-to-game-the-system",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/oulMDIOJBoFqMvM5Fku5XKazYGX-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "World Is Dancing",
+            "slug": "the-world-is-dancing",
+            "url": "https://animeplay.cloud/anime/the-world-is-dancing",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/oOmQf94idSBnDueIrM3FNQy8IXw-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Otome Kaijuu Caraméliser",
+            "slug": "otome-kaijuu-carameliser",
+            "url": "https://animeplay.cloud/anime/otome-kaijuu-carameliser",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/1JW6hx7sAU1qRpYSxXpYb9B2xaG-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Blue Lock 3",
+            "slug": "blue-lock-3",
+            "url": "https://animeplay.cloud/anime/blue-lock-3",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/a6i8cVlkIQbHBrxoGFdOG47xtZu-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Koukaku Kidouta",
+            "slug": "koukaku-kidouta",
+            "url": "https://animeplay.cloud/anime/koukaku-kidouta",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Super no Ura de Yani Suu Futari",
+            "slug": "smoking-behind-the-supermarket-with-you",
+            "url": "https://animeplay.cloud/anime/smoking-behind-the-supermarket-with-you",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/nSdgX507jBlonGFC91Ve0TfcLjJ-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Yani Neko",
+            "slug": "chainsmoker-cat",
+            "url": "https://animeplay.cloud/anime/chainsmoker-cat",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/mVaXYoSvcMWwbbJXKvkZTPdWRkR-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Bocchi the Rock! Season 2",
+            "slug": "bocchi-the-rock-season-2",
+            "url": "https://animeplay.cloud/anime/bocchi-the-rock-season-2",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/hwwmH8NINlcC1nq6obL3atz2HDY-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Kagurabachi",
+            "slug": "kagurabachi",
+            "url": "https://animeplay.cloud/anime/kagurabachi",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/vYE38d5dcyD0oAGgbtC5slERvM3-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Haikyuu!! Second Season Dublado",
+            "slug": "haikyuu-second-season-dublado",
+            "url": "https://animeplay.cloud/anime/haikyuu-second-season-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/wkQX0xwqXTtOtMXfwCf1Ad1ZfCv-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Haikyuu!! Second Season",
+            "slug": "haikyuu-second-season",
+            "url": "https://animeplay.cloud/anime/haikyuu-second-season",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/05/hLFmFGuu4PApB0s2eF5H5cDCFgT-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Akane-banashi Dublado",
+            "slug": "akane-banashi-dublado",
+            "url": "https://animeplay.cloud/anime/akane-banashi-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/05/2pZB5ThS04YRgHKgxD0mx9tiw5m-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Devil May Cry 2 (2026) Dublado",
+            "slug": "devil-may-cry-2026-dublado",
+            "url": "https://animeplay.cloud/anime/devil-may-cry-2026-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/05/dpBhVJXHWm6ApO013ZdHcINnHU8-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki Dublado",
+            "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
+            "url": "https://animeplay.cloud/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/6lNOqksJZAE4LzUs2yaqBpnZVm5-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Aishiteru Game wo Owarasetai Dublado",
+            "slug": "aishiteru-game-wo-owarasetai-dublado",
+            "url": "https://animeplay.cloud/anime/aishiteru-game-wo-owarasetai-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/kK7T8DcXKWcYfR6Kvy0ouCBjMnU-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Tsue to Tsurugi no Wistoria 2 Dublado",
+            "slug": "tsue-to-tsurugi-no-wistoria-2-dublado",
+            "url": "https://animeplay.cloud/anime/tsue-to-tsurugi-no-wistoria-2-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/cZnMdvNioymJxGM9DUISkjwKtwa-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Needy Girl Overdose Dublado",
+            "slug": "needy-girl-overdose-dublado",
+            "url": "https://animeplay.cloud/anime/needy-girl-overdose-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/05/bC6by4FdWsjG3ZesalPHRwPykeR-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          }
+        ],
+        "category": "todos",
+        "page": 4,
+        "hasMore": true,
+        "partnerId": "animeplay"
+      },
+      "at": 1783779335383
     }
   },
-  "updatedAt": 1783779331783
+  "updatedAt": 1783779335383
 }
