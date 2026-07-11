@@ -12625,6 +12625,109 @@
           "Drama"
         ]
       }
+    },
+    "uchi-no-otouto-domo-ga-sumimasen": {
+      "at": 1783803301089,
+      "data": {
+        "slug": "uchi-no-otouto-domo-ga-sumimasen",
+        "title": "Uchi no Otouto-domo ga Sumimasen",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9ZWlFHQlA1blhQRzNKakxvY2NkQTEzT2VlYS5qcGc",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Bem-vindos à família Narita!",
+            "url": "https://animesdrive.online/episodio/uchi-no-otouto-domo-ga-sumimasen-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Mentiras constroem famílias",
+            "url": "https://animesdrive.online/episodio/uchi-no-otouto-domo-ga-sumimasen-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "animesdrive",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Animação",
+          "Comédia"
+        ],
+        "animeSources": [
+          {
+            "server": 2,
+            "provider": "animesdrive",
+            "slug": "uchi-no-otouto-domo-ga-sumimasen"
+          },
+          {
+            "server": 3,
+            "provider": "animeplay",
+            "slug": "uchi-no-otouto-domo-ga-sumimasen"
+          }
+        ]
+      }
+    },
+    "nijuuseiki-denki-mokuroku-eureka-evrika": {
+      "at": 1783803301248,
+      "data": {
+        "slug": "nijuuseiki-denki-mokuroku-eureka-evrika",
+        "title": "Nijuuseiki Denki Mokuroku: Eureka Evrika",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9meDVKeWhGdlBuMUdTbTVJVHROTk02aG1wVWEuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - O Garoto Elétrico",
+            "url": "https://animesonline.cloud/episodio/nijuuseiki-denki-mokuroku-eureka-evrika-episodio-01"
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "anime",
+        "provider": "aoc",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Animação",
+          "Drama",
+          "Fantasia",
+          "Sci-Fi"
+        ],
+        "animeSources": [
+          {
+            "server": 1,
+            "provider": "aoc",
+            "slug": "nijuuseiki-denki-mokuroku-eureka-evrika"
+          },
+          {
+            "server": 2,
+            "provider": "animesdrive",
+            "slug": "nijuuseiki-denki-mokuroku-eureka-evrika"
+          },
+          {
+            "server": 3,
+            "provider": "animeplay",
+            "slug": "nijuuseiki-denki-mokuroku-eureka-evrika"
+          }
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "nijuuseiki-denki-mokuroku-eureka-evrika",
+              "title": "Nijuuseiki Denki Mokuroku: Eureka Evrika",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "nijuuseiki-denki-mokuroku-eureka-evrika-dublado",
+              "title": "Nijuuseiki Denki Mokuroku: Eureka Evrika Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
     }
   }
 }
