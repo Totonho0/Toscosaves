@@ -254,6 +254,26 @@
         "poster": "https://image.tmdb.org/t/p/w780/tA0nEHf1G0KdtGJOdRZWiTpPuwi.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/sora-wa-akai-kawa-no-hotori-episodio-01"
       }
+    },
+    "anime:boku-no-hero-academia-5:1": {
+      "at": 1783803988663,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/w/boku-no-hero-academia-5/01.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/3412z0",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fw%2Fboku-no-hero-academia-5%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "boku-no-hero-academia-5",
+        "kind": "anime",
+        "provider": "animesdigital",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1ib2t1LW5vLWhlcm8tYWNhZGVtaWEtNS10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaW1lc2RpZ2l0YWwuanBn",
+        "episodeUrl": "https://animesdigital.org/video/a/3412z0"
+      }
     }
   }
 }
