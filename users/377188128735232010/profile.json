@@ -79,6 +79,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC85M0c1eExrVGFuM2Zka1V6UVZ2Q2NmOElBTXguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "sora-wa-akai-kawa-no-hotori": {
+      "slug": "sora-wa-akai-kawa-no-hotori",
+      "title": "Sora wa Akai Kawa no Hotori",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC90QTBuRUhmMUcwS2R0R0pPZFJaV2lUcFB1d2kuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -128,9 +135,17 @@
     ],
     "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha": [
       1
+    ],
+    "sora-wa-akai-kawa-no-hotori": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "sora-wa-akai-kawa-no-hotori",
+      "ep": 1,
+      "at": 1783803922881
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -253,5 +268,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783803918477
+  "updatedAt": 1783803922356
 }
