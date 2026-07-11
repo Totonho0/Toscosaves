@@ -72,6 +72,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9zQ2lBUDQ1azdJdm5nVTl4WGRMb2JhdVcxN2YuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha": {
+      "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha",
+      "title": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC85M0c1eExrVGFuM2Zka1V6UVZ2Q2NmOElBTXguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -118,9 +125,17 @@
     ],
     "crowned-in-a-hundred-days": [
       1
+    ],
+    "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha",
+      "ep": 1,
+      "at": 1783803617973
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -238,5 +253,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783803607119
+  "updatedAt": 1783803617443
 }
