@@ -4,7 +4,7 @@
   "avatar": "https://cdn.discordapp.com/avatars/377188128735232010/c8810f83191eb24a425b9276a01fbecc.png?size=256",
   "discordAvatar": "https://cdn.discordapp.com/avatars/377188128735232010/c8810f83191eb24a425b9276a01fbecc.png?size=256",
   "customAvatar": false,
-  "banner": "https://raw.githubusercontent.com/Totonho0/Toscosaves/main/users/377188128735232010/banner.gif?v=1783778769470",
+  "banner": "/api/proxy-image?url=https%3A%2F%2Fraw.githubusercontent.com%2FTotonho0%2FToscosaves%2Fmain%2Fusers%2F377188128735232010%2Fbanner.gif",
   "favorites": [],
   "watchLater": [],
   "mangaFavorites": [],
@@ -46,7 +46,23 @@
       "kind": "anime"
     }
   },
-  "watched": {},
+  "watched": {
+    "8029": [
+      1
+    ],
+    "chainsmoker-cat": [
+      1
+    ],
+    "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui": [
+      1
+    ],
+    "tongari-boushi-no-atelier-dublado": [
+      11
+    ],
+    "maou-sama-retry": [
+      1
+    ]
+  },
   "started": {
     "8029": [
       1
@@ -64,9 +80,91 @@
       1
     ]
   },
-  "watchHistoryLog": [],
+  "watchHistoryLog": [
+    {
+      "slug": "maou-sama-retry",
+      "ep": 1,
+      "at": 1783778863528
+    },
+    {
+      "slug": "tongari-boushi-no-atelier-dublado",
+      "ep": 11,
+      "at": 1783778863528
+    },
+    {
+      "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
+      "ep": 1,
+      "at": 1783778863528
+    },
+    {
+      "slug": "chainsmoker-cat",
+      "ep": 1,
+      "at": 1783778863528
+    },
+    {
+      "slug": "8029",
+      "ep": 1,
+      "at": 1783778863528
+    }
+  ],
   "watchHistoryHidden": [],
-  "animePlayback": {},
+  "animePlayback": {
+    "8029": {
+      "ep": 1,
+      "time": 56.361098,
+      "at": 1783679163787,
+      "title": "Yosuga no Sora",
+      "poster": "https://www.anitube.zip/wp-content/uploads/Yosuga-no-Sora-poster.jpg",
+      "kind": "anime",
+      "provider": "anitube",
+      "adult": false,
+      "duration": 1557.408798
+    },
+    "chainsmoker-cat": {
+      "ep": 1,
+      "time": 542.65033,
+      "at": 1783684577927,
+      "title": "Yani Neko",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xN0hkcDhuQTVmaUdQOWxMSGFYdkFpS2w3UkYuanBn",
+      "kind": "anime",
+      "provider": "animeplay",
+      "adult": false,
+      "duration": 1422.013243
+    },
+    "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui": {
+      "ep": 1,
+      "time": 272.968097,
+      "at": 1783674642661,
+      "title": "Watashi Ga Motenai No Wa Dou Kangaetemo Omaera Ga Warui - Animes",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci13YXRhc2hpLWdhLW1vdGVuYWktbm8td2EtZG91LWthbmdhZXRlbW8tb21hZXJhLWdhLXdhcnVpLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pbWVzZGlnaXRhbC5qcGc",
+      "kind": "anime",
+      "provider": "animesdigital",
+      "adult": false,
+      "duration": 1429.815147
+    },
+    "tongari-boushi-no-atelier-dublado": {
+      "ep": 11,
+      "time": 79.016391,
+      "at": 1783177549953,
+      "title": "Tongari Boushi no Atelier Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9BM0xXd2VBUmRtbWt5eTZkVGtuOUJ1WHZ3Q00uanBn",
+      "kind": "anime",
+      "provider": "animeplay",
+      "adult": false,
+      "duration": 1411.006984
+    },
+    "maou-sama-retry": {
+      "ep": 1,
+      "time": 10.297767,
+      "at": 1781994180918,
+      "title": "Maou-sama, Retry! 2",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9mSGQwc083amd3U3FZa3pzVVhjV1REZU1GU24uanBn",
+      "kind": "anime",
+      "provider": "animeplay",
+      "adult": false,
+      "duration": 1430.117007
+    }
+  },
   "filmePlayback": {},
   "customLists": {
     "9km2jy09": {
@@ -80,5 +178,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783778849594
+  "updatedAt": 1783778863404
 }
