@@ -15,6 +15,12 @@
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL1lvc3VnYS1uby1Tb3JhLXBvc3Rlci5qcGc",
       "kind": "anime"
     },
+    "67043": {
+      "slug": "67043",
+      "title": "Afro Samurai –",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWFmcm8tc2FtdXJhaS10b2Rvcy1vcy1lcGlzb2Rpb3MtdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbml0dWJlLmpwZw",
+      "kind": "anime"
+    },
     "1034362": {
       "slug": "1034362",
       "title": "Android wa Keiken Ninzuu ni Hairimasu ka??",
@@ -127,6 +133,9 @@
     "8029": [
       1
     ],
+    "67043": [
+      1
+    ],
     "chainsmoker-cat": [
       1
     ],
@@ -199,6 +208,36 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "maou-sama-retry",
+      "ep": 1,
+      "at": 1783806441568
+    },
+    {
+      "slug": "tongari-boushi-no-atelier-dublado",
+      "ep": 11,
+      "at": 1783806441568
+    },
+    {
+      "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
+      "ep": 1,
+      "at": 1783806441568
+    },
+    {
+      "slug": "chainsmoker-cat",
+      "ep": 1,
+      "at": 1783806441568
+    },
+    {
+      "slug": "67043",
+      "ep": 1,
+      "at": 1783806441568
+    },
+    {
+      "slug": "8029",
+      "ep": 1,
+      "at": 1783806441568
+    },
+    {
       "slug": "1000973",
       "ep": 1,
       "at": 1783805994767
@@ -210,11 +249,6 @@
     },
     {
       "slug": "67043",
-      "ep": 1,
-      "at": 1783805884557
-    },
-    {
-      "slug": "67043",
       "ep": 2,
       "at": 1783805880733
     },
@@ -222,31 +256,6 @@
       "slug": "afro-samurai",
       "ep": 2,
       "at": 1783805850440
-    },
-    {
-      "slug": "maou-sama-retry",
-      "ep": 1,
-      "at": 1783805146456
-    },
-    {
-      "slug": "tongari-boushi-no-atelier-dublado",
-      "ep": 11,
-      "at": 1783805146456
-    },
-    {
-      "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
-      "ep": 1,
-      "at": 1783805146456
-    },
-    {
-      "slug": "chainsmoker-cat",
-      "ep": 1,
-      "at": 1783805146456
-    },
-    {
-      "slug": "8029",
-      "ep": 1,
-      "at": 1783805146456
     },
     {
       "slug": "chainsaw-man-dublado",
@@ -376,5 +385,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783805994176
+  "updatedAt": 1783806440957
 }
