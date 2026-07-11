@@ -17942,6 +17942,51 @@
           }
         }
       }
+    },
+    "black-torch": {
+      "at": 1783803998556,
+      "data": {
+        "slug": "black-torch",
+        "title": "Black Torch",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xaU9uSVNWb2VsMnNuWWR4dWJkVEFaalk4WUUuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - O futuro está em nossas mãos.",
+            "url": "https://animeplay.cloud/episodio/black-torch-episodio-01"
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "anime",
+        "provider": "animeplay",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Ação",
+          "Animação",
+          "Aventura",
+          "Mistério",
+          "Sci-Fi"
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "black-torch",
+              "title": "Black Torch",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "black-torch-dublado",
+              "title": "Black Torch Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
     }
   }
 }
