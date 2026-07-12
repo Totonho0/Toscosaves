@@ -87782,6 +87782,14 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka- Familia Myth V",
+            "slug": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka",
+            "url": "https://animesdrive.online/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/02/eanhJgkvsqGPf5Bot77kjuuZVco-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei – Todos os Episódios",
             "slug": "yowai-5000-nen-no-soushoku-dragon-iwarenaki-jaryuu-nintei",
             "url": "https://animesdrive.online/anime/yowai-5000-nen-no-soushoku-dragon-iwarenaki-jaryuu-nintei",
@@ -87940,14 +87948,6 @@
             "poster": "https://image.tmdb.org/t/p/original/nnlM7h3IH0P5fl5V5FMkp8ddjxw.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki – Todos os Episódios",
-            "slug": "party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki",
-            "url": "https://animesdrive.online/anime/party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki",
-            "poster": "https://image.tmdb.org/t/p/original/ukbkGIhH8cvirLIsyJdzdzJSCOl.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -87955,7 +87955,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1783855919842
+      "at": 1783884628088
     },
     "todos|33||120": {
       "data": {
@@ -88027,7 +88027,7 @@
             "url": "https://animesdigital.org/anime/a/vampire-knight",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "vampire knight guilty",
@@ -88035,7 +88035,7 @@
             "url": "https://animesdigital.org/anime/a/vampire-knight-guilty",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Vinland Saga",
@@ -88158,7 +88158,7 @@
             "url": "https://animesdigital.org/anime/a/watashi-no-oshi-wa-akuyaku-reijou",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/10/assistir-watashi-no-oshi-wa-akuyaku-reijou-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Watashi no Shiawase na Kekkon 2",
@@ -88492,16 +88492,19 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/mVaXYoSvcMWwbbJXKvkZTPdWRkR-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "rating": "0"
-          },
-          {
-            "title": "Yani Neko",
-            "slug": "yani-neko",
-            "url": "https://animesonline.cloud/anime/yani-neko",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
-            "rating": "5",
-            "kind": "anime",
-            "provider": "aoc"
+            "rating": "0",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "chainsmoker-cat"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "yani-neko"
+              }
+            ]
           },
           {
             "title": "Yano-kun no Futsuu no Hibi",
@@ -88643,13 +88646,33 @@
             "rating": "6.51",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 33,
         "hasMore": true,
         "total": 1630,
-        "cachedAt": 1783870123211,
+        "cachedAt": 1783884620377,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -88696,7 +88719,7 @@
           "fixHint": null
         }
       },
-      "at": 1783870123295
+      "at": 1783884628336
     },
     "todos|34||48": {
       "data": {
@@ -88958,7 +88981,7 @@
         "page": 34,
         "hasMore": true
       },
-      "at": 1783870124980
+      "at": 1783884629276
     },
     "partner:anitube|todos|34||48": {
       "data": {
@@ -89113,7 +89136,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1783855921213
+      "at": 1783884629704
     },
     "partner:animesdigital|todos|34||48": {
       "data": {
@@ -89218,7 +89241,7 @@
             "title": "inou battle wa nichijou kei no naka de",
             "slug": "inou-battle-wa-nichijou-kei-no-naka-de",
             "url": "https://animesdigital.org/anime/a/inou-battle-wa-nichijou-kei-no-naka-de",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/assistir-inou-battle-wa-nichijou-kei-no-naka-de-todos-os-episodios-online-animes-online.png",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -89226,7 +89249,7 @@
             "title": "inu to hasami wa tsukaiyou",
             "slug": "inu-to-hasami-wa-tsukaiyou",
             "url": "https://animesdigital.org/anime/a/inu-to-hasami-wa-tsukaiyou",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-inu-to-hasami-wa-tsukaiyou-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -89234,7 +89257,7 @@
             "title": "inu x boku ss",
             "slug": "inu-x-boku-ss",
             "url": "https://animesdigital.org/anime/a/inu-x-boku-ss",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-inu-x-boku-ss-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -89242,7 +89265,7 @@
             "title": "inukami",
             "slug": "inukami",
             "url": "https://animesdigital.org/anime/a/inukami",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/05/Inukami-categoria.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -89250,7 +89273,7 @@
             "title": "inuyashiki",
             "slug": "inuyashiki",
             "url": "https://animesdigital.org/anime/a/inuyashiki",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-inuyashiki-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -89258,7 +89281,7 @@
             "title": "irozuku sekai no ashita kara",
             "slug": "irozuku-sekai-no-ashita-kara",
             "url": "https://animesdigital.org/anime/a/irozuku-sekai-no-ashita-kara-todos-os-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-irozuku-sekai-no-ashita-kara-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -89266,7 +89289,7 @@
             "title": "is infinite stratos",
             "slug": "is-infinite-stratos",
             "url": "https://animesdigital.org/anime/a/is-infinite-stratos",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/Is-Infinite-Stratos-categoria.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -89274,7 +89297,7 @@
             "title": "is infinite stratos 2",
             "slug": "is-infinite-stratos-2",
             "url": "https://animesdigital.org/anime/a/is-infinite-stratos-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-is-infinite-stratos-2-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -89282,7 +89305,7 @@
             "title": "isekai cheat magician",
             "slug": "isekai-cheat-magician",
             "url": "https://animesdigital.org/anime/a/isekai-cheat-magician",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-isekai-cheat-magician-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -89290,7 +89313,7 @@
             "title": "isekai maou to shoukan shoujo no dorei majutsu",
             "slug": "isekai-maou-to-shoukan-shoujo-no-dorei-majutsu",
             "url": "https://animesdigital.org/anime/a/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -89298,7 +89321,7 @@
             "title": "isekai maou to shoukan shoujo no dorei majutsu 2",
             "slug": "isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-2",
             "url": "https://animesdigital.org/anime/a/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-2-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -89306,7 +89329,7 @@
             "title": "isekai no seikishi monogatari",
             "slug": "isekai-no-seikishi-monogatari",
             "url": "https://animesdigital.org/anime/a/isekai-no-seikishi-monogatari",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-isekai-no-seikishi-monogatari-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -89508,7 +89531,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1783855921514
+      "at": 1783884630360
     },
     "partner:animeplay|todos|34||48": {
       "data": {
@@ -89558,6 +89581,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Ao no Hako – Todos os Episódios",
+            "slug": "ao-no-hako",
+            "url": "https://animeplay.cloud/anime/ao-no-hako",
+            "poster": "https://image.tmdb.org/t/p/original/nnlM7h3IH0P5fl5V5FMkp8ddjxw.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -89728,14 +89759,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/08/gtJ7jnoRE0a7SUvqB8vakdqKZuN-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Kimi ni Todoke – Todos os Episódios",
-            "slug": "kimi-ni-todoke",
-            "url": "https://animeplay.cloud/anime/kimi-ni-todoke",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2024/08/2XZ0Ofg1ZUZMFrbyWJuakSJAKZz-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -89743,7 +89766,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1783855922327
+      "at": 1783884630969
     },
     "partner:animesdrive|todos|34||48": {
       "data": {
@@ -136164,5 +136187,5 @@
       "at": 1783884599096
     }
   },
-  "updatedAt": 1783884622176
+  "updatedAt": 1783884630969
 }
