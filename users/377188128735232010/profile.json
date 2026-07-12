@@ -155,6 +155,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91bVNNbEVONVJJWXpsTHZTRkkybmZtZTFXMDIuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "ashita-no-nadja-dublado": {
+      "slug": "ashita-no-nadja-dublado",
+      "title": "Ashita no Nadja Dublado - Animes",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8wNS9hc3Npc3Rpci1hc2hpdGEtbm8tbmFkamEtZHVibGFkby10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaW1lcy1vbmxpbmUuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -257,9 +264,17 @@
     ],
     "aharen-san-wa-hakarenai-2": [
       1
+    ],
+    "ashita-no-nadja-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "ashita-no-nadja-dublado",
+      "ep": 1,
+      "at": 1783850062120
+    },
     {
       "slug": "1001090",
       "ep": 1,
@@ -493,5 +508,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783850022509
+  "updatedAt": 1783850062773
 }
