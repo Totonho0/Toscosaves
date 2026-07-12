@@ -204,6 +204,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9tVGRhZFBxamtjak9waFNzS1hMaVcyZmdMTW0uanBn",
       "kind": "filme",
       "adult": false
+    },
+    "badgirl": {
+      "slug": "badgirl",
+      "title": "Bad Girl",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9lVUo3ZnVkZnJ6SXh4OFBKb2l0TnNtSzc0Y2UuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -333,9 +340,17 @@
     ],
     "filme/assistir-a-lenda-de-aang-o-ultimo-mestre-do-ar-online": [
       1
+    ],
+    "badgirl": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "badgirl",
+      "ep": 1,
+      "at": 1783874297557
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -629,5 +644,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783874099262
+  "updatedAt": 1783874297254
 }
