@@ -71641,6 +71641,14 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Your Forma",
+            "slug": "your-forma",
+            "url": "https://animesdrive.online/anime/your-forma",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/03/uq3FFKHW6lUQxdiTetjgSIL0vMs-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Aru Majo ga Shinu Made",
             "slug": "aru-majo-ga-shinu-made",
             "url": "https://animesdrive.online/anime/aru-majo-ga-shinu-made",
@@ -71823,14 +71831,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/03/ykFgaZancgC5j3N3B3DnHfhc8CG-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Owari no Seraph",
-            "slug": "owari-no-seraph",
-            "url": "https://animesdrive.online/anime/owari-no-seraph",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/03/jP569pDgvwX3MeZPXUnmteYA2oZ-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -71838,11 +71838,42 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1783804066028
+      "at": 1783832852064
     },
     "todos|25||120": {
       "data": {
         "items": [
+          {
+            "title": "One-Punch Man",
+            "slug": "one-punch-man",
+            "url": "https://animesonline.cloud/anime/one-punch-man",
+            "poster": "https://animesdrive.online/wp-content/uploads/2015/10/One-Punch-Man-animesonline-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "one-punch-man"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-punch-man"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-punch-man"
+              },
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "one-punch-man"
+              }
+            ],
+            "rating": "8.396"
+          },
           {
             "title": "One-Punch Man 2",
             "slug": "one-punch-man-2",
@@ -71850,7 +71881,7 @@
             "poster": "https://animesdigital.org/wp-content/uploads/2022/10/one-punch-man-2.jpg",
             "rating": "8.396",
             "kind": "anime",
-            "provider": "animesdigital",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -71903,7 +71934,24 @@
             "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/vpoFWk4uMfhVZEBx1l5EEeVpk1e-185x278.jpg",
             "rating": "7.5",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "oni-no-hanayome"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "oni-no-hanayome"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "oni-no-hanayome"
+              }
+            ]
           },
           {
             "title": "onii chan dakedo ai sae areba kankeinai yo ne",
@@ -71911,7 +71959,7 @@
             "url": "https://animesdigital.org/anime/a/onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne",
             "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "oniichan no koto nanka zenzen suki janain dakara ne",
@@ -71919,7 +71967,7 @@
             "url": "https://animesdigital.org/anime/a/oniichan-no-koto-nanka-zenzen-suki-janain-dakara-ne",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/05/Oniichan-no-Koto-Nanka-Zenzen-Suki-Janain-Dakara-ne-categoria.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "onipan",
@@ -71927,7 +71975,7 @@
             "url": "https://animesdigital.org/anime/a/onipan",
             "poster": "https://animesdigital.org/wp-content/uploads/2022/04/assistir-onipan-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Onmyo Kaiten Re:Birth Verse",
@@ -71996,7 +72044,19 @@
             "url": "https://animesdigital.org/anime/a/ooyukiumi-no-kaina",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/01/assistir-ooyukiumi-no-kaina-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ooyukiumi-no-kaina"
+              },
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "ooyukiumi-no-kaina"
+              }
+            ]
           },
           {
             "title": "ooyukiumi no kaina hoshi no kenja",
@@ -72004,7 +72064,7 @@
             "url": "https://animesdigital.org/anime/a/ooyukiumi-no-kaina-hoshi-no-kenja",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "opus colors",
@@ -72012,7 +72072,7 @@
             "url": "https://animesdigital.org/anime/a/opus-colors",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/04/Opus-Colors.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "orange",
@@ -72020,7 +72080,7 @@
             "url": "https://animesdigital.org/anime/a/orange",
             "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-orange-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Ore dake Haireru Kakushi Dungeon",
@@ -72054,7 +72114,7 @@
             "url": "https://animesdigital.org/anime/a/ore-dake-haireru-kakushi-dungeon-1",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/05/Ore-dake-Haireru-Kakushi-Dungeon-categoria.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "ore ga ojousama gakkou ni shomin sample toshite gets sareta ken",
@@ -72062,7 +72122,7 @@
             "url": "https://animesdigital.org/anime/a/ore-ga-ojousama-gakkou-ni-shomin-sample-toshite-gets-sareta-ken",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/04/assistir-ore-ga-ojousama-gakkou-ni-shomin-sample-toshite-gets-sareta-ken-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "ore ga suki nano wa imouto dakedo imouto ja nai",
@@ -72070,7 +72130,7 @@
             "url": "https://animesdigital.org/anime/a/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/08/assistir-ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "ore no imouto ga konna ni kawaii wake ga nai",
@@ -72078,7 +72138,7 @@
             "url": "https://animesdigital.org/anime/a/ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "ore no imouto ga konna ni kawaii wake ga nai 2",
@@ -72086,7 +72146,7 @@
             "url": "https://animesdigital.org/anime/a/ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-2",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "ore twintails ni narimasu",
@@ -72094,7 +72154,7 @@
             "url": "https://animesdigital.org/anime/a/ore-twintails-ni-narimasu",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Ore wa Seikan Kokka no Akutoku Ryoushu!",
@@ -72154,7 +72214,7 @@
             "url": "https://animesdigital.org/anime/a/orenchi-no-furo-jijou",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "oroka na tenshi wa akuma to odoru",
@@ -72162,7 +72222,7 @@
             "url": "https://animesdigital.org/anime/a/oroka-na-tenshi-wa-akuma-to-odoru",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Os Cavaleiros do Zodíaco",
@@ -72222,7 +72282,7 @@
             "url": "https://animesdigital.org/anime/a/os-under-undergrounds-1a-temporada",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/10/assistir-os-under-undergrounds-1a-temporada-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Osananajimi to wa Love Come ni Naranai",
@@ -72255,6 +72315,11 @@
               {
                 "server": 3,
                 "provider": "animeplay",
+                "slug": "oshi-no-ko"
+              },
+              {
+                "server": 4,
+                "provider": "animesdigital",
                 "slug": "oshi-no-ko"
               }
             ]
@@ -72336,7 +72401,7 @@
             "url": "https://animesdigital.org/anime/a/otome-game-no-hametsu-flag",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
@@ -72362,7 +72427,7 @@
             "url": "https://animesdigital.org/anime/a/otonari-ni-ginga",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/04/assistir-otonari-ni-ginga-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
@@ -72485,21 +72550,13 @@
                 "slug": "overlord-4"
               }
             ]
-          },
-          {
-            "title": "overlord movie 1 fushisha no ou",
-            "slug": "overlord-movie-1-fushisha-no-ou",
-            "url": "https://animesdigital.org/anime/a/overlord-movie-1-fushisha-no-ou",
-            "poster": null,
-            "kind": "anime",
-            "provider": "animesdigital"
           }
         ],
         "category": "todos",
         "page": 25,
         "hasMore": true,
-        "total": 1647,
-        "cachedAt": 1783818289623,
+        "total": 1629,
+        "cachedAt": 1783832848431,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -72546,7 +72603,7 @@
           "fixHint": null
         }
       },
-      "at": 1783818289702
+      "at": 1783832852285
     },
     "todos|26||48": {
       "data": {
@@ -138388,5 +138445,5 @@
       "at": 1783806692985
     }
   },
-  "updatedAt": 1783832850177
+  "updatedAt": 1783832852285
 }
