@@ -89820,6 +89820,14 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki – Todos os Episódios",
+            "slug": "party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki",
+            "url": "https://animesdrive.online/anime/party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki",
+            "poster": "https://image.tmdb.org/t/p/original/ukbkGIhH8cvirLIsyJdzdzJSCOl.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Maou 2099 – Todos os Episódios",
             "slug": "maou-2099",
             "url": "https://animesdrive.online/anime/maou-2099",
@@ -89986,14 +89994,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/08/2XZ0Ofg1ZUZMFrbyWJuakSJAKZz-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Horimiya: Piece – Todos os Episódios",
-            "slug": "horimiya-the-missing-pieces",
-            "url": "https://animesdrive.online/anime/horimiya-the-missing-pieces",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/08/nnGb4NYOyRfCl5DKYPIK9A0Cgww-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -90001,7 +90001,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1783855925733
+      "at": 1783884635000
     },
     "todos|34||120": {
       "data": {
@@ -90108,7 +90108,7 @@
             "url": "https://animesdigital.org/anime/a/youkoso-jitsuryoku-3",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3 – Todos os Episodios",
@@ -90283,7 +90283,7 @@
             "url": "https://animesdigital.org/anime/a/yubisaki-to-renren",
             "poster": "https://animesdigital.org/wp-content/uploads/2024/01/Yubisaki-to-Renren-Ep.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Yume Senshi Wingman – Todos os Episódios",
@@ -90406,7 +90406,7 @@
             "url": "https://animesdigital.org/anime/a/yuzuki-san-chi-no-yonkyoudai",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/10/Yuzuki-san-Chi-no-Yonkyoudai-categoria.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Z X: Ignition",
@@ -90440,7 +90440,7 @@
             "url": "https://animesdigital.org/anime/a/zanting-rang-wo-cha-gonglue",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/10/Zanting-Rang-Wo-Cha-Gonglue-categoria.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "ZatsuTabi -That’s Journey-",
@@ -90602,13 +90602,53 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "7,07"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesdrive.online/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 34,
-        "hasMore": false,
+        "hasMore": true,
         "total": 1630,
-        "cachedAt": 1783870124980,
+        "cachedAt": 1783884629276,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -90655,7 +90695,7 @@
           "fixHint": null
         }
       },
-      "at": 1783870125074
+      "at": 1783884635300
     },
     "todos|35||48": {
       "data": {
@@ -136187,5 +136227,5 @@
       "at": 1783884599096
     }
   },
-  "updatedAt": 1783884630969
+  "updatedAt": 1783884635300
 }
