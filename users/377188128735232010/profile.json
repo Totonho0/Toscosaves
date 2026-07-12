@@ -190,6 +190,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8xMVBmaDR5cWpLYk9nbjV2WTNBUUQ5VlU0VmMuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "kaguya-sama-wa-kokurasetai-otona-e-no-kaidan": {
+      "slug": "kaguya-sama-wa-kokurasetai-otona-e-no-kaidan",
+      "title": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9pUk91T3I3NGQweWRwZXBpUUhwa2Q1NDFUQWsuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -313,9 +320,17 @@
     ],
     "beastars-3-final-season-part-2": [
       1
+    ],
+    "kaguya-sama-wa-kokurasetai-otona-e-no-kaidan": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "kaguya-sama-wa-kokurasetai-otona-e-no-kaidan",
+      "ep": 1,
+      "at": 1783870864694
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -599,5 +614,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783870858657
+  "updatedAt": 1783870865073
 }
