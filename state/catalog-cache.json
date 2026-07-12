@@ -82298,6 +82298,14 @@
             "provider": "animesdrive"
           },
           {
+            "title": "2.5-jigen no Ririsa Dublado – Todos os Episódios",
+            "slug": "2-5-jigen-no-ririsa-dublado",
+            "url": "https://animesdrive.online/anime/2-5-jigen-no-ririsa-dublado-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/3abErAlHyQso1DLfWRFhJbEjNOh.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Kamen Rider Gavv – Todos os Episódios",
             "slug": "kamen-rider-gavv",
             "url": "https://animesdrive.online/anime/kamen-rider-gavv",
@@ -82464,14 +82472,6 @@
             "poster": "https://animeflix.blog/IMGS/capas/Arcane%202%20Legendado.webp",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Arcane Dublado – Todos os Episódios",
-            "slug": "arcane-dublado",
-            "url": "https://animesdrive.online/anime/arcane-dublado-todos-os-episodios",
-            "poster": "https://animeflix.blog/IMGS/capas/Arcane%20Dublado.webp",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -82479,11 +82479,20 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1783804095671
+      "at": 1783832886861
     },
     "todos|30||120": {
       "data": {
         "items": [
+          {
+            "title": "Stranger Things: Histórias de 85 Dublado",
+            "slug": "stranger-things-historias-de-85-dublado",
+            "url": "https://animesonline.cloud/anime/stranger-things-historias-de-85-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/zUdykEDaQrjGKnVnAAcua3kNiAG-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "7.1"
+          },
           {
             "title": "Street Fighter II: Victory Dublado",
             "slug": "street-fighter-ii-victory-dublado",
@@ -82622,8 +82631,13 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/08/htNohqrYEwuz4fCa9ATVF90s58S-185x278.jpg",
             "rating": "8.2",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sword-art-online"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -82749,7 +82763,7 @@
             "url": "https://animesdigital.org/anime/a/synduality-noir-part-2",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Synduality: Noir 2 – Todos os Episódios",
@@ -82783,7 +82797,7 @@
             "url": "https://animesdigital.org/anime/a/tada-kun-wa-koi-wo-shinai-todos-os-episodios",
             "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-tada-kun-wa-koi-wo-shinai-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Tadaima Okaeri – Todos os Episódios",
@@ -82993,7 +83007,7 @@
             "url": "https://animesdigital.org/anime/a/tate-no-yuusha-no-nariagari-season-3",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Tatsuki Fujimoto 17-26",
@@ -83019,7 +83033,7 @@
             "url": "https://animesdigital.org/anime/a/tenchi-muyou-gxp-paradise-shidou-hen",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Tengen Toppa Gurren Lagann – Todos os Episodios",
@@ -83152,6 +83166,11 @@
             "provider": "aoc",
             "animeSources": [
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tenkuu-senki-shurato"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "tenkuu-senki-shurato"
@@ -83181,39 +83200,13 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "0"
-          },
-          {
-            "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
-            "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
-            "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "6.9",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 30,
         "hasMore": true,
-        "total": 1628,
-        "cachedAt": 1783818294637,
+        "total": 1629,
+        "cachedAt": 1783832877871,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -83260,7 +83253,7 @@
           "fixHint": null
         }
       },
-      "at": 1783818294716
+      "at": 1783832887255
     },
     "todos|31||48": {
       "data": {
@@ -138528,5 +138521,5 @@
       "at": 1783806692985
     }
   },
-  "updatedAt": 1783832879553
+  "updatedAt": 1783832887255
 }
