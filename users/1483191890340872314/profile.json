@@ -13,7 +13,8 @@
       "slug": "8029",
       "title": "Yosuga no Sora",
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL1lvc3VnYS1uby1Tb3JhLXBvc3Rlci5qcGc",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui": {
       "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
@@ -30,8 +31,17 @@
       2
     ]
   },
-  "started": {},
+  "started": {
+    "8029": [
+      6
+    ]
+  },
   "watchHistoryLog": [
+    {
+      "slug": "8029",
+      "ep": 6,
+      "at": 1783826806677
+    },
     {
       "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
       "ep": 2,
@@ -70,5 +80,5 @@
   },
   "filmePlayback": {},
   "customLists": {},
-  "updatedAt": 1783826806553
+  "updatedAt": 1783826807409
 }
