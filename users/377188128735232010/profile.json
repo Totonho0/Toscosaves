@@ -142,6 +142,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9ldXk5RlE2Qk9CM3JjZzJBRTdZVkFvMTZrYWEuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "grand-blue-season-3": {
+      "slug": "grand-blue-season-3",
+      "title": "Grand Blue Season 3",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9wSnFBZ0RpY283WlRNQWZBWHl6bGRZcWo1TUUuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -235,9 +242,17 @@
     ],
     "akuma-no-riddle": [
       1
+    ],
+    "grand-blue-season-3": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "grand-blue-season-3",
+      "ep": 1,
+      "at": 1783849024084
+    },
     {
       "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
       "ep": 5,
@@ -456,5 +471,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783848994275
+  "updatedAt": 1783849024762
 }
