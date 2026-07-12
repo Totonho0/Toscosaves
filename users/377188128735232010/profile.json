@@ -148,6 +148,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9wSnFBZ0RpY283WlRNQWZBWHl6bGRZcWo1TUUuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "aharen-san-wa-hakarenai-2": {
+      "slug": "aharen-san-wa-hakarenai-2",
+      "title": "Aharen-san wa Hakarenai 2",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91bVNNbEVONVJJWXpsTHZTRkkybmZtZTFXMDIuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -244,9 +251,17 @@
     ],
     "grand-blue-season-3": [
       1
+    ],
+    "aharen-san-wa-hakarenai-2": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "aharen-san-wa-hakarenai-2",
+      "ep": 1,
+      "at": 1783849966361
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -470,5 +485,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783849140822
+  "updatedAt": 1783849966811
 }
