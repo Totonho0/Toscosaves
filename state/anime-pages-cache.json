@@ -21035,6 +21035,128 @@
           }
         ]
       }
+    },
+    "ao-no-exorcist": {
+      "at": 1783874139212,
+      "data": {
+        "slug": "ao-no-exorcist",
+        "title": "Ao no Exorcist – Todos os Episodios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC93SnpIRmw1bXE2SkZiRDZlcXVUbGVKdXpsbmsuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Demônios Vivem Na Alma Humana",
+            "url": "https://animesonline.cloud/episodio/ao-no-exorcist-shimane-illuminati-hen-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Portão De Gehenna",
+            "url": "https://animesonline.cloud/episodio/ao-no-exorcist-shimane-illuminati-hen-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Terra Natal",
+            "url": "https://animesonline.cloud/episodio/ao-no-exorcist-yuki-no-hate-hen-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "O Jardim Amahara",
+            "url": "https://animesonline.cloud/episodio/ao-no-exorcist-shimane-illuminati-hen-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Como se significasse 'Chore'",
+            "url": "https://animesonline.cloud/episodio/ao-no-exorcist-yuki-no-hate-hen-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Despertar",
+            "url": "https://animesonline.cloud/episodio/ao-no-exorcist-yuki-no-hate-hen-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Folhas Atípicas",
+            "url": "https://animesonline.cloud/episodio/ao-no-exorcist-yuki-no-hate-hen-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Feliz (Natal) Aniversário!",
+            "url": "https://animesonline.cloud/episodio/ao-no-exorcist-yuki-no-hate-hen-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Parabéns",
+            "url": "https://animesonline.cloud/episodio/ao-no-exorcist-yuki-no-hate-hen-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Em meio à neve que cai",
+            "url": "https://animesonline.cloud/episodio/ao-no-exorcist-yuki-no-hate-hen-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Além da Neve",
+            "url": "https://animesonline.cloud/episodio/ao-no-exorcist-yuki-no-hate-hen-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Despedida",
+            "url": "https://animesonline.cloud/episodio/ao-no-exorcist-yuki-no-hate-hen-episodio-12"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "aoc",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Ação e Aventura",
+          "Animação",
+          "Mistério",
+          "Sci-Fi & Fantasia"
+        ],
+        "animeSources": [
+          {
+            "server": 1,
+            "provider": "aoc",
+            "slug": "ao-no-exorcist"
+          },
+          {
+            "server": 2,
+            "provider": "animesdrive",
+            "slug": "ao-no-exorcist"
+          },
+          {
+            "server": 3,
+            "provider": "animeplay",
+            "slug": "ao-no-exorcist"
+          }
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "ao-no-exorcist",
+              "title": "Ao no Exorcist – Todos os Episodios",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "67247",
+              "title": "Ao no Exorcist (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "67220",
+              "title": "Ao no Exorcist (Dublado)",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
     }
   }
 }
