@@ -28585,7 +28585,7 @@
         "hasMore": false,
         "genreId": "romance"
       },
-      "at": 1783826844705
+      "at": 1783828786645
     },
     "genre-row:acao": {
       "data": {
@@ -28740,7 +28740,7 @@
         "hasMore": false,
         "genreId": "acao"
       },
-      "at": 1783826812052
+      "at": 1783828786364
     },
     "genre-row:comedia": {
       "data": {
@@ -28895,7 +28895,7 @@
         "hasMore": false,
         "genreId": "comedia"
       },
-      "at": 1783826833839
+      "at": 1783828786510
     },
     "lancamentos|1||120": {
       "data": {
@@ -37513,6 +37513,15 @@
             "provider": "aoc"
           },
           {
+            "title": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+            "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai",
+            "url": "https://animesonline.cloud/anime/hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/MtHcMTVjuIPta3pQJtCc9LqYdT-185x278.jpg",
+            "rating": "7.7",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Zhan Shen: Fanchen Shenyu II",
             "slug": "zhan-shen-fanchen-shenyu-ii",
             "url": "https://animesonline.cloud/anime/zhan-shen-fanchen-shenyu-ii",
@@ -37664,22 +37673,13 @@
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
-            "slug": "suterare-seijo-no-isekai-gohan-tabi-kakure-skill-de-camping-car-wo-shoukan-shimashita",
-            "url": "https://animesonline.cloud/anime/suterare-seijo-no-isekai-gohan-tabi-kakure-skill-de-camping-car-wo-shoukan-shimashita",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/d0hx0f1vz6S5UvZChaxyUf51HFK-185x278.jpg",
-            "rating": "6.39",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1783812328635
+      "at": 1783828787740
     },
     "partner:anitube|todos|1||24": {
       "data": {
@@ -37834,7 +37834,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1783812424188
+      "at": 1783828787093
     },
     "partner:animeplay|todos|3||48": {
       "data": {
@@ -38915,6 +38915,14 @@
             "provider": "animeplay"
           },
           {
+            "title": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+            "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai",
+            "url": "https://animeplay.cloud/anime/hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/MtHcMTVjuIPta3pQJtCc9LqYdT-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
             "title": "Zhan Shen: Fanchen Shenyu II",
             "slug": "zhan-shen-fanchen-shenyu-ii",
             "url": "https://animeplay.cloud/anime/zhan-shen-fanchen-shenyu-ii",
@@ -39049,14 +39057,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/zGNd9CG8RKovJXD2vDAPoE8bOzm-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
-            "slug": "suterare-seijo-no-isekai-gohan-tabi-kakure-skill-de-camping-car-wo-shoukan-shimashita",
-            "url": "https://animeplay.cloud/anime/suterare-seijo-no-isekai-gohan-tabi-kakure-skill-de-camping-car-wo-shoukan-shimashita",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/d0hx0f1vz6S5UvZChaxyUf51HFK-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -39064,7 +39064,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1783812424135
+      "at": 1783828787774
     },
     "partner:animesdrive|todos|3||48": {
       "data": {
@@ -39510,7 +39510,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1783812424162
+      "at": 1783828787961
     },
     "partner:animeplay|todos|2||24": {
       "data": {
@@ -138148,5 +138148,5 @@
       "at": 1783806692985
     }
   },
-  "updatedAt": 1783826862398
+  "updatedAt": 1783828787961
 }
