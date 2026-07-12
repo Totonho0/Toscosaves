@@ -784,6 +784,33 @@
         "poster": "https://image.tmdb.org/t/p/w780/euy9FQ6BOB3rcg2AE7YVAo16kaa.jpg",
         "episodeUrl": "https://animeplay.cloud/episodio/akuma-no-riddle-episodio-01"
       }
+    },
+    "anime:watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui:2": {
+      "at": 1783843933998,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/w/watashi-ga-motenai-no-wa-dou-kangaetemo-omarea-ga-warui/02.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/39045/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fw%2Fwatashi-ga-motenai-no-wa-dou-kangaetemo-omarea-ga-warui%2F02.mp4%2Findex.m3u8&ref=animesdigital"
+          },
+          {
+            "type": "mp4",
+            "src": "https://rr5---sn-o097znsd.googlevideo.com/videoplayback?expire=1783872732&ei=XExTavrzL9i8-eUPyJ_DiQU&ip=152.55.176.215&id=1e1d84f0e9b39869&itag=22&source=blogger&requiressl=yes&xpc=Egho7Zf3LnoBAQ==&cps=29&met=1783843932,&mh=mu&mm=31&mn=sn-o097znsd&ms=au&mv=m&mvi=5&pl=22&rms=au,au&susc=bl&svpuc=1&eaua=uN7j3T-ZPmc&mime=video/mp4&vprv=1&rqh=1&dur=1429.977&lmt=1706797220638905&mt=1783843510&txp=1311224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,svpuc,eaua,mime,vprv,rqh,dur,lmt&sig=AHEqNM4wRQIgOaoSRoQeb-S_eZ8h-Q2U5kOvZpkN-TUfnVkfjloSkr0CIQD7RNTYzic4UprVC8Cy9GIiHReqTN67-7487j7ZaL16iQ==&lsparams=cps,met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRgIhAIKMhxK5DTMZPhGF0cxEgnmx94wZHDNMl-B8M6MUXJrhAiEA6SCKsNNO36DkjwMPbOA4DrMKZOewEx_XOXwIzicEua0=",
+            "label": "Servidor 2",
+            "referer": "https://animesdigital.org/video/a/39045/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Frr5---sn-o097znsd.googlevideo.com%2Fvideoplayback%3Fexpire%3D1783872732%26ei%3DXExTavrzL9i8-eUPyJ_DiQU%26ip%3D152.55.176.215%26id%3D1e1d84f0e9b39869%26itag%3D22%26source%3Dblogger%26requiressl%3Dyes%26xpc%3DEgho7Zf3LnoBAQ%3D%3D%26cps%3D29%26met%3D1783843932%2C%26mh%3Dmu%26mm%3D31%26mn%3Dsn-o097znsd%26ms%3Dau%26mv%3Dm%26mvi%3D5%26pl%3D22%26rms%3Dau%2Cau%26susc%3Dbl%26svpuc%3D1%26eaua%3DuN7j3T-ZPmc%26mime%3Dvideo%2Fmp4%26vprv%3D1%26rqh%3D1%26dur%3D1429.977%26lmt%3D1706797220638905%26mt%3D1783843510%26txp%3D1311224%26sparams%3Dexpire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Csusc%2Csvpuc%2Ceaua%2Cmime%2Cvprv%2Crqh%2Cdur%2Clmt%26sig%3DAHEqNM4wRQIgOaoSRoQeb-S_eZ8h-Q2U5kOvZpkN-TUfnVkfjloSkr0CIQD7RNTYzic4UprVC8Cy9GIiHReqTN67-7487j7ZaL16iQ%3D%3D%26lsparams%3Dcps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%26lsig%3DAPaTxxMwRgIhAIKMhxK5DTMZPhGF0cxEgnmx94wZHDNMl-B8M6MUXJrhAiEA6SCKsNNO36DkjwMPbOA4DrMKZOewEx_XOXwIzicEua0%3D&ref=animesdigital"
+          }
+        ],
+        "episode": 2,
+        "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
+        "kind": "anime",
+        "provider": "animesdigital",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci13YXRhc2hpLWdhLW1vdGVuYWktbm8td2EtZG91LWthbmdhZXRlbW8tb21hZXJhLWdhLXdhcnVpLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pbWVzZGlnaXRhbC5qcGc",
+        "episodeUrl": "https://animesdigital.org/video/a/39045/"
+      }
     }
   }
 }
