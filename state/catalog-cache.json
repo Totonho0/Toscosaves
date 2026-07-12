@@ -110172,6 +110172,14 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Trigun Stargaze",
+            "slug": "trigun-stargaze",
+            "url": "https://animesdrive.online/anime/trigun-stargaze",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/01/sFagJXWQSPfDSTqsUnR561srH6b-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Trigun Stargaze 2",
             "slug": "trigun-stargaze-2",
             "url": "https://animesdrive.online/anime/trigun-stargaze-2",
@@ -110338,14 +110346,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/12/k966Cn9wChI9YCl9TcCwGH52A0W-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Shadows House",
-            "slug": "shadows-house",
-            "url": "https://animesdrive.online/anime/shadows-house",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -110353,7 +110353,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1783855963640
+      "at": 1783884685137
     },
     "todos|43||120": {
       "data": {
@@ -110515,13 +110515,51 @@
             ]
           },
           {
+            "title": "HIGH CARD",
+            "slug": "high-card",
+            "url": "https://animesonline.cloud/anime/high-card",
+            "poster": "https://image.tmdb.org/t/p/w185/uhXTMvLPKnhNLpLDSktrs3S6mVb.jpg",
+            "rating": "6",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "high-card"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "high-card"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "high-card"
+              }
+            ]
+          },
+          {
             "title": "Trigun Stargaze",
             "slug": "trigun-stargaze",
             "url": "https://animesonline.cloud/anime/trigun-stargaze",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/01/sFagJXWQSPfDSTqsUnR561srH6b-185x278.jpg",
             "rating": "7.309",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "trigun-stargaze"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "trigun-stargaze"
+              }
+            ]
           },
           {
             "title": "Trigun Stargaze 2",
@@ -111046,11 +111084,10 @@
           {
             "title": "Shiguang Dailiren: Yingdu Pian",
             "slug": "shiguang-dailiren-yingdu-pian",
-            "url": "https://animesonline.cloud/anime/shiguang-dailiren-yingdu-pian",
+            "url": "https://animesdrive.online/anime/shiguang-dailiren-yingdu-pian",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/12/k966Cn9wChI9YCl9TcCwGH52A0W-185x278.jpg",
-            "rating": "8.2",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -111066,26 +111103,6 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "shiguang-dailiren-yingdu-pian"
-              }
-            ]
-          },
-          {
-            "title": "Shadows House",
-            "slug": "shadows-house",
-            "url": "https://animesdrive.online/anime/shadows-house",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "shadows-house"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "shadows-house"
               }
             ]
           },
@@ -111111,7 +111128,24 @@
             "url": "https://animesdigital.org/anime/a/nanatsu-no-taizai",
             "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-nanatsu-no-taizai-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "animesdigital",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "nanatsu-no-taizai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nanatsu-no-taizai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nanatsu-no-taizai"
+              }
+            ]
           },
           {
             "title": "nanatsu no taizai 2",
@@ -111189,7 +111223,7 @@
             "title": "naruto classico dublado",
             "slug": "naruto-classico-dublado",
             "url": "https://animesdigital.org/anime/a/naruto-classico-dublado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-naruto-classico-dublado-dublado-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -111197,7 +111231,7 @@
             "title": "naruto movie 1 dai katsugeki yuki hime shinobu houjou dattebayo",
             "slug": "naruto-movie-1-dai-katsugeki-yuki-hime-shinobu-houjou-dattebayo",
             "url": "https://animesdigital.org/anime/a/naruto-movie-1-dai-katsugeki-yuki-hime-shinobu-houjou-dattebayo",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/Naruto-filme-1.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -111205,7 +111239,7 @@
             "title": "naruto movie 2 dai gekitotsu maboroshi no chiteiiseki dattebayo",
             "slug": "naruto-movie-2-dai-gekitotsu-maboroshi-no-chiteiiseki-dattebayo",
             "url": "https://animesdigital.org/anime/a/naruto-movie-2-dai-gekitotsu-maboroshi-no-chiteiiseki-dattebayo",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/Naruto-filme-2.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -111213,7 +111247,7 @@
             "title": "naruto movie 3 dai koufun mikazuki jima no animaru panic dattebayo",
             "slug": "naruto-movie-3-dai-koufun-mikazuki-jima-no-animaru-panic-dattebayo",
             "url": "https://animesdigital.org/anime/a/naruto-movie-3-dai-koufun-mikazuki-jima-no-animaru-panic-dattebayo",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/Naruto-filme-3.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -111221,7 +111255,7 @@
             "title": "naruto classico",
             "slug": "naruto-classico",
             "url": "https://animesdigital.org/anime/a/naruto-classico",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-naruto-classico-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           }
@@ -111229,8 +111263,8 @@
         "category": "todos",
         "page": 43,
         "hasMore": true,
-        "total": 1514,
-        "cachedAt": 1783855960730,
+        "total": 1630,
+        "cachedAt": 1783884681972,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -111277,7 +111311,7 @@
           "fixHint": null
         }
       },
-      "at": 1783855964062
+      "at": 1783884685692
     },
     "todos|44||48": {
       "data": {
@@ -111333,6 +111367,15 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Shiguang Dailiren: Yingdu Pian",
+            "slug": "shiguang-dailiren-yingdu-pian",
+            "url": "https://animesonline.cloud/anime/shiguang-dailiren-yingdu-pian",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/k966Cn9wChI9YCl9TcCwGH52A0W-185x278.jpg",
+            "rating": "8.2",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -111515,22 +111558,13 @@
             "rating": "8.672",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Dororo",
-            "slug": "dororo",
-            "url": "https://animesonline.cloud/anime/dororo",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/05/yQQAP956eYxBEvLezPI1zYYv02S-185x278.jpg",
-            "rating": "8.5",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 44,
         "hasMore": true
       },
-      "at": 1783855964776
+      "at": 1783884687231
     },
     "partner:anitube|todos|44||48": {
       "data": {
@@ -111685,7 +111719,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1783855965216
+      "at": 1783884687670
     },
     "partner:animesdigital|todos|44||48": {
       "data": {
@@ -111790,7 +111824,7 @@
             "title": "ninin ga shinobuden",
             "slug": "ninin-ga-shinobuden",
             "url": "https://animesdigital.org/anime/a/ninin-ga-shinobuden",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-ninin-ga-shinobuden-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -111798,7 +111832,7 @@
             "title": "nisekoi",
             "slug": "nisekoi",
             "url": "https://animesdigital.org/anime/a/nisekoi",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/assistir-nisekoi-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -111806,7 +111840,7 @@
             "title": "nisekoi 2",
             "slug": "nisekoi-2",
             "url": "https://animesdigital.org/anime/a/nisekoi-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/assistir-nisekoi-2-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -111814,7 +111848,7 @@
             "title": "no game no life",
             "slug": "no-game-no-life",
             "url": "https://animesdigital.org/anime/a/no-game-no-life",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-no-game-no-life-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -111822,7 +111856,7 @@
             "title": "no game no life zero",
             "slug": "no-game-no-life-zero",
             "url": "https://animesdigital.org/anime/a/no-game-no-life-zero",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/No-Game-no-Life-filme.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -111830,7 +111864,7 @@
             "title": "no guns life",
             "slug": "no-guns-life",
             "url": "https://animesdigital.org/anime/a/no-guns-life",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-no-guns-life-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -111838,7 +111872,7 @@
             "title": "no guns life 2",
             "slug": "no-guns-life-2",
             "url": "https://animesdigital.org/anime/a/no-guns-life-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-no-guns-life-2-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -111846,7 +111880,7 @@
             "title": "no 6",
             "slug": "no-6",
             "url": "https://animesdigital.org/anime/a/no-6",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/assistir-no-6-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -111854,7 +111888,7 @@
             "title": "noblesse",
             "slug": "noblesse",
             "url": "https://animesdigital.org/anime/a/noblesse",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-noblesse-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -111862,7 +111896,7 @@
             "title": "noblesse awakening",
             "slug": "noblesse-awakening",
             "url": "https://animesdigital.org/anime/a/noblesse-awakening",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-noblesse-awakening-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -111870,7 +111904,7 @@
             "title": "nobunaga concerto",
             "slug": "nobunaga-concerto",
             "url": "https://animesdigital.org/anime/a/nobunaga-concerto",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/Nobunaga-Concerto-categoria.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -111878,7 +111912,7 @@
             "title": "nobunaga no shinobi",
             "slug": "nobunaga-no-shinobi",
             "url": "https://animesdigital.org/anime/a/nobunaga-no-shinobi",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/Nobunaga-no-Shinobi-categoria.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -112080,7 +112114,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1783855965573
+      "at": 1783884688175
     },
     "partner:animeplay|todos|44||48": {
       "data": {
@@ -136488,5 +136522,5 @@
       "at": 1783884599096
     }
   },
-  "updatedAt": 1783884683535
+  "updatedAt": 1783884688175
 }
