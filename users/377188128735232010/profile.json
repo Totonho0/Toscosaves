@@ -183,6 +183,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94dEQydkFWT0dVbW13RzFkYUVjRWRMVWxobkcuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "beastars-3-final-season-part-2": {
+      "slug": "beastars-3-final-season-part-2",
+      "title": "Beastars 3 Final Season Part 2",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8xMVBmaDR5cWpLYk9nbjV2WTNBUUQ5VlU0VmMuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -298,9 +305,17 @@
     ],
     "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita": [
       1
+    ],
+    "beastars-3-final-season-part-2": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "beastars-3-final-season-part-2",
+      "ep": 1,
+      "at": 1783855874227
+    },
     {
       "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita",
       "ep": 1,
@@ -559,5 +574,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783855845293
+  "updatedAt": 1783855876192
 }
