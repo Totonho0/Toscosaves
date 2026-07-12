@@ -162,6 +162,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8wNS9hc3Npc3Rpci1hc2hpdGEtbm8tbmFkamEtZHVibGFkby10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaW1lcy1vbmxpbmUuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "black-torch-dublado": {
+      "slug": "black-torch-dublado",
+      "title": "Black Torch Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xaU9uSVNWb2VsMnNuWWR4dWJkVEFaalk4WUUuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -267,9 +274,17 @@
     ],
     "ashita-no-nadja-dublado": [
       1
+    ],
+    "black-torch-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "black-torch-dublado",
+      "ep": 1,
+      "at": 1783853474948
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -508,5 +523,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783853451440
+  "updatedAt": 1783853477971
 }
