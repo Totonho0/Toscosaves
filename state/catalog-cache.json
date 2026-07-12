@@ -120322,7 +120322,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1783855981585
+      "at": 1783884710034
     },
     "partner:animesdigital|todos|48||48": {
       "data": {
@@ -120921,14 +120921,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/03/f2zhRLqwRLrKhEMeIM7Z5buJFo3-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Tenkuu Senki Shurato",
-            "slug": "tenkuu-senki-shurato",
-            "url": "https://animeplay.cloud/anime/tenkuu-senki-shurato",
-            "poster": "https://animeplay.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-185x278.png",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -120936,7 +120928,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1783855982665
+      "at": 1783884710730
     },
     "partner:animesdrive|todos|48||48": {
       "data": {
@@ -120986,6 +120978,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animesdrive.online/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Death Note",
+            "slug": "death-note",
+            "url": "https://animesdrive.online/anime/death-note",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/05/chnG4pYo89weaBjXHJWvW68E35B-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -121132,14 +121132,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/05/dItdgGzcPP2KiDJ13qHVcCaXjLr-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Dragon Ball Z",
-            "slug": "dragon-ball-z",
-            "url": "https://animesdrive.online/anime/dragon-ball-z",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/03/f2zhRLqwRLrKhEMeIM7Z5buJFo3-185x278.jpg.webp",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -121147,7 +121139,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1783855984108
+      "at": 1783884711993
     },
     "todos|48||120": {
       "data": {
@@ -121309,13 +121301,56 @@
             ]
           },
           {
+            "title": "Claymore",
+            "slug": "claymore",
+            "url": "https://animesonline.cloud/anime/claymore",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/aIdsCf6XAzR2AmylK8PF22RUw1D-185x278.jpg",
+            "rating": "8.2",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "claymore"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "claymore"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "claymore"
+              }
+            ]
+          },
+          {
             "title": "Death Note",
             "slug": "death-note",
             "url": "https://animesonline.cloud/anime/death-note",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/05/chnG4pYo89weaBjXHJWvW68E35B-185x278.jpg",
             "rating": "8.638",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "death-note"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "death-note"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "death-note"
+              }
+            ]
           },
           {
             "title": "Gintama",
@@ -121762,11 +121797,10 @@
           {
             "title": "Samurai Pizza Cats",
             "slug": "samurai-pizza-cats",
-            "url": "https://animesonline.cloud/anime/samurai-pizza-cats",
+            "url": "https://animesdrive.online/anime/samurai-pizza-cats",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/05/dItdgGzcPP2KiDJ13qHVcCaXjLr-185x278.jpg",
-            "rating": "8.149",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -121788,11 +121822,16 @@
           {
             "title": "Dragon Ball Z",
             "slug": "dragon-ball-z",
-            "url": "https://animesdrive.online/anime/dragon-ball-z",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/03/f2zhRLqwRLrKhEMeIM7Z5buJFo3-185x278.jpg.webp",
+            "url": "https://animeplay.cloud/anime/dragon-ball-z",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/03/f2zhRLqwRLrKhEMeIM7Z5buJFo3-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "animeplay",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-z"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -121804,14 +121843,6 @@
                 "slug": "dragon-ball-z"
               }
             ]
-          },
-          {
-            "title": "Tenkuu Senki Shurato",
-            "slug": "tenkuu-senki-shurato",
-            "url": "https://animeplay.cloud/anime/tenkuu-senki-shurato",
-            "poster": "https://animeplay.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-185x278.png",
-            "kind": "anime",
-            "provider": "animeplay"
           },
           {
             "title": "shin no nakama ja nai to yuusha",
@@ -121913,7 +121944,7 @@
             "title": "haikyuu 3",
             "slug": "haikyuu-3",
             "url": "https://animesdigital.org/anime/a/haikyuu-3",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-haikyuu-3-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -121921,7 +121952,7 @@
             "title": "arifureta shokugyou de sekai saikyou",
             "slug": "arifureta-shokugyou-de-sekai-saikyou",
             "url": "https://animesdigital.org/anime/a/arifureta-shokugyou-de-sekai-saikyou",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/05/assistir-arifureta-shokugyou-de-sekai-saikyou-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -121929,24 +121960,58 @@
             "title": "ansatsu kyoushitsu dublado",
             "slug": "ansatsu-kyoushitsu-dublado",
             "url": "https://animesdigital.org/anime/a/ansatsu-kyoushitsu-dublado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-ansatsu-kyoushitsu-dublado-dublado-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "animesdigital",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ansatsu-kyoushitsu-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "ansatsu-kyoushitsu-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ansatsu-kyoushitsu-dublado"
+              }
+            ]
           },
           {
             "title": "ansatsu kyoushitsu 2 dublado",
             "slug": "ansatsu-kyoushitsu-2-dublado",
             "url": "https://animesdigital.org/anime/a/ansatsu-kyoushitsu-2-dublado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-ansatsu-kyoushitsu-2-dublado-dublado-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "animesdigital",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ansatsu-kyoushitsu-2-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "ansatsu-kyoushitsu-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ansatsu-kyoushitsu-2-dublado"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 48,
         "hasMore": true,
-        "total": 1678,
-        "cachedAt": 1783855981168,
+        "total": 1630,
+        "cachedAt": 1783884709102,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -121993,7 +122058,7 @@
           "fixHint": null
         }
       },
-      "at": 1783855984970
+      "at": 1783884712720
     },
     "todos|49||48": {
       "data": {
@@ -136838,5 +136903,5 @@
       "at": 1783884599096
     }
   },
-  "updatedAt": 1783884709938
+  "updatedAt": 1783884712720
 }
