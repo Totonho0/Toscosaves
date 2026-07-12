@@ -112168,6 +112168,14 @@
             "provider": "animeplay"
           },
           {
+            "title": "Shadows House",
+            "slug": "shadows-house",
+            "url": "https://animeplay.cloud/anime/shadows-house",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
             "title": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni",
             "slug": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
             "url": "https://animeplay.cloud/anime/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
@@ -112333,7 +112341,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1783855966310
+      "at": 1783884688740
     },
     "partner:animesdrive|todos|44||48": {
       "data": {
@@ -112383,6 +112391,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animesdrive.online/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Shadows House",
+            "slug": "shadows-house",
+            "url": "https://animesdrive.online/anime/shadows-house",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -112552,7 +112568,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1783855967576
+      "at": 1783884690175
     },
     "todos|44||120": {
       "data": {
@@ -112714,13 +112730,56 @@
             ]
           },
           {
+            "title": "Shiguang Dailiren: Yingdu Pian",
+            "slug": "shiguang-dailiren-yingdu-pian",
+            "url": "https://animesonline.cloud/anime/shiguang-dailiren-yingdu-pian",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/k966Cn9wChI9YCl9TcCwGH52A0W-185x278.jpg",
+            "rating": "8.2",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "shiguang-dailiren-yingdu-pian"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "shiguang-dailiren-yingdu-pian"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "shiguang-dailiren-yingdu-pian"
+              }
+            ]
+          },
+          {
             "title": "Shadows House",
             "slug": "shadows-house",
             "url": "https://animesonline.cloud/anime/shadows-house",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
             "rating": "8.027",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "shadows-house"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "shadows-house"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "shadows-house"
+              }
+            ]
           },
           {
             "title": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni",
@@ -113179,6 +113238,11 @@
                 "slug": "fruits-basket-2019"
               },
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fruits-basket-2001"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "fruits-basket-2019"
@@ -113187,6 +113251,11 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "fruits-basket-2019"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "fruits-basket-2001"
               }
             ]
           },
@@ -113219,11 +113288,10 @@
           {
             "title": "Dororo",
             "slug": "dororo",
-            "url": "https://animesonline.cloud/anime/dororo",
+            "url": "https://animesdrive.online/anime/dororo",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/05/yQQAP956eYxBEvLezPI1zYYv02S-185x278.jpg",
-            "rating": "8.5",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -113280,7 +113348,24 @@
             "url": "https://animesdigital.org/anime/a/neon-genesis-evangelion",
             "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-neon-genesis-evangelion-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "animesdigital",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "neon-genesis-evangelion"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "neon-genesis-evangelion"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "neon-genesis-evangelion"
+              }
+            ]
           },
           {
             "title": "neon genesis evangelion dublado",
@@ -113342,7 +113427,7 @@
             "title": "ninin ga shinobuden",
             "slug": "ninin-ga-shinobuden",
             "url": "https://animesdigital.org/anime/a/ninin-ga-shinobuden",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-ninin-ga-shinobuden-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -113350,7 +113435,7 @@
             "title": "nisekoi",
             "slug": "nisekoi",
             "url": "https://animesdigital.org/anime/a/nisekoi",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/assistir-nisekoi-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -113358,7 +113443,7 @@
             "title": "nisekoi 2",
             "slug": "nisekoi-2",
             "url": "https://animesdigital.org/anime/a/nisekoi-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/assistir-nisekoi-2-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -113366,7 +113451,7 @@
             "title": "no game no life",
             "slug": "no-game-no-life",
             "url": "https://animesdigital.org/anime/a/no-game-no-life",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-no-game-no-life-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -113374,7 +113459,7 @@
             "title": "no game no life zero",
             "slug": "no-game-no-life-zero",
             "url": "https://animesdigital.org/anime/a/no-game-no-life-zero",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/No-Game-no-Life-filme.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           }
@@ -113382,8 +113467,8 @@
         "category": "todos",
         "page": 44,
         "hasMore": true,
-        "total": 1551,
-        "cachedAt": 1783855964776,
+        "total": 1630,
+        "cachedAt": 1783884687231,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -113430,7 +113515,7 @@
           "fixHint": null
         }
       },
-      "at": 1783855968248
+      "at": 1783884690649
     },
     "todos|45||48": {
       "data": {
@@ -136522,5 +136607,5 @@
       "at": 1783884599096
     }
   },
-  "updatedAt": 1783884688175
+  "updatedAt": 1783884690649
 }
