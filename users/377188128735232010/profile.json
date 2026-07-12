@@ -197,6 +197,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9pUk91T3I3NGQweWRwZXBpUUhwa2Q1NDFUQWsuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "filme/assistir-a-lenda-de-aang-o-ultimo-mestre-do-ar-online": {
+      "slug": "filme/assistir-a-lenda-de-aang-o-ultimo-mestre-do-ar-online",
+      "title": "A Lenda de Aang: O Último Mestre do Ar",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9tVGRhZFBxamtjak9waFNzS1hMaVcyZmdMTW0uanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -323,9 +330,17 @@
     ],
     "kaguya-sama-wa-kokurasetai-otona-e-no-kaidan": [
       1
+    ],
+    "filme/assistir-a-lenda-de-aang-o-ultimo-mestre-do-ar-online": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "filme/assistir-a-lenda-de-aang-o-ultimo-mestre-do-ar-online",
+      "ep": 1,
+      "at": 1783871475317
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -614,5 +629,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783871312918
+  "updatedAt": 1783871475097
 }
