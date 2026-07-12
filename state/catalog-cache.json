@@ -90734,14 +90734,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/08/nnGb4NYOyRfCl5DKYPIK9A0Cgww-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Inazuma Eleven – Todos os Episódios",
-            "slug": "inazuma-eleven",
-            "url": "https://animesdrive.online/anime/inazuma-eleven",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/p0UiQl050IxYOZJ5u8tc7arG7kA-185x278.jpg.webp",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -90749,7 +90741,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1783804131289
+      "at": 1783832928492
     },
     "todos|34||120": {
       "data": {
@@ -90821,7 +90813,7 @@
             "url": "https://animesdigital.org/anime/a/youkoso-jitsuryoku-3",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3 – Todos os Episodios",
@@ -90996,7 +90988,7 @@
             "url": "https://animesdigital.org/anime/a/yubisaki-to-renren",
             "poster": "https://animesdigital.org/wp-content/uploads/2024/01/Yubisaki-to-Renren-Ep.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Yume Senshi Wingman – Todos os Episódios",
@@ -91119,7 +91111,7 @@
             "url": "https://animesdigital.org/anime/a/yuzuki-san-chi-no-yonkyoudai",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/10/Yuzuki-san-Chi-no-Yonkyoudai-categoria.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Z X: Ignition",
@@ -91153,7 +91145,7 @@
             "url": "https://animesdigital.org/anime/a/zanting-rang-wo-cha-gonglue",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/10/Zanting-Rang-Wo-Cha-Gonglue-categoria.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "ZatsuTabi -That’s Journey-",
@@ -91315,13 +91307,93 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "7,07"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesdrive.online/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              }
+            ]
+          },
+          {
+            "title": "Uzumaki – Todos os Episódios",
+            "slug": "uzumaki",
+            "url": "https://animesdrive.online/anime/uzumaki",
+            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "uzumaki"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "uzumaki"
+              }
+            ]
+          },
+          {
+            "title": "Hitoribocchi no Isekai Kouryaku",
+            "slug": "hitoribocchi-no-isekai-kouryaku",
+            "url": "https://animesdrive.online/anime/hitoribocchi-no-isekai-kouryaku",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 34,
-        "hasMore": false,
+        "hasMore": true,
         "total": 1628,
-        "cachedAt": 1783818298420,
+        "cachedAt": 1783832923990,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -91368,7 +91440,7 @@
           "fixHint": null
         }
       },
-      "at": 1783818298506
+      "at": 1783832928772
     },
     "todos|35||48": {
       "data": {
@@ -91424,6 +91496,15 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Horimiya: Piece – Todos os Episódios",
+            "slug": "horimiya-the-missing-pieces",
+            "url": "https://animesonline.cloud/anime/horimiya-the-missing-pieces",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/08/nnGb4NYOyRfCl5DKYPIK9A0Cgww-185x278.jpg",
+            "rating": "7.552",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -91624,22 +91705,13 @@
             "rating": "6.7",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Kono Sekai wa Fukanzen Sugiru – Todos os Episodios",
-            "slug": "quality-assurance-in-another-world",
-            "url": "https://animesonline.cloud/anime/quality-assurance-in-another-world",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/07/am7dab5D46Pee5KH951qQrpXJy7-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 35,
         "hasMore": true
       },
-      "at": 1783804132291
+      "at": 1783832929795
     },
     "partner:anitube|todos|35||48": {
       "data": {
@@ -91794,7 +91866,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1783804132654
+      "at": 1783832930724
     },
     "partner:animesdigital|todos|35||48": {
       "data": {
@@ -91899,7 +91971,7 @@
             "title": "jormungand perfect order",
             "slug": "jormungand-perfect-order",
             "url": "https://animesdigital.org/anime/a/jormungand-perfect-order",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-jormungand-perfect-order-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -91907,7 +91979,7 @@
             "title": "joshi kausei",
             "slug": "joshi-kausei",
             "url": "https://animesdigital.org/anime/a/joshi-kausei",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-joshi-kausei-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -91915,7 +91987,7 @@
             "title": "joshikousei no mudazukai",
             "slug": "joshikousei-no-mudazukai",
             "url": "https://animesdigital.org/anime/a/joshikousei-no-mudazukai-todos-os-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/04/assistir-joshikousei-no-mudazukai-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -91923,7 +91995,7 @@
             "title": "joshiraku",
             "slug": "joshiraku",
             "url": "https://animesdigital.org/anime/a/joshiraku",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-joshiraku-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -91931,7 +92003,7 @@
             "title": "joukamachi no dandelion",
             "slug": "joukamachi-no-dandelion",
             "url": "https://animesdigital.org/anime/a/joukamachi-no-dandelion",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-joukamachi-no-dandelion-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -91939,7 +92011,7 @@
             "title": "jujutsu kaisen",
             "slug": "jujutsu-kaisen",
             "url": "https://animesdigital.org/anime/a/jujutsu-kaisen",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-jujutsu-kaisen-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -91947,7 +92019,7 @@
             "title": "jujutsu kaisen 0",
             "slug": "jujutsu-kaisen-0",
             "url": "https://animesdigital.org/anime/a/jujutsu-kaisen-0",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/jujutsu-kaisen-0-categoria.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -91955,7 +92027,7 @@
             "title": "junjou romantica",
             "slug": "junjou-romantica",
             "url": "https://animesdigital.org/anime/a/junjou-romantica",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-junjou-romantica-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -91963,7 +92035,7 @@
             "title": "junjou romantica ii",
             "slug": "junjou-romantica-ii",
             "url": "https://animesdigital.org/anime/a/junjou-romantica-ii",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-junjou-romantica-ii-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -91971,7 +92043,7 @@
             "title": "junjou romantica 3",
             "slug": "junjou-romantica-3",
             "url": "https://animesdigital.org/anime/a/junjou-romantica-3",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-junjou-romantica-3-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -91979,7 +92051,7 @@
             "title": "black clover mahou tei no ken movie",
             "slug": "black-clover-mahou-tei-no-ken-movie",
             "url": "https://animesdigital.org/anime/a/black-clover-mahou-tei-no-ken-movie",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/filme-BC.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -91987,7 +92059,7 @@
             "title": "junketsu no maria",
             "slug": "junketsu-no-maria",
             "url": "https://animesdigital.org/anime/a/junketsu-no-maria",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-junketsu-no-maria-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -91995,7 +92067,7 @@
             "title": "juuou mujin no fafnir",
             "slug": "juuou-mujin-no-fafnir",
             "url": "https://animesdigital.org/anime/a/juuou-mujin-no-fafnir",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-juuou-mujin-no-fafnir-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -92189,7 +92261,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1783804133118
+      "at": 1783832931010
     },
     "partner:animeplay|todos|35||48": {
       "data": {
@@ -92239,6 +92311,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Horimiya: Piece – Todos os Episódios",
+            "slug": "horimiya-the-missing-pieces",
+            "url": "https://animeplay.cloud/anime/horimiya-the-missing-pieces",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/08/nnGb4NYOyRfCl5DKYPIK9A0Cgww-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -92417,14 +92497,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/07/fzimxcor9pXS7rqogNf1iHsip3S-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Kono Sekai wa Fukanzen Sugiru – Todos os Episodios",
-            "slug": "quality-assurance-in-another-world",
-            "url": "https://animeplay.cloud/anime/quality-assurance-in-another-world",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2024/07/am7dab5D46Pee5KH951qQrpXJy7-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -92432,7 +92504,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1783804133807
+      "at": 1783832931354
     },
     "partner:animesdrive|todos|35||48": {
       "data": {
@@ -92482,6 +92554,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animesdrive.online/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Inazuma Eleven – Todos os Episódios",
+            "slug": "inazuma-eleven",
+            "url": "https://animesdrive.online/anime/inazuma-eleven",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/p0UiQl050IxYOZJ5u8tc7arG7kA-185x278.jpg.webp",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -92660,14 +92740,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/am7dab5D46Pee5KH951qQrpXJy7-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "NieR:Automata Ver1.1a – Todos os Episódios",
-            "slug": "nierautomata-ver1-1a",
-            "url": "https://animesdrive.online/anime/nierautomata-ver1-1a",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/qHSCYOXHV3EKXKkMxUvC9rGx4Av-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -92675,7 +92747,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1783804135511
+      "at": 1783832932573
     },
     "todos|35||120": {
       "data": {
@@ -92837,6 +92909,32 @@
             ]
           },
           {
+            "title": "Horimiya: Piece – Todos os Episódios",
+            "slug": "horimiya-the-missing-pieces",
+            "url": "https://animesonline.cloud/anime/horimiya-the-missing-pieces",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/08/nnGb4NYOyRfCl5DKYPIK9A0Cgww-185x278.jpg",
+            "rating": "7.552",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "horimiya-the-missing-pieces"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "horimiya-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "horimiya-the-missing-pieces"
+              }
+            ]
+          },
+          {
             "title": "Inazuma Eleven – Todos os Episódios",
             "slug": "inazuma-eleven",
             "url": "https://animesonline.cloud/anime/inazuma-eleven",
@@ -92848,6 +92946,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "inazuma-eleven"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "inazuma-eleven"
               },
               {
@@ -93406,11 +93509,10 @@
           {
             "title": "Kono Sekai wa Fukanzen Sugiru – Todos os Episodios",
             "slug": "quality-assurance-in-another-world",
-            "url": "https://animesonline.cloud/anime/quality-assurance-in-another-world",
+            "url": "https://animesdrive.online/anime/quality-assurance-in-another-world",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/am7dab5D46Pee5KH951qQrpXJy7-185x278.jpg",
-            "rating": "0",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -93430,14 +93532,6 @@
             ]
           },
           {
-            "title": "NieR:Automata Ver1.1a – Todos os Episódios",
-            "slug": "nierautomata-ver1-1a",
-            "url": "https://animesdrive.online/anime/nierautomata-ver1-1a",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/qHSCYOXHV3EKXKkMxUvC9rGx4Av-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
             "title": "jojo no kimyou na bouken 2000",
             "slug": "jojo-no-kimyou-na-bouken-2000",
             "url": "https://animesdigital.org/anime/a/jojo-no-kimyou-na-bouken-2000",
@@ -93451,7 +93545,24 @@
             "url": "https://animesdigital.org/anime/a/jojo-no-kimyou-na-bouken-2012",
             "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-jojo-no-kimyou-na-bouken-2012-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "animesdigital",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "jojo-no-kimyou-na-bouken-2012"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "jojo-no-kimyou-na-bouken-2012"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "jojo-no-kimyou-na-bouken-2012"
+              }
+            ]
           },
           {
             "title": "jojo no kimyou na bouken",
@@ -93537,7 +93648,7 @@
             "title": "jormungand perfect order",
             "slug": "jormungand-perfect-order",
             "url": "https://animesdigital.org/anime/a/jormungand-perfect-order",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-jormungand-perfect-order-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -93545,7 +93656,7 @@
             "title": "joshi kausei",
             "slug": "joshi-kausei",
             "url": "https://animesdigital.org/anime/a/joshi-kausei",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-joshi-kausei-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -93553,7 +93664,7 @@
             "title": "joshikousei no mudazukai",
             "slug": "joshikousei-no-mudazukai",
             "url": "https://animesdigital.org/anime/a/joshikousei-no-mudazukai-todos-os-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/04/assistir-joshikousei-no-mudazukai-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -93561,7 +93672,7 @@
             "title": "joshiraku",
             "slug": "joshiraku",
             "url": "https://animesdigital.org/anime/a/joshiraku",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-joshiraku-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -93569,7 +93680,7 @@
             "title": "joukamachi no dandelion",
             "slug": "joukamachi-no-dandelion",
             "url": "https://animesdigital.org/anime/a/joukamachi-no-dandelion",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-joukamachi-no-dandelion-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           }
@@ -93577,8 +93688,8 @@
         "category": "todos",
         "page": 35,
         "hasMore": true,
-        "total": 1205,
-        "cachedAt": 1783804132291,
+        "total": 1629,
+        "cachedAt": 1783832929795,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -93625,7 +93736,7 @@
           "fixHint": null
         }
       },
-      "at": 1783804135853
+      "at": 1783832932906
     },
     "todos|36||48": {
       "data": {
@@ -138579,5 +138690,5 @@
       "at": 1783806692985
     }
   },
-  "updatedAt": 1783832925648
+  "updatedAt": 1783832932906
 }
