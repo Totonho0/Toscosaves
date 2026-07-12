@@ -119009,14 +119009,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/12/aIdsCf6XAzR2AmylK8PF22RUw1D-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Death Note",
-            "slug": "death-note",
-            "url": "https://animesdrive.online/anime/death-note",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/05/chnG4pYo89weaBjXHJWvW68E35B-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -119024,7 +119016,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1783855979532
+      "at": 1783884706485
     },
     "todos|47||120": {
       "data": {
@@ -119203,6 +119195,11 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "danshi-koukousei-no-nichijou"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "danshi-koukousei-no-nichijou"
               }
             ]
           },
@@ -119247,14 +119244,29 @@
                 "slug": "hunter-x-hunter-2011"
               },
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hunter-x-hunter"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "hunter-x-hunter-2011"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "hunter-x-hunter"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "hunter-x-hunter-2011"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hunter-x-hunter"
               }
             ]
           },
@@ -119651,11 +119663,10 @@
           {
             "title": "Claymore",
             "slug": "claymore",
-            "url": "https://animesonline.cloud/anime/claymore",
+            "url": "https://animesdrive.online/anime/claymore",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/12/aIdsCf6XAzR2AmylK8PF22RUw1D-185x278.jpg",
-            "rating": "8.2",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -119677,11 +119688,16 @@
           {
             "title": "Death Note",
             "slug": "death-note",
-            "url": "https://animesdrive.online/anime/death-note",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/05/chnG4pYo89weaBjXHJWvW68E35B-185x278.jpg",
+            "url": "https://animeplay.cloud/anime/death-note",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/05/chnG4pYo89weaBjXHJWvW68E35B-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "animeplay",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "death-note"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -119716,7 +119732,24 @@
             "url": "https://animesdigital.org/anime/a/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/10/assistir-kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "animesdigital",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo"
+              }
+            ]
           },
           {
             "title": "hoshikuzu telepath",
@@ -119732,7 +119765,24 @@
             "url": "https://animesdigital.org/anime/a/houkago-shounen-hanako-kun",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/10/Houkago-Shounen-Hanako-kunEp.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "animesdigital",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "houkago-shounen-hanako-kun"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "houkago-shounen-hanako-kun"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "houkago-shounen-hanako-kun"
+              }
+            ]
           },
           {
             "title": "os under undergrounds 1a temporada",
@@ -119794,7 +119844,7 @@
             "title": "initial d fourth stage",
             "slug": "initial-d-fourth-stage",
             "url": "https://animesdigital.org/anime/a/initial-d-fourth-stage",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/10/assistir-initial-d-fourth-stage-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -119802,7 +119852,7 @@
             "title": "kusuriya no hitorigoto",
             "slug": "kusuriya-no-hitorigoto",
             "url": "https://animesdigital.org/anime/a/kusuriya-no-hitorigoto",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/10/Kusuriya-no-HitorigotoEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -119810,7 +119860,7 @@
             "title": "ghost in the shell stand alone complex",
             "slug": "ghost-in-the-shell-stand-alone-complex",
             "url": "https://animesdigital.org/anime/a/ghost-in-the-shell-stand-alone-complex",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/10/assistir-ghost-in-the-shell-stand-alone-complex-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -119818,7 +119868,7 @@
             "title": "tenchi muyou gxp paradise shidou hen",
             "slug": "tenchi-muyou-gxp-paradise-shidou-hen",
             "url": "https://animesdigital.org/anime/a/tenchi-muyou-gxp-paradise-shidou-hen",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/10/assistir-tenchi-muyou-gxp-paradise-shidou-hen-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -119826,7 +119876,7 @@
             "title": "baki the grappler saidai tournament hen",
             "slug": "baki-the-grappler-saidai-tournament-hen",
             "url": "https://animesdigital.org/anime/a/baki-the-grappler-saidai-tournament-hen",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/11/assistir-baki-the-grappler-saidai-tournament-hen-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           }
@@ -119834,8 +119884,8 @@
         "category": "todos",
         "page": 47,
         "hasMore": true,
-        "total": 1645,
-        "cachedAt": 1783855977093,
+        "total": 1630,
+        "cachedAt": 1783884703394,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -119882,7 +119932,7 @@
           "fixHint": null
         }
       },
-      "at": 1783855980469
+      "at": 1783884707190
     },
     "todos|48||48": {
       "data": {
@@ -119938,6 +119988,15 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Claymore",
+            "slug": "claymore",
+            "url": "https://animesonline.cloud/anime/claymore",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/aIdsCf6XAzR2AmylK8PF22RUw1D-185x278.jpg",
+            "rating": "8.2",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -120102,22 +120161,13 @@
             "rating": "8",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Samurai Pizza Cats",
-            "slug": "samurai-pizza-cats",
-            "url": "https://animesonline.cloud/anime/samurai-pizza-cats",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/05/dItdgGzcPP2KiDJ13qHVcCaXjLr-185x278.jpg",
-            "rating": "8.149",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 48,
         "hasMore": true
       },
-      "at": 1783855981168
+      "at": 1783884709102
     },
     "partner:anitube|todos|48||48": {
       "data": {
@@ -120377,7 +120427,7 @@
             "title": "haikyuu 3",
             "slug": "haikyuu-3",
             "url": "https://animesdigital.org/anime/a/haikyuu-3",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-haikyuu-3-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -120385,7 +120435,7 @@
             "title": "arifureta shokugyou de sekai saikyou",
             "slug": "arifureta-shokugyou-de-sekai-saikyou",
             "url": "https://animesdigital.org/anime/a/arifureta-shokugyou-de-sekai-saikyou",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/05/assistir-arifureta-shokugyou-de-sekai-saikyou-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -120393,7 +120443,7 @@
             "title": "ansatsu kyoushitsu dublado",
             "slug": "ansatsu-kyoushitsu-dublado",
             "url": "https://animesdigital.org/anime/a/ansatsu-kyoushitsu-dublado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-ansatsu-kyoushitsu-dublado-dublado-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -120401,7 +120451,7 @@
             "title": "ansatsu kyoushitsu 2 dublado",
             "slug": "ansatsu-kyoushitsu-2-dublado",
             "url": "https://animesdigital.org/anime/a/ansatsu-kyoushitsu-2-dublado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-ansatsu-kyoushitsu-2-dublado-dublado-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -120409,7 +120459,7 @@
             "title": "kekkai sensen",
             "slug": "kekkai-sensen",
             "url": "https://animesdigital.org/anime/a/kekkai-sensen",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/assistir-kekkai-sensen-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -120417,7 +120467,7 @@
             "title": "kekkai sensen dublado",
             "slug": "kekkai-sensen-dublado",
             "url": "https://animesdigital.org/anime/a/kekkai-sensen-dublado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-kekkai-sensen-dublado-dublado-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -120425,7 +120475,7 @@
             "title": "kekkai sensen and beyond",
             "slug": "kekkai-sensen-and-beyond",
             "url": "https://animesdigital.org/anime/a/kekkai-sensen-and-beyond",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-kekkai-sensen-and-beyond-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -120433,7 +120483,7 @@
             "title": "kekkai sensen and beyond 2",
             "slug": "kekkai-sensen-and-beyond-2",
             "url": "https://animesdigital.org/anime/a/kekkai-sensen-and-beyond-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/12/Kekkai-Sensen-and-Beyond-dublado-categoria.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -120441,7 +120491,7 @@
             "title": "record of ragnarok 2",
             "slug": "record-of-ragnarok-2",
             "url": "https://animesdigital.org/anime/a/record-of-ragnarok-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-record-of-ragnarok-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -120449,7 +120499,7 @@
             "title": "record of ragnarok",
             "slug": "record-of-ragnarok",
             "url": "https://animesdigital.org/anime/a/record-of-ragnarok",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-record-of-ragnarok-dublado-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -120457,7 +120507,7 @@
             "title": "shuumatsu no valkyrie ii",
             "slug": "shuumatsu-no-valkyrie-ii",
             "url": "https://animesdigital.org/anime/a/shuumatsu-no-valkyrie-ii",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/12/Shuumatsu-no-Valkyrie-2-categoria.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -120465,7 +120515,7 @@
             "title": "date a live",
             "slug": "date-a-live",
             "url": "https://animesdigital.org/anime/a/date-a-live",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-date-a-live-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -120473,7 +120523,7 @@
             "title": "date a live ii",
             "slug": "date-a-live-ii",
             "url": "https://animesdigital.org/anime/a/date-a-live-ii",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-date-a-live-ii-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -120481,7 +120531,7 @@
             "title": "hunter x hunter",
             "slug": "hunter-x-hunter",
             "url": "https://animesdigital.org/anime/a/hunter-x-hunter",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-hunter-x-hunter-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -120489,7 +120539,7 @@
             "title": "ao no kanata no four rhythm",
             "slug": "ao-no-kanata-no-four-rhythm",
             "url": "https://animesdigital.org/anime/a/ao-no-kanata-no-four-rhythm",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-ao-no-kanata-no-four-rhythm-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -120497,7 +120547,7 @@
             "title": "toradora",
             "slug": "toradora",
             "url": "https://animesdigital.org/anime/a/toradora",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-toradora-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -120529,7 +120579,7 @@
             "title": "ao no exorcist 3",
             "slug": "ao-no-exorcist-3",
             "url": "https://animesdigital.org/anime/a/ao-no-exorcist-3",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/12/Ao-no-Exorcist-IIIEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -120593,7 +120643,7 @@
             "title": "dr stone dublado",
             "slug": "dr-stone-dublado",
             "url": "https://animesdigital.org/anime/a/dr-stone-dublado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-dr-stone-dublado-dublado-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -120601,7 +120651,7 @@
             "title": "dr stone stone wars dublado",
             "slug": "dr-stone-stone-wars-dublado",
             "url": "https://animesdigital.org/anime/a/dr-stone-stone-wars-dublado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2022/01/assistir-dr-stone-stone-wars-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -120609,7 +120659,7 @@
             "title": "dr stone new world 2",
             "slug": "dr-stone-new-world-2",
             "url": "https://animesdigital.org/anime/a/dr-stone-new-world-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/03/Dr.-Stone-New-World.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -120617,7 +120667,7 @@
             "title": "dr stone new world part 2 2",
             "slug": "dr-stone-new-world-part-2-2",
             "url": "https://animesdigital.org/anime/a/dr-stone-new-world-part-2-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/10/assistir-dr-stone-new-world-part-2-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -120667,7 +120717,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1783855982280
+      "at": 1783884709938
     },
     "partner:animeplay|todos|48||48": {
       "data": {
@@ -136788,5 +136838,5 @@
       "at": 1783884599096
     }
   },
-  "updatedAt": 1783884704908
+  "updatedAt": 1783884709938
 }
