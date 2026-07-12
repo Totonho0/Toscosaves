@@ -86533,6 +86533,14 @@
             "provider": "animesdrive"
           },
           {
+            "title": "The Idolmaster Shiny Colors 2 – Todos os Episódios",
+            "slug": "the-idolmaster-shiny-colors-2",
+            "url": "https://animesdrive.online/anime/the-idolmaster-shiny-colors-2-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/bynJr3uiSuWrT72Db3XcguOgAG.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Another Journey to the West – Todos os Episódios",
             "slug": "another-journey-to-the-west",
             "url": "https://animesdrive.online/anime/another-journey-to-the-west",
@@ -86707,14 +86715,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/02/eanhJgkvsqGPf5Bot77kjuuZVco-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei – Todos os Episódios",
-            "slug": "yowai-5000-nen-no-soushoku-dragon-iwarenaki-jaryuu-nintei",
-            "url": "https://animesdrive.online/anime/yowai-5000-nen-no-soushoku-dragon-iwarenaki-jaryuu-nintei",
-            "poster": "https://image.tmdb.org/t/p/original/ptnP6pFkTzqn42bj2RgWiP67COK.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -86722,11 +86722,20 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1783804114821
+      "at": 1783832910447
     },
     "todos|32||120": {
       "data": {
         "items": [
+          {
+            "title": "Touhai: Ura Rate Mahjong Touhai Roku",
+            "slug": "touhai-ura-rate-mahjong-touhai-roku",
+            "url": "https://animesonline.cloud/anime/touhai-ura-rate-mahjong-touhai-roku",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/qhyrIN7Bt7zFRaEaImZr35m7vMv-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
           {
             "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
             "slug": "toujima-tanzaburou-wa-kamen-rider-ni-naritai",
@@ -86854,6 +86863,11 @@
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "trigun-stargaze-2"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -87005,7 +87019,7 @@
             "url": "https://animesdigital.org/anime/a/tsuki-ga-michibiku-isekai-douchuu-2nd-season",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Tsuki ga Michibiku Isekai Douchuu Dublado",
@@ -87084,7 +87098,7 @@
             "url": "https://animesdigital.org/anime/a/uchi-no-kaisha-no-chiisai-senpai-no-hanashi",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Uchi no Otouto-domo ga Sumimasen",
@@ -87093,7 +87107,24 @@
             "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/sFSwNfxWxDGAjfbbzEJYz9BUIbC-185x278.jpg",
             "rating": "6.65",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "uchi-no-otouto-domo-ga-sumimasen"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "uchi-no-otouto-domo-ga-sumimasen"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "uchi-no-otouto-domo-ga-sumimasen"
+              }
+            ]
           },
           {
             "title": "Uchuujin MuuMuu",
@@ -87162,7 +87193,7 @@
             "url": "https://animesdigital.org/anime/a/ultraman-nexus",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Ultraman Omega",
@@ -87179,7 +87210,7 @@
             "url": "https://animesdigital.org/anime/a/ultraman-x",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Uma Musume: Cinderella Gray",
@@ -87196,7 +87227,7 @@
             "url": "https://animesdigital.org/anime/a/umibe-no-etranger",
             "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-umibe-no-etranger-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Undead Girl Murder Farce – Todos os Episódios",
@@ -87300,7 +87331,7 @@
             "url": "https://animesdigital.org/anime/a/urusei-yatsura-2022-2nd-season-todos-os-episodios",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Uruwashi no Yoi no Tsuki",
@@ -87318,7 +87349,24 @@
             "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/dPrT17JVRuzYkD9OGkXjMHDNOjw-185x278.jpg",
             "rating": "6.03",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ushiro-no-shoumen-kamui-san"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "ushiro-no-shoumen-kamui-san"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ushiro-no-shoumen-kamui-san"
+              }
+            ]
           },
           {
             "title": "Utagoe wa Mille-Feuille",
@@ -87354,22 +87402,13 @@
                 "slug": "uzumaki"
               }
             ]
-          },
-          {
-            "title": "Uzumaki Dublado – Todos os Episódios",
-            "slug": "uzumaki-dublado",
-            "url": "https://animesonline.cloud/anime/uzumaki-dublado",
-            "poster": "https://image.tmdb.org/t/p/original/yTzzTT36XXOqkxY2fwT0kOPAie1.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 32,
         "hasMore": true,
-        "total": 1628,
-        "cachedAt": 1783818296489,
+        "total": 1629,
+        "cachedAt": 1783832903616,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -87416,7 +87455,7 @@
           "fixHint": null
         }
       },
-      "at": 1783818296567
+      "at": 1783832910769
     },
     "todos|33||48": {
       "data": {
@@ -138526,5 +138565,5 @@
       "at": 1783806692985
     }
   },
-  "updatedAt": 1783832905131
+  "updatedAt": 1783832910769
 }
