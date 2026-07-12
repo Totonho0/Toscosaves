@@ -1073,6 +1073,26 @@
         "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8wNS9hc3Npc3Rpci1hc2hpdGEtbm8tbmFkamEtZHVibGFkby10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaW1lcy1vbmxpbmUuanBn",
         "episodeUrl": "https://animesdigital.org/video/a/74353/"
       }
+    },
+    "anime:chainsmoker-cat:1": {
+      "at": 1783855261725,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/w/chainsmoker-cat/01.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdrive.online/episodio/yani-neko-episodio-01",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fw%2Fchainsmoker-cat%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "chainsmoker-cat",
+        "kind": "anime",
+        "provider": "animesdigital",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xN0hkcDhuQTVmaUdQOWxMSGFYdkFpS2w3UkYuanBn",
+        "episodeUrl": "https://animesdrive.online/episodio/yani-neko-episodio-01"
+      }
     }
   }
 }
