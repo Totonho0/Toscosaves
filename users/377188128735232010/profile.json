@@ -176,6 +176,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8zWEFHZ2tsS2tKaHY1TTltNU5rZmhCWWI3bDguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita": {
+      "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita",
+      "title": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94dEQydkFWT0dVbW13RzFkYUVjRWRMVWxobkcuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -288,9 +295,17 @@
     "akame-ga-kill-dublado": [
       1,
       2
+    ],
+    "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita",
+      "ep": 1,
+      "at": 1783855844764
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -544,5 +559,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783855825247
+  "updatedAt": 1783855845293
 }
