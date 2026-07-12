@@ -76554,6 +76554,14 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Hana wa Saku, Shura no Gotoku",
+            "slug": "hana-wa-saku-shura-no-gotoku",
+            "url": "https://animesdrive.online/anime/hana-wa-saku-shura-no-gotoku",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/01/rvQlD3sjnsX3FG4rrt0jVece7Bm-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Unnamed Memory Act.2",
             "slug": "unnamed-memory-act-2",
             "url": "https://animesdrive.online/anime/unnamed-memory-act-2",
@@ -76736,14 +76744,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/01/qfdzcGkQ0j1YEYBO7XZctlFz6FY-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
-            "slug": "salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi",
-            "url": "https://animesdrive.online/anime/salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/01/ruNn68lcGc7z6rqGelM0uMswZ3e-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -76751,7 +76751,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1783855814947
+      "at": 1783884582308
     },
     "todos|28||120": {
       "data": {
@@ -76933,7 +76933,24 @@
             "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/oYVBc1fUzPNrBSrfOLSCSd9BYjL-185x278.jpg",
             "rating": "6.17",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha"
+              }
+            ]
           },
           {
             "title": "Sekiro: No Defeat",
@@ -76951,7 +76968,7 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/01/oBEAvOas18mlFbafLkh0ullEDtv-185x278.jpg.webp",
             "rating": "6.4",
             "kind": "anime",
-            "provider": "animesdigital",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -77058,6 +77075,11 @@
             "provider": "aoc",
             "animeSources": [
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "shadows-house"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "shadows-house"
@@ -77111,7 +77133,7 @@
             "url": "https://animesdigital.org/anime/a/shadowverse-flame-seven-shadows-hen",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/07/assistir-shadowverse-flame-seven-shadows-hen-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Shaman King: Flowers – Todos os Episodios",
@@ -77120,7 +77142,7 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/01/wxVkoCshNRJyB9vfKVHTXOIQQeF-185x278.jpg.webp",
             "rating": "7.5",
             "kind": "anime",
-            "provider": "animesdigital",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -77146,7 +77168,7 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2023/11/beg4GOY71HuaEdJ5yTR2ZXgf3mo-185x278.jpg.webp",
             "rating": "7.6",
             "kind": "anime",
-            "provider": "animesdigital",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -77354,7 +77376,7 @@
             "url": "https://animesdigital.org/anime/a/shin-no-nakama-ja-nai-to-yuusha",
             "poster": "https://animesdigital.org/wp-content/uploads/2021/11/assistir-shin-no-nakama-ja-nai-to-yuusha-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "shin no nakama ja nai to yuusha 2 2",
@@ -77362,7 +77384,7 @@
             "url": "https://animesdigital.org/anime/a/shin-no-nakama-ja-nai-to-yuusha-2-2",
             "poster": "https://animesdigital.org/wp-content/uploads/2024/01/Shin-no-Nakama-ja-Nai-to-Yuusha-2.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Shin Samurai-den Yaiba",
@@ -77604,8 +77626,8 @@
         "category": "todos",
         "page": 28,
         "hasMore": true,
-        "total": 1635,
-        "cachedAt": 1783870114793,
+        "total": 1630,
+        "cachedAt": 1783884579310,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -77652,7 +77674,7 @@
           "fixHint": null
         }
       },
-      "at": 1783870114888
+      "at": 1783884582669
     },
     "todos|29||48": {
       "data": {
@@ -77914,7 +77936,7 @@
         "page": 29,
         "hasMore": true
       },
-      "at": 1783870116526
+      "at": 1783884583567
     },
     "partner:anitube|todos|29||48": {
       "data": {
@@ -78069,7 +78091,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1783855816266
+      "at": 1783884583990
     },
     "partner:animesdigital|todos|29||48": {
       "data": {
@@ -78174,7 +78196,7 @@
             "title": "boruto naruto next generations",
             "slug": "boruto-naruto-next-generations",
             "url": "https://animesdigital.org/anime/a/boruto-naruto-next-generations",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-boruto-naruto-next-generations-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -78182,7 +78204,7 @@
             "title": "berserk",
             "slug": "berserk",
             "url": "https://animesdigital.org/anime/a/berserk",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/05/assistir-berserk-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -78190,7 +78212,7 @@
             "title": "berserk 2016",
             "slug": "berserk-2016",
             "url": "https://animesdigital.org/anime/a/berserk-2016",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-berserk-2016-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -78198,7 +78220,7 @@
             "title": "berserk 2017",
             "slug": "berserk-2017",
             "url": "https://animesdigital.org/anime/a/berserk-2017",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-berserk-2017-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -78206,7 +78228,7 @@
             "title": "beyblade burst dynamite battle",
             "slug": "beyblade-burst-dynamite-battle",
             "url": "https://animesdigital.org/anime/a/beyblade-burst-dynamite-battle",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-beyblade-burst-dynamite-battle-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -78214,7 +78236,7 @@
             "title": "birdie wing golf girls story",
             "slug": "birdie-wing-golf-girls-story",
             "url": "https://animesdigital.org/anime/a/birdie-wing-golf-girls-story",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2022/04/assistir-birdie-wing-golf-girls-story-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -78222,7 +78244,7 @@
             "title": "black bullet",
             "slug": "black-bullet",
             "url": "https://animesdigital.org/anime/a/black-bullet",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-black-bullet-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -78230,7 +78252,7 @@
             "title": "black lagoon",
             "slug": "black-lagoon",
             "url": "https://animesdigital.org/anime/a/black-lagoon",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-black-lagoon-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -78238,7 +78260,7 @@
             "title": "black lagoon the second barrage",
             "slug": "black-lagoon-the-second-barrage",
             "url": "https://animesdigital.org/anime/a/black-lagoon-the-second-barrage",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-black-lagoon-the-second-barrage-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -78246,7 +78268,7 @@
             "title": "black lagoon robertas blood trail",
             "slug": "black-lagoon-robertas-blood-trail",
             "url": "https://animesdigital.org/anime/a/black-lagoon-robertas-blood-trail",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-black-lagoon-robertas-blood-trail-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -78254,7 +78276,7 @@
             "title": "black rock shooter",
             "slug": "black-rock-shooter",
             "url": "https://animesdigital.org/anime/a/black-rock-shooter",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/05/assistir-black-rock-shooter-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -78262,7 +78284,7 @@
             "title": "black rock shooter dawn fall",
             "slug": "black-rock-shooter-dawn-fall",
             "url": "https://animesdigital.org/anime/a/black-rock-shooter-dawn-fall",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2022/04/assistir-black-rock-shooter-dawn-fall-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -78464,7 +78486,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1783855816656
+      "at": 1783884584516
     },
     "partner:animeplay|todos|29||48": {
       "data": {
@@ -78514,6 +78536,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Izure Saikyou no Renkinjutsushi?",
+            "slug": "izure-saikyou-no-renkinjutsushi",
+            "url": "https://animeplay.cloud/anime/izure-saikyou-no-renkinjutsushi",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/01/qfdzcGkQ0j1YEYBO7XZctlFz6FY-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -78684,14 +78714,6 @@
             "poster": "https://image.tmdb.org/t/p/original/4ZnSRAdtpNkp1iQMYXG4WTIPYwF.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Zero no Tsukaima: Princesses no Rondo – Todos os Episódios",
-            "slug": "zero-no-tsukaima-princesses-no-rondo",
-            "url": "https://animeplay.cloud/anime/zero-no-tsukaima-princesses-no-rondo-todos-os-episodios",
-            "poster": "https://image.tmdb.org/t/p/original/we7TXqImueNbE5k1op9S5HDkNoh.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -78699,7 +78721,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1783855817258
+      "at": 1783884585057
     },
     "partner:animesdrive|todos|29||48": {
       "data": {
@@ -135862,5 +135884,5 @@
       "at": 1783874162052
     }
   },
-  "updatedAt": 1783884580737
+  "updatedAt": 1783884585057
 }
