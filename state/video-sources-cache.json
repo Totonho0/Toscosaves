@@ -892,6 +892,43 @@
         "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci13YXRhc2hpLWdhLW1vdGVuYWktbm8td2EtZG91LWthbmdhZXRlbW8tb21hZXJhLWdhLXdhcnVpLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pbWVzZGlnaXRhbC5qcGc",
         "episodeUrl": "https://animesdigital.org/video/a/39042/"
       }
+    },
+    "anime:grand-blue-season-3:1": {
+      "at": 1783849027218,
+      "data": {
+        "sources": [
+          {
+            "type": "embed",
+            "src": "https://www.blogger.com/video.g?token=AD6v5dyIGvw1UIy4Fja6fCJJJ-Wq5n5uGhpD4PoRqtGdKg0dqd6Fr49EjSGRZmrzL26qGpVM3HF-0mS6yivK7RBIyo0UbuEk0n39_8LZwO_5Sr1L-Ixdp1j0uex0aUKDiJPdgBZ_jEw",
+            "label": "Mobile / Celular",
+            "playUrl": "https://www.blogger.com/video.g?token=AD6v5dyIGvw1UIy4Fja6fCJJJ-Wq5n5uGhpD4PoRqtGdKg0dqd6Fr49EjSGRZmrzL26qGpVM3HF-0mS6yivK7RBIyo0UbuEk0n39_8LZwO_5Sr1L-Ixdp1j0uex0aUKDiJPdgBZ_jEw"
+          },
+          {
+            "type": "hls",
+            "src": "https://ccdn.xyz/stream.php?f=Letra-G/Grand-Blue-Season-3/01/playlist.m3u8&e=1846433136&t=a5878a068a413296590205767663e5204cabb2f4f808f9bcce6aa8d436ced941",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fccdn.xyz%2Fstream.php%3Ff%3DLetra-G%2FGrand-Blue-Season-3%2F01%2Fplaylist.m3u8%26e%3D1846433136%26t%3Da5878a068a413296590205767663e5204cabb2f4f808f9bcce6aa8d436ced941&ref=aoc"
+          },
+          {
+            "type": "embed",
+            "src": "https://animeshd.cloud/#iusrzz",
+            "label": "FHD",
+            "playUrl": "https://animeshd.cloud/#iusrzz"
+          },
+          {
+            "type": "embed",
+            "src": "https://animes.strp2p.com/#l8rwno",
+            "label": "FHD",
+            "playUrl": "https://animes.strp2p.com/#l8rwno"
+          }
+        ],
+        "episode": 1,
+        "slug": "grand-blue-season-3",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/pJqAgDico7ZTMAfAXyzldYqj5ME.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/grand-blue-season-3-episodio-01"
+      }
     }
   }
 }
