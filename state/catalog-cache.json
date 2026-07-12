@@ -88539,6 +88539,14 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei – Todos os Episódios",
+            "slug": "yowai-5000-nen-no-soushoku-dragon-iwarenaki-jaryuu-nintei",
+            "url": "https://animesdrive.online/anime/yowai-5000-nen-no-soushoku-dragon-iwarenaki-jaryuu-nintei",
+            "poster": "https://image.tmdb.org/t/p/original/ptnP6pFkTzqn42bj2RgWiP67COK.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Rekishi ni Nokoru Akujo ni Naru zo – Todos os Episódios",
             "slug": "rekishi-ni-nokoru-akujo-ni-naru-zo",
             "url": "https://animesdrive.online/anime/rekishi-ni-nokoru-akujo-ni-naru-zo",
@@ -88704,11 +88712,20 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1783804124680
+      "at": 1783832921808
     },
     "todos|33||120": {
       "data": {
         "items": [
+          {
+            "title": "Uzumaki Dublado – Todos os Episódios",
+            "slug": "uzumaki-dublado",
+            "url": "https://animesonline.cloud/anime/uzumaki-dublado",
+            "poster": "https://image.tmdb.org/t/p/original/yTzzTT36XXOqkxY2fwT0kOPAie1.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
           {
             "title": "Vampire Dormitory – Todos os Episódios",
             "slug": "vampire-dormitory",
@@ -88741,7 +88758,7 @@
             "url": "https://animesdigital.org/anime/a/vampire-knight",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "vampire knight guilty",
@@ -88749,7 +88766,7 @@
             "url": "https://animesdigital.org/anime/a/vampire-knight-guilty",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Vinland Saga",
@@ -88872,7 +88889,7 @@
             "url": "https://animesdigital.org/anime/a/watashi-no-oshi-wa-akuyaku-reijou",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/10/assistir-watashi-no-oshi-wa-akuyaku-reijou-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Watashi no Shiawase na Kekkon 2",
@@ -89206,16 +89223,19 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/mVaXYoSvcMWwbbJXKvkZTPdWRkR-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "rating": "0"
-          },
-          {
-            "title": "Yani Neko",
-            "slug": "yani-neko",
-            "url": "https://animesonline.cloud/anime/yani-neko",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
-            "rating": "5",
-            "kind": "anime",
-            "provider": "aoc"
+            "rating": "0",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "chainsmoker-cat"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "yani-neko"
+              }
+            ]
           },
           {
             "title": "Yano-kun no Futsuu no Hibi",
@@ -89368,28 +89388,22 @@
             "provider": "aoc"
           },
           {
-            "title": "Yoroiden Samurai Troopers",
-            "slug": "yoroiden-samurai-troopers",
-            "url": "https://animesonline.cloud/anime/yoroiden-samurai-troopers",
-            "poster": "https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-185x278.jpg",
-            "rating": "7.944",
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "yoroiden-samurai-troopers"
-              },
               {
                 "server": 2,
                 "provider": "animesdrive",
-                "slug": "yoroiden-samurai-troopers"
+                "slug": "one-piece"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "yoroiden-samurai-troopers"
+                "slug": "one-piece"
               }
             ]
           }
@@ -89397,8 +89411,8 @@
         "category": "todos",
         "page": 33,
         "hasMore": true,
-        "total": 1628,
-        "cachedAt": 1783818297402,
+        "total": 1629,
+        "cachedAt": 1783832914203,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -89445,7 +89459,7 @@
           "fixHint": null
         }
       },
-      "at": 1783818297478
+      "at": 1783832922044
     },
     "todos|34||48": {
       "data": {
@@ -138565,5 +138579,5 @@
       "at": 1783806692985
     }
   },
-  "updatedAt": 1783832915828
+  "updatedAt": 1783832922044
 }
