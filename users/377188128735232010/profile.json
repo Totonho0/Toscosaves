@@ -169,6 +169,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xaU9uSVNWb2VsMnNuWWR4dWJkVEFaalk4WUUuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "akame-ga-kill-dublado": {
+      "slug": "akame-ga-kill-dublado",
+      "title": "Akame ga Kill! Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8zWEFHZ2tsS2tKaHY1TTltNU5rZmhCWWI3bDguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -277,9 +284,17 @@
     ],
     "black-torch-dublado": [
       1
+    ],
+    "akame-ga-kill-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "akame-ga-kill-dublado",
+      "ep": 1,
+      "at": 1783855352867
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -523,5 +538,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783855331160
+  "updatedAt": 1783855353084
 }
