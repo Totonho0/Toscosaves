@@ -1575,6 +1575,48 @@
           }
         }
       }
+    },
+    "thunder-3": {
+      "at": 1783849009251,
+      "data": {
+        "slug": "thunder-3",
+        "title": "Thunder 3",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9obzZGSGpGMUpsekFKOFlHZGJxd3V4YUVsRGouanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - TRÊS PEQUENOS",
+            "url": "https://animesonline.cloud/episodio/thunder-3-episodio-01"
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "anime",
+        "provider": "aoc",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Animação",
+          "Sci-Fi & Fantasia"
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "thunder-3",
+              "title": "Thunder 3",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "thunder-3-dublado",
+              "title": "Thunder 3 Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
     }
   }
 }
