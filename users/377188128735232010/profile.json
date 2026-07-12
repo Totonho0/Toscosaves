@@ -134,6 +134,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9uekh2VWdpdDI2aGNZVmo4bHlSR3hjdmp0anAuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "akuma-no-riddle": {
+      "slug": "akuma-no-riddle",
+      "title": "Akuma no Riddle",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9ldXk5RlE2Qk9CM3JjZzJBRTdZVkFvMTZrYWEuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -220,9 +227,17 @@
     ],
     "amagami-san-chi-no-enmusubi": [
       1
+    ],
+    "akuma-no-riddle": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "akuma-no-riddle",
+      "ep": 1,
+      "at": 1783843900847
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -416,5 +431,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783843886350
+  "updatedAt": 1783843901358
 }
