@@ -225,6 +225,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9lVUo3ZnVkZnJ6SXh4OFBKb2l0TnNtSzc0Y2UuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "zhan-shen-fanchen-shenyu-ii": {
+      "slug": "zhan-shen-fanchen-shenyu-ii",
+      "title": "Zhan Shen: Fanchen Shenyu II",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9hWkNpZG5raGlnWFVVZGhnTkRCMnFDU2FBd2wuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -366,9 +373,17 @@
     ],
     "badgirl": [
       1
+    ],
+    "zhan-shen-fanchen-shenyu-ii": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "zhan-shen-fanchen-shenyu-ii",
+      "ep": 1,
+      "at": 1783969509368
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -682,5 +697,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783969504177
+  "updatedAt": 1783969508086
 }
