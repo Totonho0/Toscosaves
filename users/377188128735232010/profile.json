@@ -239,6 +239,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvaHd3bUg4TklObGNDMW5xNm9iTDNhdHoySERZLTE4NXgyNzguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "ranma-½-2024-3rd-season": {
+      "slug": "ranma-½-2024-3rd-season",
+      "title": "Ranma ½ (2024) 3rd Season",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvZlNEekVwMVJuQmhUZ3lXbU9MUW9Pb281ZmRQLTE4NXgyNzguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -391,9 +398,17 @@
     ],
     "bocchi-the-rock-season-2": [
       1
+    ],
+    "ranma-½-2024-3rd-season": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "ranma-½-2024-3rd-season",
+      "ep": 1,
+      "at": 1783970576098
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -737,5 +752,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783970552105
+  "updatedAt": 1783970574804
 }
