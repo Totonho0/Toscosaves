@@ -253,6 +253,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xanhzU2p4N0FqZGlIdVBsVDJpSG5wY2Q1VUEuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado": {
+      "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado",
+      "title": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91d0RiSndEcnpNNlhxeDF5aDRsa2g4eFVzYnAuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -414,9 +421,17 @@
     ],
     "ame-to-kimi-to": [
       1
+    ],
+    "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado",
+      "ep": 1,
+      "at": 1783970996687
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -775,5 +790,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783970907705
+  "updatedAt": 1783970995368
 }
