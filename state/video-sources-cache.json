@@ -1844,6 +1844,43 @@
         "poster": "https://www.anitube.zip/wp-content/uploads/Yosuga-no-Sora-poster.jpg",
         "episodeUrl": "https://www.anitube.zip/video/8033/"
       }
+    },
+    "anime:chainsmoker-cat:2": {
+      "at": 1783969584958,
+      "data": {
+        "sources": [
+          {
+            "type": "embed",
+            "src": "https://www.blogger.com/video.g?token=AD6v5dwPqKgcreXcZIueZLI9guZ_8PFLNYjdVf3PkJnLMnABufuFAx9_gCCRmFyqtwJzKxgiXd2L526vBt5homSAYmdWSe9T706mata231pQuQAGwFJZtApuYMC2lasFI45NP9IxxI0",
+            "label": "Mobile / Celular",
+            "playUrl": "https://www.blogger.com/video.g?token=AD6v5dwPqKgcreXcZIueZLI9guZ_8PFLNYjdVf3PkJnLMnABufuFAx9_gCCRmFyqtwJzKxgiXd2L526vBt5homSAYmdWSe9T706mata231pQuQAGwFJZtApuYMC2lasFI45NP9IxxI0"
+          },
+          {
+            "type": "hls",
+            "src": "https://ccdn.xyz/stream.php?f=Letra-Y/Yani-Neko/02/playlist.m3u8&e=1846699731&t=057017b871b1b309cd0803a54635bbc106dbd0ee11aa42426a889acf3564a04d",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fccdn.xyz%2Fstream.php%3Ff%3DLetra-Y%2FYani-Neko%2F02%2Fplaylist.m3u8%26e%3D1846699731%26t%3D057017b871b1b309cd0803a54635bbc106dbd0ee11aa42426a889acf3564a04d&ref=aoc"
+          },
+          {
+            "type": "embed",
+            "src": "https://animeshd.cloud/#pnuudn",
+            "label": "FHD",
+            "playUrl": "https://animeshd.cloud/#pnuudn"
+          },
+          {
+            "type": "embed",
+            "src": "https://animes.strp2p.com/#idqlxi",
+            "label": "FHD",
+            "playUrl": "https://animes.strp2p.com/#idqlxi"
+          }
+        ],
+        "episode": 2,
+        "slug": "chainsmoker-cat",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/q7Hdp8nA5fiGP9lLHaXvAiKl7RF.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/yani-neko-episodio-02"
+      }
     }
   }
 }
