@@ -91177,7 +91177,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1783884635000
+      "at": 1783913434501
     },
     "todos|34||120": {
       "data": {
@@ -91594,7 +91594,7 @@
             "url": "https://animesdigital.org/anime/a/yuzuki-san-chi-no-yonkyoudai",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/10/Yuzuki-san-Chi-no-Yonkyoudai-categoria.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Z X: Ignition",
@@ -91628,7 +91628,7 @@
             "url": "https://animesdigital.org/anime/a/zanting-rang-wo-cha-gonglue",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/10/Zanting-Rang-Wo-Cha-Gonglue-categoria.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "ZatsuTabi -That’s Journey-",
@@ -91790,13 +91790,53 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "7,07"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesdrive.online/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 34,
-        "hasMore": false,
+        "hasMore": true,
         "total": 1630,
-        "cachedAt": 1783898901855,
+        "cachedAt": 1783913429498,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -91843,7 +91883,7 @@
           "fixHint": null
         }
       },
-      "at": 1783898901937
+      "at": 1783913434903
     },
     "todos|35||48": {
       "data": {
@@ -92114,7 +92154,7 @@
         "page": 35,
         "hasMore": true
       },
-      "at": 1783884637028
+      "at": 1783913435914
     },
     "partner:anitube|todos|35||48": {
       "data": {
@@ -92269,7 +92309,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1783884637505
+      "at": 1783913436873
     },
     "partner:animesdigital|todos|35||48": {
       "data": {
@@ -92470,7 +92510,7 @@
             "title": "juuou mujin no fafnir",
             "slug": "juuou-mujin-no-fafnir",
             "url": "https://animesdigital.org/anime/a/juuou-mujin-no-fafnir",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-juuou-mujin-no-fafnir-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -92478,7 +92518,7 @@
             "title": "juushin enbu hero tales",
             "slug": "juushin-enbu-hero-tales",
             "url": "https://animesdigital.org/anime/a/juushin-enbu-hero-tales",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-juushin-enbu-hero-tales-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -92494,7 +92534,7 @@
             "title": "k anime",
             "slug": "k-anime",
             "url": "https://animesdigital.org/anime/a/k-anime",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-k-anime-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -92502,7 +92542,7 @@
             "title": "k on",
             "slug": "k-on",
             "url": "https://animesdigital.org/anime/a/k-on",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/K-ON-categoria.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -92510,7 +92550,7 @@
             "title": "k on 2",
             "slug": "k-on-2",
             "url": "https://animesdigital.org/anime/a/k-on-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/assistir-k-on-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -92518,7 +92558,7 @@
             "title": "k return of kings",
             "slug": "k-return-of-kings",
             "url": "https://animesdigital.org/anime/a/k-return-of-kings",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/assistir-k-return-of-kings-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -92526,7 +92566,7 @@
             "title": "kabukichou sherlock",
             "slug": "kabukichou-sherlock",
             "url": "https://animesdigital.org/anime/a/kabukichou-sherlock",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-kabukichou-sherlock-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -92534,7 +92574,7 @@
             "title": "genjitsu no yohane sunshine in the mirror",
             "slug": "genjitsu-no-yohane-sunshine-in-the-mirror",
             "url": "https://animesdigital.org/anime/a/genjitsu-no-yohane-sunshine-in-the-mirror",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/Genjitsu-no-Yohane-Sunshine-in-the-MirrorEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -92542,7 +92582,7 @@
             "title": "kagewani",
             "slug": "kagewani",
             "url": "https://animesdigital.org/anime/a/kagewani",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-kagewani-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -92550,7 +92590,7 @@
             "title": "kagewani shou",
             "slug": "kagewani-shou",
             "url": "https://animesdigital.org/anime/a/kagewani-shou",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-kagewani-shou-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -92558,7 +92598,7 @@
             "title": "kaginado",
             "slug": "kaginado",
             "url": "https://animesdigital.org/anime/a/kaginado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/11/assistir-kaginado-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -92566,7 +92606,7 @@
             "title": "kaginado 2",
             "slug": "kaginado-2",
             "url": "https://animesdigital.org/anime/a/kaginado-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2022/04/assistir-kaginado-2-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -92664,7 +92704,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1783884638198
+      "at": 1783913436692
     },
     "partner:animeplay|todos|35||48": {
       "data": {
@@ -92907,7 +92947,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1783884638613
+      "at": 1783913437531
     },
     "partner:animesdrive|todos|35||48": {
       "data": {
@@ -138820,5 +138860,5 @@
       "at": 1783913400313
     }
   },
-  "updatedAt": 1783913431153
+  "updatedAt": 1783913437531
 }
