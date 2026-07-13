@@ -265,8 +265,7 @@
       "slug": "black-clover-dublado",
       "title": "Black Clover Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9wRDdYclUwZVZtOWpTVU5zak1URlN4blcxcncuanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     }
   },
   "watched": {
@@ -289,6 +288,9 @@
     ],
     "maou-sama-retry": [
       1
+    ],
+    "black-clover-dublado": [
+      170
     ]
   },
   "started": {
@@ -439,9 +441,39 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "maou-sama-retry",
+      "ep": 1,
+      "at": 1783971449573
+    },
+    {
+      "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
+      "ep": 1,
+      "at": 1783971449573
+    },
+    {
+      "slug": "chainsmoker-cat",
+      "ep": 1,
+      "at": 1783971449573
+    },
+    {
+      "slug": "tongari-boushi-no-atelier-dublado",
+      "ep": 3,
+      "at": 1783971449573
+    },
+    {
       "slug": "black-clover-dublado",
       "ep": 170,
-      "at": 1783971095389
+      "at": 1783971449573
+    },
+    {
+      "slug": "67043",
+      "ep": 1,
+      "at": 1783971449572
+    },
+    {
+      "slug": "8029",
+      "ep": 1,
+      "at": 1783971449572
     },
     {
       "slug": "black-clover-dublado",
@@ -452,36 +484,6 @@
       "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado",
       "ep": 1,
       "at": 1783970996687
-    },
-    {
-      "slug": "maou-sama-retry",
-      "ep": 1,
-      "at": 1783970909024
-    },
-    {
-      "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
-      "ep": 1,
-      "at": 1783970909024
-    },
-    {
-      "slug": "chainsmoker-cat",
-      "ep": 1,
-      "at": 1783970909024
-    },
-    {
-      "slug": "tongari-boushi-no-atelier-dublado",
-      "ep": 3,
-      "at": 1783970909024
-    },
-    {
-      "slug": "67043",
-      "ep": 1,
-      "at": 1783970909024
-    },
-    {
-      "slug": "8029",
-      "ep": 1,
-      "at": 1783970909024
     },
     {
       "slug": "1003466",
@@ -822,5 +824,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783971159257
+  "updatedAt": 1783971448299
 }
