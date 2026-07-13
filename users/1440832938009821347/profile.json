@@ -14,6 +14,13 @@
       "title": "Bleach: Sennen Kessen Hen - Soukoku Tan Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9rWlgwNWNkajhKcG9hMVpZMFpPTmkyMXZ2cTUuanBn",
       "kind": "anime"
+    },
+    "steinsgate-0": {
+      "slug": "steinsgate-0",
+      "title": "Steins;Gate 0 - Animes",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8wNC9hc3Npc3Rpci1zdGVpbnNnYXRlLTAtdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbmltZXMtb25saW5lLmpwZw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -21,8 +28,17 @@
       1
     ]
   },
-  "started": {},
+  "started": {
+    "steinsgate-0": [
+      1
+    ]
+  },
   "watchHistoryLog": [
+    {
+      "slug": "steinsgate-0",
+      "ep": 1,
+      "at": 1783986244946
+    },
     {
       "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado",
       "ep": 1,
@@ -45,5 +61,5 @@
   },
   "filmePlayback": {},
   "customLists": {},
-  "updatedAt": 1783986204842
+  "updatedAt": 1783986230232
 }
