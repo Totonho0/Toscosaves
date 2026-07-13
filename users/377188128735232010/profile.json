@@ -234,6 +234,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9hWkNpZG5raGlnWFVVZGhnTkRCMnFDU2FBd2wuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "bocchi-the-rock-season-2": {
+      "slug": "bocchi-the-rock-season-2",
+      "title": "Bocchi the Rock! Season 2",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvaHd3bUg4TklObGNDMW5xNm9iTDNhdHoySERZLTE4NXgyNzguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -382,9 +389,17 @@
     ],
     "zhan-shen-fanchen-shenyu-ii": [
       1
+    ],
+    "bocchi-the-rock-season-2": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "bocchi-the-rock-season-2",
+      "ep": 1,
+      "at": 1783969977564
+    },
     {
       "slug": "8029",
       "ep": 4,
@@ -723,5 +738,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783969931178
+  "updatedAt": 1783969976270
 }
