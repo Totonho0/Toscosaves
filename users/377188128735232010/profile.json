@@ -246,6 +246,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvZlNEekVwMVJuQmhUZ3lXbU9MUW9Pb281ZmRQLTE4NXgyNzguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "ame-to-kimi-to": {
+      "slug": "ame-to-kimi-to",
+      "title": "Ame to Kimi to",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xanhzU2p4N0FqZGlIdVBsVDJpSG5wY2Q1VUEuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -401,9 +408,17 @@
     ],
     "ranma-½-2024-3rd-season": [
       1
+    ],
+    "ame-to-kimi-to": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "ame-to-kimi-to",
+      "ep": 1,
+      "at": 1783970600229
+    },
     {
       "slug": "ranma-½-2024-3rd-season",
       "ep": 1,
@@ -752,5 +767,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783970574804
+  "updatedAt": 1783970598927
 }
