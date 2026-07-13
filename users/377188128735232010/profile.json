@@ -260,6 +260,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91d0RiSndEcnpNNlhxeDF5aDRsa2g4eFVzYnAuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "black-clover-dublado": {
+      "slug": "black-clover-dublado",
+      "title": "Black Clover Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9wRDdYclUwZVZtOWpTVU5zak1URlN4blcxcncuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -424,9 +431,17 @@
     ],
     "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado": [
       1
+    ],
+    "black-clover-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "black-clover-dublado",
+      "ep": 1,
+      "at": 1783971080097
+    },
     {
       "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado",
       "ep": 1,
@@ -790,5 +805,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783971001341
+  "updatedAt": 1783971078777
 }
