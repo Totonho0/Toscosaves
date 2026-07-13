@@ -80082,7 +80082,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1783913389423
+      "at": 1783942202363
     },
     "todos|29||120": {
       "data": {
@@ -80582,47 +80582,16 @@
             "url": "https://animesdigital.org/anime/a/sousou-no-frieren",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/09/Sousou-no-FrierenEp.jpg",
             "kind": "anime",
-            "provider": "animesdigital",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "sousou-no-frieren"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "frieren-beyond-journeys-end"
-              }
-            ]
-          },
-          {
-            "title": "Sousou no Frieren – Todos os Episódios",
-            "slug": "frieren-beyond-journeys-end",
-            "url": "https://animesonline.cloud/anime/frieren-beyond-journeys-end",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2023/09/Sousosu-no-Frieren-animesonline.cloud_-185x278.jpg",
-            "rating": "8.921",
-            "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "frieren-beyond-journeys-end"
+                "slug": "sousou-no-frieren"
               },
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "sousou-no-frieren"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "frieren-beyond-journeys-end"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
                 "slug": "frieren-beyond-journeys-end"
               }
             ]
@@ -80694,7 +80663,7 @@
             "url": "https://animesdigital.org/anime/a/spy-x-family-2-2",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/09/Spy-x-Family-2Ep.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Spy x Family 3",
@@ -80798,13 +80767,33 @@
             "rating": "8.569",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 29,
         "hasMore": true,
         "total": 1630,
-        "cachedAt": 1783927698829,
+        "cachedAt": 1783942197847,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -80851,7 +80840,7 @@
           "fixHint": null
         }
       },
-      "at": 1783927698919
+      "at": 1783942202881
     },
     "todos|3||24": {
       "data": {
@@ -138941,5 +138930,5 @@
       "at": 1783913400313
     }
   },
-  "updatedAt": 1783942199747
+  "updatedAt": 1783942202881
 }
