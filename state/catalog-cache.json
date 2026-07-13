@@ -91238,7 +91238,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1783913434501
+      "at": 1783942248869
     },
     "todos|34||120": {
       "data": {
@@ -91655,7 +91655,7 @@
             "url": "https://animesdigital.org/anime/a/yuzuki-san-chi-no-yonkyoudai",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/10/Yuzuki-san-Chi-no-Yonkyoudai-categoria.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Z X: Ignition",
@@ -91689,7 +91689,7 @@
             "url": "https://animesdigital.org/anime/a/zanting-rang-wo-cha-gonglue",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/10/Zanting-Rang-Wo-Cha-Gonglue-categoria.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "ZatsuTabi -That’s Journey-",
@@ -91851,13 +91851,53 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "7,07"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesdrive.online/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 34,
-        "hasMore": false,
+        "hasMore": true,
         "total": 1630,
-        "cachedAt": 1783927704065,
+        "cachedAt": 1783942243505,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -91904,7 +91944,7 @@
           "fixHint": null
         }
       },
-      "at": 1783927704166
+      "at": 1783942249278
     },
     "todos|35||48": {
       "data": {
@@ -92175,7 +92215,7 @@
         "page": 35,
         "hasMore": true
       },
-      "at": 1783913435914
+      "at": 1783942250297
     },
     "partner:anitube|todos|35||48": {
       "data": {
@@ -92330,7 +92370,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1783913436873
+      "at": 1783942250743
     },
     "partner:animesdigital|todos|35||48": {
       "data": {
@@ -92635,7 +92675,7 @@
             "title": "kaguya sama love is war 3",
             "slug": "kaguya-sama-love-is-war-3",
             "url": "https://animesdigital.org/anime/a/kaguya-sama-love-is-war-3",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/assistir-kaguya-sama-love-is-war-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -92643,7 +92683,7 @@
             "title": "kaguya sama love is war 2 2",
             "slug": "kaguya-sama-love-is-war-2-2",
             "url": "https://animesdigital.org/anime/a/kaguya-sama-love-is-war-2-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/Kaguya-sama-Love-is-War-2-categoria.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -92659,7 +92699,7 @@
             "title": "kaichou wa maid sama",
             "slug": "kaichou-wa-maid-sama",
             "url": "https://animesdigital.org/anime/a/kaichou-wa-maid-sama",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/assistir-kaichou-wa-maid-sama-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -92667,7 +92707,7 @@
             "title": "kaifuku jutsushi no yarinaoshi",
             "slug": "kaifuku-jutsushi-no-yarinaoshi",
             "url": "https://animesdigital.org/anime/a/kaifuku-jutsushi-no-yarinaoshi",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/assistir-kaifuku-jutsushi-no-yarinaoshi-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -92675,7 +92715,7 @@
             "title": "kaijin kaihatsubu no kuroitsu san",
             "slug": "kaijin-kaihatsubu-no-kuroitsu-san",
             "url": "https://animesdigital.org/anime/a/kaijin-kaihatsubu-no-kuroitsu-san",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2022/01/assistir-kaijin-kaihatsubu-no-kuroitsu-san-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -92683,7 +92723,7 @@
             "title": "kaijuu girls ultra kaijuu gijinka keikaku",
             "slug": "kaijuu-girls-ultra-kaijuu-gijinka-keikaku",
             "url": "https://animesdigital.org/anime/a/kaijuu-girls-ultra-kaijuu-gijinka-keikaku",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/Kaijuu-Girls-categoria.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -92691,7 +92731,7 @@
             "title": "kaizoku oujo",
             "slug": "kaizoku-oujo",
             "url": "https://animesdigital.org/anime/a/kaizoku-oujo",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-kaizoku-oujo-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -92699,7 +92739,7 @@
             "title": "kakegurui",
             "slug": "kakegurui",
             "url": "https://animesdigital.org/anime/a/kakegurui",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/assistir-kakegurui-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -92707,7 +92747,7 @@
             "title": "kakegurui 2",
             "slug": "kakegurui-2",
             "url": "https://animesdigital.org/anime/a/kakegurui-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/assistir-kakegurui-2-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -92715,7 +92755,7 @@
             "title": "kakkou no iinazuke",
             "slug": "kakkou-no-iinazuke",
             "url": "https://animesdigital.org/anime/a/kakkou-no-iinazuke",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2022/04/assistir-kakkou-no-iinazuke-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           }
@@ -92725,7 +92765,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1783913436692
+      "at": 1783942251132
     },
     "partner:animeplay|todos|35||48": {
       "data": {
@@ -92968,7 +93008,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1783913437531
+      "at": 1783942252286
     },
     "partner:animesdrive|todos|35||48": {
       "data": {
@@ -93211,7 +93251,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1783913439202
+      "at": 1783942253731
     },
     "todos|35||120": {
       "data": {
@@ -94141,7 +94181,7 @@
         "page": 35,
         "hasMore": true,
         "total": 1630,
-        "cachedAt": 1783913435914,
+        "cachedAt": 1783942250297,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -94188,7 +94228,7 @@
           "fixHint": null
         }
       },
-      "at": 1783913439561
+      "at": 1783942254095
     },
     "todos|36||48": {
       "data": {
@@ -94468,7 +94508,7 @@
         "page": 36,
         "hasMore": true
       },
-      "at": 1783913440548
+      "at": 1783942255083
     },
     "partner:anitube|todos|36||48": {
       "data": {
@@ -94623,7 +94663,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1783913440965
+      "at": 1783942256050
     },
     "partner:animesdigital|todos|36||48": {
       "data": {
@@ -94920,7 +94960,7 @@
             "title": "kemono friends",
             "slug": "kemono-friends",
             "url": "https://animesdigital.org/anime/a/kemono-friends",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/Kemono-Friends-categoria.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -94928,7 +94968,7 @@
             "title": "kemono friends 2",
             "slug": "kemono-friends-2",
             "url": "https://animesdigital.org/anime/a/kemono-friends-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/Kemono-Friends-2-categoria.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -94936,7 +94976,7 @@
             "title": "kemono jihen",
             "slug": "kemono-jihen",
             "url": "https://animesdigital.org/anime/a/kemono-jihen",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-kemono-jihen-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -94944,7 +94984,7 @@
             "title": "kemurikusa",
             "slug": "kemurikusa",
             "url": "https://animesdigital.org/anime/a/kemurikusa",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/assistir-kemurikusa-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -94952,7 +94992,7 @@
             "title": "ken en ken aoki kagayaki",
             "slug": "ken-en-ken-aoki-kagayaki",
             "url": "https://animesdigital.org/anime/a/ken-en-ken-aoki-kagayaki",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/assistir-ken-en-ken-aoki-kagayaki-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -94960,7 +95000,7 @@
             "title": "kengan ashura",
             "slug": "kengan-ashura",
             "url": "https://animesdigital.org/anime/a/kengan-ashura",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-kengan-ashura-dublado-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -94968,7 +95008,7 @@
             "title": "kengan ashura 2nd season 2",
             "slug": "kengan-ashura-2nd-season-2",
             "url": "https://animesdigital.org/anime/a/kengan-ashura-2nd-season-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-kengan-ashura-2nd-season-dublado-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -94976,7 +95016,7 @@
             "title": "kenja no deshi o nanoru kenja",
             "slug": "kenja-no-deshi-o-nanoru-kenja",
             "url": "https://animesdigital.org/anime/a/kenja-no-deshi-o-nanoru-kenja",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2022/01/assistir-kenja-no-deshi-o-nanoru-kenja-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -94984,7 +95024,7 @@
             "title": "kenja no mago",
             "slug": "kenja-no-mago",
             "url": "https://animesdigital.org/anime/a/kenja-no-mago",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2022/10/kenja-no-mago.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -94992,7 +95032,7 @@
             "title": "kenzen robo daimidaler",
             "slug": "kenzen-robo-daimidaler",
             "url": "https://animesdigital.org/anime/a/kenzen-robo-daimidaler",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/Kenzen-Robo-Daimidaler-categoria.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -95000,7 +95040,7 @@
             "title": "keroro gunsou",
             "slug": "keroro-gunsou",
             "url": "https://animesdigital.org/anime/a/keroro-gunsou",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/Keroro-Gunsou-categoria.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -95008,7 +95048,7 @@
             "title": "kidou senshi gundam age",
             "slug": "kidou-senshi-gundam-age",
             "url": "https://animesdigital.org/anime/a/kidou-senshi-gundam-age",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/assistir-kidou-senshi-gundam-age-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           }
@@ -95018,7 +95058,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1783913441417
+      "at": 1783942255620
     },
     "partner:animeplay|todos|36||48": {
       "data": {
@@ -95269,7 +95309,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1783913442129
+      "at": 1783942256675
     },
     "partner:animesdrive|todos|36||48": {
       "data": {
@@ -138941,5 +138981,5 @@
       "at": 1783942213553
     }
   },
-  "updatedAt": 1783942245014
+  "updatedAt": 1783942256675
 }
