@@ -28,6 +28,13 @@
       "kind": "anime",
       "adult": false
     },
+    "1061868": {
+      "slug": "1061868",
+      "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu – Episódio 03",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL211c2hva3UtdGVuc2VpLWlpaS10aHVtYnBhZHJhMS5qcGc",
+      "kind": "anime",
+      "adult": false
+    },
     "chainsmoker-cat": {
       "slug": "chainsmoker-cat",
       "title": "Yani Neko",
@@ -258,6 +265,9 @@
     "1034362": [
       1
     ],
+    "1061868": [
+      2
+    ],
     "chainsmoker-cat": [
       1
     ],
@@ -349,6 +359,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "1061868",
+      "ep": 2,
+      "at": 1783959854842
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -652,5 +667,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1783959820826
+  "updatedAt": 1783959853989
 }
