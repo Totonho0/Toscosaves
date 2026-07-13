@@ -14358,7 +14358,7 @@
             "url": "https://animesdigital.org/anime/a/fate-strange-fake-whispers-of-dawn",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/07/Fate-strange-Fake-Whispers-of-Dawn-categoria.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "animesdigital"
           },
           {
             "title": "fate zero",
@@ -14581,6 +14581,42 @@
             ]
           },
           {
+            "title": "Fruits Basket (2019)",
+            "slug": "fruits-basket-2019",
+            "url": "https://animesonline.cloud/anime/fruits-basket-2019",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/wVe8vcSqpJjLib5TWer6kgkGjjM-185x278.jpg",
+            "rating": "7.9",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fruits-basket-2019"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fruits-basket-2001"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "fruits-basket-2019"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "fruits-basket-2019"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "fruits-basket-2001"
+              }
+            ]
+          },
+          {
             "title": "Fruits Basket (2019) Dublado",
             "slug": "fruits-basket-2019-dublado",
             "url": "https://animesonline.cloud/anime/fruits-basket-2019-dublado",
@@ -14774,7 +14810,7 @@
             "title": "fullmetal alchemist the conqueror of shamballa",
             "slug": "fullmetal-alchemist-the-conqueror-of-shamballa",
             "url": "https://animesdigital.org/anime/a/fullmetal-alchemist-the-conqueror-of-shamballa",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2024/01/Fullmetal-Alchemist-filme-1-categoria.jpg",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
@@ -14794,7 +14830,7 @@
             "title": "fullmetal alchemist the sacred star of milos",
             "slug": "fullmetal-alchemist-the-sacred-star-of-milos",
             "url": "https://animesdigital.org/anime/a/fullmetal-alchemist-the-sacred-star-of-milos",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2024/01/Fullmetal-Alchemist-filme-2-categoria.jpg",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
@@ -14998,38 +15034,13 @@
                 "slug": "fuufu-ijou-koibito-miman-dublado"
               }
             ]
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              },
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "one-piece"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 9,
         "hasMore": true,
         "total": 1630,
-        "cachedAt": 1783942102045,
+        "cachedAt": 1783956481566,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -15076,7 +15087,7 @@
           "fixHint": null
         }
       },
-      "at": 1783942105245
+      "at": 1783956481661
     },
     "todos|10||120": {
       "data": {
@@ -35466,6 +35477,15 @@
             "provider": "aoc"
           },
           {
+            "title": "Niwatori Fighter",
+            "slug": "niwatori-fighter",
+            "url": "https://animesonline.cloud/anime/niwatori-fighter",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/03/iCtbr0sIdaKZjhQH3Wr7hW6A1IU-185x278.jpg",
+            "rating": "6.79",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Tsuki ga Michibiku Isekai Douchuu 2",
             "slug": "tsuki-ga-michibiku-isekai-douchuu-2",
             "url": "https://animesonline.cloud/anime/tsuki-ga-michibiku-isekai-douchuu-2",
@@ -35671,22 +35691,13 @@
             "rating": "8.4",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Hime-sama Goumon no Jikan desu 2",
-            "slug": "hime-sama-goumon-no-jikan-desu-2",
-            "url": "https://animesonline.cloud/anime/hime-sama-goumon-no-jikan-desu-2",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/01/37mrw26Yj3PD8MKLbG6m4Fh98dN-185x278.jpg",
-            "rating": "6.9",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 9,
         "hasMore": true
       },
-      "at": 1783942102045
+      "at": 1783956481566
     },
     "todos|10||48": {
       "data": {
@@ -138982,5 +138993,5 @@
       "at": 1783942213553
     }
   },
-  "updatedAt": 1783956479807
+  "updatedAt": 1783956481661
 }
