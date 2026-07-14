@@ -21,6 +21,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWFmcm8tc2FtdXJhaS10b2Rvcy1vcy1lcGlzb2Rpb3MtdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbml0dWJlLmpwZw",
       "kind": "anime"
     },
+    "76853": {
+      "slug": "76853",
+      "title": "Bleach – (Dublado)",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL0JsZWFjaC1kdWIuanBn",
+      "kind": "anime",
+      "adult": false
+    },
     "1034362": {
       "slug": "1034362",
       "title": "Android wa Keiken Ninzuu ni Hairimasu ka??",
@@ -304,6 +311,9 @@
       1,
       2
     ],
+    "76853": [
+      1
+    ],
     "993764": [
       1
     ],
@@ -440,6 +450,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "76853",
+      "ep": 1,
+      "at": 1784066375936
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -824,5 +839,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784066274356
+  "updatedAt": 1784066376200
 }
