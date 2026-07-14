@@ -21432,7 +21432,7 @@
         "page": 1,
         "hasMore": true,
         "total": 124,
-        "cachedAt": 1784002754217,
+        "cachedAt": 1784031536615,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -21479,7 +21479,7 @@
           "fixHint": null
         }
       },
-      "at": 1784002755398
+      "at": 1784031538319
     },
     "legendado|2||120": {
       "data": {
@@ -21794,10 +21794,22 @@
             "title": "Let’s Go Kaiki-gumi",
             "slug": "lets-go-kaikigumi",
             "url": "https://animesonline.cloud/anime/lets-go-kaikigumi",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/7Hr1zgpzUWdQ6EtE9sDrx7IRk7Y-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/7Hr1zgpzUWdQ6EtE9sDrx7IRk7Y-185x278.jpg",
             "rating": "6.11",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "lets-go-kaikigumi"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "lets-go-kaikigumi"
+              }
+            ]
           },
           {
             "title": "LIAR GAME",
@@ -22188,7 +22200,7 @@
         "page": 2,
         "hasMore": true,
         "total": 124,
-        "cachedAt": 1784002756329,
+        "cachedAt": 1784031539301,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -22235,7 +22247,7 @@
           "fixHint": null
         }
       },
-      "at": 1784002757935
+      "at": 1784031541123
     },
     "legendado|3||120": {
       "data": {
@@ -22266,6 +22278,11 @@
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -22502,7 +22519,124 @@
             "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/tS7mxwOZrbW5IhGUMjOvWIg0YlT-185x278.jpg",
             "rating": "6.86",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "saikyou-degarashi-ouji-no-anyaku-teii-arasoi"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "azur-lane-bisoku-zenshin-ni"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sayonara-lara"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "lets-go-kaiki-gumi"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "seihantai-na-kimi-to-boku-2nd-season"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tetsunabe-no-jan"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kabushikigaisha-magi-lumiere-2nd-season"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "grand-blue-season-3"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "suterare-seijo-no-isekai-gohan-tabi-kakure-skill-de-camping-car-wo-shoukan-shimashita"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "saikyou-degarashi-ouji-no-anyaku-teii-arasoi"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "azur-lane-bisoku-zenshin-ni"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sayonara-lara"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "lets-go-kaiki-gumi"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "seihantai-na-kimi-to-boku-2nd-season"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tetsunabe-no-jan"
+              }
+            ]
           },
           {
             "title": "Thunder 3",
@@ -22987,7 +23121,7 @@
         "page": 3,
         "hasMore": true,
         "total": 124,
-        "cachedAt": 1784002758830,
+        "cachedAt": 1784031542084,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -23034,7 +23168,7 @@
           "fixHint": null
         }
       },
-      "at": 1784002760864
+      "at": 1784031543971
     },
     "dublado|1||120": {
       "data": {
@@ -23887,7 +24021,7 @@
         "page": 1,
         "hasMore": true,
         "total": 108,
-        "cachedAt": 1784002761281,
+        "cachedAt": 1784031544409,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -23934,7 +24068,7 @@
           "fixHint": null
         }
       },
-      "at": 1784002763239
+      "at": 1784031546632
     },
     "dublado|2||120": {
       "data": {
@@ -24880,7 +25014,7 @@
         "page": 2,
         "hasMore": true,
         "total": 108,
-        "cachedAt": 1784002764174,
+        "cachedAt": 1784031547587,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -24927,7 +25061,7 @@
           "fixHint": null
         }
       },
-      "at": 1784002766105
+      "at": 1784031550045
     },
     "dublado|3||120": {
       "data": {
@@ -25672,7 +25806,7 @@
         "page": 3,
         "hasMore": true,
         "total": 108,
-        "cachedAt": 1784002767002,
+        "cachedAt": 1784031550967,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -25719,7 +25853,7 @@
           "fixHint": null
         }
       },
-      "at": 1784002768832
+      "at": 1784031553123
     },
     "partner:animesdigital|lancamentos|1||24": {
       "data": {
@@ -28041,7 +28175,7 @@
         "page": 1,
         "hasMore": true,
         "total": 121,
-        "cachedAt": 1784002749090,
+        "cachedAt": 1784031531502,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -28088,7 +28222,7 @@
           "fixHint": null
         }
       },
-      "at": 1784002751097
+      "at": 1784031533494
     },
     "lancamentos|2||120": {
       "data": {
@@ -29333,6 +29467,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
                 "slug": "tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken"
               },
               {
@@ -29344,11 +29483,6 @@
                 "server": 1,
                 "provider": "aoc",
                 "slug": "suterare-seijo-no-isekai-gohan-tabi-kakure-skill-de-camping-car-wo-shoukan-shimashita"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita"
               },
               {
                 "server": 1,
@@ -29898,7 +30032,7 @@
         "page": 2,
         "hasMore": true,
         "total": 121,
-        "cachedAt": 1784002751985,
+        "cachedAt": 1784031534481,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -29945,7 +30079,7 @@
           "fixHint": null
         }
       },
-      "at": 1784002753786
+      "at": 1784031536170
     },
     "todos|1||48": {
       "data": {
@@ -31059,7 +31193,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1784028281790
+      "at": 1784031531502
     },
     "lancamentos|1||24": {
       "data": {
@@ -107727,7 +107861,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002719834
+      "at": 1784031503581
     },
     "todos|43||120": {
       "data": {
@@ -108590,8 +108724,8 @@
         "category": "todos",
         "page": 43,
         "hasMore": true,
-        "total": 1768,
-        "cachedAt": 1784002716676,
+        "total": 1649,
+        "cachedAt": 1784031500381,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -108638,7 +108772,7 @@
           "fixHint": null
         }
       },
-      "at": 1784002720298
+      "at": 1784031503901
     },
     "todos|44||48": {
       "data": {
@@ -108882,7 +109016,7 @@
         "page": 44,
         "hasMore": true
       },
-      "at": 1784002721255
+      "at": 1784031504832
     },
     "partner:anitube|todos|44||48": {
       "data": {
@@ -109037,7 +109171,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002722177
+      "at": 1784031505242
     },
     "partner:animeplay|todos|44||48": {
       "data": {
@@ -109264,7 +109398,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002722609
+      "at": 1784031506276
     },
     "partner:animesdigital|todos|44||48": {
       "data": {
@@ -109886,7 +110020,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002724343
+      "at": 1784031507692
     },
     "todos|44||120": {
       "data": {
@@ -110591,19 +110725,9 @@
                 "slug": "fruits-basket-2019"
               },
               {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "fruits-basket-2001"
-              },
-              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "fruits-basket-2019"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "fruits-basket-2001"
               }
             ]
           },
@@ -110755,8 +110879,8 @@
         "category": "todos",
         "page": 44,
         "hasMore": true,
-        "total": 1785,
-        "cachedAt": 1784002721255,
+        "total": 1649,
+        "cachedAt": 1784031504832,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -110803,7 +110927,7 @@
           "fixHint": null
         }
       },
-      "at": 1784002724725
+      "at": 1784031507963
     },
     "todos|45||48": {
       "data": {
@@ -111020,7 +111144,7 @@
         "page": 45,
         "hasMore": true
       },
-      "at": 1784002725704
+      "at": 1784031508929
     },
     "partner:anitube|todos|45||48": {
       "data": {
@@ -111175,7 +111299,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002726097
+      "at": 1784031509339
     },
     "partner:animeplay|todos|45||48": {
       "data": {
@@ -111370,7 +111494,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002727060
+      "at": 1784031510399
     },
     "partner:animesdigital|todos|45||48": {
       "data": {
@@ -111960,7 +112084,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002728571
+      "at": 1784031511585
     },
     "todos|45||120": {
       "data": {
@@ -112139,16 +112263,6 @@
                 "server": 1,
                 "provider": "aoc",
                 "slug": "fruits-basket-2019"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "fruits-basket-2001"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "fruits-basket-2001"
               }
             ]
           },
@@ -112646,7 +112760,19 @@
             "url": "https://www.anitube.zip/video/998440/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-science-future-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dr-stone-science-future-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "998440"
+              }
+            ]
           },
           {
             "title": "Dr. Stone: Science Future Part 2 Dublado",
@@ -112710,7 +112836,19 @@
             "url": "https://www.anitube.zip/video/1001647/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dragon-ball-daima-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-daima-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1001647"
+              }
+            ]
           },
           {
             "title": "Dragon Ball Dublado",
@@ -112740,8 +112878,8 @@
         "category": "todos",
         "page": 45,
         "hasMore": true,
-        "total": 1803,
-        "cachedAt": 1784002725704,
+        "total": 1649,
+        "cachedAt": 1784031508929,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -112788,7 +112926,7 @@
           "fixHint": null
         }
       },
-      "at": 1784002729255
+      "at": 1784031512163
     },
     "todos|46||48": {
       "data": {
@@ -113050,7 +113188,7 @@
         "page": 46,
         "hasMore": true
       },
-      "at": 1784002730153
+      "at": 1784031513135
     },
     "partner:anitube|todos|46||48": {
       "data": {
@@ -113205,7 +113343,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002731061
+      "at": 1784031513536
     },
     "partner:animeplay|todos|46||48": {
       "data": {
@@ -113440,7 +113578,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002731541
+      "at": 1784031514603
     },
     "partner:animesdigital|todos|46||48": {
       "data": {
@@ -114070,7 +114208,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002733056
+      "at": 1784031516084
     },
     "todos|46||120": {
       "data": {
@@ -114832,6 +114970,11 @@
             "provider": "anitube",
             "animeSources": [
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "929169b001"
+              },
+              {
                 "server": 6,
                 "provider": "anitube",
                 "slug": "929169b001"
@@ -114851,6 +114994,11 @@
             "kind": "anime",
             "provider": "anitube",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "58259b001"
+              },
               {
                 "server": 6,
                 "provider": "anitube",
@@ -114979,8 +115127,8 @@
         "category": "todos",
         "page": 46,
         "hasMore": true,
-        "total": 1819,
-        "cachedAt": 1784002730153,
+        "total": 1649,
+        "cachedAt": 1784031513135,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -115027,7 +115175,7 @@
           "fixHint": null
         }
       },
-      "at": 1784002733327
+      "at": 1784031516290
     },
     "todos|47||48": {
       "data": {
@@ -115253,7 +115401,7 @@
         "page": 47,
         "hasMore": true
       },
-      "at": 1784002734234
+      "at": 1784031517167
     },
     "partner:anitube|todos|47||48": {
       "data": {
@@ -115408,7 +115556,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002734628
+      "at": 1784031517561
     },
     "partner:animeplay|todos|47||48": {
       "data": {
@@ -115611,7 +115759,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002735678
+      "at": 1784031518624
     },
     "partner:animesdigital|todos|47||48": {
       "data": {
@@ -116209,7 +116357,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002736653
+      "at": 1784031519764
     },
     "todos|47||120": {
       "data": {
@@ -116473,19 +116621,9 @@
                 "slug": "hunter-x-hunter-2011"
               },
               {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "hunter-x-hunter"
-              },
-              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "hunter-x-hunter-2011"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "hunter-x-hunter"
               }
             ]
           },
@@ -117030,8 +117168,8 @@
         "category": "todos",
         "page": 47,
         "hasMore": true,
-        "total": 1835,
-        "cachedAt": 1784002734234,
+        "total": 1649,
+        "cachedAt": 1784031517167,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -117078,7 +117216,7 @@
           "fixHint": null
         }
       },
-      "at": 1784002737287
+      "at": 1784031520264
     },
     "todos|48||48": {
       "data": {
@@ -117313,7 +117451,7 @@
         "page": 48,
         "hasMore": true
       },
-      "at": 1784002738235
+      "at": 1784031521244
     },
     "partner:anitube|todos|48||48": {
       "data": {
@@ -117468,7 +117606,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002738641
+      "at": 1784031521656
     },
     "partner:animeplay|todos|48||48": {
       "data": {
@@ -117679,7 +117817,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002739679
+      "at": 1784031522825
     },
     "partner:animesdigital|todos|48||48": {
       "data": {
@@ -118285,7 +118423,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002740909
+      "at": 1784031524082
     },
     "todos|48||120": {
       "data": {
@@ -119095,8 +119233,8 @@
         "category": "todos",
         "page": 48,
         "hasMore": true,
-        "total": 1851,
-        "cachedAt": 1784002738235,
+        "total": 1649,
+        "cachedAt": 1784031521244,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -119143,7 +119281,7 @@
           "fixHint": null
         }
       },
-      "at": 1784002741480
+      "at": 1784031524542
     },
     "todos|49||48": {
       "data": {
@@ -119405,7 +119543,7 @@
         "page": 49,
         "hasMore": true
       },
-      "at": 1784002742436
+      "at": 1784031525463
     },
     "partner:anitube|todos|49||48": {
       "data": {
@@ -119560,7 +119698,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002742843
+      "at": 1784031525857
     },
     "partner:animeplay|todos|49||48": {
       "data": {
@@ -119787,7 +119925,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002743932
+      "at": 1784031526807
     },
     "partner:animesdrive|todos|49||48": {
       "data": {
@@ -120022,7 +120160,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002745320
+      "at": 1784031528156
     },
     "partner:animesdigital|todos|49||48": {
       "data": {
@@ -121293,8 +121431,8 @@
         "category": "todos",
         "page": 49,
         "hasMore": true,
-        "total": 1868,
-        "cachedAt": 1784002742436,
+        "total": 1649,
+        "cachedAt": 1784031525463,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -121341,7 +121479,7 @@
           "fixHint": null
         }
       },
-      "at": 1784002745431
+      "at": 1784031528219
     },
     "partner:anitube|todos|50||48": {
       "data": {
@@ -121496,7 +121634,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002746730
+      "at": 1784031529559
     },
     "partner:animesdigital|todos|50||48": {
       "data": {
@@ -122451,7 +122589,7 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1886,
+        "total": 1649,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -122497,9 +122635,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1783974007139
+        "cachedAt": 1784002748009
       },
-      "at": 1784002748009
+      "at": 1784031530564
     },
     "partner:anitube|lancamentos|1||48": {
       "data": {
@@ -122670,7 +122808,7 @@
         "hasMore": false,
         "partnerId": "anitube"
       },
-      "at": 1784002749441
+      "at": 1784031531871
     },
     "partner:animesdigital|lancamentos|1||48": {
       "data": {
@@ -122809,7 +122947,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1784002750328
+      "at": 1784031532733
     },
     "partner:animeplay|lancamentos|1||48": {
       "data": {
@@ -123084,7 +123222,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002750473
+      "at": 1784031533441
     },
     "partner:animesdrive|lancamentos|1||48": {
       "data": {
@@ -123359,7 +123497,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002751038
+      "at": 1784031533055
     },
     "lancamentos|2||48": {
       "data": {
@@ -123633,7 +123771,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1784002751985
+      "at": 1784031534481
     },
     "partner:anitube|lancamentos|2||48": {
       "data": {
@@ -123804,7 +123942,7 @@
         "hasMore": false,
         "partnerId": "anitube"
       },
-      "at": 1784002752662
+      "at": 1784031535176
     },
     "partner:animeplay|lancamentos|2||48": {
       "data": {
@@ -124079,7 +124217,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002753249
+      "at": 1784031535865
     },
     "partner:animesdrive|lancamentos|2||48": {
       "data": {
@@ -124354,7 +124492,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002753735
+      "at": 1784031536120
     },
     "legendado|1||48": {
       "data": {
@@ -124580,7 +124718,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1784002754217
+      "at": 1784031536615
     },
     "partner:anitube|legendado|1||48": {
       "data": {
@@ -124735,7 +124873,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002754546
+      "at": 1784031536963
     },
     "partner:animeplay|legendado|1||48": {
       "data": {
@@ -124861,6 +124999,14 @@
             "provider": "animeplay"
           },
           {
+            "title": "Honoo no Toukyuujo: Dodge Danko",
+            "slug": "honoo-no-toukyuujo-dodge-danko",
+            "url": "https://animeplay.cloud/anime/honoo-no-toukyuujo-dodge-danko",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/sZvF473smAN0XktDRj50J8nwtaB-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
             "title": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
             "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
             "url": "https://animeplay.cloud/anime/buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
@@ -124881,14 +125027,6 @@
             "slug": "tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken",
             "url": "https://animeplay.cloud/anime/tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/tVsZgmz8GTnh1Br00HoWpR88ogt-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Honoo no Toukyuujo: Dodge Danko",
-            "slug": "honoo-no-toukyuujo-dodge-danko",
-            "url": "https://animeplay.cloud/anime/honoo-no-toukyuujo-dodge-danko",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/sZvF473smAN0XktDRj50J8nwtaB-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -124925,10 +125063,10 @@
             "provider": "animeplay"
           },
           {
-            "title": "AI no Idenshi",
-            "slug": "ai-no-idenshi",
-            "url": "https://animeplay.cloud/anime/ai-no-idenshi",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/wSAD5RS0LRvx7rqvCKEJlXbDOv1-185x278.jpg",
+            "title": "Let’s Go Kaiki-gumi",
+            "slug": "lets-go-kaikigumi",
+            "url": "https://animeplay.cloud/anime/lets-go-kaikigumi",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/7Hr1zgpzUWdQ6EtE9sDrx7IRk7Y-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           }
@@ -124938,7 +125076,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002755057
+      "at": 1784031537451
     },
     "partner:animesdrive|legendado|1||48": {
       "data": {
@@ -125141,7 +125279,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002755311
+      "at": 1784031538249
     },
     "legendado|2||48": {
       "data": {
@@ -125367,7 +125505,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1784002756329
+      "at": 1784031539301
     },
     "partner:anitube|legendado|2||48": {
       "data": {
@@ -125522,11 +125660,19 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002756664
+      "at": 1784031539662
     },
     "partner:animeplay|legendado|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Let’s Go Kaiki-gumi",
+            "slug": "lets-go-kaikigumi",
+            "url": "https://animeplay.cloud/anime/lets-go-kaikigumi",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/7Hr1zgpzUWdQ6EtE9sDrx7IRk7Y-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
           {
             "title": "Nijuuseiki Denki Mokuroku: Eureka Evrika",
             "slug": "nijuuseiki-denki-mokuroku-eureka-evrika",
@@ -125540,14 +125686,6 @@
             "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha",
             "url": "https://animeplay.cloud/anime/sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/oYVBc1fUzPNrBSrfOLSCSd9BYjL-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "AI no Idenshi",
-            "slug": "ai-no-idenshi",
-            "url": "https://animeplay.cloud/anime/ai-no-idenshi",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/wSAD5RS0LRvx7rqvCKEJlXbDOv1-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -125648,18 +125786,18 @@
             "provider": "animeplay"
           },
           {
-            "title": "Yani Neko",
-            "slug": "yani-neko",
-            "url": "https://animeplay.cloud/anime/yani-neko",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
             "title": "Kore Kaite Shine",
             "slug": "kore-kaite-shine",
             "url": "https://animeplay.cloud/anime/kore-kaite-shine",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/wyNF7ZhfyOihNwLponoegKK7xQQ-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Yani Neko",
+            "slug": "yani-neko",
+            "url": "https://animeplay.cloud/anime/yani-neko",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -125725,7 +125863,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002757569
+      "at": 1784031540582
     },
     "partner:animesdrive|legendado|2||48": {
       "data": {
@@ -125928,7 +126066,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002757878
+      "at": 1784031541069
     },
     "legendado|3||48": {
       "data": {
@@ -126091,7 +126229,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1784002758830
+      "at": 1784031542084
     },
     "partner:anitube|legendado|3||48": {
       "data": {
@@ -126246,7 +126384,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002759154
+      "at": 1784031542436
     },
     "partner:animeplay|legendado|3||48": {
       "data": {
@@ -126401,7 +126539,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002760124
+      "at": 1784031543341
     },
     "partner:animesdrive|legendado|3||48": {
       "data": {
@@ -126479,14 +126617,6 @@
             "provider": "animesdrive"
           },
           {
-            "title": "Otome Kaijuu Caraméliser",
-            "slug": "otome-kaijuu-carameliser",
-            "url": "https://animesdrive.online/anime/otome-kaijuu-carameliser",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/1JW6hx7sAU1qRpYSxXpYb9B2xaG-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
             "title": "World Is Dancing",
             "slug": "the-world-is-dancing",
             "url": "https://animesdrive.online/anime/the-world-is-dancing",
@@ -126503,18 +126633,18 @@
             "provider": "animesdrive"
           },
           {
-            "title": "Blue Lock 3",
-            "slug": "blue-lock-3",
-            "url": "https://animesdrive.online/anime/blue-lock-3",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/a6i8cVlkIQbHBrxoGFdOG47xtZu-185x278.jpg",
+            "title": "Otome Kaijuu Caraméliser",
+            "slug": "otome-kaijuu-carameliser",
+            "url": "https://animesdrive.online/anime/otome-kaijuu-carameliser",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/1JW6hx7sAU1qRpYSxXpYb9B2xaG-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
           {
-            "title": "Koukaku Kidouta",
-            "slug": "koukaku-kidouta",
-            "url": "https://animesdrive.online/anime/koukaku-kidouta",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
+            "title": "Blue Lock 3",
+            "slug": "blue-lock-3",
+            "url": "https://animesdrive.online/anime/blue-lock-3",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/a6i8cVlkIQbHBrxoGFdOG47xtZu-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -126535,6 +126665,14 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Koukaku Kidouta",
+            "slug": "koukaku-kidouta",
+            "url": "https://animesdrive.online/anime/koukaku-kidouta",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Bocchi the Rock! Season 2",
             "slug": "bocchi-the-rock-season-2",
             "url": "https://animesdrive.online/anime/bocchi-the-rock-season-2",
@@ -126548,7 +126686,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002760709
+      "at": 1784031543856
     },
     "dublado|1||48": {
       "data": {
@@ -126774,7 +126912,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1784002761281
+      "at": 1784031544409
     },
     "partner:anitube|dublado|1||48": {
       "data": {
@@ -126929,7 +127067,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002761616
+      "at": 1784031544754
     },
     "partner:animeplay|dublado|1||48": {
       "data": {
@@ -127132,7 +127270,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002762011
+      "at": 1784031545225
     },
     "partner:animesdigital|dublado|1||48": {
       "data": {
@@ -127519,7 +127657,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1784002762589
+      "at": 1784031546397
     },
     "partner:animesdrive|dublado|1||48": {
       "data": {
@@ -127722,7 +127860,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002762979
+      "at": 1784031546043
     },
     "dublado|2||48": {
       "data": {
@@ -127948,7 +128086,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1784002764174
+      "at": 1784031547587
     },
     "partner:anitube|dublado|2||48": {
       "data": {
@@ -128103,7 +128241,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002764514
+      "at": 1784031547930
     },
     "partner:animeplay|dublado|2||48": {
       "data": {
@@ -128173,17 +128311,17 @@
             "provider": "animeplay"
           },
           {
-            "title": "Star Wars: Maul – Lorde das Sombras",
-            "slug": "star-wars-maul-lorde-das-sombras",
-            "url": "https://animeplay.cloud/anime/star-wars-maul-lorde-das-sombras",
+            "title": "Star Wars: Maul – Lorde das Sombras Dublado",
+            "slug": "star-wars-maul-lorde-das-sombras-dublado",
+            "url": "https://animeplay.cloud/anime/star-wars-maul-lorde-das-sombras-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
           {
-            "title": "Star Wars: Maul – Lorde das Sombras Dublado",
-            "slug": "star-wars-maul-lorde-das-sombras-dublado",
-            "url": "https://animeplay.cloud/anime/star-wars-maul-lorde-das-sombras-dublado",
+            "title": "Star Wars: Maul – Lorde das Sombras",
+            "slug": "star-wars-maul-lorde-das-sombras",
+            "url": "https://animeplay.cloud/anime/star-wars-maul-lorde-das-sombras",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
@@ -128306,7 +128444,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002765418
+      "at": 1784031548897
     },
     "partner:animesdigital|dublado|2||48": {
       "data": {
@@ -128701,7 +128839,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1784002765488
+      "at": 1784031548952
     },
     "partner:animesdrive|dublado|2||48": {
       "data": {
@@ -128904,7 +129042,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002765923
+      "at": 1784031549896
     },
     "dublado|3||48": {
       "data": {
@@ -129130,7 +129268,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1784002767002
+      "at": 1784031550967
     },
     "partner:anitube|dublado|3||48": {
       "data": {
@@ -129285,7 +129423,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002767352
+      "at": 1784031551304
     },
     "partner:animeplay|dublado|3||48": {
       "data": {
@@ -129488,7 +129626,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002768294
+      "at": 1784031552243
     },
     "partner:animesdigital|dublado|3||48": {
       "data": {
@@ -129883,7 +130021,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1784002768336
+      "at": 1784031552268
     },
     "partner:animesdrive|dublado|3||48": {
       "data": {
@@ -130086,8 +130224,8 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002768653
+      "at": 1784031552989
     }
   },
-  "updatedAt": 1784031501896
+  "updatedAt": 1784031553123
 }
