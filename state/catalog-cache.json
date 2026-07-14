@@ -98290,7 +98290,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002703346
+      "at": 1784031487300
     },
     "partner:animesdigital|todos|39||48": {
       "data": {
@@ -99473,18 +99473,8 @@
                 "slug": "darwin-jihen-dublado"
               },
               {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "darwin-jihen-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "darwin-jihen-dublado"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
+                "server": 1,
+                "provider": "aoc",
                 "slug": "1032637"
               }
             ]
@@ -99621,8 +99611,8 @@
         "category": "todos",
         "page": 39,
         "hasMore": true,
-        "total": 1700,
-        "cachedAt": 1784002700442,
+        "total": 1649,
+        "cachedAt": 1784031484311,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -99669,7 +99659,7 @@
           "fixHint": null
         }
       },
-      "at": 1784002703548
+      "at": 1784031487437
     },
     "todos|40||48": {
       "data": {
@@ -99949,7 +99939,7 @@
         "page": 40,
         "hasMore": true
       },
-      "at": 1784002704382
+      "at": 1784031488382
     },
     "partner:anitube|todos|40||48": {
       "data": {
@@ -100104,7 +100094,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002704788
+      "at": 1784031488802
     },
     "partner:animeplay|todos|40||48": {
       "data": {
@@ -100355,7 +100345,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002705782
+      "at": 1784031489820
     },
     "partner:animesdrive|todos|40||48": {
       "data": {
@@ -100606,7 +100596,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002706658
+      "at": 1784031490787
     },
     "partner:animesdigital|todos|40||48": {
       "data": {
@@ -101941,8 +101931,8 @@
         "category": "todos",
         "page": 40,
         "hasMore": true,
-        "total": 1717,
-        "cachedAt": 1784002704382,
+        "total": 1649,
+        "cachedAt": 1784031488382,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -101989,7 +101979,7 @@
           "fixHint": null
         }
       },
-      "at": 1784002706766
+      "at": 1784031490866
     },
     "todos|41||48": {
       "data": {
@@ -102251,7 +102241,7 @@
         "page": 41,
         "hasMore": true
       },
-      "at": 1784002707688
+      "at": 1784031491830
     },
     "partner:anitube|todos|41||48": {
       "data": {
@@ -102406,7 +102396,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002708101
+      "at": 1784031492218
     },
     "partner:animeplay|todos|41||48": {
       "data": {
@@ -102641,7 +102631,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002709129
+      "at": 1784031493320
     },
     "partner:animesdigital|todos|41||48": {
       "data": {
@@ -103271,7 +103261,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002711002
+      "at": 1784031494614
     },
     "todos|41||120": {
       "data": {
@@ -104044,6 +104034,11 @@
             "provider": "anitube",
             "animeSources": [
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "59707"
+              },
+              {
                 "server": 6,
                 "provider": "anitube",
                 "slug": "59707"
@@ -104061,7 +104056,19 @@
             "url": "https://www.anitube.zip/video/1001139/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-devil-may-cry-2025-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "devil-may-cry-2025-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1001139"
+              }
+            ]
           },
           {
             "title": "Devil May Cry 2 (2026) Dublado",
@@ -104069,7 +104076,19 @@
             "url": "https://www.anitube.zip/video/1057663/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-devil-may-cry-2-2026-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "devil-may-cry-2026-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1057663"
+              }
+            ]
           },
           {
             "title": "Devil Survivor 2: The Animation – (Legendado)",
@@ -104171,8 +104190,8 @@
         "category": "todos",
         "page": 41,
         "hasMore": true,
-        "total": 1734,
-        "cachedAt": 1784002707688,
+        "total": 1649,
+        "cachedAt": 1784031491830,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -104219,7 +104238,7 @@
           "fixHint": null
         }
       },
-      "at": 1784002711237
+      "at": 1784031494759
     },
     "todos|42||48": {
       "data": {
@@ -104481,7 +104500,7 @@
         "page": 42,
         "hasMore": true
       },
-      "at": 1784002712229
+      "at": 1784031495677
     },
     "partner:anitube|todos|42||48": {
       "data": {
@@ -104636,7 +104655,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002713182
+      "at": 1784031496078
     },
     "partner:animeplay|todos|42||48": {
       "data": {
@@ -104871,7 +104890,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002713766
+      "at": 1784031497113
     },
     "partner:animesdigital|todos|42||48": {
       "data": {
@@ -130070,5 +130089,5 @@
       "at": 1784002768653
     }
   },
-  "updatedAt": 1784031485716
+  "updatedAt": 1784031497113
 }
