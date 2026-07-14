@@ -280,6 +280,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9tOHBXQW1oZ3lORDNJd2hyd2daZ3VBQUxhVEIuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "darwin-jihen-dublado": {
+      "slug": "darwin-jihen-dublado",
+      "title": "Darwin Jihen Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9kZWNYVnkxVHZhYkFZbzhleFVRRXpFUDRUY2wuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -458,9 +465,17 @@
     ],
     "bleach-dublado": [
       1
+    ],
+    "darwin-jihen-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "darwin-jihen-dublado",
+      "ep": 1,
+      "at": 1784066888188
+    },
     {
       "slug": "bleach-dublado",
       "ep": 1,
@@ -860,5 +875,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784066839369
+  "updatedAt": 1784066888388
 }
