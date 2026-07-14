@@ -6926,7 +6926,7 @@
             "url": "https://animesdigital.org/anime/a/180-byou-de-kimi-no-mimi-wo-shiawase-ni-dekiru-ka",
             "poster": "https://animesdigital.org/wp-content/uploads/2021/11/assistir-180-byou-de-kimi-no-mimi-wo-shiawase-ni-dekiru-ka-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "2.5-jigen no Ririsa",
@@ -6995,7 +6995,7 @@
             "url": "https://animesdigital.org/anime/a/3-choume-no-tama-uchi-no-tama-shirimasen-ka",
             "poster": "https://animesdigital.org/wp-content/uploads/2021/11/assistir-3-choume-no-tama-uchi-no-tama-shirimasen-ka-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "30 sai made doutei dato mahoutsukai ni nareru rashii",
@@ -7003,7 +7003,7 @@
             "url": "https://animesdigital.org/anime/a/30-sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "4 Cut Hero – Todos os Episódios",
@@ -7167,7 +7167,7 @@
             "url": "https://animesdigital.org/anime/a/absolute-duo",
             "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-absolute-duo-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Acchi Kocchi",
@@ -7451,7 +7451,7 @@
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/Akuyaku-Reijou-Level-99-Watashi-wa-Ura-Boss-desu-ga-Maou-dewa-Arimasen-animesonline.cloud_-185x278.jpg",
             "rating": "8.2",
             "kind": "anime",
-            "provider": "animesdigital",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -7514,6 +7514,11 @@
             "provider": "aoc",
             "rating": "0",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "alma-chan-wa-kazoku-ni-naritai"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -7813,7 +7818,7 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/12/7dHONdLf91r1SmEthST1MmLrLjh-185x278.jpg",
             "rating": "8.422",
             "kind": "anime",
-            "provider": "animesdigital",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -7836,8 +7841,8 @@
         "category": "todos",
         "page": 1,
         "hasMore": true,
-        "total": 1772,
-        "cachedAt": 1783988105572,
+        "total": 1654,
+        "cachedAt": 1784002505668,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -7884,7 +7889,7 @@
           "fixHint": null
         }
       },
-      "at": 1783988105740
+      "at": 1784002517817
     },
     "todos|2||120": {
       "data": {
@@ -31531,7 +31536,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1783988106625
+      "at": 1784002518915
     },
     "todos|3||48": {
       "data": {
@@ -36443,7 +36448,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1783973757712
+      "at": 1784002519905
     },
     "partner:animesdigital|todos|2||48": {
       "data": {
@@ -37089,7 +37094,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1783973758065
+      "at": 1784002520439
     },
     "partner:animesdrive|todos|2||48": {
       "data": {
@@ -129089,5 +129094,5 @@
       "at": 1783974028559
     }
   },
-  "updatedAt": 1784002508678
+  "updatedAt": 1784002520439
 }
