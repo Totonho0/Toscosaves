@@ -61959,7 +61959,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002609374
+      "at": 1784031391554
     },
     "todos|22||120": {
       "data": {
@@ -62020,11 +62020,11 @@
           {
             "title": "Mayonaka Punch – Todos os Episódios",
             "slug": "mayonaka-punch",
-            "url": "https://animesdrive.online/anime/mayonaka-punch",
+            "url": "https://animesonline.cloud/anime/mayonaka-punch",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/uEJP8bv6meVPfJeoOlMdCnIy84S-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -62535,11 +62535,11 @@
           {
             "title": "Mob kara Hajimaru Tansaku Eiyuutan – Todos Os Episódios",
             "slug": "mob-kara-hajimaru-tansaku-eiyuutan",
-            "url": "https://animesdrive.online/anime/mob-kara-hajimaru-tansaku-eiyuutan",
+            "url": "https://animesonline.cloud/anime/mob-kara-hajimaru-tansaku-eiyuutan",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/hY8rN6dkGHp8LC1fE24cqeFoSfJ-212x300-1-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -62639,8 +62639,8 @@
         "category": "todos",
         "page": 22,
         "hasMore": true,
-        "total": 1655,
-        "cachedAt": 1784016928501,
+        "total": 1649,
+        "cachedAt": 1784031388413,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -62687,7 +62687,7 @@
           "fixHint": null
         }
       },
-      "at": 1784016928580
+      "at": 1784031391709
     },
     "todos|23||48": {
       "data": {
@@ -62958,7 +62958,7 @@
         "page": 23,
         "hasMore": true
       },
-      "at": 1784016929525
+      "at": 1784031392658
     },
     "partner:anitube|todos|23||48": {
       "data": {
@@ -63113,7 +63113,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002610834
+      "at": 1784031393063
     },
     "partner:animeplay|todos|23||48": {
       "data": {
@@ -63356,7 +63356,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002611931
+      "at": 1784031394067
     },
     "partner:animesdrive|todos|23||48": {
       "data": {
@@ -63599,7 +63599,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002613495
+      "at": 1784031395527
     },
     "todos|23||120": {
       "data": {
@@ -63620,7 +63620,24 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/04/2oBkd4ic7xjlDYpj3Vael2iVFwp-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "rating": "0"
+            "rating": "0",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "mono"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "mono"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mono"
+              }
+            ]
           },
           {
             "title": "Mono Dublado",
@@ -63634,11 +63651,11 @@
           {
             "title": "Monogatari Bakemonogatari – Todos os Episodios",
             "slug": "bakemonogatari",
-            "url": "https://animesdrive.online/anime/bakemonogatari-todos-os-episodios",
+            "url": "https://animesonline.cloud/anime/bakemonogatari-todos-os-episodios",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/Bakemonogatari-AnimeQ-185x272.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -63720,7 +63737,24 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/04/oq0dUN7WJCuzI111CsfzDieMkku-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "rating": "8.5"
+            "rating": "8.5",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "moonrise"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "moonrise"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "moonrise"
+              }
+            ]
           },
           {
             "title": "Mouse",
@@ -63960,11 +63994,11 @@
           {
             "title": "Na Nare Hana Nare – Todos os Episodios",
             "slug": "na-nare-hana-nare",
-            "url": "https://animesdrive.online/anime/na-nare-hana-nare",
+            "url": "https://animesonline.cloud/anime/na-nare-hana-nare",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/Na-Nare-Hana-Nare-AnimeDrive-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -64313,8 +64347,8 @@
         "category": "todos",
         "page": 23,
         "hasMore": true,
-        "total": 1655,
-        "cachedAt": 1784016929525,
+        "total": 1649,
+        "cachedAt": 1784031392658,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -64361,7 +64395,7 @@
           "fixHint": null
         }
       },
-      "at": 1784016929598
+      "at": 1784031395772
     },
     "todos|24||48": {
       "data": {
@@ -64641,7 +64675,7 @@
         "page": 24,
         "hasMore": true
       },
-      "at": 1784016930505
+      "at": 1784031396720
     },
     "partner:anitube|todos|24||48": {
       "data": {
@@ -64796,7 +64830,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002615060
+      "at": 1784031397132
     },
     "partner:animeplay|todos|24||48": {
       "data": {
@@ -65047,7 +65081,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002616153
+      "at": 1784031398208
     },
     "partner:animesdigital|todos|24||48": {
       "data": {
@@ -65693,7 +65727,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002617553
+      "at": 1784031399600
     },
     "todos|24||120": {
       "data": {
@@ -65710,11 +65744,11 @@
           {
             "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
             "slug": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
-            "url": "https://animesdrive.online/anime/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
+            "url": "https://animesonline.cloud/anime/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/6U4SotIXAsqOAhsB3gk3m8ushye-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -65746,10 +65780,27 @@
             "title": "Nazotoki wa Dinner no Ato de Dublado",
             "slug": "nazotoki-wa-dinner-no-ato-de-dublado",
             "url": "https://animesonline.cloud/anime/nazotoki-wa-dinner-no-ato-de-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/qKXBKzoU0Xe8gPHRqyx45AIxOuM-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/qKXBKzoU0Xe8gPHRqyx45AIxOuM-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "nazotoki-wa-dinner-no-ato-de-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nazotoki-wa-dinner-no-ato-de-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nazotoki-wa-dinner-no-ato-de-dublado"
+              }
+            ]
           },
           {
             "title": "Necronomico and the Cosmic Horror Show",
@@ -66323,8 +66374,8 @@
         "category": "todos",
         "page": 24,
         "hasMore": true,
-        "total": 1655,
-        "cachedAt": 1784016930505,
+        "total": 1649,
+        "cachedAt": 1784031396720,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -66371,7 +66422,7 @@
           "fixHint": null
         }
       },
-      "at": 1784016930582
+      "at": 1784031399739
     },
     "todos|25||48": {
       "data": {
@@ -66651,7 +66702,7 @@
         "page": 25,
         "hasMore": true
       },
-      "at": 1784016931546
+      "at": 1784031400575
     },
     "partner:anitube|todos|25||48": {
       "data": {
@@ -66806,7 +66857,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002619028
+      "at": 1784031400965
     },
     "partner:animesdigital|todos|25||48": {
       "data": {
@@ -67452,7 +67503,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002620119
+      "at": 1784031401962
     },
     "partner:animesdrive|todos|25||48": {
       "data": {
@@ -67703,7 +67754,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002621526
+      "at": 1784031403407
     },
     "todos|25||120": {
       "data": {
@@ -68381,8 +68432,8 @@
         "category": "todos",
         "page": 25,
         "hasMore": true,
-        "total": 1652,
-        "cachedAt": 1784016931546,
+        "total": 1649,
+        "cachedAt": 1784031400575,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -68429,7 +68480,7 @@
           "fixHint": null
         }
       },
-      "at": 1784016931635
+      "at": 1784031403566
     },
     "todos|26||48": {
       "data": {
@@ -68709,7 +68760,7 @@
         "page": 26,
         "hasMore": true
       },
-      "at": 1784016932530
+      "at": 1784031404482
     },
     "partner:anitube|todos|26||48": {
       "data": {
@@ -68864,7 +68915,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002623009
+      "at": 1784031404894
     },
     "partner:animesdigital|todos|26||48": {
       "data": {
@@ -69510,7 +69561,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002624311
+      "at": 1784031405966
     },
     "partner:animesdrive|todos|26||48": {
       "data": {
@@ -69753,7 +69804,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002625559
+      "at": 1784031407346
     },
     "todos|26||120": {
       "data": {
@@ -70594,8 +70645,8 @@
         "category": "todos",
         "page": 26,
         "hasMore": true,
-        "total": 1651,
-        "cachedAt": 1784016932530,
+        "total": 1649,
+        "cachedAt": 1784031404482,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -70642,7 +70693,7 @@
           "fixHint": null
         }
       },
-      "at": 1784016932613
+      "at": 1784031407594
     },
     "todos|27||48": {
       "data": {
@@ -70895,7 +70946,7 @@
         "page": 27,
         "hasMore": true
       },
-      "at": 1784016933562
+      "at": 1784031408551
     },
     "partner:anitube|todos|27||48": {
       "data": {
@@ -71050,7 +71101,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002627116
+      "at": 1784031408976
     },
     "partner:animesdigital|todos|27||48": {
       "data": {
@@ -71672,7 +71723,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002628211
+      "at": 1784031410106
     },
     "partner:animesdrive|todos|27||48": {
       "data": {
@@ -71907,7 +71958,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002629639
+      "at": 1784031411403
     },
     "todos|27||120": {
       "data": {
@@ -72670,9 +72721,119 @@
                 "slug": "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "saikyou-degarashi-ouji-no-anyaku-teii-arasoi"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "azur-lane-bisoku-zenshin-ni"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sayonara-lara"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "lets-go-kaiki-gumi"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "seihantai-na-kimi-to-boku-2nd-season"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tetsunabe-no-jan"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kabushikigaisha-magi-lumiere-2nd-season"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "grand-blue-season-3"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "suterare-seijo-no-isekai-gohan-tabi-kakure-skill-de-camping-car-wo-shoukan-shimashita"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "saikyou-degarashi-ouji-no-anyaku-teii-arasoi"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "azur-lane-bisoku-zenshin-ni"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sayonara-lara"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "lets-go-kaiki-gumi"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "seihantai-na-kimi-to-boku-2nd-season"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tetsunabe-no-jan"
               }
             ]
           },
@@ -72689,8 +72850,8 @@
         "category": "todos",
         "page": 27,
         "hasMore": true,
-        "total": 1651,
-        "cachedAt": 1784016933562,
+        "total": 1649,
+        "cachedAt": 1784031408551,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -72737,7 +72898,7 @@
           "fixHint": null
         }
       },
-      "at": 1784016933640
+      "at": 1784031411812
     },
     "todos|28||48": {
       "data": {
@@ -73017,7 +73178,7 @@
         "page": 28,
         "hasMore": true
       },
-      "at": 1784016934610
+      "at": 1784031412647
     },
     "partner:anitube|todos|28||48": {
       "data": {
@@ -73172,7 +73333,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002631286
+      "at": 1784031413096
     },
     "partner:animesdigital|todos|28||48": {
       "data": {
@@ -73810,7 +73971,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002632320
+      "at": 1784031414088
     },
     "partner:animesdrive|todos|28||48": {
       "data": {
@@ -128850,5 +129011,5 @@
       "at": 1784002768653
     }
   },
-  "updatedAt": 1784031389798
+  "updatedAt": 1784031414088
 }
