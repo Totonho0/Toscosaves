@@ -273,6 +273,13 @@
       "title": "Black Clover Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9wRDdYclUwZVZtOWpTVU5zak1URlN4blcxcncuanBn",
       "kind": "anime"
+    },
+    "bleach-dublado": {
+      "slug": "bleach-dublado",
+      "title": "Bleach Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9tOHBXQW1oZ3lORDNJd2hyd2daZ3VBQUxhVEIuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -448,9 +455,17 @@
     "black-clover-dublado": [
       1,
       170
+    ],
+    "bleach-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "bleach-dublado",
+      "ep": 1,
+      "at": 1784066839153
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -845,5 +860,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784066802107
+  "updatedAt": 1784066839369
 }
