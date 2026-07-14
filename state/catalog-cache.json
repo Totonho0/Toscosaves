@@ -60238,7 +60238,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784002605354
+      "at": 1784031387309
     },
     "todos|21||120": {
       "data": {
@@ -60307,11 +60307,11 @@
           {
             "title": "Madougushi Dahliya wa Utsumukanai – Todos os Episódios",
             "slug": "madougushi-dahliya-wa-utsumukanai",
-            "url": "https://animesdrive.online/anime/madougushi-dahliya-wa-utsumukanai",
+            "url": "https://animesonline.cloud/anime/madougushi-dahliya-wa-utsumukanai",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/m7Kh9um0MCzIz81ZVTB1dxFtaGT-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -60364,7 +60364,24 @@
             "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/6FTC8b0V0xdCQrT4929HPdPnoYo-185x278.jpg",
             "rating": "8.4",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance"
+              }
+            ]
           },
           {
             "title": "Mahou Shoujo ni Akogarete – Todos os Episódios",
@@ -60645,11 +60662,11 @@
           {
             "title": "Make Heroine ga Oosugiru!",
             "slug": "make-heroine-ga-oosugiru",
-            "url": "https://animesdrive.online/anime/make-heroine-ga-oosugiru",
+            "url": "https://animesonline.cloud/anime/make-heroine-ga-oosugiru",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/12/2dN2KY7cGtyzvA51zgxQ5Q8hXit-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -60982,8 +60999,8 @@
         "category": "todos",
         "page": 21,
         "hasMore": true,
-        "total": 1657,
-        "cachedAt": 1784016927484,
+        "total": 1649,
+        "cachedAt": 1784031384362,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -61030,7 +61047,7 @@
           "fixHint": null
         }
       },
-      "at": 1784016927565
+      "at": 1784031387436
     },
     "todos|22||48": {
       "data": {
@@ -61301,7 +61318,7 @@
         "page": 22,
         "hasMore": true
       },
-      "at": 1784016928501
+      "at": 1784031388413
     },
     "partner:anitube|todos|22||48": {
       "data": {
@@ -61456,7 +61473,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784002606844
+      "at": 1784031388814
     },
     "partner:animeplay|todos|22||48": {
       "data": {
@@ -61699,7 +61716,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784002608008
+      "at": 1784031389798
     },
     "partner:animesdrive|todos|22||48": {
       "data": {
@@ -128833,5 +128850,5 @@
       "at": 1784002768653
     }
   },
-  "updatedAt": 1784031385673
+  "updatedAt": 1784031389798
 }
