@@ -86146,7 +86146,7 @@
         "page": 34,
         "hasMore": true
       },
-      "at": 1784031461361
+      "at": 1784045764185
     },
     "partner:anitube|todos|34||48": {
       "data": {
@@ -87271,11 +87271,11 @@
           {
             "title": "Yamishibai Japanese Ghost Stories – Todos os Episódios",
             "slug": "yamishibai-japanese-ghost-stories",
-            "url": "https://animesonline.cloud/anime/yamishibai-japanese-ghost-stories",
+            "url": "https://animesdrive.online/anime/yamishibai-japanese-ghost-stories",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/zQJiBekYYqFhYwDnpJPrtYaoo27-185x278.jpg",
             "rating": "7.5",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -87342,6 +87342,15 @@
             ]
           },
           {
+            "title": "Yani Neko",
+            "slug": "yani-neko",
+            "url": "https://animesonline.cloud/anime/yani-neko",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
+            "rating": "5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Yano-kun no Futsuu no Hibi",
             "slug": "yano-kun-no-futsuu-no-hibi",
             "url": "https://animesonline.cloud/anime/yano-kun-no-futsuu-no-hibi",
@@ -87371,10 +87380,10 @@
           {
             "title": "Yeosin Gangnim – Todos os Episódios",
             "slug": "yeosin-gangnim",
-            "url": "https://animesonline.cloud/anime/yeosin-gangnim-todos-os-episodios",
+            "url": "https://animeplay.cloud/anime/yeosin-gangnim-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/9gpc8kIhNEG7r0VTkyI9aVBxdO3.jpg",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animeplay",
             "rating": "0",
             "animeSources": [
               {
@@ -87875,33 +87884,13 @@
             "poster": "https://animesdigital.org/wp-content/uploads/2023/10/Yuzuki-san-Chi-no-Yonkyoudai-categoria.jpg",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 34,
         "hasMore": true,
         "total": 1649,
-        "cachedAt": 1784031461361,
+        "cachedAt": 1784045764185,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -87948,7 +87937,7 @@
           "fixHint": null
         }
       },
-      "at": 1784031467321
+      "at": 1784045764291
     },
     "todos|35||48": {
       "data": {
@@ -131656,5 +131645,5 @@
       "at": 1784038522143
     }
   },
-  "updatedAt": 1784045762107
+  "updatedAt": 1784045764291
 }
