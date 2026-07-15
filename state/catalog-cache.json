@@ -84199,7 +84199,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784067233121
+      "at": 1784095726431
     },
     "todos|38||120": {
       "data": {
@@ -84985,7 +84985,19 @@
             "url": "https://animesdrive.online/anime/one-punch-man-2",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/05/One-Punch-Man-2-animesonline.cloud_-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive"
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "one-punch-man-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-punch-man-2"
+              }
+            ]
           },
           {
             "title": "Danganronpa 3: The End Of Kibougamine Gakuen – Kibou Hen (Legendado)",
@@ -85127,8 +85139,8 @@
         "category": "todos",
         "page": 38,
         "hasMore": true,
-        "total": 1308,
-        "cachedAt": 1784067229953,
+        "total": 1750,
+        "cachedAt": 1784095723285,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -85175,7 +85187,7 @@
           "fixHint": null
         }
       },
-      "at": 1784067233448
+      "at": 1784095726591
     },
     "todos|39||48": {
       "data": {
@@ -85446,7 +85458,7 @@
         "page": 39,
         "hasMore": true
       },
-      "at": 1784067234300
+      "at": 1784095727511
     },
     "partner:anitube|todos|39||48": {
       "data": {
@@ -85601,7 +85613,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784067234769
+      "at": 1784095727999
     },
     "partner:animeplay|todos|39||48": {
       "data": {
@@ -85844,7 +85856,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784067235637
+      "at": 1784095729024
     },
     "partner:animesdrive|todos|39||48": {
       "data": {
@@ -112971,5 +112983,5 @@
       "at": 1784095685586
     }
   },
-  "updatedAt": 1784095724780
+  "updatedAt": 1784095729024
 }
