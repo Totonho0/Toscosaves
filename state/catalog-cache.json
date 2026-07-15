@@ -97044,7 +97044,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784067265415
+      "at": 1784095759927
     },
     "todos|45||120": {
       "data": {
@@ -97220,14 +97220,29 @@
                 "slug": "fruits-basket-2019"
               },
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fruits-basket-2001"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "fruits-basket-2019"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "fruits-basket-2001"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "fruits-basket-2019"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "fruits-basket-2001"
               }
             ]
           },
@@ -97700,7 +97715,29 @@
             "url": "https://www.anitube.zip/video/998440/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-science-future-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dr-stone-science-future-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "998440"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "dr-stone-science-future-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dr-stone-science-future-dublado"
+              }
+            ]
           },
           {
             "title": "Dr. Stone: Science Future Part 2 Dublado",
@@ -97764,7 +97801,24 @@
             "url": "https://www.anitube.zip/video/1001647/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dragon-ball-daima-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-daima-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1001647"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dragon-ball-daima-dublado"
+              }
+            ]
           },
           {
             "title": "Dragon Ball Dublado",
@@ -97802,8 +97856,8 @@
         "category": "todos",
         "page": 45,
         "hasMore": true,
-        "total": 1578,
-        "cachedAt": 1784067262496,
+        "total": 1750,
+        "cachedAt": 1784095756688,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -97850,7 +97904,7 @@
           "fixHint": null
         }
       },
-      "at": 1784067266828
+      "at": 1784095761345
     },
     "todos|46||48": {
       "data": {
@@ -98103,7 +98157,7 @@
         "page": 46,
         "hasMore": true
       },
-      "at": 1784067267608
+      "at": 1784095762428
     },
     "partner:anitube|todos|46||48": {
       "data": {
@@ -98258,7 +98312,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784067268667
+      "at": 1784095763460
     },
     "partner:animeplay|todos|46||48": {
       "data": {
@@ -98493,7 +98547,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784067269099
+      "at": 1784095764089
     },
     "partner:animesdrive|todos|46||48": {
       "data": {
@@ -98720,7 +98774,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784067271155
+      "at": 1784095765744
     },
     "todos|46||120": {
       "data": {
@@ -99433,7 +99487,19 @@
             "url": "https://animeplay.cloud/anime/jojo-no-kimyou-na-bouken-2012",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/5KxfZTkwiuNRg5mpUOhXdiUB17E-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "jojo-no-kimyou-na-bouken-2012"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "jojo-no-kimyou-na-bouken-2012"
+              }
+            ]
           },
           {
             "title": "Dragon Ball Kai (2014) – (Legendado)",
@@ -99443,6 +99509,11 @@
             "kind": "anime",
             "provider": "anitube",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "929169b001"
+              },
               {
                 "server": 6,
                 "provider": "anitube",
@@ -99463,6 +99534,11 @@
             "kind": "anime",
             "provider": "anitube",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "58259b001"
+              },
               {
                 "server": 6,
                 "provider": "anitube",
@@ -99591,8 +99667,8 @@
         "category": "todos",
         "page": 46,
         "hasMore": true,
-        "total": 1616,
-        "cachedAt": 1784067267608,
+        "total": 1750,
+        "cachedAt": 1784095762428,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -99639,7 +99715,7 @@
           "fixHint": null
         }
       },
-      "at": 1784067271844
+      "at": 1784095766345
     },
     "todos|47||48": {
       "data": {
@@ -113119,5 +113195,5 @@
       "at": 1784095685586
     }
   },
-  "updatedAt": 1784095758198
+  "updatedAt": 1784095766345
 }
