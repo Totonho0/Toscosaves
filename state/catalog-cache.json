@@ -86099,7 +86099,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784067237451
+      "at": 1784095730840
     },
     "todos|39||120": {
       "data": {
@@ -86859,7 +86859,19 @@
             "url": "https://animesdrive.online/anime/the-fable",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/04/baflpfvihSZCNsyTHZGBKkDIlXr-185x278.jpg.webp",
             "kind": "anime",
-            "provider": "animesdrive"
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "the-fable"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "the-fable"
+              }
+            ]
           },
           {
             "title": "Darwin Jihen Dublado",
@@ -86867,7 +86879,19 @@
             "url": "https://www.anitube.zip/video/1032637/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Darwin-Jihen-dub-categoria.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "darwin-jihen-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1032637"
+              }
+            ]
           },
           {
             "title": "Darwin’s Game (Legendado)",
@@ -87001,8 +87025,8 @@
         "category": "todos",
         "page": 39,
         "hasMore": true,
-        "total": 1348,
-        "cachedAt": 1784067234300,
+        "total": 1750,
+        "cachedAt": 1784095727511,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -87049,7 +87073,7 @@
           "fixHint": null
         }
       },
-      "at": 1784067237823
+      "at": 1784095731196
     },
     "todos|40||48": {
       "data": {
@@ -87329,7 +87353,7 @@
         "page": 40,
         "hasMore": true
       },
-      "at": 1784067238509
+      "at": 1784095732137
     },
     "partner:anitube|todos|40||48": {
       "data": {
@@ -87484,7 +87508,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784067238954
+      "at": 1784095733150
     },
     "partner:animeplay|todos|40||48": {
       "data": {
@@ -87735,7 +87759,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784067239857
+      "at": 1784095733684
     },
     "partner:animesdrive|todos|40||48": {
       "data": {
@@ -87986,7 +88010,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784067241164
+      "at": 1784095735178
     },
     "todos|40||120": {
       "data": {
@@ -88772,7 +88796,19 @@
             "url": "https://animesdrive.online/anime/sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/01/vOIdsYCy3Kd6KeyKRM3IyXOzH3c-185x278.jpg.webp",
             "kind": "anime",
-            "provider": "animesdrive"
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga"
+              }
+            ]
           },
           {
             "title": "Death Note (Dublado) –",
@@ -88914,8 +88950,8 @@
         "category": "todos",
         "page": 40,
         "hasMore": true,
-        "total": 1389,
-        "cachedAt": 1784067238509,
+        "total": 1750,
+        "cachedAt": 1784095732137,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -88962,7 +88998,7 @@
           "fixHint": null
         }
       },
-      "at": 1784067241439
+      "at": 1784095735501
     },
     "todos|41||48": {
       "data": {
@@ -89224,7 +89260,7 @@
         "page": 41,
         "hasMore": true
       },
-      "at": 1784067242133
+      "at": 1784095736541
     },
     "partner:anitube|todos|41||48": {
       "data": {
@@ -89379,7 +89415,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784067242706
+      "at": 1784095737005
     },
     "partner:animeplay|todos|41||48": {
       "data": {
@@ -89614,7 +89650,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784067243574
+      "at": 1784095738054
     },
     "partner:animesdrive|todos|41||48": {
       "data": {
@@ -112983,5 +113019,5 @@
       "at": 1784095685586
     }
   },
-  "updatedAt": 1784095729024
+  "updatedAt": 1784095738054
 }
