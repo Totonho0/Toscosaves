@@ -28,6 +28,13 @@
       "kind": "anime",
       "adult": false
     },
+    "994482": {
+      "slug": "994482",
+      "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWFyaWZ1cmV0YS1zaG9rdWd5b3UtZGUtc2VrYWktc2Fpa3lvdS1zZWFzb24tMy10b2Rvcy1vcy1lcGlzb2Rpb3MtdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbml0dWJlLmpwZw",
+      "kind": "anime",
+      "adult": false
+    },
     "1034362": {
       "slug": "1034362",
       "title": "Android wa Keiken Ninzuu ni Hairimasu ka??",
@@ -383,6 +390,9 @@
     "993764": [
       1
     ],
+    "994482": [
+      1
+    ],
     "997803": [
       1
     ],
@@ -545,6 +555,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "994482",
+      "ep": 1,
+      "at": 1784151973364
+    },
     {
       "slug": "997803",
       "ep": 1,
@@ -990,5 +1005,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784151937454
+  "updatedAt": 1784151972212
 }
