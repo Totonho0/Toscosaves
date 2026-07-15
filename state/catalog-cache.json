@@ -93582,7 +93582,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784067256192
+      "at": 1784095750370
     },
     "todos|43||120": {
       "data": {
@@ -94314,6 +94314,11 @@
             "provider": "animesdrive",
             "animeSources": [
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tsuki-ga-michibiku-isekai-douchuu"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "tsuki-ga-michibiku-isekai-douchuu"
@@ -94465,8 +94470,8 @@
         "category": "todos",
         "page": 43,
         "hasMore": true,
-        "total": 1506,
-        "cachedAt": 1784067252457,
+        "total": 1750,
+        "cachedAt": 1784095746979,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -94513,7 +94518,7 @@
           "fixHint": null
         }
       },
-      "at": 1784067256758
+      "at": 1784095751010
     },
     "todos|44||48": {
       "data": {
@@ -94766,7 +94771,7 @@
         "page": 44,
         "hasMore": true
       },
-      "at": 1784067257472
+      "at": 1784095751969
     },
     "partner:anitube|todos|44||48": {
       "data": {
@@ -94921,7 +94926,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784067257978
+      "at": 1784095753008
     },
     "partner:animeplay|todos|44||48": {
       "data": {
@@ -95140,7 +95145,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784067259152
+      "at": 1784095753581
     },
     "partner:animesdrive|todos|44||48": {
       "data": {
@@ -95359,7 +95364,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784067260925
+      "at": 1784095754942
     },
     "todos|44||120": {
       "data": {
@@ -95527,7 +95532,24 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2026/02/exhONC020D4DGvt7XB4nq9AOMDU-185x278.jpg",
             "rating": "8.4",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tsuki-ga-michibiku-isekai-douchuu"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tsuki-ga-michibiku-isekai-douchuu"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tsuki-ga-michibiku-isekai-douchuu"
+              }
+            ]
           },
           {
             "title": "Record of Ragnarok – Todos os Episódios",
@@ -95705,9 +95727,24 @@
                 "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "world-is-dancing"
               }
             ]
           },
@@ -96189,8 +96226,8 @@
         "category": "todos",
         "page": 44,
         "hasMore": true,
-        "total": 1544,
-        "cachedAt": 1784067257472,
+        "total": 1750,
+        "cachedAt": 1784095751969,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -96237,7 +96274,7 @@
           "fixHint": null
         }
       },
-      "at": 1784067261820
+      "at": 1784095755690
     },
     "todos|45||48": {
       "data": {
@@ -96454,7 +96491,7 @@
         "page": 45,
         "hasMore": true
       },
-      "at": 1784067262496
+      "at": 1784095756688
     },
     "partner:anitube|todos|45||48": {
       "data": {
@@ -96609,7 +96646,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784067263528
+      "at": 1784095757182
     },
     "partner:animeplay|todos|45||48": {
       "data": {
@@ -96804,7 +96841,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784067263879
+      "at": 1784095758198
     },
     "partner:animesdrive|todos|45||48": {
       "data": {
@@ -113082,5 +113119,5 @@
       "at": 1784095685586
     }
   },
-  "updatedAt": 1784095748696
+  "updatedAt": 1784095758198
 }
