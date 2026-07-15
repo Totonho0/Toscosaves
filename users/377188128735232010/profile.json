@@ -314,6 +314,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC81Q1VNSEZOTGMxY1BwUzZ4QmlVTldvYTJYU0UuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "7401-smile-2": {
+      "slug": "7401-smile-2",
+      "title": "Sorria 2 Smile 2",
+      "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci82Ni8yMTNmYWVjZjliODA4ZTVhY2Q4NTYwNDA2ZjYxMjAuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -515,9 +522,17 @@
     ],
     "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu": [
       1
+    ],
+    "7401-smile-2": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "7401-smile-2",
+      "ep": 1,
+      "at": 1784135028902
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -948,5 +963,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784134922525
+  "updatedAt": 1784135028164
 }
