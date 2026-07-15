@@ -307,6 +307,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9vZFZsVE1xUFBpTWtzbXhwTjljQ2JQQ2pVUFAuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu": {
+      "slug": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu",
+      "title": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC81Q1VNSEZOTGMxY1BwUzZ4QmlVTldvYTJYU0UuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -506,9 +513,17 @@
     ],
     "solo-leveling-dublado": [
       1
+    ],
+    "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu",
+      "ep": 1,
+      "at": 1784134874516
+    },
     {
       "slug": "solo-leveling-dublado",
       "ep": 1,
@@ -939,5 +954,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784134844989
+  "updatedAt": 1784134874243
 }
