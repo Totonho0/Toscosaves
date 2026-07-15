@@ -300,6 +300,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xaU9uSVNWb2VsMnNuWWR4dWJkVEFaalk4WUUuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "solo-leveling-dublado": {
+      "slug": "solo-leveling-dublado",
+      "title": "Solo Leveling Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9vZFZsVE1xUFBpTWtzbXhwTjljQ2JQQ2pVUFAuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -496,9 +503,17 @@
     ],
     "black-torch": [
       1
+    ],
+    "solo-leveling-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "solo-leveling-dublado",
+      "ep": 1,
+      "at": 1784134844684
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -924,5 +939,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784134831606
+  "updatedAt": 1784134844989
 }
