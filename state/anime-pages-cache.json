@@ -8469,6 +8469,50 @@
           }
         }
       }
+    },
+    "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado": {
+      "at": 1784128578248,
+      "data": {
+        "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado",
+        "title": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91d0RiSndEcnpNNlhxeDF5aDRsa2g4eFVzYnAuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Vai dar namoro",
+            "url": "https://animesonline.cloud/episodio/hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado-episodio-01"
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "anime",
+        "provider": "aoc",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Animação",
+          "Comédia",
+          "Fantasia",
+          "Sci-Fi"
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai",
+              "title": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado",
+              "title": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
     }
   }
 }
