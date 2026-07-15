@@ -293,6 +293,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS95aHR0N0lkempKNlZ3aDFBY0c1NFFGWVB0d2YuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "black-torch": {
+      "slug": "black-torch",
+      "title": "Black Torch",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xaU9uSVNWb2VsMnNuWWR4dWJkVEFaalk4WUUuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -483,9 +490,17 @@
     ],
     "filme/assistir-obsessao-2-online": [
       1
+    ],
+    "black-torch": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "black-torch",
+      "ep": 1,
+      "at": 1784128628223
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -906,5 +921,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784128612294
+  "updatedAt": 1784128628725
 }
