@@ -91759,7 +91759,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784067251207
+      "at": 1784095745346
     },
     "todos|42||120": {
       "data": {
@@ -92493,7 +92493,19 @@
             "url": "https://animesdrive.online/anime/hells-paradise-dublado",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/09/agxWe7siS8Pp5X7xztCFn6rj9wg-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive"
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hells-paradise-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hells-paradise-dublado"
+              }
+            ]
           },
           {
             "title": "Digimon Adventure – (Legendado)",
@@ -92635,8 +92647,8 @@
         "category": "todos",
         "page": 42,
         "hasMore": true,
-        "total": 1467,
-        "cachedAt": 1784067246951,
+        "total": 1750,
+        "cachedAt": 1784095741882,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -92683,7 +92695,7 @@
           "fixHint": null
         }
       },
-      "at": 1784067251740
+      "at": 1784095745890
     },
     "todos|43||48": {
       "data": {
@@ -92945,7 +92957,7 @@
         "page": 43,
         "hasMore": true
       },
-      "at": 1784067252457
+      "at": 1784095746979
     },
     "partner:anitube|todos|43||48": {
       "data": {
@@ -93100,7 +93112,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784067253451
+      "at": 1784095747539
     },
     "partner:animeplay|todos|43||48": {
       "data": {
@@ -93335,7 +93347,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784067253859
+      "at": 1784095748696
     },
     "partner:animesdrive|todos|43||48": {
       "data": {
@@ -113070,5 +113082,5 @@
       "at": 1784095685586
     }
   },
-  "updatedAt": 1784095743656
+  "updatedAt": 1784095748696
 }
