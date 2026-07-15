@@ -89885,7 +89885,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784067245808
+      "at": 1784095740320
     },
     "todos|41||120": {
       "data": {
@@ -90619,7 +90619,19 @@
             "url": "https://animesdrive.online/anime/chainsaw-man",
             "poster": "https://animesdrive.online/wp-content/uploads/2023/12/oeNps5WE8umMVcNISI8M2NHk7jg-185x278.jpg.webp",
             "kind": "anime",
-            "provider": "animesdrive"
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "chainsaw-man"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "chainsaw-man"
+              }
+            ]
           },
           {
             "title": "Detective Conan (Legendado)",
@@ -90646,6 +90658,11 @@
             "provider": "anitube",
             "animeSources": [
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "59707"
+              },
+              {
                 "server": 6,
                 "provider": "anitube",
                 "slug": "59707"
@@ -90663,7 +90680,29 @@
             "url": "https://www.anitube.zip/video/1001139/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-devil-may-cry-2025-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "devil-may-cry-2025-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1001139"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "devil-may-cry-2025-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "devil-may-cry-2025-dublado"
+              }
+            ]
           },
           {
             "title": "Devil May Cry 2 (2026) Dublado",
@@ -90671,7 +90710,19 @@
             "url": "https://www.anitube.zip/video/1057663/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-devil-may-cry-2-2026-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "devil-may-cry-2026-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1057663"
+              }
+            ]
           },
           {
             "title": "Devil Survivor 2: The Animation – (Legendado)",
@@ -90773,8 +90824,8 @@
         "category": "todos",
         "page": 41,
         "hasMore": true,
-        "total": 1428,
-        "cachedAt": 1784067242133,
+        "total": 1750,
+        "cachedAt": 1784095736541,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -90821,7 +90872,7 @@
           "fixHint": null
         }
       },
-      "at": 1784067246285
+      "at": 1784095740694
     },
     "todos|42||48": {
       "data": {
@@ -91083,7 +91134,7 @@
         "page": 42,
         "hasMore": true
       },
-      "at": 1784067246951
+      "at": 1784095741882
     },
     "partner:anitube|todos|42||48": {
       "data": {
@@ -91238,7 +91289,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784067248017
+      "at": 1784095742392
     },
     "partner:animeplay|todos|42||48": {
       "data": {
@@ -91473,7 +91524,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784067248382
+      "at": 1784095743656
     },
     "partner:animesdrive|todos|42||48": {
       "data": {
@@ -113019,5 +113070,5 @@
       "at": 1784095685586
     }
   },
-  "updatedAt": 1784095738054
+  "updatedAt": 1784095743656
 }
