@@ -13,8 +13,7 @@
       "slug": "8029",
       "title": "Yosuga no Sora",
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL1lvc3VnYS1uby1Tb3JhLXBvc3Rlci5qcGc",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "67043": {
       "slug": "67043",
@@ -66,8 +65,7 @@
       "slug": "tongari-boushi-no-atelier-dublado",
       "title": "Tongari Boushi no Atelier Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9BM0xXd2VBUmRtbWt5eTZkVGtuOUJ1WHZ3Q00uanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "maou-sama-retry": {
       "slug": "maou-sama-retry",
@@ -287,8 +285,7 @@
       "slug": "darwin-jihen-dublado",
       "title": "Darwin Jihen Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9kZWNYVnkxVHZhYkFZbzhleFVRRXpFUDRUY2wuanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     }
   },
   "watched": {
@@ -314,6 +311,9 @@
     ],
     "black-clover-dublado": [
       170
+    ],
+    "darwin-jihen-dublado": [
+      1
     ]
   },
   "started": {
@@ -474,49 +474,49 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "maou-sama-retry",
+      "ep": 1,
+      "at": 1784107716789
+    },
+    {
+      "slug": "chainsmoker-cat",
+      "ep": 1,
+      "at": 1784107716789
+    },
+    {
+      "slug": "tongari-boushi-no-atelier-dublado",
+      "ep": 3,
+      "at": 1784107716789
+    },
+    {
+      "slug": "black-clover-dublado",
+      "ep": 170,
+      "at": 1784107716789
+    },
+    {
+      "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
+      "ep": 1,
+      "at": 1784107716789
+    },
+    {
       "slug": "darwin-jihen-dublado",
       "ep": 1,
-      "at": 1784066888188
+      "at": 1784107716789
+    },
+    {
+      "slug": "67043",
+      "ep": 1,
+      "at": 1784107716789
+    },
+    {
+      "slug": "8029",
+      "ep": 1,
+      "at": 1784107716789
     },
     {
       "slug": "bleach-dublado",
       "ep": 1,
       "at": 1784066839153
-    },
-    {
-      "slug": "maou-sama-retry",
-      "ep": 1,
-      "at": 1784066802093
-    },
-    {
-      "slug": "chainsmoker-cat",
-      "ep": 1,
-      "at": 1784066802093
-    },
-    {
-      "slug": "tongari-boushi-no-atelier-dublado",
-      "ep": 3,
-      "at": 1784066802093
-    },
-    {
-      "slug": "black-clover-dublado",
-      "ep": 170,
-      "at": 1784066802093
-    },
-    {
-      "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
-      "ep": 1,
-      "at": 1784066802093
-    },
-    {
-      "slug": "67043",
-      "ep": 1,
-      "at": 1784066802093
-    },
-    {
-      "slug": "8029",
-      "ep": 1,
-      "at": 1784066802093
     },
     {
       "slug": "76853",
@@ -888,5 +888,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784107713678
+  "updatedAt": 1784107716338
 }
