@@ -81149,7 +81149,7 @@
         "page": 46,
         "hasMore": true
       },
-      "at": 1784139489761
+      "at": 1784168424447
     },
     "partner:animeplay|todos|46||48": {
       "data": {
@@ -82319,6 +82319,11 @@
             "provider": "anitube",
             "animeSources": [
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "929169b001"
+              },
+              {
                 "server": 6,
                 "provider": "anitube",
                 "slug": "929169b001"
@@ -82338,6 +82343,11 @@
             "kind": "anime",
             "provider": "anitube",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "58259b001"
+              },
               {
                 "server": 6,
                 "provider": "anitube",
@@ -82466,8 +82476,8 @@
         "category": "todos",
         "page": 46,
         "hasMore": true,
-        "total": 1623,
-        "cachedAt": 1784139489761,
+        "total": 1759,
+        "cachedAt": 1784168424447,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -82514,7 +82524,7 @@
           "fixHint": null
         }
       },
-      "at": 1784139492212
+      "at": 1784168424749
     },
     "partner:anitube|todos|47||48": {
       "data": {
@@ -82669,7 +82679,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784139492539
+      "at": 1784168425100
     },
     "todos|47||48": {
       "data": {
@@ -99364,5 +99374,5 @@
       "at": 1784168405185
     }
   },
-  "updatedAt": 1784168414166
+  "updatedAt": 1784168425100
 }
