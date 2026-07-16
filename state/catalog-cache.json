@@ -11389,14 +11389,6 @@
       "data": {
         "items": [
           {
-            "title": "Brave Beats (Legendado)",
-            "slug": "61086",
-            "url": "https://www.anitube.zip/video/61086/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-brave-beats-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Break Blade (2014) (Legendado)",
             "slug": "60809",
             "url": "https://www.anitube.zip/video/60809/",
@@ -11514,10 +11506,22 @@
             "title": "Bucchigiri?! – Todos os Episodios",
             "slug": "bucchigiri",
             "url": "https://animesonline.cloud/anime/bucchigiri",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/mTphiAP2vMMNcVSB5a1pWEMZuo3-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/mTphiAP2vMMNcVSB5a1pWEMZuo3-185x278.jpg",
             "rating": "7.2",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "bucchigiri"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "bucchigiri"
+              }
+            ]
           },
           {
             "title": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
@@ -11747,10 +11751,27 @@
             "title": "Bungou Stray Dogs Wan! 2",
             "slug": "bungo-stray-dogs-wan",
             "url": "https://animesonline.cloud/anime/bungo-stray-dogs-wan",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/viry4F1iQ7Jrnggy09Tb3jVrKOM-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/viry4F1iQ7Jrnggy09Tb3jVrKOM-185x278.jpg",
             "rating": "7.1",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "bungo-stray-dogs-wan"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "bungo-stray-dogs-wan"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "bungo-stray-dogs-wan"
+              }
+            ]
           },
           {
             "title": "Bungou to Alchemist: Shinpan no Haguruma (Legendado)",
@@ -11883,6 +11904,11 @@
                 "slug": "buta-no-liver-wa-kanetsu-shiro"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "buta-no-liver-wa-kanetsu-shiro"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "buta-no-liver-wa-kanetsu-shiro"
@@ -11896,13 +11922,21 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-buta-no-liver-wa-kanetsu-shiro-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "Buzzer Beater (Legendado)",
+            "slug": "84289",
+            "url": "https://www.anitube.zip/video/84289/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Buzzer-Beater.jpg",
+            "kind": "anime",
+            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 8,
         "hasMore": true,
-        "total": 1766,
-        "cachedAt": 1784168151831,
+        "total": 1760,
+        "cachedAt": 1784182489618,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -11949,19 +11983,11 @@
           "fixHint": null
         }
       },
-      "at": 1784168154685
+      "at": 1784182489706
     },
     "todos|9||120": {
       "data": {
         "items": [
-          {
-            "title": "Buzzer Beater (Legendado)",
-            "slug": "84289",
-            "url": "https://www.anitube.zip/video/84289/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Buzzer-Beater.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
           {
             "title": "Bye Bye Earth 2 (Legendado)",
             "slug": "1000935",
@@ -11973,15 +11999,20 @@
           {
             "title": "Bye Bye, Earth – Todos os Episodios",
             "slug": "bye-bye-earth",
-            "url": "https://animesonline.cloud/anime/bye-bye-earth",
+            "url": "https://animesdrive.online/anime/bye-bye-earth",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/06/yk0786Ju64KQ9Dr0QuHPPwwCuCd-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "bye-bye-earth"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "bye-bye-earth"
               },
               {
@@ -12312,6 +12343,11 @@
                 "slug": "castlevania"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "castlevania"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "castlevania"
@@ -12362,6 +12398,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "castlevania-nocturne-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "castlevania-nocturne-2"
               },
               {
@@ -12488,13 +12529,34 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/Cestvs-The-Roman-Fighter-Todos-os-Episódios-AniTube.jpg",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "Chainsaw Man",
+            "slug": "chainsaw-man",
+            "url": "https://animesonline.cloud/anime/chainsaw-man",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/oeNps5WE8umMVcNISI8M2NHk7jg-185x278.jpg",
+            "rating": "8.568",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "chainsaw-man"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "chainsaw-man"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 9,
         "hasMore": true,
-        "total": 1765,
-        "cachedAt": 1784168156450,
+        "total": 1760,
+        "cachedAt": 1784182490956,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -12541,32 +12603,11 @@
           "fixHint": null
         }
       },
-      "at": 1784168159263
+      "at": 1784182491034
     },
     "todos|10||120": {
       "data": {
         "items": [
-          {
-            "title": "Chainsaw Man",
-            "slug": "chainsaw-man",
-            "url": "https://animesonline.cloud/anime/chainsaw-man",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/oeNps5WE8umMVcNISI8M2NHk7jg-185x278.jpg",
-            "rating": "8.568",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "chainsaw-man"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "chainsaw-man"
-              }
-            ]
-          },
           {
             "title": "Chainsaw Man – O Filme: Arco da Reze",
             "slug": "chainsaw-man-o-filme-arco-da-reze",
@@ -12986,6 +13027,11 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "chiyu-mahou-no-machigatta-tsukaikata"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "chiyu-mahou-no-machigatta-tsukaikata"
               }
             ]
           },
@@ -13119,31 +13165,27 @@
             "provider": "aoc"
           },
           {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "title": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu! (Legendado)",
+            "slug": "882103",
+            "url": "https://www.anitube.zip/video/882103/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Choujin-Koukousei-tachi-wa-Isekai-demo-Yoyuu-de-Ikinuku-you-desu-Todos-os-Episódios.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
+            "provider": "aoc"
+          },
+          {
+            "title": "Choujuushin Gravion (Legendado)",
+            "slug": "885430",
+            "url": "https://www.anitube.zip/video/885430/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Choujuushin-Gravion.jpg",
+            "kind": "anime",
+            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 10,
         "hasMore": true,
-        "total": 1764,
-        "cachedAt": 1784168161620,
+        "total": 1760,
+        "cachedAt": 1784182492097,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -13190,27 +13232,11 @@
           "fixHint": null
         }
       },
-      "at": 1784168163019
+      "at": 1784182492175
     },
     "todos|11||120": {
       "data": {
         "items": [
-          {
-            "title": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu! (Legendado)",
-            "slug": "882103",
-            "url": "https://www.anitube.zip/video/882103/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Choujin-Koukousei-tachi-wa-Isekai-demo-Yoyuu-de-Ikinuku-you-desu-Todos-os-Episódios.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Choujuushin Gravion (Legendado)",
-            "slug": "885430",
-            "url": "https://www.anitube.zip/video/885430/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Choujuushin-Gravion.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
           {
             "title": "Choujuushin Gravion Zwei (Legendado)",
             "slug": "885445",
@@ -13599,26 +13625,6 @@
             "provider": "aoc"
           },
           {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha Dublado",
-            "slug": "1003320",
-            "url": "https://www.anitube.zip/video/1003320/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "1003320"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado"
-              }
-            ]
-          },
-          {
             "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
             "slug": "clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha",
             "url": "https://animesonline.cloud/anime/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha",
@@ -13641,6 +13647,35 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha"
+              }
+            ]
+          },
+          {
+            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha Dublado",
+            "slug": "clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado",
+            "url": "https://animesonline.cloud/anime/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/tJCR0g2EvVQ8V0laox1HB7Up9DS-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "0"
+          },
+          {
+            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha Dublado",
+            "slug": "1003320",
+            "url": "https://www.anitube.zip/video/1003320/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1003320"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado"
               }
             ]
           },
@@ -13746,31 +13781,45 @@
             "provider": "aoc"
           },
           {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "title": "Comando Estelar Flashman",
+            "slug": "comando-estelar-flashman",
+            "url": "https://animesonline.cloud/anime/comando-estelar-flashman",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/06/4gZL7ICQyElnepqbuZ91YHu89au-185x278.jpg",
+            "rating": "7.4",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "comando-estelar-flashman"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
-                "slug": "one-piece"
+                "slug": "comando-estelar-flashman"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "one-piece"
+                "slug": "comando-estelar-flashman"
               }
             ]
+          },
+          {
+            "title": "Comet Lucifer (Legendado)",
+            "slug": "59086",
+            "url": "https://www.anitube.zip/video/59086/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Comet-Lucifer.jpg",
+            "kind": "anime",
+            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 11,
         "hasMore": true,
-        "total": 1762,
-        "cachedAt": 1784168165766,
+        "total": 1760,
+        "cachedAt": 1784182493606,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -13817,7 +13866,7 @@
           "fixHint": null
         }
       },
-      "at": 1784168167581
+      "at": 1784182493689
     },
     "todos|12||120": {
       "data": {
@@ -30297,7 +30346,7 @@
         "page": 8,
         "hasMore": true
       },
-      "at": 1784168151831
+      "at": 1784182489618
     },
     "todos|9||48": {
       "data": {
@@ -30577,7 +30626,7 @@
         "page": 9,
         "hasMore": true
       },
-      "at": 1784168156450
+      "at": 1784182490956
     },
     "todos|10||48": {
       "data": {
@@ -30857,7 +30906,7 @@
         "page": 10,
         "hasMore": true
       },
-      "at": 1784168161620
+      "at": 1784182492097
     },
     "todos|11||48": {
       "data": {
@@ -31137,7 +31186,7 @@
         "page": 11,
         "hasMore": true
       },
-      "at": 1784168165766
+      "at": 1784182493606
     },
     "todos|12||48": {
       "data": {
@@ -103140,5 +103189,5 @@
       "at": 1784168505327
     }
   },
-  "updatedAt": 1784182488041
+  "updatedAt": 1784182493689
 }
