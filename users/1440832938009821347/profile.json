@@ -19,19 +19,23 @@
       "slug": "steinsgate-0",
       "title": "Steins;Gate 0 - Animes",
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8wNC9hc3Npc3Rpci1zdGVpbnNnYXRlLTAtdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbmltZXMtb25saW5lLmpwZw",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "steinsgate": {
       "slug": "steinsgate",
       "title": "Steins;Gate - Animes",
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9TdGVpbnMtR2F0ZS1jYXRlZ29yaWEuanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     }
   },
   "watched": {
     "bleach-sennen-kessen-hen-soukoku-tan-dublado": [
+      1
+    ],
+    "steinsgate": [
+      1
+    ],
+    "steinsgate-0": [
       1
     ]
   },
@@ -49,6 +53,21 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado",
+      "ep": 1,
+      "at": 1784211452774
+    },
+    {
+      "slug": "steinsgate-0",
+      "ep": 1,
+      "at": 1784211452774
+    },
+    {
+      "slug": "steinsgate",
+      "ep": 1,
+      "at": 1784211452774
+    },
+    {
       "slug": "steinsgate",
       "ep": 4,
       "at": 1783987298272
@@ -64,24 +83,9 @@
       "at": 1783986358615
     },
     {
-      "slug": "steinsgate",
-      "ep": 1,
-      "at": 1783986327891
-    },
-    {
       "slug": "steinsgate-0",
       "ep": 2,
       "at": 1783986270856
-    },
-    {
-      "slug": "steinsgate-0",
-      "ep": 1,
-      "at": 1783986244946
-    },
-    {
-      "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado",
-      "ep": 1,
-      "at": 1783986220163
     }
   ],
   "watchHistoryHidden": [],
@@ -122,5 +126,5 @@
   },
   "filmePlayback": {},
   "customLists": {},
-  "updatedAt": 1783987283074
+  "updatedAt": 1784211437388
 }
