@@ -61805,7 +61805,7 @@
         "page": 30,
         "hasMore": true
       },
-      "at": 1784168271689
+      "at": 1784182540440
     },
     "partner:animeplay|todos|30||48": {
       "data": {
@@ -62046,6 +62046,24 @@
       "data": {
         "items": [
           {
+            "title": "Radiant",
+            "slug": "radiant",
+            "url": "https://animesonline.cloud/anime/radiant",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/yPgjtFvf62BT6EbjGYPt9AwGP2-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "8.6"
+          },
+          {
+            "title": "Radiant 2",
+            "slug": "radiant-2",
+            "url": "https://animesonline.cloud/anime/radiant-2",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/53vD5Fty9KWNo3ek7R9zuf7Zg4s-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "8.6"
+          },
+          {
             "title": "Radiant 2 Dublado",
             "slug": "radiant-2-dublado",
             "url": "https://animesonline.cloud/anime/radiant-2-dublado",
@@ -62070,7 +62088,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/mvXdwtlfvJfixInKLMDsguxZ0jx-185x278.jpg",
             "rating": "6.357",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "animeplay"
           },
           {
             "title": "Raise wa Tanin ga Ii – Todos os Episódios",
@@ -62186,6 +62204,11 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "remonster"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "remonster"
               }
             ]
           },
@@ -62283,10 +62306,27 @@
             "title": "Record of Ragnarok – Todos os Episódios",
             "slug": "shuumatsu-no-valkyrie",
             "url": "https://animesonline.cloud/anime/shuumatsu-no-valkyrie",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/05/ygE1AEV6pXFuCzbjS9ts59LxDm5-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/05/ygE1AEV6pXFuCzbjS9ts59LxDm5-185x278.jpg",
             "rating": "8.5",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "shuumatsu-no-valkyrie"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "shuumatsu-no-valkyrie"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "shuumatsu-no-valkyrie"
+              }
+            ]
           },
           {
             "title": "Record of Ragnarok 3",
@@ -62397,10 +62437,27 @@
             "title": "Romantic Killer",
             "slug": "romantic-killer",
             "url": "https://animesonline.cloud/anime/romantic-killer",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/b6nww3xaBSi9pQWfePBbKb5PTnj-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/10/b6nww3xaBSi9pQWfePBbKb5PTnj-185x278.jpg",
             "rating": "8.374",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "romantic-killer"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "romantic-killer"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "romantic-killer"
+              }
+            ]
           },
           {
             "title": "Romantic Killer Dublado",
@@ -62590,31 +62647,13 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "0"
-          },
-          {
-            "title": "Sakamoto Days",
-            "slug": "sakamoto-days",
-            "url": "https://animesonline.cloud/anime/sakamoto-days",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/qTNIxDIzKjLLuS17fxdXjcKAlW7-185x278.jpg",
-            "rating": "8,03",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Sakamoto Days 2",
-            "slug": "sakamoto-days-2",
-            "url": "https://animesonline.cloud/anime/sakamoto-days-2",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/4RV1Icg4NPoUEjue57m3hlnqRmM-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "8,03"
           }
         ],
         "category": "todos",
         "page": 30,
         "hasMore": true,
-        "total": 1758,
-        "cachedAt": 1784168271689,
+        "total": 1760,
+        "cachedAt": 1784182540440,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -62661,7 +62700,7 @@
           "fixHint": null
         }
       },
-      "at": 1784168274084
+      "at": 1784182540529
     },
     "todos|31||48": {
       "data": {
@@ -62932,7 +62971,7 @@
         "page": 31,
         "hasMore": true
       },
-      "at": 1784168277772
+      "at": 1784182541883
     },
     "partner:anitube|todos|31||48": {
       "data": {
@@ -63093,6 +63132,24 @@
       "data": {
         "items": [
           {
+            "title": "Sakamoto Days",
+            "slug": "sakamoto-days",
+            "url": "https://animesonline.cloud/anime/sakamoto-days",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/qTNIxDIzKjLLuS17fxdXjcKAlW7-185x278.jpg",
+            "rating": "8,03",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sakamoto Days 2",
+            "slug": "sakamoto-days-2",
+            "url": "https://animesonline.cloud/anime/sakamoto-days-2",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/4RV1Icg4NPoUEjue57m3hlnqRmM-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "8,03"
+          },
+          {
             "title": "Sakamoto Days 2 Dublado",
             "slug": "sakamoto-days-2-dublado",
             "url": "https://animesonline.cloud/anime/sakamoto-days-2-dublado",
@@ -63114,10 +63171,27 @@
             "title": "Sakugan",
             "slug": "sakugan",
             "url": "https://animesonline.cloud/anime/sakugan",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/h4v0id7U9YL8se3kIviAqyMNiqe-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/01/h4v0id7U9YL8se3kIviAqyMNiqe-185x278.jpg",
             "rating": "6.9",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sakugan"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sakugan"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sakugan"
+              }
+            ]
           },
           {
             "title": "Sakugan Dublado",
@@ -63181,6 +63255,11 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "sand-land-the-series"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sand-land-the-series"
               }
             ]
           },
@@ -63228,6 +63307,11 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
+                "slug": "sasaki-to-pii-chan"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
                 "slug": "sasaki-to-pii-chan"
               }
             ]
@@ -63329,10 +63413,27 @@
             "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
             "slug": "sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru",
             "url": "https://animesonline.cloud/anime/sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/v2VA99oXvEEuZNeqXSYRhq4uY2j-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/v2VA99oXvEEuZNeqXSYRhq4uY2j-185x278.jpg",
             "rating": "8.185",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru"
+              }
+            ]
           },
           {
             "title": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
@@ -63356,10 +63457,22 @@
             "title": "Sengoku Youko – Todos os Episódios",
             "slug": "sengoku-youko",
             "url": "https://animesonline.cloud/anime/sengoku-youko",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/oBEAvOas18mlFbafLkh0ullEDtv-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/oBEAvOas18mlFbafLkh0ullEDtv-185x278.jpg",
             "rating": "6.4",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sengoku-youko"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sengoku-youko"
+              }
+            ]
           },
           {
             "title": "Senpai wa Otokonoko – Todos os Episodios",
@@ -63394,6 +63507,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "sentai-daishikkaku"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "sentai-daishikkaku"
               },
               {
@@ -63434,10 +63552,27 @@
             "title": "Shadows House",
             "slug": "shadows-house",
             "url": "https://animesonline.cloud/anime/shadows-house",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
             "rating": "8.027",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "shadows-house"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "shadows-house"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "shadows-house"
+              }
+            ]
           },
           {
             "title": "Shadows House Dublado",
@@ -63473,10 +63608,22 @@
             "title": "Shaman King: Flowers – Todos os Episodios",
             "slug": "shaman-king-flowers",
             "url": "https://animesonline.cloud/anime/shaman-king-flowers",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/wxVkoCshNRJyB9vfKVHTXOIQQeF-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/wxVkoCshNRJyB9vfKVHTXOIQQeF-185x278.jpg",
             "rating": "7.5",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "shaman-king-flowers"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "shaman-king-flowers"
+              }
+            ]
           },
           {
             "title": "Shangri-La Frontier",
@@ -63490,6 +63637,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "shangri-la-frontier"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "shangri-la-frontier"
               },
               {
@@ -63565,10 +63717,27 @@
             "title": "Shiguang Dailiren: Yingdu Pian",
             "slug": "shiguang-dailiren-yingdu-pian",
             "url": "https://animesonline.cloud/anime/shiguang-dailiren-yingdu-pian",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/k966Cn9wChI9YCl9TcCwGH52A0W-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/k966Cn9wChI9YCl9TcCwGH52A0W-185x278.jpg",
             "rating": "8.2",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "shiguang-dailiren-yingdu-pian"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "shiguang-dailiren-yingdu-pian"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "shiguang-dailiren-yingdu-pian"
+              }
+            ]
           },
           {
             "title": "Shiguang Dailiren: Yingdu Pian Dublado",
@@ -63604,10 +63773,27 @@
             "title": "Shin Ikkitousen",
             "slug": "shin-ikkitousen",
             "url": "https://animesonline.cloud/anime/shin-ikkitousen",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/03/816zU3IELJlkmRqPt91uu9ty1Qf-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/03/816zU3IELJlkmRqPt91uu9ty1Qf-185x278.jpg",
             "rating": "5.5",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "shin-ikkitousen"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "shin-ikkitousen"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "shin-ikkitousen"
+              }
+            ]
           },
           {
             "title": "Shin Samurai-den Yaiba",
@@ -63635,48 +63821,13 @@
             "rating": "7.5",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Shingeki no Bahamut: Virgin Soul",
-            "slug": "shingeki-no-bahamut-virgin-soul",
-            "url": "https://animesonline.cloud/anime/shingeki-no-bahamut-virgin-soul",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/oWjLPatirGO8AxizsTujUGGHjcu-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "7.7"
-          },
-          {
-            "title": "Shingeki no Kyojin",
-            "slug": "shingeki-no-kyojin",
-            "url": "https://animesonline.cloud/anime/shingeki-no-kyojin",
-            "poster": "https://animesdrive.online/wp-content/uploads/2013/04/Shingeki-no-Kyojin-185x278.jpg",
-            "rating": "8.664",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "shingeki-no-kyojin"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "shingeki-no-kyojin"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "shingeki-no-kyojin"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 31,
         "hasMore": true,
-        "total": 1758,
-        "cachedAt": 1784168277772,
+        "total": 1760,
+        "cachedAt": 1784182541883,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -63723,7 +63874,7 @@
           "fixHint": null
         }
       },
-      "at": 1784168278768
+      "at": 1784182541953
     },
     "partner:anitube|todos|32||48": {
       "data": {
@@ -103920,5 +104071,5 @@
       "at": 1784168505327
     }
   },
-  "updatedAt": 1784182537915
+  "updatedAt": 1784182541953
 }
