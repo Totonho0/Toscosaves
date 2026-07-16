@@ -3382,6 +3382,31 @@
         "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1zd29yZC1hcnQtb25saW5lLTItdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbmltZXNkaWdpdGFsLmpwZw",
         "episodeUrl": "https://animesdigital.org/video/a/31301b"
       }
+    },
+    "anime:sword-art-online-2:4": {
+      "at": 1784241385071,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://eos.feralhosting.com/inazu/Letra-S/Sword Art Online 2/04.mp4",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Feos.feralhosting.com%2Finazu%2FLetra-S%2FSword%20Art%20Online%202%2F04.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://animeflix.blog/Animes/Letra-S/Sword Art Online 2/04.mp4",
+            "label": "FHD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fanimeflix.blog%2FAnimes%2FLetra-S%2FSword%20Art%20Online%202%2F04.mp4&ref=aoc"
+          }
+        ],
+        "episode": 4,
+        "slug": "sword-art-online-2",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/t61TOLBPE2hgtVF7FtRu4M1Tuq.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/sword-art-online-2-episodio-04"
+      }
     }
   }
 }
