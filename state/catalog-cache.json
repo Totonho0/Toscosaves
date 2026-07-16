@@ -9226,7 +9226,24 @@
             "poster": "https://image.tmdb.org/t/p/w185/mgYMsOsFrQ9Q5NjlQwKRWu0K3uM.jpg",
             "rating": "7.235",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside"
+              }
+            ]
           },
           {
             "title": "Banner Of The Stars (Seikai no Senki) (Legendado)",
@@ -9527,8 +9544,8 @@
         "category": "todos",
         "page": 4,
         "hasMore": true,
-        "total": 1769,
-        "cachedAt": 1784168092567,
+        "total": 1760,
+        "cachedAt": 1784182483139,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -9575,7 +9592,7 @@
           "fixHint": null
         }
       },
-      "at": 1784168095902
+      "at": 1784182483217
     },
     "todos|5||120": {
       "data": {
@@ -9771,6 +9788,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "bikini-warriors"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "bikini-warriors"
               },
               {
@@ -10038,31 +10060,19 @@
             "provider": "aoc"
           },
           {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "title": "Black Rock Shooter: Dawn Fall (Legendado)",
+            "slug": "909817",
+            "url": "https://www.anitube.zip/video/909817/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Black-Rock-Shooter-Dawn-Fall-Todos-os-Episódios-AniTube.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
+            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 5,
         "hasMore": true,
-        "total": 1769,
-        "cachedAt": 1784168098881,
+        "total": 1760,
+        "cachedAt": 1784182484651,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -10109,7 +10119,7 @@
           "fixHint": null
         }
       },
-      "at": 1784168100469
+      "at": 1784182484726
     },
     "todos|6||120": {
       "data": {
@@ -29161,7 +29171,7 @@
         "page": 4,
         "hasMore": true
       },
-      "at": 1784168092567
+      "at": 1784182483139
     },
     "todos|5||48": {
       "data": {
@@ -29441,7 +29451,7 @@
         "page": 5,
         "hasMore": true
       },
-      "at": 1784168098881
+      "at": 1784182484651
     },
     "todos|6||48": {
       "data": {
@@ -103115,5 +103125,5 @@
       "at": 1784168505327
     }
   },
-  "updatedAt": 1784182481419
+  "updatedAt": 1784182484726
 }
