@@ -51594,7 +51594,7 @@
         "page": 24,
         "hasMore": true
       },
-      "at": 1784168239698
+      "at": 1784182527018
     },
     "partner:animeplay|todos|24||48": {
       "data": {
@@ -52102,6 +52102,41 @@
       "data": {
         "items": [
           {
+            "title": "Kami no Shizuku",
+            "slug": "kami-no-shizuku",
+            "url": "https://animesonline.cloud/anime/kami-no-shizuku",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/eJngpqzGzppVkR5XoM9uuPFOukn-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "8.1"
+          },
+          {
+            "title": "Kami wa Game ni Ueteiru – Todos os Episódios",
+            "slug": "kami-wa-game-ni-ueteiru",
+            "url": "https://animesonline.cloud/anime/kami-wa-game-ni-ueteiru",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/uBVxIofgBq2Tp36F1ggcNUfy6VG-185x278.jpg",
+            "rating": "6.3",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kami-wa-game-ni-ueteiru"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kami-wa-game-ni-ueteiru"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kami-wa-game-ni-ueteiru"
+              }
+            ]
+          },
+          {
             "title": "Kamierabi 2 – Todos os Episódios",
             "slug": "kamierabi-2",
             "url": "https://animesonline.cloud/anime/kamierabi-2",
@@ -52376,6 +52411,11 @@
                 "slug": "katekyou-hitman-reborn"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "katekyou-hitman-reborn"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "katekyou-hitman-reborn"
@@ -52484,6 +52524,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "kenka-dokugaku"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "kenka-dokugaku"
               },
               {
@@ -52626,6 +52671,11 @@
                 "slug": "kimetsu-no-yaiba-hashira-geiko-hen"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kimetsu-no-yaiba-hashira-geiko-hen"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kimetsu-no-yaiba-hashira-geiko-hen"
@@ -52644,6 +52694,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "kimetsu-no-yaiba-katanakaji-no-sato-hen"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "kimetsu-no-yaiba-katanakaji-no-sato-hen"
               },
               {
@@ -52668,6 +52723,11 @@
                 "slug": "kimetsu-no-yaiba-mugen-ressha-hen"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kimetsu-no-yaiba-mugen-ressha-hen"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kimetsu-no-yaiba-mugen-ressha-hen"
@@ -52686,6 +52746,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "kimetsu-no-yaiba-yuukaku-hen"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "kimetsu-no-yaiba-yuukaku-hen"
               },
               {
@@ -52740,6 +52805,11 @@
                 "slug": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo"
@@ -52784,31 +52854,13 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "0"
-          },
-          {
-            "title": "Kimi wa Meido-sama – Todos os Episódios",
-            "slug": "kimi-wa-meido-sama",
-            "url": "https://animesonline.cloud/anime/kimi-wa-meido-sama",
-            "poster": "https://image.tmdb.org/t/p/original/rohw3aNUXOhZC71V4oYGWKvYDOf.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Kimi wa Meido-sama Dublado",
-            "slug": "kimi-wa-meido-sama-dublado",
-            "url": "https://animesonline.cloud/anime/kimi-wa-meido-sama-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/10/Kimi-wa-Meido-sama.-Dublado-185x278.jpg",
-            "rating": "7,10",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 24,
         "hasMore": true,
-        "total": 1758,
-        "cachedAt": 1784168239698,
+        "total": 1760,
+        "cachedAt": 1784182527018,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -52855,7 +52907,7 @@
           "fixHint": null
         }
       },
-      "at": 1784168239839
+      "at": 1784182527090
     },
     "partner:anitube|todos|25||48": {
       "data": {
@@ -103614,5 +103666,5 @@
       "at": 1784168505327
     }
   },
-  "updatedAt": 1784182524507
+  "updatedAt": 1784182527090
 }
