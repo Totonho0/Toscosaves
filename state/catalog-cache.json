@@ -55066,7 +55066,7 @@
         "page": 26,
         "hasMore": true
       },
-      "at": 1784168247955
+      "at": 1784182531471
     },
     "partner:animeplay|todos|26||48": {
       "data": {
@@ -55574,6 +55574,36 @@
       "data": {
         "items": [
           {
+            "title": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+            "slug": "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance",
+            "url": "https://animesonline.cloud/anime/mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/6FTC8b0V0xdCQrT4929HPdPnoYo-185x278.jpg",
+            "rating": "8.4",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Mahou Shoujo ni Akogarete – Todos os Episódios",
+            "slug": "mahou-shoujo-ni-akogarete",
+            "url": "https://animesonline.cloud/anime/mahou-shoujo-ni-akogarete",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/Mahou-Shoujo-ni-Akogarete-Todos-os-Episodios-185x278.webp",
+            "rating": "8.2",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "mahou-shoujo-ni-akogarete"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mahou-shoujo-ni-akogarete"
+              }
+            ]
+          },
+          {
             "title": "Mahouka Koukou no Rettousei 3",
             "slug": "mahouka-koukou-no-rettousei-3",
             "url": "https://animesonline.cloud/anime/mahouka-koukou-no-rettousei-3",
@@ -55673,10 +55703,27 @@
             "title": "Mairimashita! Iruma-kun 4",
             "slug": "mairimashita-iruma-kun-4",
             "url": "https://animesonline.cloud/anime/mairimashita-iruma-kun-4",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/4ujO7fWRzyWvU96u6puKmi6ZgiS-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/4ujO7fWRzyWvU96u6puKmi6ZgiS-185x278.jpg",
             "rating": "8.2",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "mairimashita-iruma-kun-4"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "mairimashita-iruma-kun-4"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mairimashita-iruma-kun-4"
+              }
+            ]
           },
           {
             "title": "Mairimashita! Iruma-kun 4 Dublado",
@@ -55691,10 +55738,22 @@
             "title": "Majo to Yajuu – Todos os Episódios",
             "slug": "majo-to-yajuu",
             "url": "https://animesonline.cloud/anime/majo-to-yajuu",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/cnvGV9vmIJVXh5YRjMbMtxpdsVg-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/cnvGV9vmIJVXh5YRjMbMtxpdsVg-185x278.jpg",
             "rating": "7.625",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "majo-to-yajuu"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "majo-to-yajuu"
+              }
+            ]
           },
           {
             "title": "Majutsushi Kunon wa Mieteiru",
@@ -55812,15 +55871,20 @@
           {
             "title": "Maougun Saikyou no Majutsushi wa Ningen datta – Todos os Episódios",
             "slug": "maou-gun-saikyou-no-majutsushi-wa-ningen-datta",
-            "url": "https://animesonline.cloud/anime/maou-gun-saikyou-no-majutsushi-wa-ningen-datta",
+            "url": "https://animesdrive.online/anime/maou-gun-saikyou-no-majutsushi-wa-ningen-datta",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/06/jLv8SkunhsQaFU7yR7WRHHwCm6x-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "maou-gun-saikyou-no-majutsushi-wa-ningen-datta"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "maou-gun-saikyou-no-majutsushi-wa-ningen-datta"
               },
               {
@@ -55894,7 +55958,19 @@
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/Mashle-2-Todos-os-Episodios-animesonline.cloud_-185x278.jpg",
             "rating": "8.3",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "mashle-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mashle-2"
+              }
+            ]
           },
           {
             "title": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
@@ -55918,10 +55994,22 @@
             "title": "Mato Seihei no Slave Todos os Episódios",
             "slug": "mato-seihei-no-slave",
             "url": "https://animesonline.cloud/anime/mato-seihei-no-slave",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/ieI3bn3oBKkqbJtYEPiaCV22Gps-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/ieI3bn3oBKkqbJtYEPiaCV22Gps-185x278.jpg",
             "rating": "5",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "mato-seihei-no-slave"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mato-seihei-no-slave"
+              }
+            ]
           },
           {
             "title": "Mattaku Saikin no Tantei to Kitara",
@@ -56152,10 +56240,22 @@
             "title": "Metallic Rouge – Todos os Episodios",
             "slug": "metallic-rouge",
             "url": "https://animesonline.cloud/anime/metallic-rouge",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/oLMLxZBmIFE6tWg5s8UwuYOWTVI-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/oLMLxZBmIFE6tWg5s8UwuYOWTVI-185x278.jpg",
             "rating": "7.5",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "metallic-rouge"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "metallic-rouge"
+              }
+            ]
           },
           {
             "title": "MF Ghost 2 – Todos os Episódios",
@@ -56201,31 +56301,13 @@
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Mignon – Todos os Episódios",
-            "slug": "mignon",
-            "url": "https://animesonline.cloud/anime/mignon-todos-os-episodios",
-            "poster": "https://image.tmdb.org/t/p/original/pk3uFK02s6EeAvcAmMcb12OrdYZ.jpg",
-            "rating": "6.9",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Mikadono Sanshimai wa Angai, Choroi",
-            "slug": "mikadono-sanshimai-wa-angai-choroi",
-            "url": "https://animesonline.cloud/anime/mikadono-sanshimai-wa-angai-choroi",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/m1V6c1x127niTfg3k0rLWPouDSn-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "0"
           }
         ],
         "category": "todos",
         "page": 26,
         "hasMore": true,
-        "total": 1758,
-        "cachedAt": 1784168247955,
+        "total": 1760,
+        "cachedAt": 1784182531471,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -56272,7 +56354,7 @@
           "fixHint": null
         }
       },
-      "at": 1784168248126
+      "at": 1784182531561
     },
     "partner:anitube|todos|27||48": {
       "data": {
@@ -103688,5 +103770,5 @@
       "at": 1784168505327
     }
   },
-  "updatedAt": 1784182529159
+  "updatedAt": 1784182531561
 }
