@@ -10125,14 +10125,6 @@
       "data": {
         "items": [
           {
-            "title": "Black Rock Shooter: Dawn Fall (Legendado)",
-            "slug": "909817",
-            "url": "https://www.anitube.zip/video/909817/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Black-Rock-Shooter-Dawn-Fall-Todos-os-Episódios-AniTube.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Black Torch",
             "slug": "black-torch",
             "url": "https://animesonline.cloud/anime/black-torch",
@@ -10228,6 +10220,15 @@
             "slug": "881501",
             "url": "https://www.anitube.zip/video/881501/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-bleach-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Bleach Dublado",
+            "slug": "bleach-dublado",
+            "url": "https://animesonline.cloud/anime/bleach-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/cACXGL4PBgKslAF5W8aaxWdriW7-185x278.jpg",
+            "rating": "8.383",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -10343,6 +10344,11 @@
                 "slug": "blue-archive-the-animation"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "blue-archive-the-animation"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "blue-archive-the-animation"
@@ -10401,6 +10407,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "blue-lock"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "blue-lock"
               },
               {
@@ -10540,10 +10551,27 @@
             "title": "Bocchi the Rock!",
             "slug": "bocchi-the-rock",
             "url": "https://animesonline.cloud/anime/bocchi-the-rock",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/se9xLGHlSqQwVgEzLw326CJjaRm-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/se9xLGHlSqQwVgEzLw326CJjaRm-185x278.jpg",
             "rating": "8.363",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "bocchi-the-rock"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "bocchi-the-rock"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "bocchi-the-rock"
+              }
+            ]
           },
           {
             "title": "Bocchi the Rock! (Legendado)",
@@ -10631,22 +10659,28 @@
             ]
           },
           {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "title": "Boku no Hero Academia 3",
+            "slug": "boku-no-hero-academia-3",
+            "url": "https://animesonline.cloud/anime/boku-no-hero-academia-3",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/4ZrHvTWkmp2WTQvQbpibTtku267-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
+            "rating": "8.627",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "boku-no-hero-academia-3"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
-                "slug": "one-piece"
+                "slug": "boku-no-hero-academia-3"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "one-piece"
+                "slug": "boku-no-hero-academia-3"
               }
             ]
           }
@@ -10654,8 +10688,8 @@
         "category": "todos",
         "page": 6,
         "hasMore": true,
-        "total": 1768,
-        "cachedAt": 1784168106699,
+        "total": 1760,
+        "cachedAt": 1784182486695,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -10702,37 +10736,11 @@
           "fixHint": null
         }
       },
-      "at": 1784168106808
+      "at": 1784182486785
     },
     "todos|7||120": {
       "data": {
         "items": [
-          {
-            "title": "Boku no Hero Academia 3",
-            "slug": "boku-no-hero-academia-3",
-            "url": "https://animesonline.cloud/anime/boku-no-hero-academia-3",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/4ZrHvTWkmp2WTQvQbpibTtku267-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "8.627",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "boku-no-hero-academia-3"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "boku-no-hero-academia-3"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "boku-no-hero-academia-3"
-              }
-            ]
-          },
           {
             "title": "Boku no Hero Academia 3 (Legendado)",
             "slug": "923294b001",
@@ -10873,26 +10881,6 @@
             "provider": "aoc"
           },
           {
-            "title": "Boku no Hero Academia: Final Season Dublado",
-            "slug": "1018817",
-            "url": "https://www.anitube.zip/video/1018817/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-boku-no-hero-academia-final-season-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "1018817"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "boku-no-hero-academia-final-season-dublado"
-              }
-            ]
-          },
-          {
             "title": "Boku no Hero Academia the Movie 4: You’re Next – Filme (Filme)",
             "slug": "1000035",
             "url": "https://www.anitube.zip/video/1000035/",
@@ -10923,6 +10911,35 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "boku-no-hero-academia-final-season"
+              }
+            ]
+          },
+          {
+            "title": "Boku no Hero Academia: Final Season Dublado",
+            "slug": "boku-no-hero-academia-final-season-dublado",
+            "url": "https://animesonline.cloud/anime/boku-no-hero-academia-final-season-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/myxWINN4lV2YRtb3DcCi7UFn6C5-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "8.651"
+          },
+          {
+            "title": "Boku no Hero Academia: Final Season Dublado",
+            "slug": "1018817",
+            "url": "https://www.anitube.zip/video/1018817/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-boku-no-hero-academia-final-season-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1018817"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "boku-no-hero-academia-final-season-dublado"
               }
             ]
           },
@@ -10995,15 +11012,20 @@
           {
             "title": "Boku no Tsuma wa Kanjou ga Nai – Todos os Episódios",
             "slug": "boku-no-tsuma-wa-kanjou-ga-nai",
-            "url": "https://animesonline.cloud/anime/boku-no-tsuma-wa-kanjou-ga-nai",
+            "url": "https://animesdrive.online/anime/boku-no-tsuma-wa-kanjou-ga-nai",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/06/muNFUKudbjB8iTZhLfhifU4EogY-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "boku-no-tsuma-wa-kanjou-ga-nai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "boku-no-tsuma-wa-kanjou-ga-nai"
               },
               {
@@ -11258,6 +11280,11 @@
                 "slug": "boukyaku-battery"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "boukyaku-battery"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "boukyaku-battery"
@@ -11297,31 +11324,19 @@
             "provider": "aoc"
           },
           {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "title": "Brave Beats (Legendado)",
+            "slug": "61086",
+            "url": "https://www.anitube.zip/video/61086/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-brave-beats-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
+            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 7,
         "hasMore": true,
-        "total": 1767,
-        "cachedAt": 1784168149983,
+        "total": 1760,
+        "cachedAt": 1784182487959,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -11368,7 +11383,7 @@
           "fixHint": null
         }
       },
-      "at": 1784168150114
+      "at": 1784182488041
     },
     "todos|8||120": {
       "data": {
@@ -29722,7 +29737,7 @@
         "page": 6,
         "hasMore": true
       },
-      "at": 1784168106699
+      "at": 1784182486695
     },
     "todos|7||48": {
       "data": {
@@ -30002,7 +30017,7 @@
         "page": 7,
         "hasMore": true
       },
-      "at": 1784168149983
+      "at": 1784182487959
     },
     "todos|8||48": {
       "data": {
@@ -103125,5 +103140,5 @@
       "at": 1784168505327
     }
   },
-  "updatedAt": 1784182484726
+  "updatedAt": 1784182488041
 }
