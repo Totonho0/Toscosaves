@@ -6991,7 +6991,19 @@
             "poster": "https://image.tmdb.org/t/p/w185/1ttxQPgX6HJqUsXuC2HgnQRv7wZ.jpg",
             "rating": "7.333",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy"
+              }
+            ]
           },
           {
             "title": "A Série Pokémon: Horizontes",
@@ -7008,6 +7020,11 @@
                 "slug": "a-serie-pokemon-horizontes"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "a-serie-pokemon-horizontes"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "a-serie-pokemon-horizontes"
@@ -7021,7 +7038,19 @@
             "poster": "https://image.tmdb.org/t/p/w185/6WJZiR1lRoa80tkWrR2U2IQm9rO.jpg",
             "rating": "7.8",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "a-sign-of-affection"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "a-sign-of-affection"
+              }
+            ]
           },
           {
             "title": "A-Rank Party wo Ridatsu shita Ore wa Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.",
@@ -7089,10 +7118,27 @@
             "title": "Aharen-san wa Hakarenai 2",
             "slug": "aharen-san-wa-hakarenai-2",
             "url": "https://animesonline.cloud/anime/aharen-san-wa-hakarenai-2",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/3Pqe5r4THECyIsJ58C4YLFZD6nj-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/3Pqe5r4THECyIsJ58C4YLFZD6nj-185x278.jpg",
             "rating": "7.2",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "aharen-san-wa-hakarenai-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "aharen-san-wa-hakarenai-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "aharen-san-wa-hakarenai-2"
+              }
+            ]
           },
           {
             "title": "Ahiru no Sora",
@@ -7312,6 +7358,11 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
+                "slug": "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
                 "slug": "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen"
               }
             ]
@@ -7698,10 +7749,27 @@
             "title": "Ao Ashi",
             "slug": "ao-ashi",
             "url": "https://animesonline.cloud/anime/ao-ashi",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/bR33xoasXnezj9UM0Murnjpyz9T-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/bR33xoasXnezj9UM0Murnjpyz9T-185x278.jpg",
             "rating": "7.6",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ao-ashi"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "ao-ashi"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ao-ashi"
+              }
+            ]
           },
           {
             "title": "Ao Ashi Dublado",
@@ -7733,8 +7801,8 @@
         "category": "todos",
         "page": 1,
         "hasMore": true,
-        "total": 1769,
-        "cachedAt": 1784168082136,
+        "total": 1760,
+        "cachedAt": 1784182479058,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -7781,7 +7849,7 @@
           "fixHint": null
         }
       },
-      "at": 1784168082241
+      "at": 1784182479159
     },
     "todos|2||120": {
       "data": {
@@ -7790,10 +7858,22 @@
             "title": "Ao no Exorcist – Todos os Episodios",
             "slug": "ao-no-exorcist",
             "url": "https://animesonline.cloud/anime/ao-no-exorcist",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/jtOvJjdZCCHxsUuTSNikvPjKB4P-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/jtOvJjdZCCHxsUuTSNikvPjKB4P-185x278.jpg",
             "rating": "7.907",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ao-no-exorcist"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ao-no-exorcist"
+              }
+            ]
           },
           {
             "title": "Ao no Exorcist: Yosuga-hen",
@@ -7877,6 +7957,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "ao-no-orchestra-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "ao-no-orchestra-2"
               },
               {
@@ -8211,6 +8296,11 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "astro-note"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "astro-note"
               }
             ]
           },
@@ -8344,8 +8434,8 @@
         "category": "todos",
         "page": 2,
         "hasMore": true,
-        "total": 1769,
-        "cachedAt": 1784168085150,
+        "total": 1760,
+        "cachedAt": 1784182480209,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -8392,7 +8482,7 @@
           "fixHint": null
         }
       },
-      "at": 1784168086794
+      "at": 1784182480295
     },
     "todos|3||120": {
       "data": {
@@ -8646,15 +8736,20 @@
           {
             "title": "Bagel Girl – Todos os Episodios",
             "slug": "bagel-girl",
-            "url": "https://animesonline.cloud/anime/bagel-girl",
+            "url": "https://animesdrive.online/anime/bagel-girl",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/06/drPIJqMh8SNkkJJi9gIpU3AS1p5-185x278.jpg",
             "rating": "8",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "bagel-girl"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "bagel-girl"
               },
               {
@@ -8668,10 +8763,27 @@
             "title": "Bai Yao Pu 2",
             "slug": "bai-yao-pu-2",
             "url": "https://animesonline.cloud/anime/bai-yao-pu-2",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/gQHuyKNkQaqpINqupQ28JVTC3Iz-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/gQHuyKNkQaqpINqupQ28JVTC3Iz-185x278.jpg",
             "rating": "8.7",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "bai-yao-pu-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "bai-yao-pu-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "bai-yao-pu-2"
+              }
+            ]
           },
           {
             "title": "Baka to Test to Shoukanjuu (Legendado)",
@@ -8799,6 +8911,11 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "bakuage-sentai-boonboomger"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "bakuage-sentai-boonboomger"
               }
             ]
           },
@@ -8878,8 +8995,8 @@
         "category": "todos",
         "page": 3,
         "hasMore": true,
-        "total": 1769,
-        "cachedAt": 1784168089754,
+        "total": 1760,
+        "cachedAt": 1784182481340,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -8926,7 +9043,7 @@
           "fixHint": null
         }
       },
-      "at": 1784168091349
+      "at": 1784182481419
     },
     "todos|4||120": {
       "data": {
@@ -27557,7 +27674,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1784168082136
+      "at": 1784182479058
     },
     "todos|2||48": {
       "data": {
@@ -27837,7 +27954,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1784168085150
+      "at": 1784182480209
     },
     "todos|3||48": {
       "data": {
@@ -28117,7 +28234,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1784168089754
+      "at": 1784182481340
     },
     "lancamentos|1||48": {
       "data": {
@@ -102998,5 +103115,5 @@
       "at": 1784168505327
     }
   },
-  "updatedAt": 1784168507549
+  "updatedAt": 1784182481419
 }
