@@ -13872,14 +13872,6 @@
       "data": {
         "items": [
           {
-            "title": "Comet Lucifer (Legendado)",
-            "slug": "59086",
-            "url": "https://www.anitube.zip/video/59086/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Comet-Lucifer.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Comic Girls (Legendado)",
             "slug": "64617",
             "url": "https://www.anitube.zip/video/64617/",
@@ -14037,6 +14029,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "cowboy-bebop"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "cowboy-bebop"
               },
               {
@@ -14323,13 +14320,39 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dakaretai-otoko-1-i-ni-odosarete-imasu-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "Dan Da Dan 2",
+            "slug": "dandadan-2",
+            "url": "https://animesonline.cloud/anime/dandadan-2",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/06/zbbxqDw7JV9TGlx3OlrGSfZzUp8-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "0",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dandadan-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "dandadan-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dandadan-2"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 12,
         "hasMore": true,
         "total": 1760,
-        "cachedAt": 1784168171117,
+        "cachedAt": 1784182496763,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -14376,7 +14399,7 @@
           "fixHint": null
         }
       },
-      "at": 1784168172127
+      "at": 1784182496840
     },
     "todos|13||120": {
       "data": {
@@ -31466,7 +31489,7 @@
         "page": 12,
         "hasMore": true
       },
-      "at": 1784168171117
+      "at": 1784182496763
     },
     "partner:anitube|todos|1||48": {
       "data": {
@@ -103189,5 +103212,5 @@
       "at": 1784168505327
     }
   },
-  "updatedAt": 1784182493689
+  "updatedAt": 1784182496840
 }
