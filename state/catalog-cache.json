@@ -6918,11 +6918,11 @@
           {
             "title": "2.5-jigen no Ririsa",
             "slug": "2-5-jigen-no-ririsa",
-            "url": "https://animeplay.cloud/anime/2-5-jigen-no-ririsa",
+            "url": "https://animesonline.cloud/anime/2-5-jigen-no-ririsa",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/o27VT52sXxnhI2iWBLLawKsSi3b-185x278.jpg",
             "rating": "7,27",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "2.5-jigen no Ririsa Dublado – Todos os Episódios",
@@ -7121,6 +7121,11 @@
             "provider": "aoc",
             "rating": "0",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "aishiteru-game-wo-owarasetai"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -7729,7 +7734,7 @@
         "page": 1,
         "hasMore": true,
         "total": 1769,
-        "cachedAt": 1784152035041,
+        "cachedAt": 1784168082136,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -7745,7 +7750,7 @@
         "aocDegradedStatus": {
           "slowMode": false,
           "slowUntil": 0,
-          "timeoutStreak": 8
+          "timeoutStreak": 0
         },
         "aocReachability": {
           "reachable": true,
@@ -7776,7 +7781,7 @@
           "fixHint": null
         }
       },
-      "at": 1784153875877
+      "at": 1784168082241
     },
     "todos|2||120": {
       "data": {
@@ -25344,7 +25349,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1784163763012
+      "at": 1784168082136
     },
     "todos|2||48": {
       "data": {
@@ -25624,7 +25629,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1784139326905
+      "at": 1784168085150
     },
     "todos|3||48": {
       "data": {
@@ -29468,7 +29473,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784139322980
+      "at": 1784168080838
     },
     "partner:anitube|todos|2||48": {
       "data": {
@@ -29623,7 +29628,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784139326512
+      "at": 1784168083115
     },
     "partner:animeplay|todos|2||48": {
       "data": {
@@ -29874,7 +29879,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784139327350
+      "at": 1784168083993
     },
     "partner:anitube|todos|3||48": {
       "data": {
@@ -92647,5 +92652,5 @@
       "at": 1784152080813
     }
   },
-  "updatedAt": 1784168077665
+  "updatedAt": 1784168085150
 }
