@@ -64281,6 +64281,24 @@
             "provider": "aoc"
           },
           {
+            "title": "Hunter x Hunter",
+            "slug": "hunter-x-hunter",
+            "url": "https://animesonline.cloud/anime/hunter-x-hunter",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/eobAuhCJA8oRp814V67WhezVXtQ-185x278.jpg",
+            "rating": "8.455",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su 2",
+            "slug": "shangri-la-frontier-kusogee-hunter-kamige-ni-idoman-to-su-2",
+            "url": "https://animesonline.cloud/anime/shangri-la-frontier-kusogee-hunter-kamige-ni-idoman-to-su-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/cs1locqOIKRO7oe4pZQfpkKejh4-185x278.jpg",
+            "rating": "7.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai – Todos os Episódios",
             "slug": "seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai",
             "url": "https://animesonline.cloud/anime/seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai",
@@ -64459,31 +64477,13 @@
             "rating": "6.9",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Arifureta Shokugyou de Sekai Saikyou 3 Dublado – Todos os Episódios",
-            "slug": "arifureta-shokugyou-de-sekai-saikyou-3-dublado",
-            "url": "https://animesonline.cloud/anime/arifureta-shokugyou-de-sekai-saikyou-3-dublado-todos-os-episodios",
-            "poster": "https://image.tmdb.org/t/p/original/3QX7Mwl71NomXujvjN4vjQeDYW0.jpg",
-            "rating": "8.5",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Keijo!!!!!!!! – Todos os Episódios",
-            "slug": "keijo",
-            "url": "https://animesonline.cloud/anime/keijo-todos-os-episodios",
-            "poster": "https://image.tmdb.org/t/p/original/mcq7AHs0F7EEiCG9O7bFt5bdGrD.jpg",
-            "rating": "6.9",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 30,
         "hasMore": true
       },
-      "at": 1784230818245
+      "at": 1784245176340
     },
     "partner:animeplay|todos|30||48": {
       "data": {
@@ -64724,6 +64724,77 @@
       "data": {
         "items": [
           {
+            "title": "Ranma 1/2 (2024) 2",
+            "slug": "ranma-1-2-2024-2",
+            "url": "https://animesonline.cloud/anime/ranma-1-2-2024-2",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/fj5iEatJv7L80Mp9STKTLf6uwcB-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "0"
+          },
+          {
+            "title": "Ranma 1/2 (2024) 2 Dublado",
+            "slug": "ranma-1-2-2024-2-dublado",
+            "url": "https://animesonline.cloud/anime/ranma-1-2-2024-2-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/fj5iEatJv7L80Mp9STKTLf6uwcB-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "0"
+          },
+          {
+            "title": "Ranma 1/2 (2024) Dublado – Todos os Episódios",
+            "slug": "ranma-1-2-2024-dublado",
+            "url": "https://animesonline.cloud/anime/ranma-1-2-2024-dublado",
+            "poster": "https://animeflix.blog/IMGS/capas/Ranma1-2%202024%20Dublado.webp",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Ranma ½ (2024) 3rd Season",
+            "slug": "ranma-½-2024-3rd-season",
+            "url": "https://animesonline.cloud/anime/ranma-%c2%bd-2024-3rd-season",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/fSDzEp1RnBhTgyWmOLQoOoo5fdP-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "0"
+          },
+          {
+            "title": "Re:Monster – Todos os Episódios",
+            "slug": "remonster",
+            "url": "https://animesonline.cloud/anime/remonster",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/tg2VXsEyeuexAayn1hma8AVLglz-185x278.jpg.webp",
+            "rating": "8.8",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "remonster"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "remonster"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "remonster"
+              }
+            ]
+          },
+          {
+            "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "slug": "rezero-kara-hajimeru-isekai-seikatsu",
+            "url": "https://animesonline.cloud/anime/rezero-kara-hajimeru-isekai-seikatsu",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/08/aBArXqZA6zuNV1mwBH5UP8aiQoP-185x278.jpg",
+            "rating": "7.738",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2",
             "slug": "rezero-kara-hajimeru-isekai-seikatsu-2",
             "url": "https://animesonline.cloud/anime/rezero-kara-hajimeru-isekai-seikatsu-2",
@@ -64920,11 +64991,11 @@
           {
             "title": "Rising Impact – Todos os Episódios",
             "slug": "rising-impact",
-            "url": "https://animesonline.cloud/anime/rising-impact",
+            "url": "https://animesdrive.online/anime/rising-impact",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/06/zGxp7t9fvxIxEDqB7V48bFgplP7-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -65337,84 +65408,13 @@
                 "slug": "sand-land-the-series"
               }
             ]
-          },
-          {
-            "title": "Sanda",
-            "slug": "sanda",
-            "url": "https://animesonline.cloud/anime/sanda",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/5Nfdb0I8Az6rwSOtS4K0HnsHEd4-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "8.1"
-          },
-          {
-            "title": "Sanda Dublado",
-            "slug": "sanda-dublado",
-            "url": "https://animesonline.cloud/anime/sanda-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/5Nfdb0I8Az6rwSOtS4K0HnsHEd4-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "8.1"
-          },
-          {
-            "title": "Sanxian Lun Hui",
-            "slug": "sanxian-lun-hui",
-            "url": "https://animesonline.cloud/anime/sanxian-lun-hui",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/gGAq0zmhVn1qAEyFrthSnzbuYCp-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "0"
-          },
-          {
-            "title": "Sasaki to Pii-chan – Todos os Episódios",
-            "slug": "sasaki-to-pii-chan",
-            "url": "https://animesonline.cloud/anime/sasaki-to-pii-chan",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/01/m3D7giT0fyJJ5ssjOEhYgUXN7Sg-185x278.jpg.webp",
-            "rating": "7.5",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "sasaki-to-pii-chan"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "sasaki-to-pii-chan"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "sasaki-to-pii-chan"
-              }
-            ]
-          },
-          {
-            "title": "Sawaranaide Kotesashi-kun",
-            "slug": "sawaranaide-kotesashi-kun",
-            "url": "https://animesonline.cloud/anime/sawaranaide-kotesashi-kun",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/5FTV4NI7kNJtDugMGzSmGeVE7cn-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "9.2"
-          },
-          {
-            "title": "Sayonara Lara",
-            "slug": "sayonara-lara",
-            "url": "https://animesonline.cloud/anime/sayonara-lara",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/1s7wuO2nrL20hD10Y83OpTx3vII-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "0"
           }
         ],
         "category": "todos",
         "page": 30,
         "hasMore": true,
-        "total": 1745,
-        "cachedAt": 1784230818245,
+        "total": 1754,
+        "cachedAt": 1784245176340,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -65461,7 +65461,7 @@
           "fixHint": null
         }
       },
-      "at": 1784230821408
+      "at": 1784245176431
     },
     "todos|31||48": {
       "data": {
@@ -111158,5 +111158,5 @@
       "at": 1784232394924
     }
   },
-  "updatedAt": 1784245173281
+  "updatedAt": 1784245176431
 }
