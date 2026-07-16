@@ -79999,14 +79999,29 @@
                 "slug": "fruits-basket-2019"
               },
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fruits-basket-2001"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "fruits-basket-2019"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "fruits-basket-2001"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "fruits-basket-2019"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "fruits-basket-2001"
               }
             ]
           },
@@ -80259,6 +80274,56 @@
                 "slug": "youjo-senki-ii"
               },
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "katainaka-no-ossan-kensei-ni-naru-ii"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sora-wa-akai-kawa-no-hotori"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "migawari-reijou-wo-sukutta-no-wa-reikoku-mujihi-na-koori-no-ouji-no-ai-deshita"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "honoo-no-toukyuujo-dodge-danko"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "yoroi-shin-den-samurai-troopers-part-2"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tefuda-ga-oome-no-victoria"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "koukaku-kidoutai-tv"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "youjo-senki-ii"
@@ -80479,7 +80544,29 @@
             "url": "https://www.anitube.zip/video/998440/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-science-future-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dr-stone-science-future-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "998440"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "dr-stone-science-future-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dr-stone-science-future-dublado"
+              }
+            ]
           },
           {
             "title": "Dr. Stone: Science Future Part 2 Dublado",
@@ -80543,7 +80630,24 @@
             "url": "https://www.anitube.zip/video/1001647/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dragon-ball-daima-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-daima-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1001647"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dragon-ball-daima-dublado"
+              }
+            ]
           },
           {
             "title": "Dragon Ball Dublado",
@@ -80576,13 +80680,21 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dragon-ball-heroes-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
             "provider": "anitube"
+          },
+          {
+            "title": "Dragon Ball Heroes Dublado",
+            "slug": "87011",
+            "url": "https://www.anitube.zip/video/87011/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/dragon-ball-heroes-todos-os-episodios-online-1.jpg",
+            "kind": "anime",
+            "provider": "anitube"
           }
         ],
         "category": "todos",
         "page": 45,
         "hasMore": true,
-        "total": 1585,
-        "cachedAt": 1784139486246,
+        "total": 1758,
+        "cachedAt": 1784168409302,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -80629,7 +80741,7 @@
           "fixHint": null
         }
       },
-      "at": 1784139488997
+      "at": 1784168411700
     },
     "partner:anitube|todos|46||48": {
       "data": {
@@ -80784,7 +80896,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784139489317
+      "at": 1784168412042
     },
     "todos|46||48": {
       "data": {
@@ -99252,5 +99364,5 @@
       "at": 1784168405185
     }
   },
-  "updatedAt": 1784168409592
+  "updatedAt": 1784168412042
 }
