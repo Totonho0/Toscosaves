@@ -53342,7 +53342,7 @@
         "page": 25,
         "hasMore": true
       },
-      "at": 1784168241867
+      "at": 1784182529075
     },
     "partner:animeplay|todos|25||48": {
       "data": {
@@ -53850,6 +53850,24 @@
       "data": {
         "items": [
           {
+            "title": "Kimi wa Meido-sama – Todos os Episódios",
+            "slug": "kimi-wa-meido-sama",
+            "url": "https://animesonline.cloud/anime/kimi-wa-meido-sama",
+            "poster": "https://image.tmdb.org/t/p/original/rohw3aNUXOhZC71V4oYGWKvYDOf.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kimi wa Meido-sama Dublado",
+            "slug": "kimi-wa-meido-sama-dublado",
+            "url": "https://animesonline.cloud/anime/kimi-wa-meido-sama-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/10/Kimi-wa-Meido-sama.-Dublado-185x278.jpg",
+            "rating": "7,10",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Kingdom 6",
             "slug": "kingdom-6",
             "url": "https://animesonline.cloud/anime/kingdom-6",
@@ -54290,10 +54308,27 @@
             "title": "Kyojinzoku no Hanayome",
             "slug": "kyojinzoku-no-hanayome",
             "url": "https://animesonline.cloud/anime/kyojinzoku-no-hanayome",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/03/lapaHCSPKgTef9fFuDfsTK3PL51-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/03/lapaHCSPKgTef9fFuDfsTK3PL51-185x278.jpg",
             "rating": "6.5",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kyojinzoku-no-hanayome"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kyojinzoku-no-hanayome"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kyojinzoku-no-hanayome"
+              }
+            ]
           },
           {
             "title": "Lazarus",
@@ -54396,6 +54431,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life"
               },
               {
@@ -54538,31 +54578,13 @@
                 "slug": "magic-maker-isekai-mahou-no-tsukurikata-dublado"
               }
             ]
-          },
-          {
-            "title": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
-            "slug": "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance",
-            "url": "https://animesonline.cloud/anime/mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/6FTC8b0V0xdCQrT4929HPdPnoYo-185x278.jpg",
-            "rating": "8.4",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Mahou Shoujo ni Akogarete – Todos os Episódios",
-            "slug": "mahou-shoujo-ni-akogarete",
-            "url": "https://animesonline.cloud/anime/mahou-shoujo-ni-akogarete",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/Mahou-Shoujo-ni-Akogarete-Todos-os-Episodios-185x278.webp",
-            "rating": "8.2",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 25,
         "hasMore": true,
-        "total": 1758,
-        "cachedAt": 1784168241867,
+        "total": 1760,
+        "cachedAt": 1784182529075,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -54609,7 +54631,7 @@
           "fixHint": null
         }
       },
-      "at": 1784168244421
+      "at": 1784182529159
     },
     "partner:anitube|todos|26||48": {
       "data": {
@@ -103666,5 +103688,5 @@
       "at": 1784168505327
     }
   },
-  "updatedAt": 1784182527090
+  "updatedAt": 1784182529159
 }
