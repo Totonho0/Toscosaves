@@ -74005,7 +74005,19 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
             "rating": "8.9",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           },
           {
             "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
@@ -74014,7 +74026,19 @@
             "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
             "rating": "8.6",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              }
+            ]
           },
           {
             "title": "Uzumaki – Todos os Episódios",
@@ -74023,7 +74047,19 @@
             "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
             "rating": "5",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "uzumaki"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "uzumaki"
+              }
+            ]
           },
           {
             "title": "Hitoribocchi no Isekai Kouryaku",
@@ -74032,7 +74068,19 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
             "rating": "7.4",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              }
+            ]
           },
           {
             "title": "Maou-sama, Retry! 2 – Todos os Episódios",
@@ -74041,7 +74089,19 @@
             "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
             "rating": "10",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "maou-sama-retry"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "maou-sama-retry"
+              }
+            ]
           },
           {
             "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
@@ -74050,7 +74110,19 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              }
+            ]
           },
           {
             "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga. – Todos os Episódios",
@@ -74059,142 +74131,334 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/01/vOIdsYCy3Kd6KeyKRM3IyXOzH3c-185x278.jpg.webp",
             "rating": "5.5",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga"
+              }
+            ]
           },
           {
             "title": "Majo to Yajuu – Todos os Episódios",
             "slug": "majo-to-yajuu",
             "url": "https://animesonline.cloud/anime/majo-to-yajuu",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/cnvGV9vmIJVXh5YRjMbMtxpdsVg-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/cnvGV9vmIJVXh5YRjMbMtxpdsVg-185x278.jpg",
             "rating": "7.625",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "majo-to-yajuu"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "majo-to-yajuu"
+              }
+            ]
           },
           {
             "title": "Sengoku Youko – Todos os Episódios",
             "slug": "sengoku-youko",
             "url": "https://animesonline.cloud/anime/sengoku-youko",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/oBEAvOas18mlFbafLkh0ullEDtv-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/oBEAvOas18mlFbafLkh0ullEDtv-185x278.jpg",
             "rating": "6.4",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sengoku-youko"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sengoku-youko"
+              }
+            ]
           },
           {
             "title": "Mato Seihei no Slave Todos os Episódios",
             "slug": "mato-seihei-no-slave",
             "url": "https://animesonline.cloud/anime/mato-seihei-no-slave",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/ieI3bn3oBKkqbJtYEPiaCV22Gps-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/ieI3bn3oBKkqbJtYEPiaCV22Gps-185x278.jpg",
             "rating": "5",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "mato-seihei-no-slave"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mato-seihei-no-slave"
+              }
+            ]
           },
           {
             "title": "Dungeon Meshi – Todos os Episódios",
             "slug": "dungeon-meshi",
             "url": "https://animesonline.cloud/anime/dungeon-meshi",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/q8gN7dsgBVxYtX3fGqTTogckVnD-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/q8gN7dsgBVxYtX3fGqTTogckVnD-185x278.jpg",
             "rating": "8.647",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dungeon-meshi"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dungeon-meshi"
+              }
+            ]
           },
           {
             "title": "Metallic Rouge – Todos os Episodios",
             "slug": "metallic-rouge",
             "url": "https://animesonline.cloud/anime/metallic-rouge",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/oLMLxZBmIFE6tWg5s8UwuYOWTVI-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/oLMLxZBmIFE6tWg5s8UwuYOWTVI-185x278.jpg",
             "rating": "7.5",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "metallic-rouge"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "metallic-rouge"
+              }
+            ]
           },
           {
             "title": "Mahou Shoujo ni Akogarete – Todos os Episódios",
             "slug": "mahou-shoujo-ni-akogarete",
             "url": "https://animesonline.cloud/anime/mahou-shoujo-ni-akogarete",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/Mahou-Shoujo-ni-Akogarete-Todos-os-Episodios-185x278.webp",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/Mahou-Shoujo-ni-Akogarete-Todos-os-Episodios-185x278.webp",
             "rating": "8.2",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "mahou-shoujo-ni-akogarete"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mahou-shoujo-ni-akogarete"
+              }
+            ]
           },
           {
             "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3 – Todos os Episodios",
             "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3",
             "url": "https://animesonline.cloud/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-3-Todos-os-Episodios-185x278.webp",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-3-Todos-os-Episodios-185x278.webp",
             "rating": "8.506",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3"
+              }
+            ]
           },
           {
             "title": "Shaman King: Flowers – Todos os Episodios",
             "slug": "shaman-king-flowers",
             "url": "https://animesonline.cloud/anime/shaman-king-flowers",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/wxVkoCshNRJyB9vfKVHTXOIQQeF-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/wxVkoCshNRJyB9vfKVHTXOIQQeF-185x278.jpg",
             "rating": "7.5",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "shaman-king-flowers"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "shaman-king-flowers"
+              }
+            ]
           },
           {
             "title": "Ishura – Todos os Episodios",
             "slug": "ishura",
             "url": "https://animesonline.cloud/anime/ishura",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/Q0nbxeYiFQJxzJ8nTTOwWNij2z-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/Q0nbxeYiFQJxzJ8nTTOwWNij2z-185x278.jpg",
             "rating": "5.8",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ishura"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ishura"
+              }
+            ]
           },
           {
             "title": "Bucchigiri?! – Todos os Episodios",
             "slug": "bucchigiri",
             "url": "https://animesonline.cloud/anime/bucchigiri",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/mTphiAP2vMMNcVSB5a1pWEMZuo3-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/mTphiAP2vMMNcVSB5a1pWEMZuo3-185x278.jpg",
             "rating": "7.2",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "bucchigiri"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "bucchigiri"
+              }
+            ]
           },
           {
             "title": "Jaku-Chara Tomozaki-kun 2nd Stage – Todos os Episodios",
             "slug": "jaku-chara-tomozaki-kun-2nd-stage",
             "url": "https://animesonline.cloud/anime/jaku-chara-tomozaki-kun-2nd-stage",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/Jaku-Chara-Tomozaki-kun-2nd-Stage.jpg-185x278.webp",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/Jaku-Chara-Tomozaki-kun-2nd-Stage.jpg-185x278.webp",
             "rating": "6.563",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "jaku-chara-tomozaki-kun-2nd-stage"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "jaku-chara-tomozaki-kun-2nd-stage"
+              }
+            ]
           },
           {
             "title": "Mashle 2 – Todos os Episodios",
             "slug": "mashle-2",
             "url": "https://animesonline.cloud/anime/mashle-2-todos-os-episodios",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/Mashle-2-Todos-os-Episodios-animesonline.cloud_-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/Mashle-2-Todos-os-Episodios-animesonline.cloud_-185x278.jpg",
             "rating": "8.3",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "mashle-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mashle-2"
+              }
+            ]
           },
           {
             "title": "Ao no Exorcist – Todos os Episodios",
             "slug": "ao-no-exorcist",
             "url": "https://animesonline.cloud/anime/ao-no-exorcist",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/jtOvJjdZCCHxsUuTSNikvPjKB4P-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/jtOvJjdZCCHxsUuTSNikvPjKB4P-185x278.jpg",
             "rating": "7.907",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ao-no-exorcist"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ao-no-exorcist"
+              }
+            ]
           },
           {
             "title": "Solo Leveling",
             "slug": "solo-leveling",
             "url": "https://animesonline.cloud/anime/solo-leveling",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/zn7hOslLYG1U2m06jGJJln8Ry7t-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/zn7hOslLYG1U2m06jGJJln8Ry7t-185x278.jpg",
             "rating": "8.883",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "solo-leveling"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "solo-leveling"
+              }
+            ]
           },
           {
             "title": "Hokkaido Gals Are Super Adorable! – Todos os Episódios",
             "slug": "hokkaido-gals-are-super-adorable",
             "url": "https://animesonline.cloud/anime/hokkaido-gals-are-super-adorable",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/03/4wttuiqXv3lmLJLaa74SoKSXEPU-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/03/4wttuiqXv3lmLJLaa74SoKSXEPU-185x278.jpg",
             "rating": "7.826",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hokkaido-gals-are-super-adorable"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hokkaido-gals-are-super-adorable"
+              }
+            ]
           },
           {
             "title": "The Strongest Tank’s Labyrinth Raids",
@@ -74203,7 +74467,19 @@
             "poster": "https://image.tmdb.org/t/p/w185/lOyFi5mNkUIELYrB1TvoIf9IPT6.jpg",
             "rating": "4.25",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "the-strongest-tanks-labyrinth-raids"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "the-strongest-tanks-labyrinth-raids"
+              }
+            ]
           },
           {
             "title": "Fluffy Paradise",
@@ -74212,7 +74488,19 @@
             "poster": "https://image.tmdb.org/t/p/w185/tDvb4SRltQLs1hkKe5WYQmpi6gJ.jpg",
             "rating": "6",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fluffy-paradise"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "fluffy-paradise"
+              }
+            ]
           },
           {
             "title": "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!",
@@ -74221,7 +74509,19 @@
             "poster": "https://image.tmdb.org/t/p/w185/1ttxQPgX6HJqUsXuC2HgnQRv7wZ.jpg",
             "rating": "7.333",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy"
+              }
+            ]
           },
           {
             "title": "A Sign of Affection",
@@ -74230,25 +74530,69 @@
             "poster": "https://image.tmdb.org/t/p/w185/6WJZiR1lRoa80tkWrR2U2IQm9rO.jpg",
             "rating": "7.8",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "a-sign-of-affection"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "a-sign-of-affection"
+              }
+            ]
           },
           {
             "title": "Tensei shitara Slime Datta Ken: Coleus no Yume Dublado – Todos os Episodios",
             "slug": "tensei-shitara-slime-datta-ken-coleus-no-yume-dublado",
             "url": "https://animesonline.cloud/anime/tensei-shitara-slime-datta-ken-coleus-no-yume-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2023/12/nTeofQ7NUJqVmj3lbdiJbAcNoC5-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/nTeofQ7NUJqVmj3lbdiJbAcNoC5-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tensei-shitara-slime-datta-ken-coleus-no-yume-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tensei-shitara-slime-datta-ken-coleus-no-yume-dublado"
+              }
+            ]
           },
           {
             "title": "Ragna Crimson",
             "slug": "ragna-crimson",
             "url": "https://animesonline.cloud/anime/ragna-crimson",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2023/12/mvXdwtlfvJfixInKLMDsguxZ0jx-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/mvXdwtlfvJfixInKLMDsguxZ0jx-185x278.jpg",
             "rating": "6.357",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "Gekkan Mousou Kagaku – Todos os Episódios",
+            "slug": "gekkan-mousou-kagaku",
+            "url": "https://animeplay.cloud/anime/gekkan-mousou-kagaku",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/6Ei5yD3veVdp2UXylL1xgZvjKR4-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "gekkan-mousou-kagaku"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "gekkan-mousou-kagaku"
+              }
+            ]
           },
           {
             "title": "Detective Conan (Legendado)",
@@ -74275,6 +74619,11 @@
             "provider": "anitube",
             "animeSources": [
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "59707"
+              },
+              {
                 "server": 6,
                 "provider": "anitube",
                 "slug": "59707"
@@ -74292,7 +74641,29 @@
             "url": "https://www.anitube.zip/video/1001139/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-devil-may-cry-2025-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "devil-may-cry-2025-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1001139"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "devil-may-cry-2025-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "devil-may-cry-2025-dublado"
+              }
+            ]
           },
           {
             "title": "Devil May Cry 2 (2026) Dublado",
@@ -74300,7 +74671,19 @@
             "url": "https://www.anitube.zip/video/1057663/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-devil-may-cry-2-2026-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "devil-may-cry-2026-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1057663"
+              }
+            ]
           },
           {
             "title": "Devil Survivor 2: The Animation – (Legendado)",
@@ -74402,8 +74785,8 @@
         "category": "todos",
         "page": 41,
         "hasMore": true,
-        "total": 1433,
-        "cachedAt": 1784139467691,
+        "total": 1758,
+        "cachedAt": 1784168389882,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -74450,7 +74833,7 @@
           "fixHint": null
         }
       },
-      "at": 1784139471515
+      "at": 1784168392276
     },
     "partner:anitube|todos|42||48": {
       "data": {
@@ -74605,7 +74988,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784139471866
+      "at": 1784168393143
     },
     "todos|42||48": {
       "data": {
@@ -75102,7 +75485,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784139472687
+      "at": 1784168394533
     },
     "todos|42||120": {
       "data": {
@@ -96649,5 +97032,5 @@
       "at": 1784168389736
     }
   },
-  "updatedAt": 1784168389882
+  "updatedAt": 1784168394533
 }
