@@ -58445,7 +58445,7 @@
         "page": 28,
         "hasMore": true
       },
-      "at": 1784168263111
+      "at": 1784182536749
     },
     "partner:animeplay|todos|28||48": {
       "data": {
@@ -58953,6 +58953,24 @@
       "data": {
         "items": [
           {
+            "title": "NegaPosi Angler – Todos os Episódios",
+            "slug": "negaposi-angler",
+            "url": "https://animesonline.cloud/anime/negaposi-angler",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/08/qRzjoFxvYMm2boZY3vJrLS3vDft-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Negative Positive Angler – Todos os Episódios",
+            "slug": "negative-positive-angler",
+            "url": "https://animesonline.cloud/anime/negative-positive-angler-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/50YOJIJvCnTrohnMi1flWZIiGNt.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Neko to Ryuu",
             "slug": "neko-to-ryuu",
             "url": "https://animesonline.cloud/anime/neko-to-ryuu",
@@ -59115,10 +59133,27 @@
             "title": "Nijiyon Animation 2 – Todos os Episódios",
             "slug": "nijiyon-animation-2",
             "url": "https://animesonline.cloud/anime/nijiyon-animation-2",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/04/eXd1W47yx3u7ZcFQ8rhwjp9omJo-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/eXd1W47yx3u7ZcFQ8rhwjp9omJo-185x278.jpg.webp",
             "rating": "2",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "nijiyon-animation-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nijiyon-animation-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nijiyon-animation-2"
+              }
+            ]
           },
           {
             "title": "Nijuuseiki Denki Mokuroku: Eureka Evrika",
@@ -59155,6 +59190,11 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
+                "slug": "ninja-kamui"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
                 "slug": "ninja-kamui"
               }
             ]
@@ -59305,10 +59345,27 @@
             "title": "Nu Wushen de Canzhuo",
             "slug": "nu-wushen-de-canzhuo",
             "url": "https://animesonline.cloud/anime/nu-wushen-de-canzhuo",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/11/jKisue3FXkLpxlW3Z5wVSrVo1aA-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/11/jKisue3FXkLpxlW3Z5wVSrVo1aA-185x278.jpg",
             "rating": "8",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "nu-wushen-de-canzhuo"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nu-wushen-de-canzhuo"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nu-wushen-de-canzhuo"
+              }
+            ]
           },
           {
             "title": "Nukitashi the Animation",
@@ -59512,6 +59569,11 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "one-room-hiatari-futsuu-tenshi-tsuki"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-room-hiatari-futsuu-tenshi-tsuki"
               }
             ]
           },
@@ -59570,31 +59632,13 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "8.396"
-          },
-          {
-            "title": "One-Punch Man 3",
-            "slug": "one-punch-man-3",
-            "url": "https://animesonline.cloud/anime/one-punch-man-3",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/06/1xUHoyo601Q8IAHRJXotZdiTvim-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "8.4"
-          },
-          {
-            "title": "One-Punch Man 3 Dublado",
-            "slug": "one-punch-man-3-dublado",
-            "url": "https://animesonline.cloud/anime/one-punch-man-3-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/geAHbOOX9rVwFSBopLDv0WQQWNh-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "8.4"
           }
         ],
         "category": "todos",
         "page": 28,
         "hasMore": true,
-        "total": 1758,
-        "cachedAt": 1784168263111,
+        "total": 1760,
+        "cachedAt": 1784182536749,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -59641,7 +59685,7 @@
           "fixHint": null
         }
       },
-      "at": 1784168264558
+      "at": 1784182536821
     },
     "partner:anitube|todos|29||48": {
       "data": {
@@ -60058,7 +60102,7 @@
         "page": 29,
         "hasMore": true
       },
-      "at": 1784168266484
+      "at": 1784182537825
     },
     "partner:animeplay|todos|29||48": {
       "data": {
@@ -60534,6 +60578,24 @@
       "data": {
         "items": [
           {
+            "title": "One-Punch Man 3",
+            "slug": "one-punch-man-3",
+            "url": "https://animesonline.cloud/anime/one-punch-man-3",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/06/1xUHoyo601Q8IAHRJXotZdiTvim-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "8.4"
+          },
+          {
+            "title": "One-Punch Man 3 Dublado",
+            "slug": "one-punch-man-3-dublado",
+            "url": "https://animesonline.cloud/anime/one-punch-man-3-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/geAHbOOX9rVwFSBopLDv0WQQWNh-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "8.4"
+          },
+          {
             "title": "Oni no Hanayome",
             "slug": "oni-no-hanayome",
             "url": "https://animesonline.cloud/anime/oni-no-hanayome",
@@ -60569,6 +60631,11 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "ookami-to-koushinryou-merchant-meets-the-wise-wolf"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ookami-to-koushinryou-merchant-meets-the-wise-wolf"
               }
             ]
           },
@@ -60576,19 +60643,53 @@
             "title": "Ookami-san wa Taberaretai",
             "slug": "ookami-san-wa-taberaretai",
             "url": "https://animesonline.cloud/anime/ookami-san-wa-taberaretai",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/rxzZERBfJlT3esrkac4t33TB0lG-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/10/rxzZERBfJlT3esrkac4t33TB0lG-185x278.jpg",
             "rating": "4.8",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ookami-san-wa-taberaretai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "ookami-san-wa-taberaretai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ookami-san-wa-taberaretai"
+              }
+            ]
           },
           {
             "title": "Ore dake Haireru Kakushi Dungeon",
             "slug": "ore-dake-haireru-kakushi-dungeon",
             "url": "https://animesonline.cloud/anime/ore-dake-haireru-kakushi-dungeon",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/3VNinMIgdqOoldpd5MBmul74wN8-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/3VNinMIgdqOoldpd5MBmul74wN8-185x278.jpg",
             "rating": "8.014",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ore-dake-haireru-kakushi-dungeon"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "ore-dake-haireru-kakushi-dungeon"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ore-dake-haireru-kakushi-dungeon"
+              }
+            ]
           },
           {
             "title": "Ore wa Seikan Kokka no Akutoku Ryoushu!",
@@ -60656,6 +60757,11 @@
                 "slug": "os-cavaleiros-do-zodiaco-saint-seiya"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "os-cavaleiros-do-zodiaco-saint-seiya"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "os-cavaleiros-do-zodiaco-saint-seiya"
@@ -60674,15 +60780,20 @@
           {
             "title": "Oshi no Ko – Todos os Episódios",
             "slug": "oshi-no-ko",
-            "url": "https://animesonline.cloud/anime/oshi-no-ko",
+            "url": "https://animesdrive.online/anime/oshi-no-ko",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/06/ozJvrtYnLDz0wpOTx61Qs5t3ZEJ-185x278.jpg",
             "rating": "8.339",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "oshi-no-ko"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "oshi-no-ko"
               },
               {
@@ -60806,7 +60917,19 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/05/6l6yukaVkE3r2fH4PcFEApKlpYi-185x278.jpg",
             "rating": "8.527",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "overlord"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "overlord"
+              }
+            ]
           },
           {
             "title": "Overlord 2 – Todos os Episódios",
@@ -60820,6 +60943,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "overlord-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "overlord-2"
               },
               {
@@ -60844,6 +60972,11 @@
                 "slug": "overlord-3"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "overlord-3"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "overlord-3"
@@ -60862,6 +60995,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "overlord-4"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "overlord-4"
               },
               {
@@ -61024,6 +61162,11 @@
                 "slug": "pokemon"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "pokemon"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "pokemon"
@@ -61088,10 +61231,27 @@
             "title": "Prima Doll",
             "slug": "prima-doll",
             "url": "https://animesonline.cloud/anime/prima-doll",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/09/z8DjN9RlcMy4WIQpgtbFqp9dLtM-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/09/z8DjN9RlcMy4WIQpgtbFqp9dLtM-185x278.jpg",
             "rating": "5.455",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "prima-doll"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "prima-doll"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "prima-doll"
+              }
+            ]
           },
           {
             "title": "Princession Orchestra",
@@ -61175,31 +61335,13 @@
                 "slug": "quanzhi-fashi-7"
               }
             ]
-          },
-          {
-            "title": "Radiant",
-            "slug": "radiant",
-            "url": "https://animesonline.cloud/anime/radiant",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/yPgjtFvf62BT6EbjGYPt9AwGP2-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "8.6"
-          },
-          {
-            "title": "Radiant 2",
-            "slug": "radiant-2",
-            "url": "https://animesonline.cloud/anime/radiant-2",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/53vD5Fty9KWNo3ek7R9zuf7Zg4s-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "8.6"
           }
         ],
         "category": "todos",
         "page": 29,
         "hasMore": true,
-        "total": 1758,
-        "cachedAt": 1784168266484,
+        "total": 1760,
+        "cachedAt": 1784182537825,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -61246,7 +61388,7 @@
           "fixHint": null
         }
       },
-      "at": 1784168269310
+      "at": 1784182537915
     },
     "partner:anitube|todos|30||48": {
       "data": {
@@ -103778,5 +103920,5 @@
       "at": 1784168505327
     }
   },
-  "updatedAt": 1784182535192
+  "updatedAt": 1784182537915
 }
