@@ -335,6 +335,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9vQllLdlcwVlMxTDNHZnI4MVZvSmdlSzdqem8uanBn",
       "kind": "anime",
       "adult": false
+    },
+    "sword-art-online-2-dublado": {
+      "slug": "sword-art-online-2-dublado",
+      "title": "Sword Art 2 - Animes",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1zd29yZC1hcnQtb25saW5lLTItdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbmltZXNkaWdpdGFsLmpwZw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -551,9 +558,17 @@
     ],
     "ameku-takao-no-suiri-karte": [
       1
+    ],
+    "sword-art-online-2-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "sword-art-online-2-dublado",
+      "ep": 1,
+      "at": 1784241331784
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -1004,5 +1019,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784241306858
+  "updatedAt": 1784241334297
 }
