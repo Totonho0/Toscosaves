@@ -20558,10 +20558,27 @@
             "title": "Ahiru no Sora",
             "slug": "ahiru-no-sora",
             "url": "https://animesonline.cloud/anime/ahiru-no-sora",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/emHuXZPwTxqkzNtwOTsmf0CERrX-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/emHuXZPwTxqkzNtwOTsmf0CERrX-185x278.jpg",
             "rating": "8.434",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ahiru-no-sora"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "ahiru-no-sora"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ahiru-no-sora"
+              }
+            ]
           },
           {
             "title": "AI no Idenshi",
@@ -20985,8 +21002,8 @@
         "category": "legendado",
         "page": 1,
         "hasMore": true,
-        "total": 125,
-        "cachedAt": 1784259689069,
+        "total": 126,
+        "cachedAt": 1784288494825,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -21033,7 +21050,7 @@
           "fixHint": null
         }
       },
-      "at": 1784259690279
+      "at": 1784288496130
     },
     "legendado|2||120": {
       "data": {
@@ -21757,8 +21774,8 @@
         "category": "legendado",
         "page": 2,
         "hasMore": true,
-        "total": 125,
-        "cachedAt": 1784259691046,
+        "total": 126,
+        "cachedAt": 1784288497079,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -21805,7 +21822,7 @@
           "fixHint": null
         }
       },
-      "at": 1784259692018
+      "at": 1784288498157
     },
     "legendado|3||120": {
       "data": {
@@ -21911,6 +21928,31 @@
               }
             ],
             "rating": "0"
+          },
+          {
+            "title": "Super no Ura de Yani Suu Futari Mini",
+            "slug": "smoking-behind-the-supermarket-with-you-mini",
+            "url": "https://animesdrive.online/anime/smoking-behind-the-supermarket-with-you-mini",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/nSdgX507jBlonGFC91Ve0TfcLjJ-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "smoking-behind-the-supermarket-with-you-mini"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "smoking-behind-the-supermarket-with-you-mini"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "smoking-behind-the-supermarket-with-you-mini"
+              }
+            ]
           },
           {
             "title": "Tadaima, Ojamasaremasu!",
@@ -22432,26 +22474,6 @@
             ]
           },
           {
-            "title": "Super no Ura de Yani Suu Futari Mini",
-            "slug": "smoking-behind-the-supermarket-with-you-mini",
-            "url": "https://animesdrive.online/anime/smoking-behind-the-supermarket-with-you-mini",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/nSdgX507jBlonGFC91Ve0TfcLjJ-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "smoking-behind-the-supermarket-with-you-mini"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "smoking-behind-the-supermarket-with-you-mini"
-              }
-            ]
-          },
-          {
             "title": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
             "slug": "rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku",
             "url": "https://animeplay.cloud/anime/rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku",
@@ -22480,8 +22502,8 @@
         "category": "legendado",
         "page": 3,
         "hasMore": true,
-        "total": 125,
-        "cachedAt": 1784259692960,
+        "total": 126,
+        "cachedAt": 1784288499073,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -22528,7 +22550,7 @@
           "fixHint": null
         }
       },
-      "at": 1784259693932
+      "at": 1784288500230
     },
     "dublado|1||120": {
       "data": {
@@ -23399,7 +23421,7 @@
         "page": 1,
         "hasMore": true,
         "total": 109,
-        "cachedAt": 1784259694345,
+        "cachedAt": 1784288500626,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -23446,7 +23468,7 @@
           "fixHint": null
         }
       },
-      "at": 1784259695690
+      "at": 1784288502111
     },
     "dublado|2||120": {
       "data": {
@@ -24480,7 +24502,7 @@
         "page": 2,
         "hasMore": true,
         "total": 109,
-        "cachedAt": 1784259696655,
+        "cachedAt": 1784288503006,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -24527,7 +24549,7 @@
           "fixHint": null
         }
       },
-      "at": 1784259697749
+      "at": 1784288504204
     },
     "dublado|3||120": {
       "data": {
@@ -25273,7 +25295,7 @@
         "page": 3,
         "hasMore": true,
         "total": 109,
-        "cachedAt": 1784259698710,
+        "cachedAt": 1784288505163,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -25320,7 +25342,7 @@
           "fixHint": null
         }
       },
-      "at": 1784259699795
+      "at": 1784288506258
     },
     "partner:animesdigital|lancamentos|1||24": {
       "data": {
@@ -26747,7 +26769,7 @@
             "epTitle": "Episódio 1",
             "slug": "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den",
             "episode": 1,
-            "url": "https://animesonline.cloud/episodio/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den-episodio-01",
+            "url": "https://animesdrive.online/episodio/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den-episodio-01",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/07/3Btd1KRfONTVCqsCxNSaiFWEzD2-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
@@ -27027,7 +27049,7 @@
             "epTitle": "Episódio 1169",
             "slug": "one-piece",
             "episode": 1169,
-            "url": "https://animesonline.cloud/episodio/one-piece-episodio-1169",
+            "url": "https://animesdrive.online/episodio/one-piece-episodio-1169",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/07/6Ok5RTIKT7RZHMSbdxcmqUX1Fod-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
@@ -27143,6 +27165,16 @@
             "isRelease": true,
             "animeSources": [
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "smoking-behind-the-supermarket-with-you"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "super-no-ura-de-yani-suu-futari"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "super-no-ura-de-yani-suu-futari"
@@ -27183,6 +27215,11 @@
                 "slug": "katainaka-no-ossan-kensei-ni-naru-ii"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "smoking-behind-the-supermarket-with-you"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "super-no-ura-de-yani-suu-futari"
@@ -27221,6 +27258,11 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "katainaka-no-ossan-kensei-ni-naru-ii"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "smoking-behind-the-supermarket-with-you"
               }
             ]
           },
@@ -27415,6 +27457,14 @@
             ]
           },
           {
+            "title": "Final Fantasy: Unlimited",
+            "slug": "assistir-final-fantasy:-unlimited",
+            "url": "https://animesdigital.org/video/a/137173/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-final-fantasy-unlimited-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
             "title": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru",
             "slug": "assistir-tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru",
             "url": "https://animesdigital.org/video/a/137166/",
@@ -27586,8 +27636,8 @@
         "category": "lancamentos",
         "page": 1,
         "hasMore": true,
-        "total": 121,
-        "cachedAt": 1784259685520,
+        "total": 124,
+        "cachedAt": 1784288491432,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -27634,7 +27684,7 @@
           "fixHint": null
         }
       },
-      "at": 1784259686788
+      "at": 1784288492467
     },
     "lancamentos|2||120": {
       "data": {
@@ -27755,6 +27805,11 @@
                 "server": 1,
                 "provider": "aoc",
                 "slug": "super-no-ura-de-yani-suu-futari"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "smoking-behind-the-supermarket-with-you"
               },
               {
                 "server": 1,
@@ -27914,6 +27969,11 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
+                "slug": "smoking-behind-the-supermarket-with-you"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou"
               },
               {
@@ -28020,6 +28080,11 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "katainaka-no-ossan-kensei-ni-naru-ii"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "smoking-behind-the-supermarket-with-you"
               },
               {
                 "server": 3,
@@ -28785,8 +28850,8 @@
         "category": "lancamentos",
         "page": 2,
         "hasMore": true,
-        "total": 124,
-        "cachedAt": 1784259687745,
+        "total": 125,
+        "cachedAt": 1784288493385,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -28833,7 +28898,7 @@
           "fixHint": null
         }
       },
-      "at": 1784259688671
+      "at": 1784288494419
     },
     "todos|1||48": {
       "data": {
@@ -29947,7 +30012,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1784259685520
+      "at": 1784288491432
     },
     "lancamentos|1||24": {
       "data": {
@@ -99509,7 +99574,7 @@
         "page": 50,
         "hasMore": true,
         "total": 1749,
-        "cachedAt": 1784259682585,
+        "cachedAt": 1784288488515,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -99556,7 +99621,7 @@
           "fixHint": null
         }
       },
-      "at": 1784259684588
+      "at": 1784288490502
     },
     "partner:anitube|lancamentos|1||48": {
       "data": {
@@ -99727,11 +99792,19 @@
         "hasMore": false,
         "partnerId": "anitube"
       },
-      "at": 1784259684933
+      "at": 1784288490865
     },
     "partner:animesdigital|lancamentos|1||48": {
       "data": {
         "items": [
+          {
+            "title": "Final Fantasy: Unlimited",
+            "slug": "assistir-final-fantasy:-unlimited",
+            "url": "https://animesdigital.org/video/a/137173/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-final-fantasy-unlimited-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
           {
             "title": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru",
             "slug": "assistir-tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru",
@@ -99811,14 +99884,6 @@
             "poster": "https://animesdigital.org/wp-content/uploads/2021/11/assistir-detective-conan-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
-          },
-          {
-            "title": "Dogulwang (Tomb Raider King)",
-            "slug": "assistir-dogulwang-(tomb-raider-king)",
-            "url": "https://animesdigital.org/video/a/137154/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/DogulwangEp.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
           }
         ],
         "category": "lancamentos",
@@ -99826,7 +99891,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1784259685839
+      "at": 1784288491589
     },
     "partner:animeplay|lancamentos|1||48": {
       "data": {
@@ -100101,7 +100166,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784259685809
+      "at": 1784288491704
     },
     "partner:animesdrive|lancamentos|1||48": {
       "data": {
@@ -100376,7 +100441,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784259686733
+      "at": 1784288492413
     },
     "partner:anitube|lancamentos|2||48": {
       "data": {
@@ -100547,7 +100612,7 @@
         "hasMore": false,
         "partnerId": "anitube"
       },
-      "at": 1784259687137
+      "at": 1784288492839
     },
     "lancamentos|2||48": {
       "data": {
@@ -100821,7 +100886,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1784259687745
+      "at": 1784288493385
     },
     "partner:animeplay|lancamentos|2||48": {
       "data": {
@@ -101096,7 +101161,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784259687978
+      "at": 1784288493705
     },
     "partner:animesdrive|lancamentos|2||48": {
       "data": {
@@ -101371,7 +101436,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784259688613
+      "at": 1784288494359
     },
     "legendado|1||48": {
       "data": {
@@ -101597,7 +101662,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1784259689069
+      "at": 1784288494825
     },
     "partner:anitube|legendado|1||48": {
       "data": {
@@ -101752,7 +101817,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784259689015
+      "at": 1784288494775
     },
     "partner:animeplay|legendado|1||48": {
       "data": {
@@ -101814,14 +101879,6 @@
             "provider": "animeplay"
           },
           {
-            "title": "Ibitte Konai Gibo to Gishi",
-            "slug": "ibitte-konai-gibo-to-gishi",
-            "url": "https://animeplay.cloud/anime/ibitte-konai-gibo-to-gishi",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/1i67CAfM8JsUvVOA6K6OC05L7X0-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
             "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
             "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2",
             "url": "https://animeplay.cloud/anime/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2",
@@ -101834,6 +101891,14 @@
             "slug": "thunder-3",
             "url": "https://animeplay.cloud/anime/thunder-3",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/EwgegTmDUuf71tjZCswhJGo79F-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Ibitte Konai Gibo to Gishi",
+            "slug": "ibitte-konai-gibo-to-gishi",
+            "url": "https://animeplay.cloud/anime/ibitte-konai-gibo-to-gishi",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/1i67CAfM8JsUvVOA6K6OC05L7X0-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -101894,6 +101959,14 @@
             "provider": "animeplay"
           },
           {
+            "title": "Honoo no Toukyuujo: Dodge Danko",
+            "slug": "honoo-no-toukyuujo-dodge-danko",
+            "url": "https://animeplay.cloud/anime/honoo-no-toukyuujo-dodge-danko",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/sZvF473smAN0XktDRj50J8nwtaB-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
             "title": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
             "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
             "url": "https://animeplay.cloud/anime/buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
@@ -101914,14 +101987,6 @@
             "slug": "tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken",
             "url": "https://animeplay.cloud/anime/tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/tVsZgmz8GTnh1Br00HoWpR88ogt-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Honoo no Toukyuujo: Dodge Danko",
-            "slug": "honoo-no-toukyuujo-dodge-danko",
-            "url": "https://animeplay.cloud/anime/honoo-no-toukyuujo-dodge-danko",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/sZvF473smAN0XktDRj50J8nwtaB-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -101955,7 +102020,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784259689411
+      "at": 1784288495140
     },
     "partner:animesdrive|legendado|1||48": {
       "data": {
@@ -102041,14 +102106,6 @@
             "provider": "animesdrive"
           },
           {
-            "title": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
-            "slug": "migawari-reijou-wo-sukutta-no-wa-reikoku-mujihi-na-koori-no-ouji-no-ai-deshita",
-            "url": "https://animesdrive.online/anime/migawari-reijou-wo-sukutta-no-wa-reikoku-mujihi-na-koori-no-ouji-no-ai-deshita",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/2UJ1RqmF6ONhFk7RFewJxhjvXuT-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
             "title": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai",
             "slug": "tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai",
             "url": "https://animesdrive.online/anime/tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai",
@@ -102061,6 +102118,14 @@
             "slug": "sora-wa-akai-kawa-no-hotori",
             "url": "https://animesdrive.online/anime/sora-wa-akai-kawa-no-hotori",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/07/wWlfBMTA7VygmYC4KUg2qLWJGmv-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
+            "slug": "migawari-reijou-wo-sukutta-no-wa-reikoku-mujihi-na-koori-no-ouji-no-ai-deshita",
+            "url": "https://animesdrive.online/anime/migawari-reijou-wo-sukutta-no-wa-reikoku-mujihi-na-koori-no-ouji-no-ai-deshita",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/2UJ1RqmF6ONhFk7RFewJxhjvXuT-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -102089,22 +102154,6 @@
             "provider": "animesdrive"
           },
           {
-            "title": "Honoo no Toukyuujo: Dodge Danko",
-            "slug": "honoo-no-toukyuujo-dodge-danko",
-            "url": "https://animesdrive.online/anime/honoo-no-toukyuujo-dodge-danko",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/sZvF473smAN0XktDRj50J8nwtaB-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
-            "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
-            "url": "https://animesdrive.online/anime/buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/61TfKgUhwJLpsEOsWQXu3ClKPNI-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
             "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
             "slug": "the-insipid-princes-furtive-grab-for-the-throne",
             "url": "https://animesdrive.online/anime/the-insipid-princes-furtive-grab-for-the-throne",
@@ -102117,6 +102166,22 @@
             "slug": "tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken",
             "url": "https://animesdrive.online/anime/tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/07/tVsZgmz8GTnh1Br00HoWpR88ogt-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Honoo no Toukyuujo: Dodge Danko",
+            "slug": "honoo-no-toukyuujo-dodge-danko",
+            "url": "https://animesdrive.online/anime/honoo-no-toukyuujo-dodge-danko",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/sZvF473smAN0XktDRj50J8nwtaB-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
+            "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
+            "url": "https://animesdrive.online/anime/buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/61TfKgUhwJLpsEOsWQXu3ClKPNI-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -102158,7 +102223,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784259690218
+      "at": 1784288496044
     },
     "partner:anitube|legendado|2||48": {
       "data": {
@@ -102313,7 +102378,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784259690620
+      "at": 1784288496487
     },
     "legendado|2||48": {
       "data": {
@@ -102539,7 +102604,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1784259691046
+      "at": 1784288497079
     },
     "partner:animeplay|legendado|2||48": {
       "data": {
@@ -102549,14 +102614,6 @@
             "slug": "sayonara-lara",
             "url": "https://animeplay.cloud/anime/sayonara-lara",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/1s7wuO2nrL20hD10Y83OpTx3vII-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Let’s Go Kaiki-gumi",
-            "slug": "lets-go-kaikigumi",
-            "url": "https://animeplay.cloud/anime/lets-go-kaikigumi",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/7Hr1zgpzUWdQ6EtE9sDrx7IRk7Y-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -102581,6 +102638,14 @@
             "slug": "ai-no-idenshi",
             "url": "https://animeplay.cloud/anime/ai-no-idenshi",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/wSAD5RS0LRvx7rqvCKEJlXbDOv1-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Let’s Go Kaiki-gumi",
+            "slug": "lets-go-kaikigumi",
+            "url": "https://animeplay.cloud/anime/lets-go-kaikigumi",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/7Hr1zgpzUWdQ6EtE9sDrx7IRk7Y-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -102641,14 +102706,6 @@
             "provider": "animeplay"
           },
           {
-            "title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
-            "slug": "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita",
-            "url": "https://animeplay.cloud/anime/saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/o6k2eVEowtfwTKnKvbKUn87LGzX-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
             "title": "Iwamoto-senpai no Suisen",
             "slug": "iwamoto-senpai-no-suisen",
             "url": "https://animeplay.cloud/anime/iwamoto-senpai-no-suisen",
@@ -102661,6 +102718,14 @@
             "slug": "ushiro-no-shoumen-kamui-san",
             "url": "https://animeplay.cloud/anime/ushiro-no-shoumen-kamui-san",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/dPrT17JVRuzYkD9OGkXjMHDNOjw-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
+            "slug": "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita",
+            "url": "https://animeplay.cloud/anime/saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/o6k2eVEowtfwTKnKvbKUn87LGzX-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -102742,7 +102807,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784259691437
+      "at": 1784288497345
     },
     "partner:animesdrive|legendado|2||48": {
       "data": {
@@ -102836,14 +102901,6 @@
             "provider": "animesdrive"
           },
           {
-            "title": "Ushiro no Shoumen Kamui-san",
-            "slug": "ushiro-no-shoumen-kamui-san",
-            "url": "https://animesdrive.online/anime/ushiro-no-shoumen-kamui-san",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/dPrT17JVRuzYkD9OGkXjMHDNOjw-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
             "title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
             "slug": "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita",
             "url": "https://animesdrive.online/anime/saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita",
@@ -102856,6 +102913,14 @@
             "slug": "iwamoto-senpai-no-suisen",
             "url": "https://animesdrive.online/anime/iwamoto-senpai-no-suisen",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/07/4Yc6I7jwpu3ThgElYESVMaRuPvd-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Ushiro no Shoumen Kamui-san",
+            "slug": "ushiro-no-shoumen-kamui-san",
+            "url": "https://animesdrive.online/anime/ushiro-no-shoumen-kamui-san",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/dPrT17JVRuzYkD9OGkXjMHDNOjw-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -102945,7 +103010,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784259691964
+      "at": 1784288498094
     },
     "partner:anitube|legendado|3||48": {
       "data": {
@@ -103100,7 +103165,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784259692352
+      "at": 1784288498509
     },
     "legendado|3||48": {
       "data": {
@@ -103263,7 +103328,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1784259692960
+      "at": 1784288499073
     },
     "partner:animeplay|legendado|3||48": {
       "data": {
@@ -103365,6 +103430,14 @@
             "provider": "animeplay"
           },
           {
+            "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+            "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
+            "url": "https://animeplay.cloud/anime/the-exiled-heavy-knight-knows-how-to-game-the-system",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/oulMDIOJBoFqMvM5Fku5XKazYGX-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
             "title": "Otome Kaijuu Caraméliser",
             "slug": "otome-kaijuu-carameliser",
             "url": "https://animeplay.cloud/anime/otome-kaijuu-carameliser",
@@ -103381,34 +103454,10 @@
             "provider": "animeplay"
           },
           {
-            "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
-            "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
-            "url": "https://animeplay.cloud/anime/the-exiled-heavy-knight-knows-how-to-game-the-system",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/oulMDIOJBoFqMvM5Fku5XKazYGX-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
             "title": "Blue Lock 3",
             "slug": "blue-lock-3",
             "url": "https://animeplay.cloud/anime/blue-lock-3",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/a6i8cVlkIQbHBrxoGFdOG47xtZu-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Koukaku Kidouta",
-            "slug": "koukaku-kidouta",
-            "url": "https://animeplay.cloud/anime/koukaku-kidouta",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Super no Ura de Yani Suu Futari Mini",
-            "slug": "smoking-behind-the-supermarket-with-you-mini",
-            "url": "https://animeplay.cloud/anime/smoking-behind-the-supermarket-with-you-mini",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/nSdgX507jBlonGFC91Ve0TfcLjJ-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -103419,6 +103468,14 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/mVaXYoSvcMWwbbJXKvkZTPdWRkR-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
+          },
+          {
+            "title": "Koukaku Kidouta",
+            "slug": "koukaku-kidouta",
+            "url": "https://animeplay.cloud/anime/koukaku-kidouta",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
           }
         ],
         "category": "legendado",
@@ -103426,7 +103483,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784259693132
+      "at": 1784288499378
     },
     "partner:animesdrive|legendado|3||48": {
       "data": {
@@ -103573,7 +103630,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784259693805
+      "at": 1784288500087
     },
     "dublado|1||48": {
       "data": {
@@ -103799,7 +103856,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1784259694345
+      "at": 1784288500626
     },
     "partner:anitube|dublado|1||48": {
       "data": {
@@ -103954,7 +104011,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784259694268
+      "at": 1784288500570
     },
     "partner:animeplay|dublado|1||48": {
       "data": {
@@ -104157,7 +104214,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784259694791
+      "at": 1784288500962
     },
     "partner:animesdrive|dublado|1||48": {
       "data": {
@@ -104360,7 +104417,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784259695410
+      "at": 1784288501845
     },
     "partner:animesdigital|dublado|1||48": {
       "data": {
@@ -104747,7 +104804,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1784259695279
+      "at": 1784288501624
     },
     "partner:anitube|dublado|2||48": {
       "data": {
@@ -104902,7 +104959,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784259696033
+      "at": 1784288502458
     },
     "dublado|2||48": {
       "data": {
@@ -105128,7 +105185,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1784259696655
+      "at": 1784288503006
     },
     "partner:animesdigital|dublado|2||48": {
       "data": {
@@ -105523,7 +105580,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1784259697040
+      "at": 1784288503386
     },
     "partner:animeplay|dublado|2||48": {
       "data": {
@@ -105726,7 +105783,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784259696881
+      "at": 1784288503308
     },
     "partner:animesdrive|dublado|2||48": {
       "data": {
@@ -105929,7 +105986,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784259697549
+      "at": 1784288504026
     },
     "partner:anitube|dublado|3||48": {
       "data": {
@@ -106084,7 +106141,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784259698096
+      "at": 1784288504548
     },
     "dublado|3||48": {
       "data": {
@@ -106310,7 +106367,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1784259698710
+      "at": 1784288505163
     },
     "partner:animesdigital|dublado|3||48": {
       "data": {
@@ -106705,7 +106762,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1784259699053
+      "at": 1784288505419
     },
     "partner:animeplay|dublado|3||48": {
       "data": {
@@ -106908,7 +106965,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784259698978
+      "at": 1784288505385
     },
     "partner:animesdrive|dublado|3||48": {
       "data": {
@@ -107111,7 +107168,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784259699654
+      "at": 1784288506098
     },
     "partner:anitube|todos|1||24": {
       "data": {
@@ -112062,7 +112119,7 @@
         "hasMore": false,
         "partnerId": "animesdrive"
       },
-      "at": 1784259684551
+      "at": 1784288490453
     },
     "partner:animesdigital|todos|1||48": {
       "data": {
@@ -118257,5 +118314,5 @@
       "at": 1784288379959
     }
   },
-  "updatedAt": 1784288488807
+  "updatedAt": 1784288506258
 }
