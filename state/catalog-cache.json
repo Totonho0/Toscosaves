@@ -59789,7 +59789,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784259603899
+      "at": 1784288410391
     },
     "todos|27||120": {
       "data": {
@@ -60770,7 +60770,7 @@
         "page": 27,
         "hasMore": true,
         "total": 1749,
-        "cachedAt": 1784273953662,
+        "cachedAt": 1784288408450,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -60817,7 +60817,7 @@
           "fixHint": null
         }
       },
-      "at": 1784273953754
+      "at": 1784288410798
     },
     "partner:anitube|todos|28||48": {
       "data": {
@@ -60972,7 +60972,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784259604657
+      "at": 1784288411142
     },
     "todos|28||48": {
       "data": {
@@ -61252,7 +61252,7 @@
         "page": 28,
         "hasMore": true
       },
-      "at": 1784273954659
+      "at": 1784288411612
     },
     "partner:animeplay|todos|28||48": {
       "data": {
@@ -61503,7 +61503,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784259605580
+      "at": 1784288412111
     },
     "partner:animesdrive|todos|28||48": {
       "data": {
@@ -61754,7 +61754,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784259606949
+      "at": 1784288413631
     },
     "todos|28||120": {
       "data": {
@@ -62010,11 +62010,11 @@
           {
             "title": "Oi! Tonbo – Todos os Episodios",
             "slug": "oi-tonbo",
-            "url": "https://animesdrive.online/anime/oi-tonbo",
+            "url": "https://animesonline.cloud/anime/oi-tonbo",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/06/Z53qdls6kfGTihy8BvvfOe4We9-185x278.jpg",
             "rating": "7.143",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -62480,11 +62480,11 @@
           {
             "title": "Oshi no Ko – Todos os Episódios",
             "slug": "oshi-no-ko",
-            "url": "https://animesdrive.online/anime/oshi-no-ko",
+            "url": "https://animesonline.cloud/anime/oshi-no-ko",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/06/ozJvrtYnLDz0wpOTx61Qs5t3ZEJ-185x278.jpg",
             "rating": "8.339",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -62524,6 +62524,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "oshi-no-ko-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
                 "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season"
               },
               {
@@ -62535,11 +62540,6 @@
                 "server": 1,
                 "provider": "aoc",
                 "slug": "tsue-to-tsurugi-no-wistoria-2-dublado"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "oshi-no-ko-dublado"
               },
               {
                 "server": 2,
@@ -62568,7 +62568,7 @@
         "page": 28,
         "hasMore": true,
         "total": 1749,
-        "cachedAt": 1784273954659,
+        "cachedAt": 1784288411612,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -62615,7 +62615,7 @@
           "fixHint": null
         }
       },
-      "at": 1784273954764
+      "at": 1784288413747
     },
     "partner:anitube|todos|29||48": {
       "data": {
@@ -62770,7 +62770,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784259607567
+      "at": 1784288414099
     },
     "todos|29||48": {
       "data": {
@@ -63032,7 +63032,7 @@
         "page": 29,
         "hasMore": true
       },
-      "at": 1784273955614
+      "at": 1784288414597
     },
     "partner:animeplay|todos|29||48": {
       "data": {
@@ -63275,7 +63275,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784259608422
+      "at": 1784288415109
     },
     "partner:animesdrive|todos|29||48": {
       "data": {
@@ -117547,5 +117547,5 @@
       "at": 1784288379959
     }
   },
-  "updatedAt": 1784288408817
+  "updatedAt": 1784288415109
 }
