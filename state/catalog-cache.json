@@ -10420,6 +10420,11 @@
                 "server": 1,
                 "provider": "aoc",
                 "slug": "bleach-dublado"
+              },
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "bleach-dublado"
               }
             ]
           },
@@ -10428,15 +10433,6 @@
             "slug": "881501",
             "url": "https://www.anitube.zip/video/881501/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-bleach-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Bleach Dublado",
-            "slug": "bleach-dublado",
-            "url": "https://animesonline.cloud/anime/bleach-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/cACXGL4PBgKslAF5W8aaxWdriW7-185x278.jpg",
-            "rating": "8.383",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -10625,6 +10621,11 @@
               {
                 "server": 3,
                 "provider": "animeplay",
+                "slug": "blue-lock"
+              },
+              {
+                "server": 4,
+                "provider": "animesdigital",
                 "slug": "blue-lock"
               }
             ]
@@ -10841,6 +10842,11 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "boku-no-hero-academia"
+              },
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "boku-no-hero-academia"
               }
             ]
           },
@@ -10901,6 +10907,31 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "boku-no-hero-academia-3"
+              },
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "boku-no-hero-academia-3"
+              }
+            ]
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
               }
             ]
           }
@@ -10909,7 +10940,7 @@
         "page": 6,
         "hasMore": true,
         "total": 1749,
-        "cachedAt": 1784273933040,
+        "cachedAt": 1784288345580,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -10956,7 +10987,7 @@
           "fixHint": null
         }
       },
-      "at": 1784273933127
+      "at": 1784288347941
     },
     "todos|7||120": {
       "data": {
@@ -11224,11 +11255,11 @@
           {
             "title": "Boku no Tsuma wa Kanjou ga Nai – Todos os Episódios",
             "slug": "boku-no-tsuma-wa-kanjou-ga-nai",
-            "url": "https://animesdrive.online/anime/boku-no-tsuma-wa-kanjou-ga-nai",
+            "url": "https://animesonline.cloud/anime/boku-no-tsuma-wa-kanjou-ga-nai",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/06/muNFUKudbjB8iTZhLfhifU4EogY-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -11556,7 +11587,7 @@
         "page": 7,
         "hasMore": true,
         "total": 1749,
-        "cachedAt": 1784273933925,
+        "cachedAt": 1784288348963,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -11603,7 +11634,7 @@
           "fixHint": null
         }
       },
-      "at": 1784273934035
+      "at": 1784288351128
     },
     "todos|8||120": {
       "data": {
@@ -31700,7 +31731,7 @@
         "page": 7,
         "hasMore": true
       },
-      "at": 1784273933925
+      "at": 1784288348963
     },
     "todos|8||48": {
       "data": {
@@ -31980,7 +32011,7 @@
         "page": 8,
         "hasMore": true
       },
-      "at": 1784273934923
+      "at": 1784288352084
     },
     "todos|9||48": {
       "data": {
@@ -36663,7 +36694,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784259543729
+      "at": 1784288345891
     },
     "partner:animesdrive|todos|6||48": {
       "data": {
@@ -36906,7 +36937,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784259545208
+      "at": 1784288347776
     },
     "partner:anitube|todos|7||48": {
       "data": {
@@ -37061,7 +37092,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784259545596
+      "at": 1784288348299
     },
     "partner:animeplay|todos|7||48": {
       "data": {
@@ -37312,7 +37343,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784259546597
+      "at": 1784288349343
     },
     "partner:animesdrive|todos|7||48": {
       "data": {
@@ -37563,7 +37594,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784259548100
+      "at": 1784288350829
     },
     "partner:anitube|todos|8||48": {
       "data": {
@@ -37718,7 +37749,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784259548495
+      "at": 1784288351479
     },
     "partner:animeplay|todos|8||48": {
       "data": {
@@ -37969,7 +38000,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784259549484
+      "at": 1784288352446
     },
     "partner:animesdrive|todos|8||48": {
       "data": {
@@ -112948,7 +112979,1192 @@
         "partnerId": "animesdigital"
       },
       "at": 1784288337502
+    },
+    "partner:animesdigital|todos|6||48": {
+      "data": {
+        "items": [
+          {
+            "title": "boku no hero academia 4",
+            "slug": "boku-no-hero-academia-4",
+            "url": "https://animesdigital.org/anime/a/boku-no-hero-academia-4",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-boku-no-hero-academia-4-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "boku no hero academia 3",
+            "slug": "boku-no-hero-academia-3",
+            "url": "https://animesdigital.org/anime/a/boku-no-hero-academia-3",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-boku-no-hero-academia-3-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "boku no hero academia",
+            "slug": "boku-no-hero-academia",
+            "url": "https://animesdigital.org/anime/a/boku-no-hero-academia",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-boku-no-hero-academia-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "blue lock",
+            "slug": "blue-lock",
+            "url": "https://animesdigital.org/anime/a/blue-lock",
+            "poster": "https://animesdigital.org/wp-content/uploads/2022/10/Blue-LockEP.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "arifureta shokugyou de sekai saikyou season 3",
+            "slug": "arifureta-shokugyou-de-sekai-saikyou-season-3",
+            "url": "https://animesdigital.org/anime/a/arifureta-shokugyou-de-sekai-saikyou-season-3",
+            "poster": "https://animesdigital.org/wp-content/uploads/2024/10/Arifureta-Shokugyou-de-Sekai-Saikyou-Season-3.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "arifureta shokugyou de sekai saikyou",
+            "slug": "arifureta-shokugyou-de-sekai-saikyou",
+            "url": "https://animesdigital.org/anime/a/arifureta-shokugyou-de-sekai-saikyou",
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/05/assistir-arifureta-shokugyou-de-sekai-saikyou-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "dandadan 2",
+            "slug": "dandadan-2",
+            "url": "https://animesdigital.org/anime/a/dandadan-2-todos-os-episodios",
+            "poster": "https://animesdigital.org/wp-content/uploads/2025/07/Dandadan-2Ep.jpeg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "mf ghost",
+            "slug": "mf-ghost",
+            "url": "https://animesdigital.org/anime/a/mf-ghost",
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/09/MF-GHOSTEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "psycho pass",
+            "slug": "psycho-pass",
+            "url": "https://animesdigital.org/anime/a/psycho-pass",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-psycho-pass-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "eden",
+            "slug": "eden",
+            "url": "https://animesdigital.org/anime/a/eden",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-eden-dublado-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "invencivel 3a temporada",
+            "slug": "invencivel-3a-temporada",
+            "url": "https://animesdigital.org/anime/a/invencivel-3a-temporada",
+            "poster": "https://animesdigital.org/wp-content/uploads/2025/02/Invencivel-3-dublado-categoria.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "release that witch chinese audio",
+            "slug": "release-that-witch-chinese-audio",
+            "url": "https://animesdigital.org/anime/a/release-that-witch-chinese-audio",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/03/assistir-release-that-witch-chinese-audio-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "one piece a serie 2a temporada dublado",
+            "slug": "one-piece-a-serie-2a-temporada-dublado",
+            "url": "https://animesdigital.org/anime/a/one-piece-a-serie-2a-temporada-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/03/assistir-one-piece-a-serie-2a-temporada-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "pokemon 2023",
+            "slug": "pokemon-2023",
+            "url": "https://animesdigital.org/anime/a/pokemon-2023",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "gin no saji 2014",
+            "slug": "gin-no-saji-2014",
+            "url": "https://animesdigital.org/anime/a/gin-no-saji-2014",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "shin no nakama ja nai to yuusha 2 3",
+            "slug": "shin-no-nakama-ja-nai-to-yuusha-2-3",
+            "url": "https://animesdigital.org/anime/a/shin-no-nakama-ja-nai-to-yuusha-2-3",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "baki dou",
+            "slug": "baki-dou",
+            "url": "https://animesdigital.org/anime/a/baki-dou",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/02/assistir-baki-dou-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bleach dublado",
+            "slug": "bleach-dublado",
+            "url": "https://animesdigital.org/anime/a/bleach-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/11/assistir-bleach-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bob esponja 12a temporada",
+            "slug": "bob-esponja-12a-temporada",
+            "url": "https://animesdigital.org/anime/a/bob-esponja-12a-temporada",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "tower of god season 2",
+            "slug": "tower-of-god-season-2",
+            "url": "https://animesdigital.org/anime/a/tower-of-god-season-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "the beginning after the end",
+            "slug": "the-beginning-after-the-end",
+            "url": "https://animesdigital.org/anime/a/the-beginning-after-the-end",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "clevatess majuu no ou to akago to shikabane no yuusha dublado",
+            "slug": "clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado",
+            "url": "https://animesdigital.org/anime/a/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2025/07/assistir-clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "tsukiuta the animation",
+            "slug": "tsukiuta-the-animation",
+            "url": "https://animesdigital.org/anime/a/tsukiuta-the-animation",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "spy x family parte 2 2",
+            "slug": "spy-x-family-parte-2-2",
+            "url": "https://animesdigital.org/anime/a/spy-x-family-parte-2-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "spy x family",
+            "slug": "spy-x-family",
+            "url": "https://animesdigital.org/anime/a/spy-x-family",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "spice and wolf 2",
+            "slug": "spice-and-wolf-2",
+            "url": "https://animesdigital.org/anime/a/spice-and-wolf-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "boku no hero academia 4 dublado",
+            "slug": "boku-no-hero-academia-4-dublado",
+            "url": "https://animesdigital.org/anime/a/boku-no-hero-academia-4-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-boku-no-hero-academia-4-dublado-dublado-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "sousou no frieren 2 dublado todos episodios",
+            "slug": "sousou-no-frieren-2-dublado-todos-episodios",
+            "url": "https://animesdigital.org/anime/a/sousou-no-frieren-2-dublado-todos-episodios",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "jigokuraku 2 dublado",
+            "slug": "jigokuraku-2-dublado",
+            "url": "https://animesdigital.org/anime/a/jigokuraku-2-dublado",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "oshi no ko 3",
+            "slug": "oshi-no-ko-3",
+            "url": "https://animesdigital.org/anime/a/oshi-no-ko-3",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "medalist 2nd season",
+            "slug": "medalist-2nd-season",
+            "url": "https://animesdigital.org/anime/a/medalist-2nd-season",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "mato seihei no slave 2",
+            "slug": "mato-seihei-no-slave-2",
+            "url": "https://animesdigital.org/anime/a/mato-seihei-no-slave-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "yoroi shin den samurai troopers",
+            "slug": "yoroi-shin-den-samurai-troopers",
+            "url": "https://animesdigital.org/anime/a/yoroi-shin-den-samurai-troopers",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "fate stay night unlimited blade works 2",
+            "slug": "fate-stay-night-unlimited-blade-works-2",
+            "url": "https://animesdigital.org/anime/a/fate-stay-night-unlimited-blade-works-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "fate stay night unlimited blade works",
+            "slug": "fate-stay-night-unlimited-blade-works",
+            "url": "https://animesdigital.org/anime/a/fate-stay-night-unlimited-blade-works",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "yami shibai 16",
+            "slug": "yami-shibai-16",
+            "url": "https://animesdigital.org/anime/a/yami-shibai-16",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "android wa keiken ninzuu ni hairimasu ka",
+            "slug": "android-wa-keiken-ninzuu-ni-hairimasu-ka",
+            "url": "https://animesdigital.org/anime/a/android-wa-keiken-ninzuu-ni-hairimasu-ka",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "jingai kyoushitsu no ningengirai kyoushi",
+            "slug": "jingai-kyoushitsu-no-ningengirai-kyoushi",
+            "url": "https://animesdigital.org/anime/a/jingai-kyoushitsu-no-ningengirai-kyoushi",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "ao no miburo serizawa ansatsu hen",
+            "slug": "ao-no-miburo-serizawa-ansatsu-hen",
+            "url": "https://animesdigital.org/anime/a/ao-no-miburo-serizawa-ansatsu-hen",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "sousou no frieren 2 todos episodios",
+            "slug": "sousou-no-frieren-2-todos-episodios",
+            "url": "https://animesdigital.org/anime/a/sousou-no-frieren-2-todos-episodios",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "prism rondo",
+            "slug": "prism-rondo",
+            "url": "https://animesdigital.org/anime/a/prism-rondo",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "shibou yuugi de meshi wo kuu dublado",
+            "slug": "shibou-yuugi-de-meshi-wo-kuu-dublado",
+            "url": "https://animesdigital.org/anime/a/shibou-yuugi-de-meshi-wo-kuu-dublado",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "solo leveling dublado",
+            "slug": "solo-leveling-dublado",
+            "url": "https://animesdigital.org/anime/a/solo-leveling-dublado",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "wind breaker dublado",
+            "slug": "wind-breaker-dublado",
+            "url": "https://animesdigital.org/anime/a/wind-breaker-dublado-todos-os-episodios",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "boku no kokoro no yabai yatsu",
+            "slug": "boku-no-kokoro-no-yabai-yatsu",
+            "url": "https://animesdigital.org/anime/a/boku-no-kokoro-no-yabai-yatsu",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "hoozuki no reitetsu 2nd season",
+            "slug": "hoozuki-no-reitetsu-2nd-season",
+            "url": "https://animesdigital.org/anime/a/hoozuki-no-reitetsu-2nd-season",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "mugen no juunin immortal",
+            "slug": "mugen-no-juunin-immortal",
+            "url": "https://animesdigital.org/anime/a/mugen-no-juunin-immortal",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "lazarus dublado",
+            "slug": "lazarus-dublado",
+            "url": "https://animesdigital.org/anime/a/lazarus-dublado",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          }
+        ],
+        "category": "todos",
+        "page": 6,
+        "hasMore": true,
+        "partnerId": "animesdigital"
+      },
+      "at": 1784288346703
+    },
+    "partner:animesdigital|todos|7||48": {
+      "data": {
+        "items": [
+          {
+            "title": "arknights reimei zensou",
+            "slug": "arknights-reimei-zensou",
+            "url": "https://animesdigital.org/anime/a/arknights-reimei-zensou",
+            "poster": "https://animesdigital.org/wp-content/uploads/2022/11/assistir-arknights-reimei-zensou-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "boku no hero academia 6 2",
+            "slug": "boku-no-hero-academia-6-2",
+            "url": "https://animesdigital.org/anime/a/boku-no-hero-academia-6-2",
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/03/assistir-boku-no-hero-academia-6-dublado-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "boku no hero academia 7 2",
+            "slug": "boku-no-hero-academia-7-2",
+            "url": "https://animesdigital.org/anime/a/boku-no-hero-academia-7-2",
+            "poster": "https://animesdigital.org/wp-content/uploads/2024/05/assistir-boku-no-hero-academia-7-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "haikyuu",
+            "slug": "haikyuu",
+            "url": "https://animesdigital.org/anime/a/haikyuu-todos-os-episodios",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-haikyuu-2-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "remonster dublado",
+            "slug": "remonster-dublado",
+            "url": "https://animesdigital.org/anime/a/remonster-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2024/05/assistir-remonster-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "anne shirley",
+            "slug": "anne-shirley",
+            "url": "https://animesdigital.org/anime/a/anne-shirley",
+            "poster": "https://animesdigital.org/wp-content/uploads/2025/04/assistir-anne-shirley-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "hotel inhumans todos episodios",
+            "slug": "hotel-inhumans-todos-episodios",
+            "url": "https://animesdigital.org/anime/a/hotel-inhumans-todos-episodios",
+            "poster": "https://animesdigital.org/wp-content/uploads/2025/07/Hotel-InhumaEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bob esponja 2a temporada",
+            "slug": "bob-esponja-2a-temporada",
+            "url": "https://animesdigital.org/anime/a/bob-esponja-2a-temporada",
+            "poster": "https://animesdigital.org/wp-content/uploads/2024/04/Bob-Esponja-2-categoria.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "o incrivel mundo de gumball 4a temporada",
+            "slug": "o-incrivel-mundo-de-gumball-4a-temporada",
+            "url": "https://animesdigital.org/anime/a/o-incrivel-mundo-de-gumball-4a-temporada",
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/O-Incrivel-Mundo-de-Gumball-4-categoria.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "vinland saga s2 2",
+            "slug": "vinland-saga-s2-2",
+            "url": "https://animesdigital.org/anime/a/vinland-saga-s2-2",
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/02/assistir-vinland-saga-s2-dublado-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "vinland saga s2",
+            "slug": "vinland-saga-s2",
+            "url": "https://animesdigital.org/anime/a/vinland-saga-s2-todos-os-episodios",
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/01/Vinland-Saga-Season-2Ep.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "cardfight vanguard will dress season 3",
+            "slug": "cardfight-vanguard-will-dress-season-3",
+            "url": "https://animesdigital.org/anime/a/cardfight-vanguard-will-dress-season-3",
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/07/assistir-cardfight-vanguard-will-dress-season-3-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "detroit metal city",
+            "slug": "detroit-metal-city",
+            "url": "https://animesdigital.org/anime/a/detroit-metal-city-todos-os-episodios",
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/05/assistir-detroit-metal-city-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "hoozuki no reitetsu 2nd season sono ni",
+            "slug": "hoozuki-no-reitetsu-2nd-season-sono-ni",
+            "url": "https://animesdigital.org/anime/a/hoozuki-no-reitetsu-2nd-season-sono-ni",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "houseki no kuni",
+            "slug": "houseki-no-kuni",
+            "url": "https://animesdigital.org/anime/a/houseki-no-kuni",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "sokushi cheat ga saikyousugite isekai no yatsura ga marude aite ni naranain desu gaacc",
+            "slug": "sokushi-cheat-ga-saikyousugite-isekai-no-yatsura-ga-marude-aite-ni-naranain-desu-gaacc",
+            "url": "https://animesdigital.org/anime/a/sokushi-cheat-ga-saikyousugite-isekai-no-yatsura-ga-marude-aite-ni-naranain-desu-gaacc",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "naruto classico hd remastered",
+            "slug": "naruto-classico-hd-remastered",
+            "url": "https://animesdigital.org/anime/a/naruto-classico-hd-remastered",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "naruto movie 1 dai katsugeki yuki hime shinobu houjou dattebayo 2",
+            "slug": "naruto-movie-1-dai-katsugeki-yuki-hime-shinobu-houjou-dattebayo-2",
+            "url": "https://animesdigital.org/anime/a/naruto-movie-1-dai-katsugeki-yuki-hime-shinobu-houjou-dattebayo-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bungou stray dogs wan",
+            "slug": "bungou-stray-dogs-wan",
+            "url": "https://animesdigital.org/anime/a/bungou-stray-dogs-wan",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "honzuki no gekokujou shisho ni naru tame ni wa shudan wo erandeiraremasen 2",
+            "slug": "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-2",
+            "url": "https://animesdigital.org/anime/a/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "dr stone new world part 2",
+            "slug": "dr-stone-new-world-part-2",
+            "url": "https://animesdigital.org/anime/a/dr-stone-new-world-part-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "boushoku no berserk",
+            "slug": "boushoku-no-berserk",
+            "url": "https://animesdigital.org/anime/a/boushoku-no-berserk",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "kyoukai no kanata movie 2 ill be here mirai hen",
+            "slug": "kyoukai-no-kanata-movie-2-ill-be-here-mirai-hen",
+            "url": "https://animesdigital.org/anime/a/kyoukai-no-kanata-movie-2-ill-be-here-mirai-hen",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "sasayaku you ni koi wo utau",
+            "slug": "sasayaku-you-ni-koi-wo-utau",
+            "url": "https://animesdigital.org/anime/a/sasayaku-you-ni-koi-wo-utau",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "yuusha ni narenakatta ore wa shibushibu shuushoku o ketsui shimashita",
+            "slug": "yuusha-ni-narenakatta-ore-wa-shibushibu-shuushoku-o-ketsui-shimashita",
+            "url": "https://animesdigital.org/anime/a/yuusha-ni-narenakatta-ore-wa-shibushibu-shuushoku-o-ketsui-shimashita",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "necronomico and the cosmic horror show todos episodios",
+            "slug": "necronomico-and-the-cosmic-horror-show-todos-episodios",
+            "url": "https://animesdigital.org/anime/a/necronomico-and-the-cosmic-horror-show-todos-episodios",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "spy x family 2",
+            "slug": "spy-x-family-2",
+            "url": "https://animesdigital.org/anime/a/spy-x-family-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "enen no shouboutai ni no shou fire force 2 dublado",
+            "slug": "enen-no-shouboutai-ni-no-shou-fire-force-2-dublado",
+            "url": "https://animesdigital.org/anime/a/enen-no-shouboutai-ni-no-shou-fire-force-2-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2025/04/assistir-enen-no-shouboutai-ni-no-shou-fire-force-2-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "nyaight of the living cat todos",
+            "slug": "nyaight-of-the-living-cat-todos",
+            "url": "https://animesdigital.org/anime/a/nyaight-of-the-living-cat-todos",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "solo leveling ii",
+            "slug": "solo-leveling-ii",
+            "url": "https://animesdigital.org/anime/a/solo-leveling-ii",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "to be hero x dublado",
+            "slug": "to-be-hero-x-dublado",
+            "url": "https://animesdigital.org/anime/a/to-be-hero-x-dublado",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "kobayashi san chi no maid dragon s",
+            "slug": "kobayashi-san-chi-no-maid-dragon-s",
+            "url": "https://animesdigital.org/anime/a/kobayashi-san-chi-no-maid-dragon-s",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "megami no cafe terrace",
+            "slug": "megami-no-cafe-terrace",
+            "url": "https://animesdigital.org/anime/a/megami-no-cafe-terrace",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "enen no shouboutai",
+            "slug": "enen-no-shouboutai",
+            "url": "https://animesdigital.org/anime/a/enen-no-shouboutai",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "failure frame",
+            "slug": "failure-frame",
+            "url": "https://animesdigital.org/anime/a/failure-frame",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "gintama the semi final",
+            "slug": "gintama-the-semi-final",
+            "url": "https://animesdigital.org/anime/a/gintama-the-semi-final",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "sousou no frieren dublado",
+            "slug": "sousou-no-frieren-dublado",
+            "url": "https://animesdigital.org/anime/a/sousou-no-frieren-dublado",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "clevatess majuu no ou to akago to shikabane no yuusha todos episodios",
+            "slug": "clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-todos-episodios",
+            "url": "https://animesdigital.org/anime/a/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-todos-episodios",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "hxh 2011",
+            "slug": "hxh-2011",
+            "url": "https://animesdigital.org/anime/a/hxh-2011",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "psycho pass the movie",
+            "slug": "psycho-pass-the-movie",
+            "url": "https://animesdigital.org/anime/a/psycho-pass-the-movie",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "kyoukai senjou no horizon",
+            "slug": "kyoukai-senjou-no-horizon",
+            "url": "https://animesdigital.org/anime/a/kyoukai-senjou-no-horizon-todos-os-episodios",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "made in abyss movie 2 hourou suru tasogare",
+            "slug": "made-in-abyss-movie-2-hourou-suru-tasogare",
+            "url": "https://animesdigital.org/anime/a/made-in-abyss-movie-2-hourou-suru-tasogare",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "dandadan",
+            "slug": "dandadan",
+            "url": "https://animesdigital.org/anime/a/dandadan",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "naruto movie 3 dai koufun mikazuki jima no animaru panic dattebayo 2",
+            "slug": "naruto-movie-3-dai-koufun-mikazuki-jima-no-animaru-panic-dattebayo-2",
+            "url": "https://animesdigital.org/anime/a/naruto-movie-3-dai-koufun-mikazuki-jima-no-animaru-panic-dattebayo-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "burn up warrior",
+            "slug": "burn-up-warrior",
+            "url": "https://animesdigital.org/anime/a/burn-up-warrior",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-burn-up-warrior-dublado-todos-os-episodios-online-animesdigital-210x300.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "clannad after story",
+            "slug": "clannad-after-story",
+            "url": "https://animesdigital.org/anime/a/clannad-after-story",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "dungeon ni deai wo motomeru no wa machigatteiru darou ka lv danmachi 4",
+            "slug": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-lv-danmachi-4",
+            "url": "https://animesdigital.org/anime/a/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-lv-danmachi-4",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "gingitsune",
+            "slug": "gingitsune",
+            "url": "https://animesdigital.org/anime/a/gingitsune",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          }
+        ],
+        "category": "todos",
+        "page": 7,
+        "hasMore": true,
+        "partnerId": "animesdigital"
+      },
+      "at": 1784288349385
+    },
+    "partner:animesdigital|todos|8||48": {
+      "data": {
+        "items": [
+          {
+            "title": "maria holic alive",
+            "slug": "maria-holic-alive",
+            "url": "https://animesdigital.org/anime/a/maria-holic-alive",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-maria-holic-alive-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "outbreak company",
+            "slug": "outbreak-company",
+            "url": "https://animesdigital.org/anime/a/outbreak-company",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-outbreak-company-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "seitokai yakuindomo 2",
+            "slug": "seitokai-yakuindomo-2",
+            "url": "https://animesdigital.org/anime/a/seitokai-yakuindomo-2",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-seitokai-yakuindomo-2-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "tegami bachi reverse",
+            "slug": "tegami-bachi-reverse",
+            "url": "https://animesdigital.org/anime/a/tegami-bachi-reverse",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-tegami-bachi-reverse-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "jujutsu kaisen dublado",
+            "slug": "jujutsu-kaisen-dublado",
+            "url": "https://animesdigital.org/anime/a/jujutsu-kaisen-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/Jujutsu-Kaisen-dublado-categoria.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "spice and wolf",
+            "slug": "spice-and-wolf",
+            "url": "https://animesdigital.org/anime/a/spice-and-wolf",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-spice-and-wolf-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "o incrivel mundo de gumball 2a temporada",
+            "slug": "o-incrivel-mundo-de-gumball-2a-temporada",
+            "url": "https://animesdigital.org/anime/a/o-incrivel-mundo-de-gumball-2a-temporada",
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/O-Incrivel-Mundo-de-Gumball-2-categoria.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "mushoku tensei isekai ittara honki dasu 2",
+            "slug": "mushoku-tensei-isekai-ittara-honki-dasu-2",
+            "url": "https://animesdigital.org/anime/a/mushoku-tensei-isekai-ittara-honki-dasu-2",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/11/assistir-mushoku-tensei-isekai-ittara-honki-dasu-2-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "avatar a lenda de korra livro 1",
+            "slug": "avatar-a-lenda-de-korra-livro-1",
+            "url": "https://animesdigital.org/anime/a/avatar-a-lenda-de-korra-livro-1",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-avatar-a-lenda-de-korra-livro-1-dublado-todos-os-episodios-online-animesdigital-233x300.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "enen no shouboutai fire force dublado",
+            "slug": "enen-no-shouboutai-fire-force-dublado",
+            "url": "https://animesdigital.org/anime/a/enen-no-shouboutai-fire-force-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2025/04/assistir-enen-no-shouboutai-fire-force-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "gachiakuta todos episodios",
+            "slug": "gachiakuta-todos-episodios",
+            "url": "https://animesdigital.org/anime/a/gachiakuta-todos-episodios",
+            "poster": "https://animesdigital.org/wp-content/uploads/2025/07/assistir-gachiakuta-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "kanchigai no atelier meister eiyuu party no moto zatsuyougakari ga jitsu wa sentou igai ga sss rank datta to iu yoku aru hanashi dublado",
+            "slug": "kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-dublado",
+            "url": "https://animesdigital.org/anime/a/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2025/04/assistir-kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "shangri la frontier dublado",
+            "slug": "shangri-la-frontier-dublado",
+            "url": "https://animesdigital.org/anime/a/shangri-la-frontier-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2024/11/assistir-shangri-la-frontier-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "haikyuu to the top",
+            "slug": "haikyuu-to-the-top",
+            "url": "https://animesdigital.org/anime/a/haikyuu-to-the-top",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-haikyuu-to-the-top-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "arifureta shokugyou de sekai saikyou 2",
+            "slug": "arifureta-shokugyou-de-sekai-saikyou-2",
+            "url": "https://animesdigital.org/anime/a/arifureta-shokugyou-de-sekai-saikyou-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bob esponja 11a temporada",
+            "slug": "bob-esponja-11a-temporada",
+            "url": "https://animesdigital.org/anime/a/bob-esponja-11a-temporada",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bob esponja 4a temporada",
+            "slug": "bob-esponja-4a-temporada",
+            "url": "https://animesdigital.org/anime/a/bob-esponja-4a-temporada",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bob esponja 5a temporada",
+            "slug": "bob-esponja-5a-temporada",
+            "url": "https://animesdigital.org/anime/a/bob-esponja-5a-temporada",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bob esponja 8a temporada",
+            "slug": "bob-esponja-8a-temporada",
+            "url": "https://animesdigital.org/anime/a/bob-esponja-8a-temporada",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bob esponja 9a temporada",
+            "slug": "bob-esponja-9a-temporada",
+            "url": "https://animesdigital.org/anime/a/bob-esponja-9a-temporada",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bob esponja 7a temporada",
+            "slug": "bob-esponja-7a-temporada",
+            "url": "https://animesdigital.org/anime/a/bob-esponja-7a-temporada",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "haite kudasai takamine san",
+            "slug": "haite-kudasai-takamine-san",
+            "url": "https://animesdigital.org/anime/a/haite-kudasai-takamine-san",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "tensei shitara slime datta ken 2",
+            "slug": "tensei-shitara-slime-datta-ken-2",
+            "url": "https://animesdigital.org/anime/a/tensei-shitara-slime-datta-ken-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "dr stone stone wars dublado",
+            "slug": "dr-stone-stone-wars-dublado",
+            "url": "https://animesdigital.org/anime/a/dr-stone-stone-wars-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2022/01/assistir-dr-stone-stone-wars-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "shangri la frontier",
+            "slug": "shangri-la-frontier",
+            "url": "https://animesdigital.org/anime/a/shangri-la-frontier",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "harley quinn 5a temporada",
+            "slug": "harley-quinn-5a-temporada",
+            "url": "https://animesdigital.org/anime/a/harley-quinn-5a-temporada",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "persona 4 the animation",
+            "slug": "persona-4-the-animation",
+            "url": "https://animesdigital.org/anime/a/persona-4-the-animation",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "tada kun wa koi wo shinai",
+            "slug": "tada-kun-wa-koi-wo-shinai",
+            "url": "https://animesdigital.org/anime/a/tada-kun-wa-koi-wo-shinai-todos-os-episodios",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "gate jieitai kanochi nite kaku tatakaeri enryuu hen",
+            "slug": "gate-jieitai-kanochi-nite-kaku-tatakaeri-enryuu-hen",
+            "url": "https://animesdigital.org/anime/a/gate-jieitai-kanochi-nite-kaku-tatakaeri-enryuu-hen",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "jigoku sensei nube 2025 part 2 todos episodios",
+            "slug": "jigoku-sensei-nube-2025-part-2-todos-episodios",
+            "url": "https://animesdigital.org/anime/a/jigoku-sensei-nube-2025-part-2-todos-episodios",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bleach",
+            "slug": "bleach",
+            "url": "https://animesdigital.org/anime/a/bleach",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bleach sennen kessen hen dublado",
+            "slug": "bleach-sennen-kessen-hen-dublado",
+            "url": "https://animesdigital.org/anime/a/bleach-sennen-kessen-hen-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2024/01/assistir-bleach-sennen-kessen-hen-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bleach sennen kessen hen soukoku tan",
+            "slug": "bleach-sennen-kessen-hen-soukoku-tan",
+            "url": "https://animesdigital.org/anime/a/bleach-sennen-kessen-hen-soukoku-tan",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bleach sennen kessen hen soukoku tan 2",
+            "slug": "bleach-sennen-kessen-hen-soukoku-tan-2",
+            "url": "https://animesdigital.org/anime/a/bleach-sennen-kessen-hen-soukoku-tan-2",
+            "poster": "https://animesdigital.org/wp-content/uploads/2025/02/Bleach-Sennen-Kessen-hen-Soukoku-tan-Dublado-categoria.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "boruto naruto next generations 2",
+            "slug": "boruto-naruto-next-generations-2",
+            "url": "https://animesdigital.org/anime/a/boruto-naruto-next-generations-2",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/12/assistir-boruto-naruto-next-generations-dublado-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "jojo no kimyou na bouken",
+            "slug": "jojo-no-kimyou-na-bouken",
+            "url": "https://animesdigital.org/anime/a/jojo-no-kimyou-na-bouken",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "jojo no kimyou na bouken part 6 stone ocean part 3",
+            "slug": "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3",
+            "url": "https://animesdigital.org/anime/a/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "naruto classico dublado",
+            "slug": "naruto-classico-dublado",
+            "url": "https://animesdigital.org/anime/a/naruto-classico-dublado",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "naruto shippuden",
+            "slug": "naruto-shippuden",
+            "url": "https://animesdigital.org/anime/a/naruto-shippuden",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "odayaka kizoku no kyuuka no susume todos episodios",
+            "slug": "odayaka-kizoku-no-kyuuka-no-susume-todos-episodios",
+            "url": "https://animesdigital.org/anime/a/odayaka-kizoku-no-kyuuka-no-susume-todos-episodios",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "hime sama goumon no jikan desu 2",
+            "slug": "hime-sama-goumon-no-jikan-desu-2",
+            "url": "https://animesdigital.org/anime/a/hime-sama-goumon-no-jikan-desu-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "vigilante boku no hero academia illegals 2 dublado",
+            "slug": "vigilante-boku-no-hero-academia-illegals-2-dublado",
+            "url": "https://animesdigital.org/anime/a/vigilante-boku-no-hero-academia-illegals-2-dublado",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "seihantai na kimi to boku dublado",
+            "slug": "seihantai-na-kimi-to-boku-dublado",
+            "url": "https://animesdigital.org/anime/a/seihantai-na-kimi-to-boku-dublado",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "darwin jihen dublado",
+            "slug": "darwin-jihen-dublado",
+            "url": "https://animesdigital.org/anime/a/darwin-jihen-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/01/Darwin-Jihen-dub.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "kaya chan wa kowakunai",
+            "slug": "kaya-chan-wa-kowakunai",
+            "url": "https://animesdigital.org/anime/a/kaya-chan-wa-kowakunai",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "hikuidori ushuu boro tobi gumi",
+            "slug": "hikuidori-ushuu-boro-tobi-gumi",
+            "url": "https://animesdigital.org/anime/a/hikuidori-ushuu-boro-tobi-gumi",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "uruwashi no yoi no tsuki todos episodios",
+            "slug": "uruwashi-no-yoi-no-tsuki-todos-episodios",
+            "url": "https://animesdigital.org/anime/a/uruwashi-no-yoi-no-tsuki-todos-episodios",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "jigokuraku 2 todos episodios",
+            "slug": "jigokuraku-2-todos-episodios",
+            "url": "https://animesdigital.org/anime/a/jigokuraku-2-todos-episodios",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          }
+        ],
+        "category": "todos",
+        "page": 8,
+        "hasMore": true,
+        "partnerId": "animesdigital"
+      },
+      "at": 1784288352295
     }
   },
-  "updatedAt": 1784288345580
+  "updatedAt": 1784288352446
 }
