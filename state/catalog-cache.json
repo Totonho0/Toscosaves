@@ -65063,6 +65063,32 @@
       "data": {
         "items": [
           {
+            "title": "Re:Monster – Todos os Episódios",
+            "slug": "remonster",
+            "url": "https://animesonline.cloud/anime/remonster",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/tg2VXsEyeuexAayn1hma8AVLglz-185x278.jpg.webp",
+            "rating": "8.8",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "remonster"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "remonster"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "remonster"
+              }
+            ]
+          },
+          {
             "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
             "slug": "rezero-kara-hajimeru-isekai-seikatsu",
             "url": "https://animesonline.cloud/anime/rezero-kara-hajimeru-isekai-seikatsu",
@@ -65268,11 +65294,11 @@
           {
             "title": "Rising Impact – Todos os Episódios",
             "slug": "rising-impact",
-            "url": "https://animesdrive.online/anime/rising-impact",
+            "url": "https://animesonline.cloud/anime/rising-impact",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/06/zGxp7t9fvxIxEDqB7V48bFgplP7-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -65738,22 +65764,13 @@
                 "slug": "sasaki-to-pii-chan"
               }
             ]
-          },
-          {
-            "title": "Sawaranaide Kotesashi-kun",
-            "slug": "sawaranaide-kotesashi-kun",
-            "url": "https://animesonline.cloud/anime/sawaranaide-kotesashi-kun",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/5FTV4NI7kNJtDugMGzSmGeVE7cn-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "9.2"
           }
         ],
         "category": "todos",
         "page": 30,
         "hasMore": true,
-        "total": 1749,
-        "cachedAt": 1784302755608,
+        "total": 1750,
+        "cachedAt": 1784317212089,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -65800,7 +65817,7 @@
           "fixHint": null
         }
       },
-      "at": 1784302755737
+      "at": 1784317215312
     },
     "todos|31||48": {
       "data": {
@@ -65855,6 +65872,15 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Medaka Box – Todos os Episódios",
+            "slug": "medaka-box",
+            "url": "https://animesonline.cloud/anime/medaka-box-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/1GdlIGYSiIh4Kl4g3TvSGoPN3Wl.jpg",
             "rating": "6.9",
             "kind": "anime",
             "provider": "aoc"
@@ -66056,22 +66082,13 @@
             "rating": "6.9",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Garo: Hagane o Tsugu Mono – Todos os Episódios",
-            "slug": "garo-hagane-o-tsugu-mono",
-            "url": "https://animesonline.cloud/anime/garo-hagane-o-tsugu-mono-todos-os-episodios",
-            "poster": "https://image.tmdb.org/t/p/w185/oqjraYBocSMkyj7UY5SnuoFUDAv.jpg",
-            "rating": "9",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 31,
         "hasMore": true
       },
-      "at": 1784302756574
+      "at": 1784317217099
     },
     "partner:anitube|todos|31||48": {
       "data": {
@@ -66226,7 +66243,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784288422957
+      "at": 1784317216157
     },
     "partner:animeplay|todos|31||48": {
       "data": {
@@ -66469,7 +66486,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784288423748
+      "at": 1784317216757
     },
     "todos|31||120": {
       "data": {
@@ -118447,5 +118464,5 @@
       "at": 1784317140925
     }
   },
-  "updatedAt": 1784317212089
+  "updatedAt": 1784317217099
 }
