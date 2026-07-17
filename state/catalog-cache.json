@@ -10270,7 +10270,7 @@
         "page": 5,
         "hasMore": true,
         "total": 1754,
-        "cachedAt": 1784245131354,
+        "cachedAt": 1784259540238,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -10317,7 +10317,7 @@
           "fixHint": null
         }
       },
-      "at": 1784245131442
+      "at": 1784259542341
     },
     "todos|6||120": {
       "data": {
@@ -10423,15 +10423,6 @@
             "slug": "881501",
             "url": "https://www.anitube.zip/video/881501/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-bleach-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Bleach Dublado",
-            "slug": "bleach-dublado",
-            "url": "https://animesonline.cloud/anime/bleach-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/cACXGL4PBgKslAF5W8aaxWdriW7-185x278.jpg",
-            "rating": "8.383",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -10898,13 +10889,33 @@
                 "slug": "boku-no-hero-academia-3"
               }
             ]
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 6,
         "hasMore": true,
         "total": 1754,
-        "cachedAt": 1784245132210,
+        "cachedAt": 1784259543176,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -10951,7 +10962,7 @@
           "fixHint": null
         }
       },
-      "at": 1784245132322
+      "at": 1784259545264
     },
     "todos|7||120": {
       "data": {
@@ -11136,25 +11147,17 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/myxWINN4lV2YRtb3DcCi7UFn6C5-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "rating": "8.651"
-          },
-          {
-            "title": "Boku no Hero Academia: Final Season Dublado",
-            "slug": "1018817",
-            "url": "https://www.anitube.zip/video/1018817/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-boku-no-hero-academia-final-season-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "aoc",
+            "rating": "8.651",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "1018817"
+                "slug": "boku-no-hero-academia-final-season-dublado"
               },
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "boku-no-hero-academia-final-season-dublado"
+                "slug": "1018817"
               }
             ]
           },
@@ -11227,11 +11230,11 @@
           {
             "title": "Boku no Tsuma wa Kanjou ga Nai – Todos os Episódios",
             "slug": "boku-no-tsuma-wa-kanjou-ga-nai",
-            "url": "https://animesdrive.online/anime/boku-no-tsuma-wa-kanjou-ga-nai",
+            "url": "https://animesonline.cloud/anime/boku-no-tsuma-wa-kanjou-ga-nai",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/06/muNFUKudbjB8iTZhLfhifU4EogY-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -11545,13 +11548,33 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-brave-beats-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 7,
         "hasMore": true,
         "total": 1754,
-        "cachedAt": 1784245133100,
+        "cachedAt": 1784259546169,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -11598,7 +11621,7 @@
           "fixHint": null
         }
       },
-      "at": 1784245133199
+      "at": 1784259548158
     },
     "todos|8||120": {
       "data": {
@@ -31333,7 +31356,7 @@
         "page": 6,
         "hasMore": true
       },
-      "at": 1784245132210
+      "at": 1784259543176
     },
     "todos|7||48": {
       "data": {
@@ -31613,7 +31636,7 @@
         "page": 7,
         "hasMore": true
       },
-      "at": 1784245133100
+      "at": 1784259546169
     },
     "todos|8||48": {
       "data": {
@@ -31893,7 +31916,7 @@
         "page": 8,
         "hasMore": true
       },
-      "at": 1784245133952
+      "at": 1784259549135
     },
     "todos|9||48": {
       "data": {
@@ -35989,6 +36012,14 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Haikyuu!! Second Season",
+            "slug": "haikyuu-second-season",
+            "url": "https://animesdrive.online/anime/haikyuu-second-season",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/05/hLFmFGuu4PApB0s2eF5H5cDCFgT-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Akane-banashi Dublado",
             "slug": "akane-banashi-dublado",
             "url": "https://animesdrive.online/anime/akane-banashi-dublado",
@@ -36163,22 +36194,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2026/04/tCiicc9WYg51bgR1kSpwgUq2hiE-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Hokuto no Ken: Fist of the North Star Dublado",
-            "slug": "hokuto-no-ken-fist-of-the-north-star-dublado",
-            "url": "https://animesdrive.online/anime/hokuto-no-ken-fist-of-the-north-star-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/wCkjQpPocTL3eeYMuLwDBxQZWUb-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "Ichijouma Mankitsugurashi",
-            "slug": "ichijouma-mankitsugurashi",
-            "url": "https://animesdrive.online/anime/ichijouma-mankitsugurashi",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/xvZh4RscGoAb0ht2oKSXqJ9GGTj-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -36186,7 +36201,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784230742984
+      "at": 1784259542287
     },
     "partner:anitube|todos|6||48": {
       "data": {
@@ -36341,7 +36356,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784230743408
+      "at": 1784259542767
     },
     "partner:animeplay|todos|6||48": {
       "data": {
@@ -36391,6 +36406,30 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Yowayowa Sensei",
+            "slug": "yowayowa-sensei",
+            "url": "https://animeplay.cloud/anime/yowayowa-sensei",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/tCiicc9WYg51bgR1kSpwgUq2hiE-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Hokuto no Ken: Fist of the North Star Dublado",
+            "slug": "hokuto-no-ken-fist-of-the-north-star-dublado",
+            "url": "https://animeplay.cloud/anime/hokuto-no-ken-fist-of-the-north-star-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/wCkjQpPocTL3eeYMuLwDBxQZWUb-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Ichijouma Mankitsugurashi",
+            "slug": "ichijouma-mankitsugurashi",
+            "url": "https://animeplay.cloud/anime/ichijouma-mankitsugurashi",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/xvZh4RscGoAb0ht2oKSXqJ9GGTj-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -36553,30 +36592,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/hjihUw4UPndUxklecJxz1qCbcjT-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Marika-chan no Koukando wa Bukkowareteiru",
-            "slug": "marika-chan-no-koukando-wa-bukkowareteiru",
-            "url": "https://animeplay.cloud/anime/marika-chan-no-koukando-wa-bukkowareteiru",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/qsjIgTsE8uS5IJuzCQPmUrnRh3x-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Star Wars: Maul – Lorde das Sombras Dublado",
-            "slug": "star-wars-maul-lorde-das-sombras-dublado",
-            "url": "https://animeplay.cloud/anime/star-wars-maul-lorde-das-sombras-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Ingoku Danchi",
-            "slug": "ingoku-danchi",
-            "url": "https://animeplay.cloud/anime/ingoku-danchi",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/1EcpjQHYMjEfZkLnj42UYYJhoLn-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -36584,7 +36599,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784230744516
+      "at": 1784259543729
     },
     "partner:animesdrive|todos|6||48": {
       "data": {
@@ -36634,6 +36649,22 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animesdrive.online/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Hokuto no Ken: Fist of the North Star Dublado",
+            "slug": "hokuto-no-ken-fist-of-the-north-star-dublado",
+            "url": "https://animesdrive.online/anime/hokuto-no-ken-fist-of-the-north-star-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/wCkjQpPocTL3eeYMuLwDBxQZWUb-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Ichijouma Mankitsugurashi",
+            "slug": "ichijouma-mankitsugurashi",
+            "url": "https://animesdrive.online/anime/ichijouma-mankitsugurashi",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/xvZh4RscGoAb0ht2oKSXqJ9GGTj-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -36804,22 +36835,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2026/04/1EcpjQHYMjEfZkLnj42UYYJhoLn-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Marika-chan no Koukando wa Bukkowareteiru",
-            "slug": "marika-chan-no-koukando-wa-bukkowareteiru",
-            "url": "https://animesdrive.online/anime/marika-chan-no-koukando-wa-bukkowareteiru",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/qsjIgTsE8uS5IJuzCQPmUrnRh3x-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "Star Wars: Maul – Lorde das Sombras Dublado",
-            "slug": "star-wars-maul-lorde-das-sombras-dublado",
-            "url": "https://animesdrive.online/anime/star-wars-maul-lorde-das-sombras-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -36827,7 +36842,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784230745878
+      "at": 1784259545208
     },
     "partner:anitube|todos|7||48": {
       "data": {
@@ -36982,7 +36997,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784230746292
+      "at": 1784259545596
     },
     "partner:animeplay|todos|7||48": {
       "data": {
@@ -37032,6 +37047,30 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Marika-chan no Koukando wa Bukkowareteiru",
+            "slug": "marika-chan-no-koukando-wa-bukkowareteiru",
+            "url": "https://animeplay.cloud/anime/marika-chan-no-koukando-wa-bukkowareteiru",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/qsjIgTsE8uS5IJuzCQPmUrnRh3x-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Star Wars: Maul – Lorde das Sombras Dublado",
+            "slug": "star-wars-maul-lorde-das-sombras-dublado",
+            "url": "https://animeplay.cloud/anime/star-wars-maul-lorde-das-sombras-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Ingoku Danchi",
+            "slug": "ingoku-danchi",
+            "url": "https://animeplay.cloud/anime/ingoku-danchi",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/1EcpjQHYMjEfZkLnj42UYYJhoLn-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -37202,30 +37241,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/7GFo7yLsXmnIH6xOB3blY8KyAMd-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Dr. Stone: Science Future 3",
-            "slug": "dr-stone-science-future-3",
-            "url": "https://animeplay.cloud/anime/dr-stone-science-future-3",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/yc9JysUW2JOyKdWVMllSA7HmzUq-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Ganbare! Nakamura-kun!! Dublado",
-            "slug": "ganbare-nakamura-kun-dublado",
-            "url": "https://animeplay.cloud/anime/ganbare-nakamura-kun-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/gS6cT23gqSEIGzycxyMry5bSc4e-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Kirio Fanclub",
-            "slug": "kirio-fanclub",
-            "url": "https://animeplay.cloud/anime/kirio-fanclub",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/yy9gsBKHX9PHq17mJhhm2yVKh8g-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -37233,7 +37248,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784230747501
+      "at": 1784259546597
     },
     "partner:animesdrive|todos|7||48": {
       "data": {
@@ -37283,6 +37298,22 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animesdrive.online/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Marika-chan no Koukando wa Bukkowareteiru",
+            "slug": "marika-chan-no-koukando-wa-bukkowareteiru",
+            "url": "https://animesdrive.online/anime/marika-chan-no-koukando-wa-bukkowareteiru",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/qsjIgTsE8uS5IJuzCQPmUrnRh3x-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Star Wars: Maul – Lorde das Sombras Dublado",
+            "slug": "star-wars-maul-lorde-das-sombras-dublado",
+            "url": "https://animesdrive.online/anime/star-wars-maul-lorde-das-sombras-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -37461,22 +37492,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2026/04/yc9JysUW2JOyKdWVMllSA7HmzUq-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Ganbare! Nakamura-kun!! Dublado",
-            "slug": "ganbare-nakamura-kun-dublado",
-            "url": "https://animesdrive.online/anime/ganbare-nakamura-kun-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/gS6cT23gqSEIGzycxyMry5bSc4e-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "Kirio Fanclub",
-            "slug": "kirio-fanclub",
-            "url": "https://animesdrive.online/anime/kirio-fanclub",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/yy9gsBKHX9PHq17mJhhm2yVKh8g-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -37484,7 +37499,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784230748932
+      "at": 1784259548100
     },
     "partner:anitube|todos|8||48": {
       "data": {
@@ -37639,7 +37654,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784230749353
+      "at": 1784259548495
     },
     "partner:animeplay|todos|8||48": {
       "data": {
@@ -37689,6 +37704,30 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Dr. Stone: Science Future 3",
+            "slug": "dr-stone-science-future-3",
+            "url": "https://animeplay.cloud/anime/dr-stone-science-future-3",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/yc9JysUW2JOyKdWVMllSA7HmzUq-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Ganbare! Nakamura-kun!! Dublado",
+            "slug": "ganbare-nakamura-kun-dublado",
+            "url": "https://animeplay.cloud/anime/ganbare-nakamura-kun-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/gS6cT23gqSEIGzycxyMry5bSc4e-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Kirio Fanclub",
+            "slug": "kirio-fanclub",
+            "url": "https://animeplay.cloud/anime/kirio-fanclub",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/yy9gsBKHX9PHq17mJhhm2yVKh8g-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -37859,30 +37898,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/4SSpwZQMbuEurBUgq9r1I8cPlnZ-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Invencível 4 Dublado",
-            "slug": "invencivel-4-dublado",
-            "url": "https://animeplay.cloud/anime/invencivel-4-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/2wnNxpeAHxhGVKj3PCyxskRhkbB-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Invencível 4",
-            "slug": "invencivel-4",
-            "url": "https://animeplay.cloud/anime/invencivel-4",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/fopIqWozi4kTGcqKzB2c50wJMjo-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Beastars 3 Final Season Part 2",
-            "slug": "beastars-3-final-season-part-2",
-            "url": "https://animeplay.cloud/anime/beastars-3-final-season-part-2",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/l89CHQa5Hwe6qPl1TlGPNo2Kcfr-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -37890,7 +37905,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784230750392
+      "at": 1784259549484
     },
     "partner:animesdrive|todos|8||48": {
       "data": {
@@ -110507,5 +110522,5 @@
       "at": 1784232394924
     }
   },
-  "updatedAt": 1784259540724
+  "updatedAt": 1784259549484
 }
