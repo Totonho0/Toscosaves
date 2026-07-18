@@ -15565,6 +15565,55 @@
         "provider": "anitube"
       }
     },
+    "1061298": {
+      "at": 1784390478525,
+      "data": {
+        "slug": "1061298",
+        "title": "Black Torch",
+        "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWJsYWNrLXRvcmNoLXRvZG9zLW9zLWVwaXNvZGlvcy10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaXR1YmUuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Black Torch – Episódio 01",
+            "url": "https://www.anitube.zip/video/1061300/",
+            "videoId": "1061300"
+          },
+          {
+            "number": 2,
+            "title": "Black Torch – Episódio 02",
+            "url": "https://www.anitube.zip/video/1061808/",
+            "videoId": "1061808"
+          },
+          {
+            "number": 3,
+            "title": "Black Torch – Episódio 03",
+            "url": "https://www.anitube.zip/video/1062030/",
+            "videoId": "1062030"
+          }
+        ],
+        "totalEpisodes": 3,
+        "kind": "anime",
+        "provider": "anitube",
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "black-torch",
+              "title": "Black Torch",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "black-torch-dublado",
+              "title": "Black Torch Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
+    },
     "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui": {
       "at": 1783677102451,
       "data": {
