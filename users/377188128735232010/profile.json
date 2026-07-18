@@ -341,6 +341,13 @@
       "title": "Sword Art 2 - Animes",
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1zd29yZC1hcnQtb25saW5lLTItdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbmltZXNkaWdpdGFsLmpwZw",
       "kind": "anime"
+    },
+    "rezero-kara-hajimeru-isekai-seikatsu-4-dublado": {
+      "slug": "rezero-kara-hajimeru-isekai-seikatsu-4-dublado",
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Dublado Todos Episódios",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wNC9SZVplcm8tRHVibGFkby00LmpwZw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -566,9 +573,17 @@
     ],
     "sword-art-online-2": [
       1
+    ],
+    "rezero-kara-hajimeru-isekai-seikatsu-4-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "rezero-kara-hajimeru-isekai-seikatsu-4-dublado",
+      "ep": 1,
+      "at": 1784395251135
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -1040,5 +1055,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784395180950
+  "updatedAt": 1784395251492
 }
