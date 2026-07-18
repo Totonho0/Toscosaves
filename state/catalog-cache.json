@@ -72561,7 +72561,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784346038136
+      "at": 1784374837192
     },
     "todos|35||120": {
       "data": {
@@ -73287,7 +73287,7 @@
         "page": 35,
         "hasMore": true,
         "total": 1751,
-        "cachedAt": 1784360361751,
+        "cachedAt": 1784374835108,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -73334,7 +73334,7 @@
           "fixHint": null
         }
       },
-      "at": 1784360361844
+      "at": 1784374837400
     },
     "partner:anitube|todos|36||48": {
       "data": {
@@ -73489,7 +73489,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784346038774
+      "at": 1784374837743
     },
     "todos|36||48": {
       "data": {
@@ -73769,7 +73769,7 @@
         "page": 36,
         "hasMore": true
       },
-      "at": 1784360362784
+      "at": 1784374838294
     },
     "partner:animeplay|todos|36||48": {
       "data": {
@@ -74020,7 +74020,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784346039843
+      "at": 1784374838797
     },
     "partner:animesdrive|todos|36||48": {
       "data": {
@@ -74271,7 +74271,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784346040632
+      "at": 1784374840195
     },
     "todos|36||120": {
       "data": {
@@ -74525,15 +74525,6 @@
                 "slug": "yani-neko"
               }
             ]
-          },
-          {
-            "title": "Yani Neko",
-            "slug": "yani-neko",
-            "url": "https://animesonline.cloud/anime/yani-neko",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
-            "rating": "5",
-            "kind": "anime",
-            "provider": "aoc"
           },
           {
             "title": "Yani Neko Dublado",
@@ -74974,13 +74965,33 @@
                 "slug": "yuru-camp-todos-episodios"
               }
             ]
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 36,
         "hasMore": true,
         "total": 1751,
-        "cachedAt": 1784360362784,
+        "cachedAt": 1784374838294,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -75027,7 +75038,7 @@
           "fixHint": null
         }
       },
-      "at": 1784360362865
+      "at": 1784374840346
     },
     "partner:anitube|todos|37||48": {
       "data": {
@@ -75182,7 +75193,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784346041116
+      "at": 1784374840681
     },
     "todos|37||48": {
       "data": {
@@ -75462,7 +75473,7 @@
         "page": 37,
         "hasMore": true
       },
-      "at": 1784360363811
+      "at": 1784374841263
     },
     "partner:animeplay|todos|37||48": {
       "data": {
@@ -75713,7 +75724,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784346042135
+      "at": 1784374841655
     },
     "partner:animesdrive|todos|37||48": {
       "data": {
@@ -118563,5 +118574,5 @@
       "at": 1784374740144
     }
   },
-  "updatedAt": 1784374835327
+  "updatedAt": 1784374841655
 }
