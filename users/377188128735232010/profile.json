@@ -355,6 +355,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC9lSzlaRElxN2dQRlJKMEdHYVd2Z3JYTFpnWFguanBn",
       "kind": "serie",
       "adult": false
+    },
+    "akane-banashi": {
+      "slug": "akane-banashi",
+      "title": "Akane-banashi",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC95VUVYamdGRnFxUks0M2xkWGJ3aGE4c3ZRWFYuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -590,9 +597,17 @@
     ],
     "tmdb-124364": [
       1
+    ],
+    "akane-banashi": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "akane-banashi",
+      "ep": 1,
+      "at": 1784451631802
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -1079,5 +1094,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784451357892
+  "updatedAt": 1784451632311
 }
