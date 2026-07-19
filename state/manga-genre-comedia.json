@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "one-piece-ptbr",
+      "titleId": "one-piece-ptbr",
+      "slug": "one-piece-ptbr",
+      "title": "One Piece",
+      "author": "Eiichiro Oda",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L09uZS1QaWVjZS1NYW5nYS1MaXZyZS0xNzV4MjM4LndlYnA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL29uZS1waWVjZS1wdGJyL2NhcGl0dWxvLTExODgv",
+      "chapterName": "Capitulo 1188",
+      "adult": false,
+      "sub": "Capitulo 1188"
+    },
+    {
       "id": "mato-seihei-no-slave-ptbr",
       "titleId": "mato-seihei-no-slave-ptbr",
       "slug": "mato-seihei-no-slave-ptbr",
@@ -29,21 +44,6 @@
       "chapterName": "Capitulo 37",
       "adult": false,
       "sub": "Capitulo 37"
-    },
-    {
-      "id": "one-piece-ptbr",
-      "titleId": "one-piece-ptbr",
-      "slug": "one-piece-ptbr",
-      "title": "One Piece",
-      "author": "Eiichiro Oda",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L09uZS1QaWVjZS1NYW5nYS1MaXZyZS0xNzV4MjM4LndlYnA",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL29uZS1waWVjZS1wdGJyL2NhcGl0dWxvLTExODUv",
-      "chapterName": "Capitulo 1185",
-      "adult": false,
-      "sub": "Capitulo 1185"
     },
     {
       "id": "ruridragon",
@@ -1051,7 +1051,7 @@
       "sub": "Capitulo 10"
     }
   ],
-  "updatedAt": 1784390550381,
+  "updatedAt": 1784451981368,
   "total": 70,
   "genre": "comedia",
   "source": "mangalivre"
