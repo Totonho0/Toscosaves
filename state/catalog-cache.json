@@ -62692,29 +62692,18 @@
       "data": {
         "items": [
           {
-            "title": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
-            "slug": "toumei-otoko-to-ningen-onna-sonouchi-fuufu-ni-naru-futari",
-            "url": "https://animeplay.cloud/anime/toumei-otoko-to-ningen-onna-sonouchi-fuufu-ni-naru-futari",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/jU8Oc4XCKFNh2WxrDMXHQx6hfJy-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Towa no Yugure",
-            "slug": "towa-no-yugure",
-            "url": "https://animeplay.cloud/anime/towa-no-yugure",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/qg8KcFJB5ySSEJv9OlMYK9JEMbV-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
             "title": "Tower of God – Todos os Episódios",
             "slug": "tower-of-god",
             "url": "https://animesdrive.online/anime/tower-of-god",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/06/jWDcDuHJVfcAuWRJNzJ3mriFo98-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tower-of-god"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -62733,7 +62722,7 @@
             "url": "https://animeplay.cloud/anime/tower-of-god-2-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/dfP98hCmvirEj83yeheqpkL5xdL.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tower of God 2 Dublado- Todos os Episódios",
@@ -62741,7 +62730,7 @@
             "url": "https://animeplay.cloud/anime/tower-of-god-2-dublado-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/7khzDTwE4Ng5UvXi43Dbndoioab.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tower of God Dublado – Todos os Episódios",
@@ -62749,7 +62738,7 @@
             "url": "https://animeplay.cloud/anime/tower-of-god-dublado-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/fbrMr4xRUALei4aF1II5JrcWmOc.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Trigun Stargaze",
@@ -62757,7 +62746,7 @@
             "url": "https://animesdrive.online/anime/trigun-stargaze",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/01/sFagJXWQSPfDSTqsUnR561srH6b-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive"
+            "provider": "aoc"
           },
           {
             "title": "Trigun Stargaze 2",
@@ -62765,8 +62754,13 @@
             "url": "https://animesdrive.online/anime/trigun-stargaze-2",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/01/sFagJXWQSPfDSTqsUnR561srH6b-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "trigun-stargaze-2"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -62785,7 +62779,7 @@
             "url": "https://animeplay.cloud/anime/trigun-stargaze-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/02/9Ou2dUJY9qmkOHX8x3Pk3al3EDz-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Trillion Game – Todos os Episódios",
@@ -62793,7 +62787,7 @@
             "url": "https://animeplay.cloud/anime/trillion-game",
             "poster": "https://image.tmdb.org/t/p/original/1AZR7verJU9q38CjGXWKTc6YScR.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tsue to Tsurugi no Wistoria 2",
@@ -62801,7 +62795,7 @@
             "url": "https://animeplay.cloud/anime/tsue-to-tsurugi-no-wistoria-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/cZnMdvNioymJxGM9DUISkjwKtwa-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tsue to Tsurugi no Wistoria 2 Dublado",
@@ -62809,7 +62803,7 @@
             "url": "https://animeplay.cloud/anime/tsue-to-tsurugi-no-wistoria-2-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/cZnMdvNioymJxGM9DUISkjwKtwa-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tsue to Tsurugi no Wistoria Todos os Episódios",
@@ -62817,7 +62811,7 @@
             "url": "https://animeplay.cloud/anime/tsue-to-tsurugi-no-wistoria",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/5zfCyzblaQ1Cq654rNjEHYTmgMZ-185x278.jpg.webp",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
@@ -62825,7 +62819,7 @@
             "url": "https://animeplay.cloud/anime/the-exiled-heavy-knight-knows-how-to-game-the-system",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/oulMDIOJBoFqMvM5Fku5XKazYGX-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tsuihousha Shokudou e Youkoso!",
@@ -62833,7 +62827,7 @@
             "url": "https://animeplay.cloud/anime/tsuihousha-shokudou-e-youkoso",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/1IJigiaXgp8qvjwlRVFYhP71z8Q-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tsuki ga Michibiku Isekai Douchuu",
@@ -62841,8 +62835,13 @@
             "url": "https://animesdrive.online/anime/tsuki-ga-michibiku-isekai-douchuu",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/02/exhONC020D4DGvt7XB4nq9AOMDU-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tsuki-ga-michibiku-isekai-douchuu"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -62861,7 +62860,7 @@
             "url": "https://animeplay.cloud/anime/tsuki-ga-michibiku-isekai-douchuu-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/eIYnc17e05YDdAAghZCvySg5mr-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tsuki ga Michibiku Isekai Douchuu Dublado",
@@ -62869,7 +62868,7 @@
             "url": "https://animeplay.cloud/anime/tsuki-ga-michibiku-isekai-douchuu-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/02/vMwcGYuTtvvD7KUU2TOFknJkT1H-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tsuma, Shougakusei ni Naru – Todos os Episódios",
@@ -62877,7 +62876,7 @@
             "url": "https://animeplay.cloud/anime/tsuma-shougakusei-ni-naru",
             "poster": "https://image.tmdb.org/t/p/w185/wroDJ1ksf0bVanmx1MwkU4zIhI9.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tsuyokute New Saga",
@@ -62885,7 +62884,7 @@
             "url": "https://animeplay.cloud/anime/tsuyokute-new-saga",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/7WAVcPVqdLK9whw75A7z6qeiuCg-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tsuyokute New Saga Dublado",
@@ -62893,7 +62892,7 @@
             "url": "https://animeplay.cloud/anime/tsuyokute-new-saga-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/alLLSXrFGG11KGwfvrF8P86SqYO-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Turkey! Time to Strike",
@@ -62901,7 +62900,7 @@
             "url": "https://animeplay.cloud/anime/turkey-time-to-strike",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/a7UXd4jRd2VCEKQLAnvXrB8wSj0-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Ueki no Housoku",
@@ -62909,8 +62908,13 @@
             "url": "https://animesdrive.online/anime/ueki-no-housoku",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/03/A1400E3gPJWo9aC7ouaOC1jH45e-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ueki-no-housoku"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -62929,8 +62933,13 @@
             "url": "https://animesdrive.online/anime/ultraman-blazar",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/07/eODY3s9Ww5sz95MnImgE4RWhwCu-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ultraman-blazar"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -62949,7 +62958,7 @@
             "url": "https://animeplay.cloud/anime/ultraman-omega",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/aIwc1CLT66eI1HEZtL32MYePmh4-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Undead Girl Murder Farce – Todos os Episódios",
@@ -62957,7 +62966,7 @@
             "url": "https://animeplay.cloud/anime/undead-girl-murder-farce-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/jzXRdGbVHNlcBbVThINpfDShHzS.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Undead Unluck",
@@ -62965,8 +62974,13 @@
             "url": "https://animesdrive.online/anime/undead-unluck",
             "poster": "https://animesdrive.online/wp-content/uploads/2023/11/62LKH8aho4EeZmcpYks9DvxyHxB-185x278.jpg.webp",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "undead-unluck"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -62985,8 +62999,13 @@
             "url": "https://animesdrive.online/anime/uniteup-unibirth",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/01/8obMQxVbBV9HtCYd9WIyG6oS1IX-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "uniteup-unibirth"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -63005,8 +63024,13 @@
             "url": "https://animesdrive.online/anime/unnamed-memory",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/06/2h67cW61TtPdl6R41TkbTJv4Xiz-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "unnamed-memory"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -63025,7 +63049,7 @@
             "url": "https://animeplay.cloud/anime/uruwashi-no-yoi-no-tsuki",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/3061lEeTTSb5NtX0ASXnRSO7Mo5-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Utagoe wa Mille-Feuille",
@@ -63033,7 +63057,7 @@
             "url": "https://animeplay.cloud/anime/utagoe-wa-mille-feuille",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/06/9CFNfwkccKrINGf0bS8ZLm4SPAc-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Uzumaki – Todos os Episódios",
@@ -63041,8 +63065,13 @@
             "url": "https://animesdrive.online/anime/uzumaki",
             "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "uzumaki"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -63061,7 +63090,7 @@
             "url": "https://animeplay.cloud/anime/uzumaki-dublado",
             "poster": "https://image.tmdb.org/t/p/original/yTzzTT36XXOqkxY2fwT0kOPAie1.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Vampire Dormitory – Todos os Episódios",
@@ -63069,7 +63098,7 @@
             "url": "https://animeplay.cloud/anime/vampire-dormitory",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/04/22c8lGyJv5fph12Wk518spTjPFo-185x278.jpg.webp",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Vinland Saga",
@@ -63077,8 +63106,13 @@
             "url": "https://animesdrive.online/anime/vinland-saga",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/ySPYLN1sHmgRdqdfLOE092JlNTp-185x278.jpg.webp",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "vinland-saga"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -63097,7 +63131,7 @@
             "url": "https://animeplay.cloud/anime/vinland-saga-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/7BwBilp19GklJGUy6IBFnuoQ12B-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Vinland Saga 2 Dublado",
@@ -63105,7 +63139,7 @@
             "url": "https://animeplay.cloud/anime/vinland-saga-2-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/oOTLXjbcdZwoQ0f6gspqTH6Gspt-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Vinland Saga Dublado",
@@ -63113,7 +63147,7 @@
             "url": "https://animeplay.cloud/anime/vinland-saga-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/8Sih4LoQucb7ActfTcA5BkIS9Ua-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta – Todos os Episódios",
@@ -63121,8 +63155,13 @@
             "url": "https://animesdrive.online/anime/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/AnimeDrive-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -63141,7 +63180,7 @@
             "url": "https://animeplay.cloud/anime/wandance",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/1FbU0jXGPTKKWtRkVD1zplH73La-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Wandance Dublado",
@@ -63149,7 +63188,7 @@
             "url": "https://animeplay.cloud/anime/wandance-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/1FbU0jXGPTKKWtRkVD1zplH73La-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Watari-kun no xx ga Houkai Sunzen",
@@ -63157,7 +63196,7 @@
             "url": "https://animeplay.cloud/anime/watari-kun-no-xx-ga-houkai-sunzen",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/3WvPzs9EbizKgoAoZbKnvleu1S5-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri!",
@@ -63165,7 +63204,7 @@
             "url": "https://animeplay.cloud/anime/watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/gj5oUGMFPMJB304Z9jQAoTTCREJ-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Watashi no Shiawase na Kekkon 2",
@@ -63173,8 +63212,13 @@
             "url": "https://animesdrive.online/anime/watashi-no-shiawase-na-kekkon-2",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/01/vdqm3CXgwdKij3NMwPJBV3ooOHz-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "watashi-no-shiawase-na-kekkon-2"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -63193,7 +63237,7 @@
             "url": "https://animeplay.cloud/anime/watashi-wo-tabetai-hitodenashi",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/2FPfswdvih5tnseWAzgbiWb0JuR-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Wind Breaker – Todos os Episódios",
@@ -63201,8 +63245,13 @@
             "url": "https://animesdrive.online/anime/wind-breaker",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/04/c2wfIKUPcQY0tiyiOmY7ItHtNO9-185x278.jpg.webp",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "wind-breaker"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -63221,7 +63270,7 @@
             "url": "https://animeplay.cloud/anime/wind-breaker-2-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/04/3Ft6LD4LpZxAgal4vxgD3dWNb1T-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Witch Watch Dublado",
@@ -63229,7 +63278,40 @@
             "url": "https://animeplay.cloud/anime/witch-watch-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/04/jeh8PhZecsxpPikl6oUrVEkG8s6-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
+          },
+          {
+            "title": "World Is Dancing",
+            "slug": "the-world-is-dancing",
+            "url": "https://animeplay.cloud/anime/the-world-is-dancing",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/oOmQf94idSBnDueIrM3FNQy8IXw-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Wu Liuqi: Xuanwu Guo Pian – Todos os Episodios",
+            "slug": "wu-liuqi-xuanwu-guo-pian",
+            "url": "https://animesdrive.online/anime/wu-liuqi-xuanwu-guo-pian-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/cfMzg4lwceIWVTTDmo0q1lEU2DP.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "wu-liuqi-xuanwu-guo-pian"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "wu-liuqi-xuanwu-guo-pian"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "wu-liuqi-xuanwu-guo-pian"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -63237,7 +63319,7 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1497,
+        "total": 1484,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -63257,7 +63339,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784468445430,
+          "lastProbeAt": 1784482847354,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -63283,13 +63365,61 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784454181199
+        "cachedAt": 1784468451021
       },
-      "at": 1784468451021
+      "at": 1784482933548
     },
     "partner:anitube|todos|31||48": {
       "data": {
         "items": [
+          {
+            "title": "Cestvs The Roman Fighter (Legendado)",
+            "slug": "902027",
+            "url": "https://www.anitube.zip/video/902027/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Cestvs-The-Roman-Fighter-Todos-os-Episódios-AniTube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Chain Chronicle: Haecceitas no Hikari (TV) (Legendado)",
+            "slug": "62380",
+            "url": "https://www.anitube.zip/video/62380/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Chain-Chronicle-hae.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Chainsaw Man (Legendado)",
+            "slug": "915577",
+            "url": "https://www.anitube.zip/video/915577/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-chainsaw-man-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Chainsaw Man Movie: Reze-hen – Filme (Filme)",
+            "slug": "1025932",
+            "url": "https://www.anitube.zip/video/1025932/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Chainsaw-Man-Movie-Reze-hen-categoria.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Chainsaw Man Movie: Reze-hen (Dublado) – Filme",
+            "slug": "1025935",
+            "url": "https://www.anitube.zip/video/1025935/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Chainsaw-Man-Movie-Reze-hen-Dublado-categoria.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Champignon no Majo (Legendado)",
+            "slug": "1031736",
+            "url": "https://www.anitube.zip/video/1031736/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-champignon-no-majo-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
           {
             "title": "Chanto Suenai Kyuuketsuki-chan (Legendado)",
             "slug": "1014011",
@@ -63385,54 +63515,6 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/Chibi-Devi.jpg",
             "kind": "anime",
             "provider": "anitube"
-          },
-          {
-            "title": "Chicchana Yukitsukai Sugar (Legendado)",
-            "slug": "61463",
-            "url": "https://www.anitube.zip/video/61463/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Chicchana-Yukitsukai-Sugar.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Chichi wa Eiyuu Haha wa Seirei Musume no Watashi wa Tenseisha (Legendado)",
-            "slug": "1011689",
-            "url": "https://www.anitube.zip/video/1011689/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-chichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Chihayafuru (Legendado)",
-            "slug": "61370",
-            "url": "https://www.anitube.zip/video/61370/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Chihayafuru.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Chihayafuru 2 (Legendado)",
-            "slug": "61292",
-            "url": "https://www.anitube.zip/video/61292/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Chihayafuru-2.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Chihayafuru 3 (Legendado)",
-            "slug": "882099",
-            "url": "https://www.anitube.zip/video/882099/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Chihayafuru-3-Temporada-Todos-os-Episódios.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Chikyuu Shoujo Arjuna – Dublado",
-            "slug": "81056",
-            "url": "https://www.anitube.zip/video/81056/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Chikyuu-Shoujo-Arjuna.jpg",
-            "kind": "anime",
-            "provider": "anitube"
           }
         ],
         "category": "todos",
@@ -63440,7 +63522,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784454181496
+      "at": 1784482934408
     },
     "partner:animeplay|todos|31||48": {
       "data": {
@@ -63683,7 +63765,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784454182453
+      "at": 1784482934879
     },
     "todos|31||120": {
       "data": {
@@ -94558,5 +94640,5 @@
       "at": 1784482907305
     }
   },
-  "updatedAt": 1784482930222
+  "updatedAt": 1784482934879
 }
