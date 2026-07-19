@@ -376,6 +376,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8xMC9BbnNhdHN1c2hhLWRlLUFydS1PcmUtbm8tU3RhdHVzLWdhLVl1dXNoYUVwLmpwZw",
       "kind": "anime",
       "adult": false
+    },
+    "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season": {
+      "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season",
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu Dublado 4th Season",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9haThiVlM4U3V2dTRFckJobWdCdnRFU2lyQlkuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -628,10 +635,16 @@
       1
     ],
     "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season": [
+      1,
       11
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season",
+      "ep": 1,
+      "at": 1784453429758
+    },
     {
       "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season",
       "ep": 11,
@@ -1153,5 +1166,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784453389220
+  "updatedAt": 1784453430289
 }
