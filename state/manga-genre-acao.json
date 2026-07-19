@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "id": "one-piece-ptbr",
+      "titleId": "one-piece-ptbr",
+      "slug": "one-piece-ptbr",
+      "title": "One Piece",
+      "author": "Eiichiro Oda",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L09uZS1QaWVjZS1NYW5nYS1MaXZyZS0xNzV4MjM4LndlYnA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL29uZS1waWVjZS1wdGJyL2NhcGl0dWxvLTExODgv",
+      "chapterName": "Capitulo 1188",
+      "adult": false,
+      "sub": "Capitulo 1188"
+    },
+    {
+      "id": "gachiakuta-ptbr",
+      "titleId": "gachiakuta-ptbr",
+      "slug": "gachiakuta-ptbr",
+      "title": "Gachiakuta",
+      "author": "Kei Urana",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L0dhY2hpYWt1dGEtTWFuZ2EtTGl2cmUtMTc1eDIzOC53ZWJw",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2dhY2hpYWt1dGEtcHRici9jYXBpdHVsby0xNzAv",
+      "chapterName": "Capitulo 170",
+      "adult": false,
+      "sub": "Capitulo 170"
+    },
+    {
+      "id": "boruto-two-blue-vortex-ptbr",
+      "titleId": "boruto-two-blue-vortex-ptbr",
+      "slug": "boruto-two-blue-vortex-ptbr",
+      "title": "Boruto: Two Blue Vortex",
+      "author": "Masashi Kishimoto",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L0JvcnV0by1Ud28tQmx1ZS1Wb3J0ZXgtMTc1eDIzOC53ZWJw",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2JvcnV0by10d28tYmx1ZS12b3J0ZXgtcHRici9jYXBpdHVsby0yMy8",
+      "chapterName": "Capítulo 23",
+      "adult": false,
+      "sub": "Capítulo 23"
+    },
+    {
+      "id": "colorist-ptbr",
+      "titleId": "colorist-ptbr",
+      "slug": "colorist-ptbr",
+      "title": "Colorist",
+      "author": "",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzExL0NvbG9yaXN0LTE3NXgyMzgud2VicA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2NvbG9yaXN0LXB0YnIvY2FwaXR1bG8tMzkv",
+      "chapterName": "Capitulo 39",
+      "adult": false,
+      "sub": "Capitulo 39"
+    },
+    {
+      "id": "nano-machine-ptbr",
+      "titleId": "nano-machine-ptbr",
+      "slug": "nano-machine-ptbr",
+      "title": "Nano Machine – Nanotecnologia Marcial",
+      "author": "Great H",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzEwL05hbm8tTWFjaGluZS1OYW5vdGVjbm9sb2dpYS1NYXJjaWFsLTE3NXgyMzgud2VicA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL25hbm8tbWFjaGluZS1wdGJyL2NhcGl0dWxvLTMyMS8",
+      "chapterName": "Capitulo 321",
+      "adult": false,
+      "sub": "Capitulo 321"
+    },
+    {
       "id": "jujutsu-kaisen-modulo",
       "titleId": "jujutsu-kaisen-modulo",
       "slug": "jujutsu-kaisen-modulo",
@@ -16,36 +91,6 @@
       "sub": "Capitulo 25"
     },
     {
-      "id": "nano-machine-ptbr",
-      "titleId": "nano-machine-ptbr",
-      "slug": "nano-machine-ptbr",
-      "title": "Nano Machine – Nanotecnologia Marcial",
-      "author": "Great H",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzEwL05hbm8tTWFjaGluZS1OYW5vdGVjbm9sb2dpYS1NYXJjaWFsLTE3NXgyMzgud2VicA",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL25hbm8tbWFjaGluZS1wdGJyL2NhcGl0dWxvLTMxNy8",
-      "chapterName": "Capitulo 317",
-      "adult": false,
-      "sub": "Capitulo 317"
-    },
-    {
-      "id": "colorist-ptbr",
-      "titleId": "colorist-ptbr",
-      "slug": "colorist-ptbr",
-      "title": "Colorist",
-      "author": "",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzExL0NvbG9yaXN0LTE3NXgyMzgud2VicA",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2NvbG9yaXN0LXB0YnIvY2FwaXR1bG8tMzYv",
-      "chapterName": "Capitulo 36",
-      "adult": false,
-      "sub": "Capitulo 36"
-    },
-    {
       "id": "revenge-of-the-baskerville-bloodhound",
       "titleId": "revenge-of-the-baskerville-bloodhound",
       "slug": "revenge-of-the-baskerville-bloodhound",
@@ -56,21 +101,6 @@
       "provider": "mangalivre",
       "kind": "manga",
       "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3JldmVuZ2Utb2YtdGhlLWJhc2tlcnZpbGxlLWJsb29kaG91bmQvY2FwaXR1bG8tMTY5Lw",
-      "chapterName": "Capitulo 169",
-      "adult": false,
-      "sub": "Capitulo 169"
-    },
-    {
-      "id": "gachiakuta-ptbr",
-      "titleId": "gachiakuta-ptbr",
-      "slug": "gachiakuta-ptbr",
-      "title": "Gachiakuta",
-      "author": "Kei Urana",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L0dhY2hpYWt1dGEtTWFuZ2EtTGl2cmUtMTc1eDIzOC53ZWJw",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2dhY2hpYWt1dGEtcHRici9jYXBpdHVsby0xNjkv",
       "chapterName": "Capitulo 169",
       "adult": false,
       "sub": "Capitulo 169"
@@ -106,21 +136,6 @@
       "sub": "Capitulo 107"
     },
     {
-      "id": "boruto-two-blue-vortex-ptbr",
-      "titleId": "boruto-two-blue-vortex-ptbr",
-      "slug": "boruto-two-blue-vortex-ptbr",
-      "title": "Boruto: Two Blue Vortex",
-      "author": "Masashi Kishimoto",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L0JvcnV0by1Ud28tQmx1ZS1Wb3J0ZXgtMTc1eDIzOC53ZWJw",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2JvcnV0by10d28tYmx1ZS12b3J0ZXgtcHRici9jYXBpdHVsby0yMy8",
-      "chapterName": "Capítulo 23",
-      "adult": false,
-      "sub": "Capítulo 23"
-    },
-    {
       "id": "mato-seihei-no-slave-ptbr",
       "titleId": "mato-seihei-no-slave-ptbr",
       "slug": "mato-seihei-no-slave-ptbr",
@@ -149,21 +164,6 @@
       "chapterName": "Capitulo 37",
       "adult": false,
       "sub": "Capitulo 37"
-    },
-    {
-      "id": "one-piece-ptbr",
-      "titleId": "one-piece-ptbr",
-      "slug": "one-piece-ptbr",
-      "title": "One Piece",
-      "author": "Eiichiro Oda",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L09uZS1QaWVjZS1NYW5nYS1MaXZyZS0xNzV4MjM4LndlYnA",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL29uZS1waWVjZS1wdGJyL2NhcGl0dWxvLTExODUv",
-      "chapterName": "Capitulo 1185",
-      "adult": false,
-      "sub": "Capitulo 1185"
     },
     {
       "id": "chainsaw-man-pt-br",
@@ -1036,7 +1036,7 @@
       "sub": "Kaneshiro"
     }
   ],
-  "updatedAt": 1784390550335,
+  "updatedAt": 1784451981296,
   "total": 69,
   "genre": "acao",
   "source": "mangalivre"
