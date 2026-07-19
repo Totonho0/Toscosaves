@@ -18591,7 +18591,7 @@
             "url": "https://www.anitube.zip/video/883725/",
             "poster": "https://www.anitube.zip/wp-content/uploads/heppoko-jikken-animation-excel-saga-episodios.jpg",
             "kind": "anime",
-            "provider": "anitube",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -18611,7 +18611,7 @@
             "url": "https://www.anitube.zip/video/914428/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Extreme-Hearts-Todos-os-Episodios-Anitube.jpg",
             "kind": "anime",
-            "provider": "anitube",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -18631,7 +18631,7 @@
             "url": "https://www.anitube.zip/video/56120/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-eyeshield-21-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -18651,7 +18651,7 @@
             "url": "https://www.anitube.zip/video/989566/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-failure-frame-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -18671,7 +18671,7 @@
             "url": "https://www.anitube.zip/video/880126/",
             "poster": "https://www.anitube.zip/wp-content/uploads/fairy-gone-todos-os-episodios-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -18691,7 +18691,7 @@
             "url": "https://www.anitube.zip/video/882142/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Fairy-Gone-2-Temporada-Todos-os-Episódios.jpg",
             "kind": "anime",
-            "provider": "anitube",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -18711,7 +18711,7 @@
             "url": "https://www.anitube.zip/video/901815/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Fairy-Ranmaru-Anata-no-Kokoro-Otasuke-Shimasu-Todos-os-Episodios-AniTube.jpg",
             "kind": "anime",
-            "provider": "anitube",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -18757,7 +18757,7 @@
             "url": "https://www.anitube.zip/video/931158/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Fairy-Tail-poster.png",
             "kind": "anime",
-            "provider": "anitube",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -19042,47 +19042,6 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "fruits-basket-2001"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "fruits-basket-2001"
-              }
-            ]
-          },
-          {
-            "title": "Fruits Basket (2019)",
-            "slug": "fruits-basket-2019",
-            "url": "https://animesonline.cloud/anime/fruits-basket-2019",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/wVe8vcSqpJjLib5TWer6kgkGjjM-185x278.jpg",
-            "rating": "7.9",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "fruits-basket-2019"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "fruits-basket-2001"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "fruits-basket-2019"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "fruits-basket-2001"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "fruits-basket-2019"
               },
               {
                 "server": 3,
@@ -19471,13 +19430,33 @@
             "rating": "8.4",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 19,
         "hasMore": true,
         "total": 1751,
-        "cachedAt": 1784417945256,
+        "cachedAt": 1784432377680,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -19524,7 +19503,7 @@
           "fixHint": null
         }
       },
-      "at": 1784417945351
+      "at": 1784432379704
     },
     "todos|20||120": {
       "data": {
@@ -19602,10 +19581,10 @@
           {
             "title": "Giji Harem",
             "slug": "giji-harem",
-            "url": "https://animesdrive.online/anime/giji-harem",
+            "url": "https://animesonline.cloud/anime/giji-harem",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/4n8PhldOBDNJWoHN55tfQ3Ird5J-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "rating": "0",
             "animeSources": [
               {
@@ -19628,11 +19607,11 @@
           {
             "title": "Gimai Seikatsu – Todos os Episodios",
             "slug": "gimai-seikatsu",
-            "url": "https://animesdrive.online/anime/gimai-seikatsu",
+            "url": "https://animesonline.cloud/anime/gimai-seikatsu",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/06/dYwn9SMQNPW0pl3ltpqi21IyZfA-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -20321,11 +20300,11 @@
           {
             "title": "Hazurewaku no “Joutai Ijou Skill” de Saikyou ni Natta Ore ga Subete wo Juurin suru made Todos os Episódios",
             "slug": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made",
-            "url": "https://animesdrive.online/anime/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made",
+            "url": "https://animesonline.cloud/anime/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/9kGH4vpzZMSONC8db29Tj7HySr1-185x278.jpg.webp",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -20376,7 +20355,7 @@
         "page": 20,
         "hasMore": true,
         "total": 1751,
-        "cachedAt": 1784417946232,
+        "cachedAt": 1784432380575,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -20423,7 +20402,7 @@
           "fixHint": null
         }
       },
-      "at": 1784417946318
+      "at": 1784432382473
     },
     "legendado|1||120": {
       "data": {
@@ -47763,7 +47742,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784403582402
+      "at": 1784432379650
     },
     "partner:anitube|todos|20||48": {
       "data": {
@@ -47918,7 +47897,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784403582811
+      "at": 1784432380053
     },
     "todos|20||48": {
       "data": {
@@ -48198,7 +48177,7 @@
         "page": 20,
         "hasMore": true
       },
-      "at": 1784417946232
+      "at": 1784432380575
     },
     "partner:animeplay|todos|20||48": {
       "data": {
@@ -48449,7 +48428,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784403583964
+      "at": 1784432381173
     },
     "partner:animesdrive|todos|20||48": {
       "data": {
@@ -48700,7 +48679,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784403585087
+      "at": 1784432382411
     },
     "partner:anitube|todos|21||48": {
       "data": {
@@ -48855,7 +48834,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784403585499
+      "at": 1784432382815
     },
     "todos|21||48": {
       "data": {
@@ -49135,7 +49114,7 @@
         "page": 21,
         "hasMore": true
       },
-      "at": 1784417947144
+      "at": 1784432383408
     },
     "partner:animeplay|todos|21||48": {
       "data": {
@@ -49386,7 +49365,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784403586649
+      "at": 1784432383847
     },
     "partner:animesdrive|todos|21||48": {
       "data": {
@@ -121749,5 +121728,5 @@
       "at": 1784395255211
     }
   },
-  "updatedAt": 1784432378068
+  "updatedAt": 1784432383847
 }
