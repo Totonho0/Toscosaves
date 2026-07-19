@@ -4783,7 +4783,7 @@
       }
     },
     "akujiki-reijou-to-kyouketsu-koushaku": {
-      "at": 1784452711102,
+      "at": 1784453345088,
       "data": {
         "slug": "akujiki-reijou-to-kyouketsu-koushaku",
         "title": "Akujiki Reijou to Kyouketsu Koushaku",
@@ -4860,30 +4860,7 @@
           "Animação",
           "Fantasia",
           "Sci-Fi"
-        ],
-        "audioVariants": {
-          "current": "default",
-          "variants": {
-            "default": {
-              "slug": "akujiki-reijou-to-kyouketsu-koushaku",
-              "title": "Akujiki Reijou to Kyouketsu Koushaku",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "leg": {
-              "slug": "1010812",
-              "title": "Akujiki Reijou to Kyouketsu Koushaku (Legendado)",
-              "audio": "leg",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "akujiki-reijou-to-kyouketsu-koushaku-dublado",
-              "title": "Akujiki Reijou to Kyouketsu Koushaku Dublado",
-              "audio": "dub",
-              "label": "Dublado"
-            }
-          }
-        }
+        ]
       }
     },
     "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen": {
@@ -11419,6 +11396,173 @@
             "dub": {
               "slug": "one-piece-dublado",
               "title": "One Piece Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
+    },
+    "smoking-behind-the-supermarket-with-you-mini": {
+      "at": 1784453345760,
+      "data": {
+        "slug": "smoking-behind-the-supermarket-with-you-mini",
+        "title": "Super no Ura de Yani Suu Futari Mini",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9na21FNDFBNWV2NU0yOTloTGdYM0pyV0FNMTYuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Mine-Episódio",
+            "url": "https://animesonline.cloud/episodio/super-no-ura-de-yani-suu-futari-mini-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Mine-Episódio",
+            "url": "https://animesonline.cloud/episodio/super-no-ura-de-yani-suu-futari-mini-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Mine-Episódio",
+            "url": "https://animesonline.cloud/episodio/super-no-ura-de-yani-suu-futari-mini-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Mine-Episódio",
+            "url": "https://animesonline.cloud/episodio/super-no-ura-de-yani-suu-futari-mini-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Mine-Episódio",
+            "url": "https://animesonline.cloud/episodio/super-no-ura-de-yani-suu-futari-mini-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Mine-Episódio",
+            "url": "https://animesonline.cloud/episodio/super-no-ura-de-yani-suu-futari-mini-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Mine-Episódio",
+            "url": "https://animesonline.cloud/episodio/super-no-ura-de-yani-suu-futari-mini-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Mine-Episódio",
+            "url": "https://animesonline.cloud/episodio/super-no-ura-de-yani-suu-futari-mini-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Mine-Episódio",
+            "url": "https://animesonline.cloud/episodio/super-no-ura-de-yani-suu-futari-mini-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Mine-Episódio",
+            "url": "https://animesonline.cloud/episodio/super-no-ura-de-yani-suu-futari-mini-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Mine-Episódio",
+            "url": "https://animesonline.cloud/episodio/super-no-ura-de-yani-suu-futari-mini-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Mine-Episódio",
+            "url": "https://animesonline.cloud/episodio/super-no-ura-de-yani-suu-futari-mini-episodio-12"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "aoc",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Animação",
+          "Comédia",
+          "Drama"
+        ]
+      }
+    },
+    "arcane": {
+      "at": 1784453347068,
+      "data": {
+        "slug": "arcane",
+        "title": "Arcane - Todos os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC93UUVXM3hMclFBVGh1MUd2cXBzS1F5ZWpyWVMuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Entrando na brincadeira",
+            "url": "https://animeplay.cloud/episodio/arcane-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Alguns mistérios não devem ser desvendados",
+            "url": "https://animeplay.cloud/episodio/arcane-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - A violência é essencial para a mudança",
+            "url": "https://animeplay.cloud/episodio/arcane-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Feliz Dia do Progresso!",
+            "url": "https://animeplay.cloud/episodio/arcane-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Todos querem ser meus inimigos",
+            "url": "https://animeplay.cloud/episodio/arcane-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Quando as paredes desabam",
+            "url": "https://animeplay.cloud/episodio/arcane-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - O garoto salvador",
+            "url": "https://animeplay.cloud/episodio/arcane-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Água e óleo",
+            "url": "https://animeplay.cloud/episodio/arcane-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - O monstro que você criou",
+            "url": "https://animeplay.cloud/episodio/arcane-episodio-09"
+          }
+        ],
+        "totalEpisodes": 9,
+        "kind": "anime",
+        "provider": "animeplay",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Ação",
+          "Animação",
+          "Aventura",
+          "Fantasia",
+          "Mistério",
+          "Sci-Fi"
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "arcane",
+              "title": "Arcane – Todos os Episódios",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "arcane-dublado",
+              "title": "Arcane Dublado – Todos os Episódios",
               "audio": "dub",
               "label": "Dublado"
             }
