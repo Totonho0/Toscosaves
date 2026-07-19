@@ -348,6 +348,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wNC9SZVplcm8tRHVibGFkby00LmpwZw",
       "kind": "anime",
       "adult": false
+    },
+    "tmdb-124364": {
+      "slug": "tmdb-124364",
+      "title": "Origem (2022)",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC9lSzlaRElxN2dQRlJKMEdHYVd2Z3JYTFpnWFguanBn",
+      "kind": "serie",
+      "adult": false
     }
   },
   "watched": {
@@ -580,9 +587,17 @@
     "rezero-kara-hajimeru-isekai-seikatsu-4-dublado": [
       1,
       2
+    ],
+    "tmdb-124364": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "tmdb-124364",
+      "ep": 1,
+      "at": 1784451011159
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -1064,5 +1079,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784450968366
+  "updatedAt": 1784451011841
 }
