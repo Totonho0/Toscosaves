@@ -369,6 +369,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC9lSzlaRElxN2dQRlJKMEdHYVd2Z3JYTFpnWFguanBn",
       "kind": "serie",
       "adult": false
+    },
+    "ansatsusha-de-aru-ore-no-status-ga-yuusha-todos-episodios": {
+      "slug": "ansatsusha-de-aru-ore-no-status-ga-yuusha-todos-episodios",
+      "title": "Ansatsusha de Aru Ore no Status ga Yuusha Todos Episódios",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8xMC9BbnNhdHN1c2hhLWRlLUFydS1PcmUtbm8tU3RhdHVzLWdhLVl1dXNoYUVwLmpwZw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -615,9 +622,17 @@
       1,
       35,
       40
+    ],
+    "ansatsusha-de-aru-ore-no-status-ga-yuusha-todos-episodios": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "ansatsusha-de-aru-ore-no-status-ga-yuusha-todos-episodios",
+      "ep": 1,
+      "at": 1784452705025
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -1124,5 +1139,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784452608479
+  "updatedAt": 1784452705735
 }
