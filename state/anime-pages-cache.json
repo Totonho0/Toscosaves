@@ -771,7 +771,24 @@
           "Aventura",
           "Fantasia",
           "Sci-Fi"
-        ]
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "a-rank-party-wo-ridatsu-shita-ore-wa-moto-oshiego-tachi-to-meikyuu-shinbu-wo-mezasu",
+              "title": "A-Rank Party wo Ridatsu shita Ore wa Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "998307",
+              "title": "A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            }
+          }
+        }
       }
     },
     "acchi-kocchi": {
@@ -851,7 +868,24 @@
           "Dublado",
           "Comédia",
           "Romance"
-        ]
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "acchi-kocchi",
+              "title": "Acchi Kocchi",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "67113",
+              "title": "Acchi Kocchi – (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            }
+          }
+        }
       }
     },
     "ai-no-idenshi": {
@@ -932,7 +966,24 @@
           "Animação",
           "Drama",
           "Sci-Fi & Fantasia"
-        ]
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "ai-no-idenshi",
+              "title": "AI no Idenshi",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "919812",
+              "title": "AI no Idenshi (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            }
+          }
+        }
       }
     },
     "aishiteru-game-wo-owarasetai": {
@@ -1021,6 +1072,12 @@
               "audio": "default",
               "label": "Legendado"
             },
+            "leg": {
+              "slug": "1054107",
+              "title": "Aishiteru Game wo Owarasetai (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            },
             "dub": {
               "slug": "aishiteru-game-wo-owarasetai-dublado",
               "title": "Aishiteru Game wo Owarasetai Dublado",
@@ -1105,6 +1162,12 @@
               "slug": "aishiteru-game-wo-owarasetai",
               "title": "Aishiteru Game wo Owarasetai",
               "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "1054107",
+              "title": "Aishiteru Game wo Owarasetai (Legendado)",
+              "audio": "leg",
               "label": "Legendado"
             },
             "dub": {
@@ -1198,7 +1261,24 @@
           "Legendado",
           "Dublado",
           "Animação"
-        ]
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "ace-of-the-diamond-act-ii-season-2",
+              "title": "Ace of the Diamond Act II Season 2",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "1052581",
+              "title": "Ace of the Diamond Act II Season 2 (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            }
+          }
+        }
       }
     },
     "akane-banashi-dublado": {
@@ -1555,7 +1635,24 @@
           "Dublado",
           "Animação",
           "Drama"
-        ]
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "ahiru-no-sora",
+              "title": "Ahiru no Sora",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "882052",
+              "title": "Ahiru no Sora (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            }
+          }
+        }
       }
     },
     "akane-banashi": {
@@ -1783,7 +1880,30 @@
           "Ação e Aventura",
           "Animação",
           "Drama"
-        ]
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "akame-ga-kill",
+              "title": "Akame ga Kill!",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "64936",
+              "title": "Akame ga Kill! – (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "akame-ga-kill-dublado",
+              "title": "Akame ga Kill! Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "0-saiji-start-dash-monogatari": {
@@ -1813,6 +1933,92 @@
           "Dublado",
           "Animação"
         ]
+      }
+    },
+    "3-nen-z-gumi-ginpachi-sensei-todos-episodios": {
+      "at": 1784452617760,
+      "data": {
+        "slug": "3-nen-z-gumi-ginpachi-sensei-todos-episodios",
+        "title": "3-nen Z-gumi Ginpachi-sensei Todos Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8xMC8zLW5lbi1aLWd1bWktR2lucGFjaGktc2Vuc2VpRXAuanBlZw",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 01 9 meses atrás",
+            "url": "https://animesdigital.org/video/a/132721/",
+            "videoId": "132721"
+          },
+          {
+            "number": 2,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 02 9 meses atrás",
+            "url": "https://animesdigital.org/video/a/132841/",
+            "videoId": "132841"
+          },
+          {
+            "number": 3,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 03 9 meses atrás",
+            "url": "https://animesdigital.org/video/a/132920/",
+            "videoId": "132920"
+          },
+          {
+            "number": 4,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 04 9 meses atrás",
+            "url": "https://animesdigital.org/video/a/133002/",
+            "videoId": "133002"
+          },
+          {
+            "number": 5,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 05 9 meses atrás",
+            "url": "https://animesdigital.org/video/a/133089/",
+            "videoId": "133089"
+          },
+          {
+            "number": 6,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 06 8 meses atrás",
+            "url": "https://animesdigital.org/video/a/133199/",
+            "videoId": "133199"
+          },
+          {
+            "number": 7,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 07 8 meses atrás",
+            "url": "https://animesdigital.org/video/a/133272/",
+            "videoId": "133272"
+          },
+          {
+            "number": 8,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 08 8 meses atrás",
+            "url": "https://animesdigital.org/video/a/133341/",
+            "videoId": "133341"
+          },
+          {
+            "number": 9,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 09 8 meses atrás",
+            "url": "https://animesdigital.org/video/a/133431/",
+            "videoId": "133431"
+          },
+          {
+            "number": 10,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 10 7 meses atrás",
+            "url": "https://animesdigital.org/video/a/133528/",
+            "videoId": "133528"
+          },
+          {
+            "number": 11,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 11 7 meses atrás",
+            "url": "https://animesdigital.org/video/a/133651/",
+            "videoId": "133651"
+          },
+          {
+            "number": 12,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 12 7 meses atrás",
+            "url": "https://animesdigital.org/video/a/133726/",
+            "videoId": "133726"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "animesdigital"
       }
     }
   }
