@@ -64935,7 +64935,19 @@
             "url": "https://animeplay.cloud/anime/one-piece",
             "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           },
           {
             "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
@@ -64943,7 +64955,19 @@
             "url": "https://animeplay.cloud/anime/nageki-no-bourei-wa-intai-shitai",
             "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              }
+            ]
           },
           {
             "title": "Uzumaki – Todos os Episódios",
@@ -64951,7 +64975,19 @@
             "url": "https://animeplay.cloud/anime/uzumaki",
             "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "uzumaki"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "uzumaki"
+              }
+            ]
           },
           {
             "title": "Hitoribocchi no Isekai Kouryaku",
@@ -64959,7 +64995,19 @@
             "url": "https://animeplay.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              }
+            ]
           },
           {
             "title": "Maou-sama, Retry! 2 – Todos os Episódios",
@@ -64967,7 +65015,19 @@
             "url": "https://animeplay.cloud/anime/maou-sama-retry-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "maou-sama-retry"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "maou-sama-retry"
+              }
+            ]
           },
           {
             "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
@@ -64975,7 +65035,19 @@
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              }
+            ]
           },
           {
             "title": "Garo: Hagane o Tsugu Mono – Todos os Episódios",
@@ -64983,7 +65055,19 @@
             "url": "https://animeplay.cloud/anime/garo-hagane-o-tsugu-mono-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/w185/oqjraYBocSMkyj7UY5SnuoFUDAv.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "garo-hagane-o-tsugu-mono"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "garo-hagane-o-tsugu-mono"
+              }
+            ]
           },
           {
             "title": "Kimi wa Meido-sama Dublado",
@@ -64991,7 +65075,19 @@
             "url": "https://animeplay.cloud/anime/kimi-wa-meido-sama-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/10/Kimi-wa-Meido-sama.-Dublado-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kimi-wa-meido-sama-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kimi-wa-meido-sama-dublado"
+              }
+            ]
           },
           {
             "title": "Amagami-san Chi no Enmusubi Dublado – Todos os Episódios",
@@ -64999,7 +65095,19 @@
             "url": "https://animeplay.cloud/anime/amagami-san-chi-no-enmusubi-dublado-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/10/Amagami-san-Chi-no-Enmusubi-Dublado-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "amagami-san-chi-no-enmusubi-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "amagami-san-chi-no-enmusubi-dublado"
+              }
+            ]
           },
           {
             "title": "MF Ghost 2 Dublado – Todos os Episódios",
@@ -65007,7 +65115,19 @@
             "url": "https://animeplay.cloud/anime/mf-ghost-2-dublado-todos-os-episodios",
             "poster": "https://animeflix.blog/IMGS/capas/MF%20Ghost%202%20Dublado.webp",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "mf-ghost-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mf-ghost-2-dublado"
+              }
+            ]
           },
           {
             "title": "Houkago Shounen Hanako-kun – Todos os Episódios",
@@ -65015,7 +65135,19 @@
             "url": "https://animeplay.cloud/anime/houkago-shounen-hanako-kun-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/uCV6S1Z6l40dqX7xL8Jx3dAa5U0.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "houkago-shounen-hanako-kun"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "houkago-shounen-hanako-kun"
+              }
+            ]
           },
           {
             "title": "Jaspion",
@@ -65023,7 +65155,19 @@
             "url": "https://animeplay.cloud/anime/o-fantastico-jaspion",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/06/jffw2ejFwxcfsrvRvg5IK28Sm1M-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "o-fantastico-jaspion"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "o-fantastico-jaspion"
+              }
+            ]
           },
           {
             "title": "Dandadan Dublado – Todos os Episódios",
@@ -65031,7 +65175,19 @@
             "url": "https://animeplay.cloud/anime/dandadan-dublado-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/vtQug1eOyeU2VXIpNoDF1lTlcH4.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dandadan-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dandadan-dublado"
+              }
+            ]
           },
           {
             "title": "Ao no Miburo – Todos os Episódios",
@@ -65039,7 +65195,19 @@
             "url": "https://animeplay.cloud/anime/ao-no-miburo",
             "poster": "https://image.tmdb.org/t/p/w185/jztaf4JuF8FJ5pNXnEqodHuETFY.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ao-no-miburo"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ao-no-miburo"
+              }
+            ]
           },
           {
             "title": "Arifureta Shokugyou de Sekai Saikyou 3 – Todos os Episódios",
@@ -65047,7 +65215,19 @@
             "url": "https://animeplay.cloud/anime/arifureta-shokugyou-de-sekai-saikyou-3",
             "poster": "https://image.tmdb.org/t/p/original/qhML8g1WzSQLEckY2KSQI9c0OMD.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "arifureta-shokugyou-de-sekai-saikyou-3"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "arifureta-shokugyou-de-sekai-saikyou-3"
+              }
+            ]
           },
           {
             "title": "The Idolmaster Shiny Colors 2 – Todos os Episódios",
@@ -65055,7 +65235,19 @@
             "url": "https://animeplay.cloud/anime/the-idolmaster-shiny-colors-2-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/bynJr3uiSuWrT72Db3XcguOgAG.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "the-idolmaster-shiny-colors-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "the-idolmaster-shiny-colors-2"
+              }
+            ]
           },
           {
             "title": "Another Journey to the West – Todos os Episódios",
@@ -65063,7 +65255,19 @@
             "url": "https://animeplay.cloud/anime/another-journey-to-the-west",
             "poster": "https://image.tmdb.org/t/p/w185/6HI0ouLggqgeCACv6Y2BnxY8XwQ.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "another-journey-to-the-west"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "another-journey-to-the-west"
+              }
+            ]
           },
           {
             "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2",
@@ -65071,7 +65275,19 @@
             "url": "https://animeplay.cloud/anime/nanatsu-no-taizai-mokushiroku-no-yonkishi-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/lwyfcKafURTUpnJ5vRXHGJfv7Ne-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "nanatsu-no-taizai-mokushiroku-no-yonkishi-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nanatsu-no-taizai-mokushiroku-no-yonkishi-2"
+              }
+            ]
           },
           {
             "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu – Todos os Episódios",
@@ -65079,7 +65295,19 @@
             "url": "https://animeplay.cloud/anime/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu",
             "poster": "https://image.tmdb.org/t/p/original/w4NHQXOhfPuXsH8DqUAZCfr1kfS.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu"
+              }
+            ]
           },
           {
             "title": "Houkago Shounen Hanako-kun 2 – Todos os Episódios",
@@ -65087,7 +65315,19 @@
             "url": "https://animeplay.cloud/anime/houkago-shounen-hanako-kun-2-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/6qtqmilWKwgbcz7l31aTvj7Edmu.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "houkago-shounen-hanako-kun-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "houkago-shounen-hanako-kun-2"
+              }
+            ]
           },
           {
             "title": "Love Live! Superstar!! 3 – Todos os Episódios",
@@ -65095,7 +65335,19 @@
             "url": "https://animeplay.cloud/anime/love-live-superstar-3",
             "poster": "https://image.tmdb.org/t/p/w185/4KoXFWudJb389qH0EoAdRq8xtvs.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "love-live-superstar-3"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "love-live-superstar-3"
+              }
+            ]
           },
           {
             "title": "Youkai Gakkou no Sensei Hajimemashita! – Todos os Episódios",
@@ -65103,7 +65355,19 @@
             "url": "https://animeplay.cloud/anime/youkai-gakkou-no-sensei-hajimemashita-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/iJUgPs4hjyeDL3zfEjHTETTm7jc.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "youkai-gakkou-no-sensei-hajimemashita"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "youkai-gakkou-no-sensei-hajimemashita"
+              }
+            ]
           },
           {
             "title": "Raise wa Tanin ga Ii – Todos os Episódios",
@@ -65111,7 +65375,19 @@
             "url": "https://animeplay.cloud/anime/raise-wa-tanin-ga-ii",
             "poster": "https://image.tmdb.org/t/p/w185/9xztd5hoq0OstNRru024aAxSNWd.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "raise-wa-tanin-ga-ii"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "raise-wa-tanin-ga-ii"
+              }
+            ]
           },
           {
             "title": "Kamonohashi Ron no Kindan Suiri 2 – Todos os Episódios",
@@ -65119,7 +65395,19 @@
             "url": "https://animeplay.cloud/anime/kamonohashi-ron-no-kindan-suiri-2",
             "poster": "https://image.tmdb.org/t/p/w185/iMidG4GQACdDmSJSfLAXZrqVVcA.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kamonohashi-ron-no-kindan-suiri-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kamonohashi-ron-no-kindan-suiri-2"
+              }
+            ]
           },
           {
             "title": "Seirei Gensouki 2 – Todos os Episódios",
@@ -65127,7 +65415,19 @@
             "url": "https://animeplay.cloud/anime/seirei-gensouki-spirit-chronicles",
             "poster": "https://image.tmdb.org/t/p/original/jyWRXOBmctLalXE2uFCf1O5OrEI.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "seirei-gensouki-spirit-chronicles"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "seirei-gensouki-spirit-chronicles"
+              }
+            ]
           },
           {
             "title": "Hoshifuru Oukoku no Nina – Todos os Episódios",
@@ -65135,7 +65435,19 @@
             "url": "https://animeplay.cloud/anime/hoshifuru-oukoku-no-nina",
             "poster": "https://image.tmdb.org/t/p/w185/dCO0ihJjo7y7ptzbdHuJ3UEA8MI.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hoshifuru-oukoku-no-nina"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hoshifuru-oukoku-no-nina"
+              }
+            ]
           },
           {
             "title": "Natsume Yuujinchou Shichi 7 – Todos os Episódios",
@@ -65143,7 +65455,19 @@
             "url": "https://animeplay.cloud/anime/natsume-yuujinchou-shichi-7-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/73SgwVqG9XeZwo7pNMZyj1gr6Y9.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "natsume-yuujinchou-shichi-7"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "natsume-yuujinchou-shichi-7"
+              }
+            ]
           },
           {
             "title": "MF Ghost 2 – Todos os Episódios",
@@ -65151,7 +65475,19 @@
             "url": "https://animeplay.cloud/anime/mf-ghost-2-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/w185/y7FSPLQueRIT70i6SEtNKQsevYf.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "mf-ghost-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mf-ghost-2"
+              }
+            ]
           },
           {
             "title": "Tsuma, Shougakusei ni Naru – Todos os Episódios",
@@ -65159,7 +65495,19 @@
             "url": "https://animeplay.cloud/anime/tsuma-shougakusei-ni-naru",
             "poster": "https://image.tmdb.org/t/p/w185/wroDJ1ksf0bVanmx1MwkU4zIhI9.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tsuma-shougakusei-ni-naru"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tsuma-shougakusei-ni-naru"
+              }
+            ]
           },
           {
             "title": "Chio-chan no Tsuugakuro (Legendado)",
@@ -65167,7 +65515,19 @@
             "url": "https://www.anitube.zip/video/81075/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Chio-chan-no-Tsuugakuro.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "81075"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "81075"
+              }
+            ]
           },
           {
             "title": "Chiruran: Nibun no Ichi (Legendado)",
@@ -65175,7 +65535,19 @@
             "url": "https://www.anitube.zip/video/81091/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Chiruran-Nibun-no-Ichi.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "81091"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "81091"
+              }
+            ]
           },
           {
             "title": "Chitose Get You!! (Legendado)",
@@ -65183,7 +65555,19 @@
             "url": "https://www.anitube.zip/video/61248/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Chitose-Get-You.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "61248"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "61248"
+              }
+            ]
           },
           {
             "title": "Chitose-kun wa Ramune Bin no Naka (Legendado)",
@@ -65191,7 +65575,19 @@
             "url": "https://www.anitube.zip/video/1011956/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-chitose-kun-wa-ramune-bin-no-naka-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1011956"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1011956"
+              }
+            ]
           },
           {
             "title": "Chiyu Mahou no Machigatta Tsukai-kata: Senjou o Kakeru Kaifuku Youin (Legendado)",
@@ -65199,7 +65595,19 @@
             "url": "https://www.anitube.zip/video/970474/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-chiyu-mahou-no-machigatta-tsukai-kata-senjou-o-kakeru-kaifuku-youin-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "970474"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "970474"
+              }
+            ]
           },
           {
             "title": "Chiyu Mahou no Machigatta Tsukaikata Dublado",
@@ -65207,7 +65615,34 @@
             "url": "https://www.anitube.zip/video/987701/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-chiyu-mahou-no-machigatta-tsukaikata-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "987701"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "chiyu-mahou-no-machigatta-tsukaikata-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "chiyu-mahou-no-machigatta-tsukaikata-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "chiyu-mahou-no-machigatta-tsukaikata-dublado"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "987701"
+              }
+            ]
           },
           {
             "title": "Chobits (Legendado)",
@@ -65215,7 +65650,19 @@
             "url": "https://www.anitube.zip/video/61166/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Chobits.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "61166"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "61166"
+              }
+            ]
           },
           {
             "title": "Chocolate Underground (Legendado)",
@@ -65223,7 +65670,19 @@
             "url": "https://www.anitube.zip/video/61134/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Chocolate-Underground.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "61134"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "61134"
+              }
+            ]
           },
           {
             "title": "Chocotto Sister (Legendado)",
@@ -65231,7 +65690,19 @@
             "url": "https://www.anitube.zip/video/81104/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Chocotto-Sister.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "81104"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "81104"
+              }
+            ]
           },
           {
             "title": "Chokkyuu Hyoudai Robot (Legendado)",
@@ -65239,7 +65710,19 @@
             "url": "https://www.anitube.zip/video/76702/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Chokkyuu-Hyoudai-Robot.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "76702"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "76702"
+              }
+            ]
           },
           {
             "title": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita (Legendado)",
@@ -65247,7 +65730,19 @@
             "url": "https://www.anitube.zip/video/1001131/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-chotto-dake-ai-ga-omoi-dark-elf-ga-isekai-kara-oikaketekita-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1001131"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1001131"
+              }
+            ]
           },
           {
             "title": "Chou Henshin CosPrayers (Legendado)",
@@ -65255,8 +65750,127 @@
             "url": "https://www.anitube.zip/video/61208/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Chou-Henshin.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "61208"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "61208"
+              }
+            ]
           },
+          {
+            "title": "Chou Kadou Girl ⅙: Amazing Stranger (Legendado)",
+            "slug": "885170",
+            "url": "https://www.anitube.zip/video/885170/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Chou-Kadou-Girl-16-Amazing-Stranger.jpg",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Chou Yuu Sekai Being The Reality (Legendado)",
+            "slug": "885383",
+            "url": "https://www.anitube.zip/video/885383/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Chou-Yuu-Sekai-Being-The-Reality.jpg",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Choujigen Game Neptune: The Animation (Legendado)",
+            "slug": "76706",
+            "url": "https://www.anitube.zip/video/76706/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Choujigen-Game-Neptune-The-Animation.jpg",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Choujikuu Kidan Southern Cross (Legendado)",
+            "slug": "885405",
+            "url": "https://www.anitube.zip/video/885405/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Choujikuu-Kidan-Southern-Cross.jpg",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu! (Legendado)",
+            "slug": "882103",
+            "url": "https://www.anitube.zip/video/882103/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Choujin-Koukousei-tachi-wa-Isekai-demo-Yoyuu-de-Ikinuku-you-desu-Todos-os-Episódios.jpg",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Choujuushin Gravion (Legendado)",
+            "slug": "885430",
+            "url": "https://www.anitube.zip/video/885430/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Choujuushin-Gravion.jpg",
+            "kind": "anime",
+            "provider": "aoc"
+          }
+        ],
+        "category": "todos",
+        "page": 32,
+        "hasMore": true,
+        "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
+        "unavailable": true,
+        "total": 1484,
+        "aocCircuitOpen": false,
+        "aocDegraded": false,
+        "catalogFromCache": true,
+        "aocReachable": false,
+        "aocCircuit": {
+          "open": false,
+          "openUntil": 0,
+          "cooldownMs": 90000,
+          "remainingMs": 0,
+          "streak": 0,
+          "bypass": true
+        },
+        "aocDegradedStatus": {
+          "slowMode": false,
+          "slowUntil": 0,
+          "timeoutStreak": 0
+        },
+        "aocReachability": {
+          "reachable": false,
+          "lastProbeAt": 1784482937336,
+          "lastProbeOk": false,
+          "cookieOnly": true
+        },
+        "cookieConfigured": true,
+        "proxyConfigured": false,
+        "bypassConfigured": true,
+        "isProd": true,
+        "datacenterRisk": false,
+        "authFailed": false,
+        "recentCatalog403": true,
+        "aocBlocked": false,
+        "blocking": false,
+        "fixHint": null,
+        "mediaAccess": {
+          "cookieConfigured": true,
+          "proxyConfigured": false,
+          "bypassConfigured": true,
+          "isProd": true,
+          "datacenterRisk": false,
+          "authFailed": false,
+          "recentCatalog403": true,
+          "aocBlocked": false,
+          "blocking": false,
+          "fixHint": null
+        },
+        "cachedAt": 1784454190512
+      },
+      "at": 1784482942881
+    },
+    "partner:anitube|todos|33||48": {
+      "data": {
+        "items": [
           {
             "title": "Chou Kadou Girl ⅙: Amazing Stranger (Legendado)",
             "slug": "885170",
@@ -65304,65 +65918,7 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/Choujuushin-Gravion.jpg",
             "kind": "anime",
             "provider": "anitube"
-          }
-        ],
-        "category": "todos",
-        "page": 32,
-        "hasMore": true,
-        "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
-        "unavailable": true,
-        "total": 800,
-        "aocCircuitOpen": false,
-        "aocDegraded": false,
-        "catalogFromCache": false,
-        "aocReachable": false,
-        "aocCircuit": {
-          "open": false,
-          "openUntil": 0,
-          "cooldownMs": 90000,
-          "remainingMs": 0,
-          "streak": 0,
-          "bypass": true
-        },
-        "aocDegradedStatus": {
-          "slowMode": false,
-          "slowUntil": 0,
-          "timeoutStreak": 0
-        },
-        "aocReachability": {
-          "reachable": false,
-          "lastProbeAt": 1784454134182,
-          "lastProbeOk": false,
-          "cookieOnly": true
-        },
-        "cookieConfigured": true,
-        "proxyConfigured": false,
-        "bypassConfigured": true,
-        "isProd": true,
-        "datacenterRisk": false,
-        "authFailed": false,
-        "recentCatalog403": true,
-        "aocBlocked": false,
-        "blocking": false,
-        "fixHint": null,
-        "mediaAccess": {
-          "cookieConfigured": true,
-          "proxyConfigured": false,
-          "bypassConfigured": true,
-          "isProd": true,
-          "datacenterRisk": false,
-          "authFailed": false,
-          "recentCatalog403": true,
-          "aocBlocked": false,
-          "blocking": false,
-          "fixHint": null
-        }
-      },
-      "at": 1784454190512
-    },
-    "partner:anitube|todos|33||48": {
-      "data": {
-        "items": [
+          },
           {
             "title": "Choujuushin Gravion Zwei (Legendado)",
             "slug": "885445",
@@ -65458,54 +66014,6 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/City-Hunter.jpg",
             "kind": "anime",
             "provider": "anitube"
-          },
-          {
-            "title": "City The Animation (Legendado)",
-            "slug": "1003770",
-            "url": "https://www.anitube.zip/video/1003770/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-city-the-animation-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Clannad (Legendado)",
-            "slug": "59855",
-            "url": "https://www.anitube.zip/video/59855/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-clannad-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Clannad: After Story (Legendado)",
-            "slug": "923989",
-            "url": "https://www.anitube.zip/video/923989/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-clannad-after-story-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Clannad: After Story (Legendado)",
-            "slug": "59805",
-            "url": "https://www.anitube.zip/video/59805/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Clannad-After-Story.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Class de 2-ban Me ni Kawaii Onna no Ko to Tomodachi ni Natta (Legendado)",
-            "slug": "1052858",
-            "url": "https://www.anitube.zip/video/1052858/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-class-de-2-ban-me-ni-kawaii-onna-no-ko-to-tomodachi-ni-natta-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta. (Legendado)",
-            "slug": "997830",
-            "url": "https://www.anitube.zip/video/997830/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-class-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "anitube"
           }
         ],
         "category": "todos",
@@ -65513,7 +66021,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784454190877
+      "at": 1784482943280
     },
     "partner:animeplay|todos|33||48": {
       "data": {
@@ -65740,7 +66248,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784454191790
+      "at": 1784482944423
     },
     "todos|33||120": {
       "data": {
@@ -94746,5 +95254,5 @@
       "at": 1784482907305
     }
   },
-  "updatedAt": 1784482939584
+  "updatedAt": 1784482944423
 }
