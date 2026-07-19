@@ -56,6 +56,13 @@
       "kind": "anime",
       "adult": false
     },
+    "1062030": {
+      "slug": "1062030",
+      "title": "Black Torch – Episódio 03",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2JsYWNrLXRvcmNoLXRodW1icGFkcmExLmpwZw",
+      "kind": "anime",
+      "adult": false
+    },
     "chainsmoker-cat": {
       "slug": "chainsmoker-cat",
       "title": "Yani Neko",
@@ -478,6 +485,9 @@
     "1061868": [
       2
     ],
+    "1062030": [
+      2
+    ],
     "chainsmoker-cat": [
       1
     ],
@@ -643,6 +653,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "1062030",
+      "ep": 2,
+      "at": 1784477344708
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -1185,5 +1200,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784477317586
+  "updatedAt": 1784477344526
 }
