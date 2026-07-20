@@ -489,6 +489,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8xMC8zLW5lbi1aLWd1bWktR2lucGFjaGktc2Vuc2VpRXAuanBlZw",
       "kind": "anime",
       "adult": false
+    },
+    "bang-dream-yume∞mita": {
+      "slug": "bang-dream-yume∞mita",
+      "title": "BanG Dream! YUME∞MITA",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC80WnFEVnRKQUcxTks3dFdUVUVUbHhFOTczRmwuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -774,9 +781,17 @@
     ],
     "3-nen-z-gumi-ginpachi-sensei-todos-episodios": [
       1
+    ],
+    "bang-dream-yume∞mita": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "bang-dream-yume∞mita",
+      "ep": 1,
+      "at": 1784568055075
+    },
     {
       "slug": "3-nen-z-gumi-ginpachi-sensei-todos-episodios",
       "ep": 1,
@@ -1370,5 +1385,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784568008304
+  "updatedAt": 1784568055862
 }
