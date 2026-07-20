@@ -5509,6 +5509,92 @@
           "Comédia"
         ]
       }
+    },
+    "arcane-dublado": {
+      "at": 1784568056794,
+      "data": {
+        "slug": "arcane-dublado",
+        "title": "Arcane Dublado – Todos os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC93UUVXM3hMclFBVGh1MUd2cXBzS1F5ZWpyWVMuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Entrando na brincadeira",
+            "url": "https://animesonline.cloud/episodio/arcane-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Alguns mistérios não devem ser desvendados",
+            "url": "https://animesonline.cloud/episodio/arcane-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - A violência é essencial para a mudança",
+            "url": "https://animesonline.cloud/episodio/arcane-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Feliz Dia do Progresso!",
+            "url": "https://animesonline.cloud/episodio/arcane-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Todos querem ser meus inimigos",
+            "url": "https://animesonline.cloud/episodio/arcane-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Quando as paredes desabam",
+            "url": "https://animesonline.cloud/episodio/arcane-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - O garoto salvador",
+            "url": "https://animesonline.cloud/episodio/arcane-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Água e óleo",
+            "url": "https://animesonline.cloud/episodio/arcane-dublado-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - O monstro que você criou",
+            "url": "https://animesonline.cloud/episodio/arcane-dublado-episodio-09"
+          }
+        ],
+        "totalEpisodes": 9,
+        "kind": "anime",
+        "provider": "aoc",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Ação",
+          "Animação",
+          "Aventura",
+          "Fantasia",
+          "Mistério",
+          "Sci-Fi"
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "arcane",
+              "title": "Arcane – Todos os Episódios",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "arcane-dublado",
+              "title": "Arcane Dublado – Todos os Episódios",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
     }
   }
 }
