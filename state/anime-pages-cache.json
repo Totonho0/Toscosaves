@@ -2809,11 +2809,28 @@
           "Animação",
           "Drama",
           "Sci-Fi & Fantasia"
-        ]
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "ai-no-idenshi",
+              "title": "AI no Idenshi",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "919812",
+              "title": "AI no Idenshi (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            }
+          }
+        }
       }
     },
     "ahiru-no-sora": {
-      "at": 1784568356120,
+      "at": 1784568404590,
       "data": {
         "slug": "ahiru-no-sora",
         "title": "Ahiru no Sora",
