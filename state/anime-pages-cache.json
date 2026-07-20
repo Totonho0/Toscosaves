@@ -8424,7 +8424,24 @@
           "Dublado",
           "Animação",
           "Esporte"
-        ]
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "ao-ashi",
+              "title": "Ao Ashi",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "ao-ashi-dublado",
+              "title": "Ao Ashi Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "ao-no-miburo-2": {
@@ -8588,7 +8605,24 @@
           "Aventura",
           "Fantasia",
           "Sci-Fi"
-        ]
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "arknights-reimei-zensou",
+              "title": "Arknights: Reimei Zensou",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "916033",
+              "title": "Arknights: Reimei Zensou (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            }
+          }
+        }
       }
     },
     "boku-no-hero-academia-final-season": {
@@ -11299,6 +11333,85 @@
               "title": "Oshi no Ko Dublado",
               "audio": "dub",
               "label": "Dublado"
+            }
+          }
+        }
+      }
+    },
+    "arknights-perish-in-frost": {
+      "at": 1784568495163,
+      "data": {
+        "slug": "arknights-perish-in-frost",
+        "title": "Arknights Perish in Frost Todos os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8xMC9hc3Npc3Rpci1hcmtuaWdodHMtcGVyaXNoLWluLWZyb3N0LXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pbWVzLW9ubGluZS5qcGc",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Arknights: Perish in Frost Episódio 01 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/104947/",
+            "videoId": "104947"
+          },
+          {
+            "number": 2,
+            "title": "Arknights: Perish in Frost Episódio 02 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/105431/",
+            "videoId": "105431"
+          },
+          {
+            "number": 3,
+            "title": "Arknights: Perish in Frost Episódio 03 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/105875/",
+            "videoId": "105875"
+          },
+          {
+            "number": 4,
+            "title": "Arknights: Perish in Frost Episódio 04 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/106299/",
+            "videoId": "106299"
+          },
+          {
+            "number": 5,
+            "title": "Arknights: Perish in Frost Episódio 05 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/106733/",
+            "videoId": "106733"
+          },
+          {
+            "number": 6,
+            "title": "Arknights: Perish in Frost Episódio 06 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/107026/",
+            "videoId": "107026"
+          },
+          {
+            "number": 7,
+            "title": "Arknights: Perish in Frost Episódio 07 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/107358/",
+            "videoId": "107358"
+          },
+          {
+            "number": 8,
+            "title": "Arknights: Perish in Frost Episódio 08 1 ano atrás",
+            "url": "https://animesdigital.org/video/a/127888/",
+            "videoId": "127888"
+          }
+        ],
+        "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "animesdigital",
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "arknights-perish-in-frost",
+              "title": "arknights perish in frost",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "935106",
+              "title": "Arknights: Perish in Frost (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
             }
           }
         }
