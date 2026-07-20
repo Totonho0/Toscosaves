@@ -77233,7 +77233,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784482961454
+      "at": 1784511760826
     },
     "todos|37||120": {
       "data": {
@@ -77980,6 +77980,11 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "suicide-squad-isekai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "suicide-squad-isekai"
               }
             ]
           },
@@ -77994,6 +77999,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "tsue-to-tsurugi-no-wistoria"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "tsue-to-tsurugi-no-wistoria"
               },
               {
@@ -78265,7 +78275,7 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1484,
+        "total": 1480,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -78285,7 +78295,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784482937336,
+          "lastProbeAt": 1784511739576,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -78311,9 +78321,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784454209198
+        "cachedAt": 1784482961559
       },
-      "at": 1784482961559
+      "at": 1784511760937
     },
     "partner:anitube|todos|38||48": {
       "data": {
@@ -78468,7 +78478,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784482961938
+      "at": 1784511761275
     },
     "partner:animeplay|todos|38||48": {
       "data": {
@@ -78719,7 +78729,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784482963066
+      "at": 1784511762306
     },
     "partner:animesdrive|todos|38||48": {
       "data": {
@@ -105276,5 +105286,5 @@
       "at": 1784511707580
     }
   },
-  "updatedAt": 1784511759104
+  "updatedAt": 1784511762306
 }
