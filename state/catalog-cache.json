@@ -70607,7 +70607,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784482943280
+      "at": 1784511742293
     },
     "partner:animeplay|todos|33||48": {
       "data": {
@@ -70834,7 +70834,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784482944423
+      "at": 1784511742990
     },
     "todos|33||120": {
       "data": {
@@ -71682,7 +71682,19 @@
             "url": "https://www.anitube.zip/video/885170/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Chou-Kadou-Girl-16-Amazing-Stranger.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "885170"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "885170"
+              }
+            ]
           },
           {
             "title": "Chou Yuu Sekai Being The Reality (Legendado)",
@@ -71690,7 +71702,19 @@
             "url": "https://www.anitube.zip/video/885383/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Chou-Yuu-Sekai-Being-The-Reality.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "885383"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "885383"
+              }
+            ]
           },
           {
             "title": "Choujigen Game Neptune: The Animation (Legendado)",
@@ -71698,7 +71722,19 @@
             "url": "https://www.anitube.zip/video/76706/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Choujigen-Game-Neptune-The-Animation.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "76706"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "76706"
+              }
+            ]
           },
           {
             "title": "Choujikuu Kidan Southern Cross (Legendado)",
@@ -71706,7 +71742,19 @@
             "url": "https://www.anitube.zip/video/885405/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Choujikuu-Kidan-Southern-Cross.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "885405"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "885405"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -71714,7 +71762,7 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1484,
+        "total": 1480,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -71734,7 +71782,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784482937336,
+          "lastProbeAt": 1784511739576,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -71760,9 +71808,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784454195134
+        "cachedAt": 1784482947435
       },
-      "at": 1784482947435
+      "at": 1784511745994
     },
     "partner:anitube|todos|34||48": {
       "data": {
@@ -71917,7 +71965,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784482947812
+      "at": 1784511746345
     },
     "partner:animeplay|todos|34||48": {
       "data": {
@@ -105189,5 +105237,5 @@
       "at": 1784511707580
     }
   },
-  "updatedAt": 1784511741427
+  "updatedAt": 1784511746345
 }
