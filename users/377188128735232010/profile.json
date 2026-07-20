@@ -503,6 +503,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9qc1hLRzl1cHBuUHJocUZOaEltbGx5Q2ZMaGwuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "haikyuu-second-season-dublado": {
+      "slug": "haikyuu-second-season-dublado",
+      "title": "Haikyuu!! Second Season Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96cjFNRFFDUFZCNXVKRUh4aU82VHVrbjRPakguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -798,9 +805,17 @@
     ],
     "boku-no-hero-academia-final-season-dublado": [
       1
+    ],
+    "haikyuu-second-season-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "haikyuu-second-season-dublado",
+      "ep": 1,
+      "at": 1784568359678
+    },
     {
       "slug": "boku-no-hero-academia-final-season-dublado",
       "ep": 1,
@@ -1414,5 +1429,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784568319325
+  "updatedAt": 1784568360038
 }
