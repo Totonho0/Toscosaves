@@ -3861,6 +3861,33 @@
         "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8xbEwxdHM3ZHpUVXAwZU9USHZNcWZ3NnpGSm4uanBn",
         "episodeUrl": "https://animesdrive.online/episodio/arifureta-shokugyou-de-sekai-saikyou-3-episodio-01"
       }
+    },
+    "anime:64786:1": {
+      "at": 1784548287420,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/b/battery/01.mp4/index.m3u8",
+            "label": "AniTube",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fb%2Fbattery%2F01.mp4%2Findex.m3u8&ref=anitube",
+            "referer": "https://www.anitube.zip/video/64921/"
+          },
+          {
+            "type": "embed",
+            "src": "https://www.anitube.zip/nUE0pUZ6Yl9vqJkvLJkyM2IhMP5voT9ap3OiqP5wo20iZwNlAv8jAP9vLKE0MKW5Yzu0oJj=/0/0/bg.mp4?p=1&q=QmF0dGVyeSDigJMgRXBpc8OzZGlvIDAx&nocache1784488773",
+            "label": "AniTube",
+            "playUrl": "https://www.anitube.zip/nUE0pUZ6Yl9vqJkvLJkyM2IhMP5voT9ap3OiqP5wo20iZwNlAv8jAP9vLKE0MKW5Yzu0oJj=/0/0/bg.mp4?p=1&q=QmF0dGVyeSDigJMgRXBpc8OzZGlvIDAx&nocache1784488773",
+            "referer": "https://www.anitube.zip/video/64921/"
+          }
+        ],
+        "episode": 1,
+        "slug": "64786",
+        "kind": "anime",
+        "provider": "anitube",
+        "poster": "https://www.anitube.zip/wp-content/uploads/Battery.jpg",
+        "episodeUrl": "https://www.anitube.zip/video/64921/"
+      }
     }
   }
 }
