@@ -510,6 +510,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96cjFNRFFDUFZCNXVKRUh4aU82VHVrbjRPakguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "baki-dou": {
+      "slug": "baki-dou",
+      "title": "Baki-dou Todos Episódios",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wMi9hc3Npc3Rpci1iYWtpLWRvdS10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaW1lcy1vbmxpbmUuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -811,9 +818,17 @@
     ],
     "ichijouma-mankitsugurashi": [
       10
+    ],
+    "baki-dou": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "baki-dou",
+      "ep": 1,
+      "at": 1784568677166
+    },
     {
       "slug": "ichijouma-mankitsugurashi",
       "ep": 10,
@@ -1437,5 +1452,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784568642283
+  "updatedAt": 1784568677506
 }
