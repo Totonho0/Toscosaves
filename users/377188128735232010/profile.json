@@ -403,6 +403,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWJva3Utbm8taGVyby1hY2FkZW1pYS00LXRvZG9zLW9zLWVwaXNvZGlvcy10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaXR1YmUuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "arifureta-shokugyou-de-sekai-saikyou-3": {
+      "slug": "arifureta-shokugyou-de-sekai-saikyou-3",
+      "title": "Arifureta Shokugyou de Sekai Saikyou 3",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8xbEwxdHM3ZHpUVXAwZU9USHZNcWZ3NnpGSm4uanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -676,9 +683,17 @@
     ],
     "boku-no-hero-academia-4-dublado": [
       1
+    ],
+    "arifureta-shokugyou-de-sekai-saikyou-3": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "arifureta-shokugyou-de-sekai-saikyou-3",
+      "ep": 1,
+      "at": 1784547940750
+    },
     {
       "slug": "boku-no-hero-academia-4-dublado",
       "ep": 1,
@@ -1252,5 +1267,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784547908253
+  "updatedAt": 1784547940556
 }
