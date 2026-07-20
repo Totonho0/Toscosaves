@@ -496,6 +496,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC80WnFEVnRKQUcxTks3dFdUVUVUbHhFOTczRmwuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "boku-no-hero-academia-final-season": {
+      "slug": "boku-no-hero-academia-final-season",
+      "title": "Boku no Hero Academia: Final Season",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9qc1hLRzl1cHBuUHJocUZOaEltbGx5Q2ZMaGwuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -784,9 +791,17 @@
     ],
     "bang-dream-yume∞mita": [
       1
+    ],
+    "boku-no-hero-academia-final-season": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "boku-no-hero-academia-final-season",
+      "ep": 1,
+      "at": 1784568261270
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -1385,5 +1400,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784568241711
+  "updatedAt": 1784568261625
 }
