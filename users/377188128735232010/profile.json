@@ -15,6 +15,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL1lvc3VnYS1uby1Tb3JhLXBvc3Rlci5qcGc",
       "kind": "anime"
     },
+    "64786": {
+      "slug": "64786",
+      "title": "Battery",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL0JhdHRlcnkuanBn",
+      "kind": "anime",
+      "adult": false
+    },
     "67043": {
       "slug": "67043",
       "title": "Afro Samurai –",
@@ -534,6 +541,9 @@
       3,
       4
     ],
+    "64786": [
+      1
+    ],
     "67043": [
       1,
       2
@@ -758,6 +768,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "64786",
+      "ep": 1,
+      "at": 1784548284106
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -1341,5 +1356,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784548145258
+  "updatedAt": 1784548283755
 }
