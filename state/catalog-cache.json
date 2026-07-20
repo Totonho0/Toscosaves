@@ -94883,7 +94883,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784482994354
+      "at": 1784511794441
     },
     "partner:animeplay|todos|48||48": {
       "data": {
@@ -95094,7 +95094,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784482995286
+      "at": 1784511795475
     },
     "partner:animesdrive|todos|48||48": {
       "data": {
@@ -95305,7 +95305,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784482996804
+      "at": 1784511796881
     },
     "todos|48||120": {
       "data": {
@@ -95476,6 +95476,11 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
+                "slug": "saint-seiya-the-lost-canvas"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
                 "slug": "saint-seiya-the-lost-canvas"
               }
             ]
@@ -95941,6 +95946,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "street-fighter-ii-victory-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "street-fighter-ii-victory-dublado"
               },
               {
@@ -96200,7 +96210,7 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1484,
+        "total": 1480,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -96220,7 +96230,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784482937336,
+          "lastProbeAt": 1784511739576,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -96246,9 +96256,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784454244973
+        "cachedAt": 1784482997223
       },
-      "at": 1784482997223
+      "at": 1784511797255
     },
     "partner:anitube|todos|49||48": {
       "data": {
@@ -96403,7 +96413,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784482997578
+      "at": 1784511797600
     },
     "partner:animeplay|todos|49||48": {
       "data": {
@@ -96654,7 +96664,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784482998832
+      "at": 1784511798654
     },
     "partner:animesdrive|todos|49||48": {
       "data": {
@@ -96905,7 +96915,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784483000161
+      "at": 1784511800137
     },
     "todos|49||120": {
       "data": {
@@ -97076,6 +97086,11 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
+                "slug": "street-fighter-ii-victory-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
                 "slug": "street-fighter-ii-victory-dublado"
               }
             ]
@@ -97666,6 +97681,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "sharivan-o-guardiao-do-espaco"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "sharivan-o-guardiao-do-espaco"
               },
               {
@@ -97925,7 +97945,7 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1484,
+        "total": 1480,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -97945,7 +97965,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784482937336,
+          "lastProbeAt": 1784511739576,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -97971,9 +97991,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784454248051
+        "cachedAt": 1784483000267
       },
-      "at": 1784483000267
+      "at": 1784511800224
     },
     "partner:anitube|todos|50||48": {
       "data": {
@@ -98128,7 +98148,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784483000639
+      "at": 1784511800591
     },
     "partner:animeplay|todos|50||48": {
       "data": {
@@ -98203,7 +98223,7 @@
         "hasMore": false,
         "partnerId": "animeplay"
       },
-      "at": 1784483001411
+      "at": 1784511801391
     },
     "partner:animesdrive|todos|50||48": {
       "data": {
@@ -105378,5 +105398,5 @@
       "at": 1784511707580
     }
   },
-  "updatedAt": 1784511794099
+  "updatedAt": 1784511801391
 }
