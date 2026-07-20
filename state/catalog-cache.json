@@ -89168,7 +89168,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784482984345
+      "at": 1784511783752
     },
     "todos|44||120": {
       "data": {
@@ -90081,7 +90081,7 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1484,
+        "total": 1480,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -90101,7 +90101,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784482937336,
+          "lastProbeAt": 1784511739576,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -90127,9 +90127,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784454232272
+        "cachedAt": 1784482984675
       },
-      "at": 1784482984675
+      "at": 1784511784078
     },
     "partner:anitube|todos|45||48": {
       "data": {
@@ -90284,7 +90284,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784482985032
+      "at": 1784511784421
     },
     "partner:animeplay|todos|45||48": {
       "data": {
@@ -90487,7 +90487,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784482985923
+      "at": 1784511785508
     },
     "partner:animesdrive|todos|45||48": {
       "data": {
@@ -90690,7 +90690,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784482987336
+      "at": 1784511786902
     },
     "todos|45||120": {
       "data": {
@@ -91319,6 +91319,11 @@
                 "slug": "boku-no-hero-academia"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "boku-no-hero-academia"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "boku-no-hero-academia"
@@ -91555,12 +91560,12 @@
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "dragon-ball-daima-dublado"
+                "slug": "1001647"
               },
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "1001647"
+                "slug": "dragon-ball-daima-dublado"
               },
               {
                 "server": 2,
@@ -91612,7 +91617,7 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1484,
+        "total": 1480,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -91632,7 +91637,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784482937336,
+          "lastProbeAt": 1784511739576,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -91658,9 +91663,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784454235529
+        "cachedAt": 1784482987769
       },
-      "at": 1784482987769
+      "at": 1784511787361
     },
     "partner:anitube|todos|46||48": {
       "data": {
@@ -91815,7 +91820,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784482988129
+      "at": 1784511787701
     },
     "partner:animeplay|todos|46||48": {
       "data": {
@@ -92034,7 +92039,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784482989143
+      "at": 1784511788762
     },
     "partner:animesdrive|todos|46||48": {
       "data": {
@@ -105341,5 +105346,5 @@
       "at": 1784511707580
     }
   },
-  "updatedAt": 1784511782039
+  "updatedAt": 1784511788762
 }
