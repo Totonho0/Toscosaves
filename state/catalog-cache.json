@@ -20864,36 +20864,6 @@
             ]
           },
           {
-            "title": "Hunter x Hunter (2011)",
-            "slug": "hunter-x-hunter-2011",
-            "url": "https://animesdrive.online/anime/hunter-x-hunter-2011",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/9WxfAQquTun9ATkV6iAeFHMkqxv-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "hunter-x-hunter-2011"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "hunter-x-hunter"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "hunter-x-hunter-2011"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "hunter-x-hunter-2011"
-              }
-            ]
-          },
-          {
             "title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
             "slug": "i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too",
             "url": "https://animesdrive.online/anime/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too",
@@ -21008,6 +20978,26 @@
                 "slug": "il-monologo-della-speziale"
               }
             ]
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -21035,7 +21025,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784525961770,
+          "lastProbeAt": 1784540454062,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -21062,7 +21052,7 @@
           "fixHint": null
         }
       },
-      "at": 1784526047601
+      "at": 1784540490858
     },
     "todos|18||120": {
       "data": {
@@ -51401,7 +51391,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784511692610
+      "at": 1784540490691
     },
     "partner:animeplay|todos|2||24": {
       "data": {
@@ -51759,7 +51749,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784511693124
+      "at": 1784540491194
     },
     "partner:animesdrive|todos|2||24": {
       "data": {
@@ -52205,7 +52195,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784511694063
+      "at": 1784540492082
     },
     "partner:animesdrive|todos|18||48": {
       "data": {
@@ -105517,5 +105507,5 @@
       "at": 1784511707580
     }
   },
-  "updatedAt": 1784540489030
+  "updatedAt": 1784540492082
 }
