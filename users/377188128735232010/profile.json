@@ -389,6 +389,13 @@
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu Dublado 4th Season",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9haThiVlM4U3V2dTRFckJobWdCdnRFU2lyQlkuanBn",
       "kind": "anime"
+    },
+    "cats-eye-dublado": {
+      "slug": "cats-eye-dublado",
+      "title": "Cats Eye 2025 Todos Episódios",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8wOS9hc3Npc3Rpci1jYXRzLWV5ZS0yMDI1LXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pbWVzLW9ubGluZS5qcGc",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -653,9 +660,17 @@
       1,
       2,
       11
+    ],
+    "cats-eye-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "cats-eye-dublado",
+      "ep": 1,
+      "at": 1784547854890
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -1214,5 +1229,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784547843043
+  "updatedAt": 1784547854537
 }
