@@ -92258,7 +92258,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784482990590
+      "at": 1784511790354
     },
     "todos|46||120": {
       "data": {
@@ -92429,6 +92429,11 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
+                "slug": "boku-no-hero-academia"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
                 "slug": "boku-no-hero-academia"
               }
             ]
@@ -92922,6 +92927,11 @@
                 "slug": "z-x-ignition"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "z-x-ignition"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "z-x-ignition"
@@ -93156,7 +93166,19 @@
             "url": "https://www.anitube.zip/video/934137/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dragon-ball-legendado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "934137"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "934137"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -93164,7 +93186,7 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1484,
+        "total": 1480,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -93184,7 +93206,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784482937336,
+          "lastProbeAt": 1784511739576,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -93210,9 +93232,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784454238565
+        "cachedAt": 1784482990919
       },
-      "at": 1784482990919
+      "at": 1784511790684
     },
     "partner:anitube|todos|47||48": {
       "data": {
@@ -93367,7 +93389,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784482991286
+      "at": 1784511791060
     },
     "partner:animeplay|todos|47||48": {
       "data": {
@@ -93570,7 +93592,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784482992366
+      "at": 1784511792072
     },
     "partner:animesdrive|todos|47||48": {
       "data": {
@@ -93773,7 +93795,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784482993546
+      "at": 1784511793632
     },
     "todos|47||120": {
       "data": {
@@ -93944,6 +93966,11 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
+                "slug": "z-x-ignition"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
                 "slug": "z-x-ignition"
               }
             ]
@@ -94392,6 +94419,11 @@
                 "slug": "saint-seiya-the-lost-canvas"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "saint-seiya-the-lost-canvas"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "saint-seiya-the-lost-canvas"
@@ -94648,7 +94680,7 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1484,
+        "total": 1480,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -94668,7 +94700,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784482937336,
+          "lastProbeAt": 1784511739576,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -94694,9 +94726,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784454241835
+        "cachedAt": 1784482993996
       },
-      "at": 1784482993996
+      "at": 1784511794099
     },
     "partner:anitube|todos|48||48": {
       "data": {
@@ -105346,5 +105378,5 @@
       "at": 1784511707580
     }
   },
-  "updatedAt": 1784511788762
+  "updatedAt": 1784511794099
 }
