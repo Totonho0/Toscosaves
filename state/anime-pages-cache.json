@@ -2732,7 +2732,7 @@
       }
     },
     "ai-no-idenshi": {
-      "at": 1784548247390,
+      "at": 1784568354406,
       "data": {
         "slug": "ai-no-idenshi",
         "title": "AI no Idenshi",
@@ -2742,95 +2742,78 @@
           {
             "number": 1,
             "title": "Episódio 1 - Backup",
-            "url": "https://animesonline.cloud/episodio/ai-no-idenshi-episodio-01"
+            "url": "https://animesdrive.online/episodio/ai-no-idenshi-episodio-01"
           },
           {
             "number": 2,
             "title": "Episódio 2 - Limites do crescimento",
-            "url": "https://animesonline.cloud/episodio/ai-no-idenshi-episodio-02"
+            "url": "https://animesdrive.online/episodio/ai-no-idenshi-episodio-02"
           },
           {
             "number": 3,
             "title": "Episódio 3 - Onde a alma se esconde",
-            "url": "https://animesonline.cloud/episodio/ai-no-idenshi-episodio-03"
+            "url": "https://animesdrive.online/episodio/ai-no-idenshi-episodio-03"
           },
           {
             "number": 4,
             "title": "Episódio 4 - 4 casos",
-            "url": "https://animesonline.cloud/episodio/ai-no-idenshi-episodio-04"
+            "url": "https://animesdrive.online/episodio/ai-no-idenshi-episodio-04"
           },
           {
             "number": 5,
             "title": "Episódio 5 - Afinação",
-            "url": "https://animesonline.cloud/episodio/ai-no-idenshi-episodio-05"
+            "url": "https://animesdrive.online/episodio/ai-no-idenshi-episodio-05"
           },
           {
             "number": 6,
             "title": "Episódio 6 - Robô",
-            "url": "https://animesonline.cloud/episodio/ai-no-idenshi-episodio-06"
+            "url": "https://animesdrive.online/episodio/ai-no-idenshi-episodio-06"
           },
           {
             "number": 7,
             "title": "Episódio 7 - Humano",
-            "url": "https://animesonline.cloud/episodio/ai-no-idenshi-episodio-07"
+            "url": "https://animesdrive.online/episodio/ai-no-idenshi-episodio-07"
           },
           {
             "number": 8,
             "title": "Episódio 8 - Declaração",
-            "url": "https://animesonline.cloud/episodio/ai-no-idenshi-episodio-08"
+            "url": "https://animesdrive.online/episodio/ai-no-idenshi-episodio-08"
           },
           {
             "number": 9,
             "title": "Episódio 9 - Uma sociedade certa",
-            "url": "https://animesonline.cloud/episodio/ai-no-idenshi-episodio-09"
+            "url": "https://animesdrive.online/episodio/ai-no-idenshi-episodio-09"
           },
           {
             "number": 10,
             "title": "Episódio 10 - O futuro que se aproxima",
-            "url": "https://animesonline.cloud/episodio/ai-no-idenshi-episodio-10"
+            "url": "https://animesdrive.online/episodio/ai-no-idenshi-episodio-10"
           },
           {
             "number": 11,
             "title": "Episódio 11 - Tu Fui",
-            "url": "https://animesonline.cloud/episodio/ai-no-idenshi-episodio-11"
+            "url": "https://animesdrive.online/episodio/ai-no-idenshi-episodio-11"
           },
           {
             "number": 12,
             "title": "Episódio 12 - Embarque",
-            "url": "https://animesonline.cloud/episodio/ai-no-idenshi-episodio-12"
+            "url": "https://animesdrive.online/episodio/ai-no-idenshi-episodio-12"
           }
         ],
         "totalEpisodes": 12,
         "kind": "anime",
-        "provider": "aoc",
+        "provider": "animesdrive",
         "genres": [
           "Legendado",
           "Dublado",
           "Animação",
           "Drama",
           "Sci-Fi & Fantasia"
-        ],
-        "audioVariants": {
-          "current": "default",
-          "variants": {
-            "default": {
-              "slug": "ai-no-idenshi",
-              "title": "AI no Idenshi",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "leg": {
-              "slug": "919812",
-              "title": "AI no Idenshi (Legendado)",
-              "audio": "leg",
-              "label": "Legendado"
-            }
-          }
-        }
+        ]
       }
     },
     "ahiru-no-sora": {
-      "at": 1784548248598,
+      "at": 1784568356120,
       "data": {
         "slug": "ahiru-no-sora",
         "title": "Ahiru no Sora",
@@ -3096,24 +3079,7 @@
           "Dublado",
           "Animação",
           "Drama"
-        ],
-        "audioVariants": {
-          "current": "default",
-          "variants": {
-            "default": {
-              "slug": "ahiru-no-sora",
-              "title": "Ahiru no Sora",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "leg": {
-              "slug": "882052",
-              "title": "Ahiru no Sora (Legendado)",
-              "audio": "leg",
-              "label": "Legendado"
-            }
-          }
-        }
+        ]
       }
     },
     "beastars-3-final-season-part-2": {
@@ -8813,6 +8779,50 @@
             "dub": {
               "slug": "boku-no-hero-academia-final-season-dublado",
               "title": "Boku no Hero Academia: Final Season Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
+    },
+    "yani-neko-dublado": {
+      "at": 1784568355674,
+      "data": {
+        "slug": "yani-neko-dublado",
+        "title": "Yani Neko Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC80ZWk2OE9tWnIwWEhuTjgyT2ppVjhHQnFmeU4uanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Mieu Sou a Yanineko, Miau",
+            "url": "https://animesdrive.online/episodio/yani-neko-dublado-episodio-01"
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "anime",
+        "provider": "animesdrive",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Animação",
+          "Comédia",
+          "Fantasia",
+          "Sci-Fi"
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "chainsmoker-cat",
+              "title": "Yani Neko",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "yani-neko-dublado",
+              "title": "Yani Neko Dublado",
               "audio": "dub",
               "label": "Dublado"
             }
