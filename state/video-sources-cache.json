@@ -3821,6 +3821,26 @@
         "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8wOS9hc3Npc3Rpci1jYXRzLWV5ZS0yMDI1LXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pbWVzLW9ubGluZS5qcGc",
         "episodeUrl": "https://animesdigital.org/video/a/132489/"
       }
+    },
+    "anime:boku-no-hero-academia-4-dublado:1": {
+      "at": 1784547910948,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/b/boku-no-hero-academia-4-dublado/01.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/3385z0",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fb%2Fboku-no-hero-academia-4-dublado%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "boku-no-hero-academia-4-dublado",
+        "kind": "anime",
+        "provider": "animesdigital",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1ib2t1LW5vLWhlcm8tYWNhZGVtaWEtNC1kdWJsYWRvLWR1YmxhZG8tdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbmltZXNkaWdpdGFsLmpwZw",
+        "episodeUrl": "https://animesdigital.org/video/a/3385z0"
+      }
     }
   }
 }
