@@ -85851,7 +85851,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784482977562
+      "at": 1784511776866
     },
     "todos|42||120": {
       "data": {
@@ -86523,6 +86523,11 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "ao-no-orchestra-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ao-no-orchestra-2"
               }
             ]
           },
@@ -86537,6 +86542,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "a-sign-of-affection"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "a-sign-of-affection"
               },
               {
@@ -86816,7 +86826,7 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1484,
+        "total": 1480,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -86836,7 +86846,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784482937336,
+          "lastProbeAt": 1784511739576,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -86862,9 +86872,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784454225304
+        "cachedAt": 1784482977753
       },
-      "at": 1784482977753
+      "at": 1784511777076
     },
     "partner:anitube|todos|43||48": {
       "data": {
@@ -87019,7 +87029,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784482978127
+      "at": 1784511777418
     },
     "partner:animeplay|todos|43||48": {
       "data": {
@@ -87262,7 +87272,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784482978982
+      "at": 1784511778463
     },
     "partner:animesdrive|todos|43||48": {
       "data": {
@@ -105326,5 +105336,5 @@
       "at": 1784511707580
     }
   },
-  "updatedAt": 1784511775113
+  "updatedAt": 1784511778463
 }
