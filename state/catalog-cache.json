@@ -70408,7 +70408,19 @@
             "url": "https://www.anitube.zip/video/885170/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Chou-Kadou-Girl-16-Amazing-Stranger.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "885170"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "885170"
+              }
+            ]
           },
           {
             "title": "Chou Yuu Sekai Being The Reality (Legendado)",
@@ -70416,7 +70428,19 @@
             "url": "https://www.anitube.zip/video/885383/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Chou-Yuu-Sekai-Being-The-Reality.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "885383"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "885383"
+              }
+            ]
           },
           {
             "title": "Choujigen Game Neptune: The Animation (Legendado)",
@@ -70424,7 +70448,19 @@
             "url": "https://www.anitube.zip/video/76706/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Choujigen-Game-Neptune-The-Animation.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "76706"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "76706"
+              }
+            ]
           },
           {
             "title": "Choujikuu Kidan Southern Cross (Legendado)",
@@ -70432,7 +70468,19 @@
             "url": "https://www.anitube.zip/video/885405/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Choujikuu-Kidan-Southern-Cross.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "885405"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "885405"
+              }
+            ]
           },
           {
             "title": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu! (Legendado)",
@@ -70476,7 +70524,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784540454062,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -70502,9 +70550,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784482942881
+        "cachedAt": 1784511741427
       },
-      "at": 1784511741427
+      "at": 1784540541220
     },
     "partner:anitube|todos|33||48": {
       "data": {
@@ -70659,7 +70707,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784511742293
+      "at": 1784540541570
     },
     "partner:animeplay|todos|33||48": {
       "data": {
@@ -70886,7 +70934,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784511742990
+      "at": 1784540542665
     },
     "todos|33||120": {
       "data": {
@@ -105571,5 +105619,5 @@
       "at": 1784540505887
     }
   },
-  "updatedAt": 1784540537856
+  "updatedAt": 1784540542665
 }
