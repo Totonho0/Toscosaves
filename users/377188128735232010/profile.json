@@ -396,6 +396,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8wOS9hc3Npc3Rpci1jYXRzLWV5ZS0yMDI1LXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pbWVzLW9ubGluZS5qcGc",
       "kind": "anime",
       "adult": false
+    },
+    "923347b": {
+      "slug": "923347b",
+      "title": "Boku no Hero Academia 4 (Legendado)",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWJva3Utbm8taGVyby1hY2FkZW1pYS00LXRvZG9zLW9zLWVwaXNvZGlvcy10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaXR1YmUuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -663,9 +670,17 @@
     ],
     "cats-eye-dublado": [
       1
+    ],
+    "923347b": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "923347b",
+      "ep": 1,
+      "at": 1784547899686
+    },
     {
       "slug": "cats-eye-dublado",
       "ep": 1,
@@ -1229,5 +1244,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784547854537
+  "updatedAt": 1784547899325
 }
