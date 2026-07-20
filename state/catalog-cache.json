@@ -71725,7 +71725,19 @@
             "url": "https://www.anitube.zip/video/1003770/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-city-the-animation-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1003770"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1003770"
+              }
+            ]
           },
           {
             "title": "Clannad (Legendado)",
@@ -71733,7 +71745,19 @@
             "url": "https://www.anitube.zip/video/59855/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-clannad-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "59855"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "59855"
+              }
+            ]
           },
           {
             "title": "Clannad: After Story (Legendado)",
@@ -71882,7 +71906,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511739576,
+          "lastProbeAt": 1784540454062,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -71908,9 +71932,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784482947435
+        "cachedAt": 1784511745994
       },
-      "at": 1784511745994
+      "at": 1784540545800
     },
     "partner:anitube|todos|34||48": {
       "data": {
@@ -72065,7 +72089,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784511746345
+      "at": 1784540546150
     },
     "partner:animeplay|todos|34||48": {
       "data": {
@@ -72300,7 +72324,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784511747397
+      "at": 1784540547114
     },
     "todos|34||120": {
       "data": {
@@ -105619,5 +105643,5 @@
       "at": 1784540505887
     }
   },
-  "updatedAt": 1784540542665
+  "updatedAt": 1784540547114
 }
