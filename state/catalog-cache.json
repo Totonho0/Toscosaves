@@ -80711,7 +80711,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784482967822
+      "at": 1784511767115
     },
     "todos|39||120": {
       "data": {
@@ -81433,6 +81433,11 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "vampire-dormitory"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "vampire-dormitory"
               }
             ]
           },
@@ -81447,6 +81452,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "overlord-4"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "overlord-4"
               },
               {
@@ -81733,7 +81743,7 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1484,
+        "total": 1480,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -81753,7 +81763,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784482937336,
+          "lastProbeAt": 1784511739576,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -81779,9 +81789,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784454215327
+        "cachedAt": 1784482967986
       },
-      "at": 1784482967986
+      "at": 1784511767283
     },
     "partner:anitube|todos|40||48": {
       "data": {
@@ -81936,7 +81946,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784482968352
+      "at": 1784511767622
     },
     "partner:animeplay|todos|40||48": {
       "data": {
@@ -82187,7 +82197,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784482969411
+      "at": 1784511768726
     },
     "partner:animesdrive|todos|40||48": {
       "data": {
@@ -82438,7 +82448,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784482970672
+      "at": 1784511770152
     },
     "todos|40||120": {
       "data": {
@@ -83185,6 +83195,11 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "hikari-no-ou-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hikari-no-ou-2"
               }
             ]
           },
@@ -83199,6 +83214,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "vampire-dormitory"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "vampire-dormitory"
               },
               {
@@ -83470,7 +83490,7 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1484,
+        "total": 1480,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -83490,7 +83510,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784482937336,
+          "lastProbeAt": 1784511739576,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -83516,9 +83536,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784454218227
+        "cachedAt": 1784482970747
       },
-      "at": 1784482970747
+      "at": 1784511770234
     },
     "partner:anitube|todos|41||48": {
       "data": {
@@ -83673,7 +83693,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784482971132
+      "at": 1784511770572
     },
     "partner:animeplay|todos|41||48": {
       "data": {
@@ -83916,7 +83936,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784482972125
+      "at": 1784511771635
     },
     "partner:animesdrive|todos|41||48": {
       "data": {
@@ -105296,5 +105316,5 @@
       "at": 1784511707580
     }
   },
-  "updatedAt": 1784511765530
+  "updatedAt": 1784511771635
 }
