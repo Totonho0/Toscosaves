@@ -5411,6 +5411,121 @@
           }
         }
       }
+    },
+    "azur-lane-bisoku-zenshin-ni": {
+      "at": 1784568052058,
+      "data": {
+        "slug": "azur-lane-bisoku-zenshin-ni",
+        "title": "Azur Lane: Bisoku Zenshin! Ni!!",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9icHFBZzNMeUhIMXNUek44U2ZqVUlnd0ZpTVYuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Elizabeth, o Dia da Expulsão da Rainha!?",
+            "url": "https://animesdrive.online/episodio/azur-lane-bisoku-zenshin-ni-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Elizabeth, dedicada à recepção do acampamento",
+            "url": "https://animesdrive.online/episodio/azur-lane-bisoku-zenshin-ni-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Esse é o Mundo dos Adultos...",
+            "url": "https://animesdrive.online/episodio/azur-lane-bisoku-zenshin-ni-episodio-03"
+          }
+        ],
+        "totalEpisodes": 3,
+        "kind": "anime",
+        "provider": "animesdrive",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Ação",
+          "Aventura",
+          "Fantasia"
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "azur-lane-bisoku-zenshin-ni",
+              "title": "Azur Lane: Bisoku Zenshin! Ni!!",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "1061362",
+              "title": "Azur Lane: Bisoku Zenshin! Ni!! (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            }
+          }
+        }
+      }
+    },
+    "bang-dream-yume∞mita": {
+      "at": 1784568052987,
+      "data": {
+        "slug": "bang-dream-yume∞mita",
+        "title": "BanG Dream! YUME∞MITA",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC80WnFEVnRKQUcxTks3dFdUVUVUbHhFOTczRmwuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Tipo Mew",
+            "url": "https://animesonline.cloud/episodio/bang-dream-yume%e2%88%9emita-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Beijooo",
+            "url": "https://animesonline.cloud/episodio/bang-dream-yume%e2%88%9emita-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Faça Como Quiser",
+            "url": "https://animesonline.cloud/episodio/bang-dream-yume%e2%88%9emita-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Pode Ser Divertido",
+            "url": "https://animesonline.cloud/episodio/bang-dream-yume%e2%88%9emita-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Socorro !",
+            "url": "https://animesonline.cloud/episodio/bang-dream-yume%e2%88%9emita-episodio-05"
+          }
+        ],
+        "totalEpisodes": 5,
+        "kind": "anime",
+        "provider": "aoc",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Animação",
+          "Comédia"
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "bang-dream-yume∞mita",
+              "title": "BanG Dream! YUME∞MITA",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "1061202",
+              "title": "BanG Dream! Yume∞Mita (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            }
+          }
+        }
+      }
     }
   }
 }
