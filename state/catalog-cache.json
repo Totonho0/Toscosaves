@@ -75486,7 +75486,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784482958498
+      "at": 1784511757571
     },
     "todos|36||120": {
       "data": {
@@ -76233,6 +76233,11 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "tsue-to-tsurugi-no-wistoria"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tsue-to-tsurugi-no-wistoria"
               }
             ]
           },
@@ -76247,6 +76252,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu"
               },
               {
@@ -76518,7 +76528,7 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1484,
+        "total": 1480,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -76538,7 +76548,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784482937336,
+          "lastProbeAt": 1784511739576,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -76564,9 +76574,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784454206239
+        "cachedAt": 1784482958613
       },
-      "at": 1784482958613
+      "at": 1784511757660
     },
     "partner:anitube|todos|37||48": {
       "data": {
@@ -76721,7 +76731,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784482958996
+      "at": 1784511758002
     },
     "partner:animeplay|todos|37||48": {
       "data": {
@@ -76972,7 +76982,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784482960137
+      "at": 1784511759104
     },
     "partner:animesdrive|todos|37||48": {
       "data": {
@@ -105266,5 +105276,5 @@
       "at": 1784511707580
     }
   },
-  "updatedAt": 1784511755969
+  "updatedAt": 1784511759104
 }
