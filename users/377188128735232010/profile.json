@@ -482,6 +482,13 @@
       "title": "Sword Art Online 2",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC90NjFUT0xCUEUyaGd0VkY3RnRSdTRNMVR1cS5qcGc",
       "kind": "anime"
+    },
+    "3-nen-z-gumi-ginpachi-sensei-todos-episodios": {
+      "slug": "3-nen-z-gumi-ginpachi-sensei-todos-episodios",
+      "title": "3-nen Z-gumi Ginpachi-sensei Todos Episódios",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8xMC8zLW5lbi1aLWd1bWktR2lucGFjaGktc2Vuc2VpRXAuanBlZw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -764,9 +771,17 @@
     ],
     "arifureta-shokugyou-de-sekai-saikyou-3-dublado": [
       1
+    ],
+    "3-nen-z-gumi-ginpachi-sensei-todos-episodios": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "3-nen-z-gumi-ginpachi-sensei-todos-episodios",
+      "ep": 1,
+      "at": 1784568007872
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -1355,5 +1370,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784567997104
+  "updatedAt": 1784568008304
 }
