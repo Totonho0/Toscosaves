@@ -4372,6 +4372,26 @@
         "poster": "https://image.tmdb.org/t/p/w780/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-02"
       }
+    },
+    "anime:ichijouma-mankitsugurashi:10": {
+      "at": 1784568671076,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/i/ichijouma-mankitsugurashi/10.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/136604/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fi%2Fichijouma-mankitsugurashi%2F10.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 10,
+        "slug": "ichijouma-mankitsugurashi",
+        "kind": "anime",
+        "provider": "animesdigital",
+        "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Ichijouma-Mankitsugurashi.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/136604/"
+      }
     }
   }
 }
