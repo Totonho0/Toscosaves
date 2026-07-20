@@ -73769,7 +73769,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784482955312
+      "at": 1784511754331
     },
     "todos|35||120": {
       "data": {
@@ -74491,6 +74491,11 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu"
               }
             ]
           },
@@ -74776,7 +74781,7 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1484,
+        "total": 1480,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -74796,7 +74801,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784482937336,
+          "lastProbeAt": 1784511739576,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -74822,9 +74827,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784454203129
+        "cachedAt": 1784482955571
       },
-      "at": 1784482955571
+      "at": 1784511754466
     },
     "partner:anitube|todos|36||48": {
       "data": {
@@ -74979,7 +74984,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784482955965
+      "at": 1784511754811
     },
     "partner:animeplay|todos|36||48": {
       "data": {
@@ -75230,7 +75235,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784482957373
+      "at": 1784511755969
     },
     "partner:animesdrive|todos|36||48": {
       "data": {
@@ -105261,5 +105266,5 @@
       "at": 1784511707580
     }
   },
-  "updatedAt": 1784511752248
+  "updatedAt": 1784511755969
 }
