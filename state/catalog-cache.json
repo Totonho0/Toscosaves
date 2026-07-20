@@ -7740,7 +7740,7 @@
         "warning": "Catálogo salvo (há ~32d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
-        "total": 1484,
+        "total": 1480,
         "cachedAt": 1781739769633,
         "aocCircuitOpen": false,
         "aocReachable": false,
@@ -7759,7 +7759,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511559575,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -7786,7 +7786,7 @@
           "fixHint": null
         }
       },
-      "at": 1784511647895
+      "at": 1784526044284
     },
     "todos|2||120": {
       "data": {
@@ -7924,7 +7924,7 @@
             "url": "https://animeplay.cloud/anime/arifureta-shokugyou-de-sekai-saikyou-3-dublado-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/3QX7Mwl71NomXujvjN4vjQeDYW0.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "animeplay"
           },
           {
             "title": "Arknights: Reimei Zensou",
@@ -8764,7 +8764,7 @@
         "warning": "Catálogo salvo (há ~32d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
-        "total": 1484,
+        "total": 1480,
         "cachedAt": 1781739769633,
         "aocCircuitOpen": false,
         "aocReachable": false,
@@ -8783,7 +8783,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511559575,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -8810,7 +8810,7 @@
           "fixHint": null
         }
       },
-      "at": 1784511650622
+      "at": 1784526044506
     },
     "todos|3||120": {
       "data": {
@@ -9425,24 +9425,12 @@
             "provider": "aoc"
           },
           {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "title": "Brave Story (Legendado)",
+            "slug": "61084",
+            "url": "https://www.anitube.zip/video/61084/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Brave-Story.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
+            "provider": "aoc"
           }
         ],
         "category": "todos",
@@ -9451,7 +9439,7 @@
         "warning": "Catálogo salvo (há ~32d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
-        "total": 1484,
+        "total": 1480,
         "cachedAt": 1781739769633,
         "aocCircuitOpen": false,
         "aocReachable": false,
@@ -9470,7 +9458,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -9497,19 +9485,11 @@
           "fixHint": null
         }
       },
-      "at": 1784511653662
+      "at": 1784526044738
     },
     "todos|4||120": {
       "data": {
         "items": [
-          {
-            "title": "Brave Story (Legendado)",
-            "slug": "61084",
-            "url": "https://www.anitube.zip/video/61084/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Brave-Story.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
           {
             "title": "Break Blade (2014) (Legendado)",
             "slug": "60809",
@@ -10021,6 +10001,14 @@
                 "slug": "buta-no-liver-wa-kanetsu-shiro"
               }
             ]
+          },
+          {
+            "title": "Butlers: Chitose Momotose Monogatari (Legendado)",
+            "slug": "76773",
+            "url": "https://www.anitube.zip/video/76773/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Butlers-Chitose-Momotose-Monogatari.jpg",
+            "kind": "anime",
+            "provider": "aoc"
           }
         ],
         "category": "todos",
@@ -10029,7 +10017,7 @@
         "warning": "Catálogo salvo (há ~32d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
-        "total": 1483,
+        "total": 1480,
         "cachedAt": 1781739769633,
         "aocCircuitOpen": false,
         "aocReachable": false,
@@ -10048,7 +10036,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -10075,19 +10063,11 @@
           "fixHint": null
         }
       },
-      "at": 1784511656688
+      "at": 1784526044960
     },
     "todos|5||120": {
       "data": {
         "items": [
-          {
-            "title": "Butlers: Chitose Momotose Monogatari (Legendado)",
-            "slug": "76773",
-            "url": "https://www.anitube.zip/video/76773/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Butlers-Chitose-Momotose-Monogatari.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
           {
             "title": "Buzzer Beater (Legendado)",
             "slug": "84289",
@@ -10587,6 +10567,14 @@
                 "slug": "cengjing-you-yongshi"
               }
             ]
+          },
+          {
+            "title": "Cestvs The Roman Fighter (Legendado)",
+            "slug": "902027",
+            "url": "https://www.anitube.zip/video/902027/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Cestvs-The-Roman-Fighter-Todos-os-Episódios-AniTube.jpg",
+            "kind": "anime",
+            "provider": "aoc"
           }
         ],
         "category": "todos",
@@ -10595,7 +10583,7 @@
         "warning": "Catálogo salvo (há ~32d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
-        "total": 1482,
+        "total": 1480,
         "cachedAt": 1781739769633,
         "aocCircuitOpen": false,
         "aocReachable": false,
@@ -10614,7 +10602,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -10641,19 +10629,11 @@
           "fixHint": null
         }
       },
-      "at": 1784511659478
+      "at": 1784526045187
     },
     "todos|6||120": {
       "data": {
         "items": [
-          {
-            "title": "Cestvs The Roman Fighter (Legendado)",
-            "slug": "902027",
-            "url": "https://www.anitube.zip/video/902027/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Cestvs-The-Roman-Fighter-Todos-os-Episódios-AniTube.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
           {
             "title": "Chain Chronicle: Haecceitas no Hikari (TV) (Legendado)",
             "slug": "62380",
@@ -11168,6 +11148,41 @@
             ]
           },
           {
+            "title": "Chiyu Mahou no Machigatta Tsukaikata Dublado",
+            "slug": "987701",
+            "url": "https://www.anitube.zip/video/987701/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-chiyu-mahou-no-machigatta-tsukaikata-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "987701"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "chiyu-mahou-no-machigatta-tsukaikata-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "chiyu-mahou-no-machigatta-tsukaikata-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "chiyu-mahou-no-machigatta-tsukaikata-dublado"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "987701"
+              }
+            ]
+          },
+          {
             "title": "Chobits (Legendado)",
             "slug": "61166",
             "url": "https://www.anitube.zip/video/61166/",
@@ -11313,22 +11328,22 @@
             ]
           },
           {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "title": "Chou Kadou Girl ⅙: Amazing Stranger (Legendado)",
+            "slug": "885170",
+            "url": "https://www.anitube.zip/video/885170/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Chou-Kadou-Girl-16-Amazing-Stranger.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
+                "server": 1,
+                "provider": "aoc",
+                "slug": "885170"
               },
               {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
+                "server": 6,
+                "provider": "anitube",
+                "slug": "885170"
               }
             ]
           }
@@ -11339,7 +11354,7 @@
         "warning": "Catálogo salvo (há ~32d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
-        "total": 1481,
+        "total": 1480,
         "cachedAt": 1781739769633,
         "aocCircuitOpen": false,
         "aocReachable": false,
@@ -11358,7 +11373,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -11385,7 +11400,7 @@
           "fixHint": null
         }
       },
-      "at": 1784511662123
+      "at": 1784526045409
     },
     "todos|7||120": {
       "data": {
@@ -11396,7 +11411,19 @@
             "url": "https://www.anitube.zip/video/885383/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Chou-Yuu-Sekai-Being-The-Reality.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "885383"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "885383"
+              }
+            ]
           },
           {
             "title": "Choudenshi Bioman",
@@ -11412,7 +11439,19 @@
             "url": "https://www.anitube.zip/video/76706/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Choujigen-Game-Neptune-The-Animation.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "76706"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "76706"
+              }
+            ]
           },
           {
             "title": "Choujikuu Kidan Southern Cross (Legendado)",
@@ -11420,7 +11459,19 @@
             "url": "https://www.anitube.zip/video/885405/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Choujikuu-Kidan-Southern-Cross.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "885405"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "885405"
+              }
+            ]
           },
           {
             "title": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu! (Legendado)",
@@ -11742,7 +11793,19 @@
             "url": "https://www.anitube.zip/video/1003770/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-city-the-animation-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1003770"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1003770"
+              }
+            ]
           },
           {
             "title": "City The Animation Dublado",
@@ -11775,7 +11838,19 @@
             "url": "https://www.anitube.zip/video/59855/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-clannad-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "59855"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "59855"
+              }
+            ]
           },
           {
             "title": "Clannad: After Story (Legendado)",
@@ -12002,6 +12077,31 @@
             ]
           },
           {
+            "title": "Clevatess Majuu no Ou to Akago to Shikabane no Yuusha Dublado",
+            "slug": "1003320",
+            "url": "https://www.anitube.zip/video/1003320/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1003320"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1003320"
+              }
+            ]
+          },
+          {
             "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
             "slug": "clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha",
             "url": "https://animesdrive.online/anime/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha",
@@ -12182,26 +12282,6 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/Code-E.jpg",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
           }
         ],
         "category": "todos",
@@ -12229,7 +12309,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -12256,7 +12336,7 @@
           "fixHint": null
         }
       },
-      "at": 1784511664702
+      "at": 1784526045609
     },
     "todos|8||120": {
       "data": {
@@ -13061,7 +13141,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -13088,7 +13168,7 @@
           "fixHint": null
         }
       },
-      "at": 1784511667731
+      "at": 1784526045814
     },
     "todos|9||120": {
       "data": {
@@ -13778,6 +13858,41 @@
             ]
           },
           {
+            "title": "Darwin Jihen Dublado",
+            "slug": "1032637",
+            "url": "https://www.anitube.zip/video/1032637/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Darwin-Jihen-dub-categoria.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1032637"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "darwin-jihen-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "darwin-jihen-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "darwin-jihen-dublado"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1032637"
+              }
+            ]
+          },
+          {
             "title": "Darwin’s Game (Legendado)",
             "slug": "888535",
             "url": "https://www.anitube.zip/video/888535/",
@@ -13856,26 +13971,6 @@
                 "slug": "871425"
               }
             ]
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
           }
         ],
         "category": "todos",
@@ -13903,7 +13998,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -13930,7 +14025,7 @@
           "fixHint": null
         }
       },
-      "at": 1784511670284
+      "at": 1784526046030
     },
     "todos|10||120": {
       "data": {
@@ -14733,6 +14828,31 @@
             ]
           },
           {
+            "title": "Devil May Cry 2 (2026) Dublado",
+            "slug": "1057663",
+            "url": "https://www.anitube.zip/video/1057663/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-devil-may-cry-2-2026-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1057663"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "devil-may-cry-2026-dublado"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1057663"
+              }
+            ]
+          },
+          {
             "title": "Devil Survivor 2: The Animation – (Legendado)",
             "slug": "59653",
             "url": "https://www.anitube.zip/video/59653/",
@@ -14776,26 +14896,6 @@
                 "slug": "devilman-crybaby"
               }
             ]
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
           }
         ],
         "category": "todos",
@@ -14823,7 +14923,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -14850,7 +14950,7 @@
           "fixHint": null
         }
       },
-      "at": 1784511673009
+      "at": 1784526046244
     },
     "todos|11||120": {
       "data": {
@@ -15626,7 +15726,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -15653,7 +15753,7 @@
           "fixHint": null
         }
       },
-      "at": 1784511675077
+      "at": 1784526046428
     },
     "todos|12||120": {
       "data": {
@@ -16263,6 +16363,41 @@
             ]
           },
           {
+            "title": "Dr. Stone: Science Future Dublado",
+            "slug": "998440",
+            "url": "https://www.anitube.zip/video/998440/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-science-future-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "998440"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dr-stone-science-future-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "dr-stone-science-future-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dr-stone-science-future-dublado"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "998440"
+              }
+            ]
+          },
+          {
             "title": "Dr. Stone: Science Future Part 2 Dublado",
             "slug": "1003935",
             "url": "https://www.anitube.zip/video/1003935/",
@@ -16373,7 +16508,19 @@
             "url": "https://www.anitube.zip/video/934137/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dragon-ball-legendado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "934137"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "934137"
+              }
+            ]
           },
           {
             "title": "Dragon Ball Absalon (Legendado)",
@@ -16407,26 +16554,6 @@
                 "slug": "dragon-ball-daima"
               }
             ]
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
           }
         ],
         "category": "todos",
@@ -16454,7 +16581,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -16481,7 +16608,7 @@
           "fixHint": null
         }
       },
-      "at": 1784511678054
+      "at": 1784526046637
     },
     "todos|13||120": {
       "data": {
@@ -16511,6 +16638,36 @@
                 "server": 1,
                 "provider": "aoc",
                 "slug": "1001647"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "dragon-ball-daima-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dragon-ball-daima-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Dragon Ball Daima Dublado",
+            "slug": "1001647",
+            "url": "https://www.anitube.zip/video/1001647/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dragon-ball-daima-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1001647"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-daima-dublado"
               },
               {
                 "server": 2,
@@ -17199,26 +17356,6 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dungeon-no-naka-no-hito-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
           }
         ],
         "category": "todos",
@@ -17246,7 +17383,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -17273,7 +17410,7 @@
           "fixHint": null
         }
       },
-      "at": 1784511680656
+      "at": 1784526046810
     },
     "todos|14||120": {
       "data": {
@@ -17933,7 +18070,19 @@
             "url": "https://www.anitube.zip/video/1001691/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-enen-no-shouboutai-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1001691"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1001691"
+              }
+            ]
           },
           {
             "title": "Enen No Shouboutai (Legendado)",
@@ -17941,7 +18090,19 @@
             "url": "https://www.anitube.zip/video/880477/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-enen-no-shouboutai-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "880477"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "880477"
+              }
+            ]
           },
           {
             "title": "Enen no Shouboutai 2 (Legendado)",
@@ -17949,7 +18110,19 @@
             "url": "https://www.anitube.zip/video/933260/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-enen-no-shouboutai-2-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "933260"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "933260"
+              }
+            ]
           },
           {
             "title": "Enen no Shouboutai Dublado",
@@ -18007,7 +18180,19 @@
             "url": "https://www.anitube.zip/video/1001746/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-enen-no-shouboutai-ni-no-shou-fire-force-2-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1001746"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1001746"
+              }
+            ]
           },
           {
             "title": "Enen no Shouboutai: San no Shou",
@@ -18040,7 +18225,19 @@
             "url": "https://www.anitube.zip/video/1001799/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-enen-no-shouboutai-san-no-shou-fire-force-3-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1001799"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1001799"
+              }
+            ]
           },
           {
             "title": "Enen no Shouboutai: San no Shou Dublado",
@@ -18081,7 +18278,19 @@
             "url": "https://www.anitube.zip/video/1032626/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Enen-no-Shouboutai-3-pt2-dublado-categoria.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1032626"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1032626"
+              }
+            ]
           },
           {
             "title": "Enen no Shouboutai: San no Shou Part 2 Dublado",
@@ -18097,7 +18306,19 @@
             "url": "https://www.anitube.zip/video/912871/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-engage-kiss-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "912871"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "912871"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -18125,7 +18346,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -18152,7 +18373,7 @@
           "fixHint": null
         }
       },
-      "at": 1784511683786
+      "at": 1784526047017
     },
     "todos|15||120": {
       "data": {
@@ -18163,7 +18384,19 @@
             "url": "https://www.anitube.zip/video/881935/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Ensemble-Stars-Todos-os-Episódios-AniTube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "881935"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "881935"
+              }
+            ]
           },
           {
             "title": "Ergo Proxy (Legendado)",
@@ -18171,7 +18404,19 @@
             "url": "https://www.anitube.zip/video/57645/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-ergo-proxy-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "57645"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "57645"
+              }
+            ]
           },
           {
             "title": "Eris no Seihai",
@@ -18781,6 +19026,46 @@
             ]
           },
           {
+            "title": "Fruits Basket (2019)",
+            "slug": "fruits-basket-2019",
+            "url": "https://animesdrive.online/anime/fruits-basket-2019",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/wVe8vcSqpJjLib5TWer6kgkGjjM-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fruits-basket-2019"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fruits-basket-2001"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "fruits-basket-2019"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "fruits-basket-2001"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "fruits-basket-2019"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "fruits-basket-2001"
+              }
+            ]
+          },
+          {
             "title": "Fruits Basket (2019) Dublado",
             "slug": "fruits-basket-2019-dublado",
             "url": "https://animesdrive.online/anime/fruits-basket-2019-dublado",
@@ -19019,26 +19304,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/sdWNqtcPJpudPItPG3zBdyGyzTH-185x278.jpg",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
           }
         ],
         "category": "todos",
@@ -19066,7 +19331,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -19093,7 +19358,7 @@
           "fixHint": null
         }
       },
-      "at": 1784511686938
+      "at": 1784526047210
     },
     "todos|16||120": {
       "data": {
@@ -19947,7 +20212,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -19974,7 +20239,7 @@
           "fixHint": null
         }
       },
-      "at": 1784511689772
+      "at": 1784526047408
     },
     "todos|17||120": {
       "data": {
@@ -20679,6 +20944,36 @@
             ]
           },
           {
+            "title": "Hunter x Hunter (2011)",
+            "slug": "hunter-x-hunter-2011",
+            "url": "https://animesdrive.online/anime/hunter-x-hunter-2011",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/9WxfAQquTun9ATkV6iAeFHMkqxv-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hunter-x-hunter-2011"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hunter-x-hunter"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "hunter-x-hunter-2011"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hunter-x-hunter-2011"
+              }
+            ]
+          },
+          {
             "title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
             "slug": "i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too",
             "url": "https://animesdrive.online/anime/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too",
@@ -20793,26 +21088,6 @@
                 "slug": "il-monologo-della-speziale"
               }
             ]
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
           }
         ],
         "category": "todos",
@@ -20840,7 +21115,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -20867,7 +21142,7 @@
           "fixHint": null
         }
       },
-      "at": 1784511692779
+      "at": 1784526047601
     },
     "todos|18||120": {
       "data": {
@@ -21799,7 +22074,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -21826,7 +22101,7 @@
           "fixHint": null
         }
       },
-      "at": 1784511695503
+      "at": 1784526047784
     },
     "todos|19||120": {
       "data": {
@@ -22719,7 +22994,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -22746,7 +23021,7 @@
           "fixHint": null
         }
       },
-      "at": 1784511698373
+      "at": 1784526047976
     },
     "todos|20||120": {
       "data": {
@@ -23651,7 +23926,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -23678,7 +23953,7 @@
           "fixHint": null
         }
       },
-      "at": 1784511701235
+      "at": 1784526048162
     },
     "legendado|1||120": {
       "data": {
@@ -55004,7 +55279,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -55030,9 +55305,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784497248382
+        "cachedAt": 1784511704413
       },
-      "at": 1784511704413
+      "at": 1784526048360
     },
     "partner:animeplay|todos|22||48": {
       "data": {
@@ -55730,7 +56005,7 @@
             "url": "https://animeplay.cloud/anime/medaka-box-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/1GdlIGYSiIh4Kl4g3TvSGoPN3Wl.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "animeplay"
           },
           {
             "title": "Medalist",
@@ -56377,7 +56652,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -56403,9 +56678,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784497248588
+        "cachedAt": 1784511707240
       },
-      "at": 1784511707240
+      "at": 1784526048569
     },
     "partner:animeplay|todos|23||48": {
       "data": {
@@ -57785,7 +58060,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -57811,9 +58086,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784497248767
+        "cachedAt": 1784511709847
       },
-      "at": 1784511709847
+      "at": 1784526048800
     },
     "partner:animeplay|todos|24||48": {
       "data": {
@@ -59260,7 +59535,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -59286,9 +59561,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784497248960
+        "cachedAt": 1784511712960
       },
-      "at": 1784511712960
+      "at": 1784526049011
     },
     "partner:anitube|todos|25||48": {
       "data": {
@@ -60769,7 +61044,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -60795,9 +61070,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784497249152
+        "cachedAt": 1784511715347
       },
-      "at": 1784511715347
+      "at": 1784526049212
     },
     "partner:anitube|todos|26||48": {
       "data": {
@@ -62257,7 +62532,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -62283,9 +62558,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784497249362
+        "cachedAt": 1784511717704
       },
-      "at": 1784511717704
+      "at": 1784526049393
     },
     "partner:anitube|todos|27||48": {
       "data": {
@@ -63724,7 +63999,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -63750,9 +64025,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784497249551
+        "cachedAt": 1784511721080
       },
-      "at": 1784511721080
+      "at": 1784526049623
     },
     "partner:anitube|todos|28||48": {
       "data": {
@@ -65159,7 +65434,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -65185,9 +65460,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784497249741
+        "cachedAt": 1784511723936
       },
-      "at": 1784511723936
+      "at": 1784526049842
     },
     "partner:anitube|todos|29||48": {
       "data": {
@@ -66623,7 +66898,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -66649,9 +66924,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784497249931
+        "cachedAt": 1784511727275
       },
-      "at": 1784511727275
+      "at": 1784526050037
     },
     "partner:anitube|todos|30||48": {
       "data": {
@@ -67790,7 +68065,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -67816,9 +68091,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784497250142
+        "cachedAt": 1784511732091
       },
-      "at": 1784511732091
+      "at": 1784526050239
     },
     "partner:anitube|todos|31||48": {
       "data": {
@@ -68860,75 +69135,11 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/kwV4MylQoDhz14Qd54z3Hq4qppf-185x278.jpg",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animeplay.cloud/anime/one-piece",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
-            "slug": "nageki-no-bourei-wa-intai-shitai",
-            "url": "https://animeplay.cloud/anime/nageki-no-bourei-wa-intai-shitai",
-            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Uzumaki – Todos os Episódios",
-            "slug": "uzumaki",
-            "url": "https://animeplay.cloud/anime/uzumaki",
-            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Hitoribocchi no Isekai Kouryaku",
-            "slug": "hitoribocchi-no-isekai-kouryaku",
-            "url": "https://animeplay.cloud/anime/hitoribocchi-no-isekai-kouryaku",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Maou-sama, Retry! 2 – Todos os Episódios",
-            "slug": "maou-sama-retry",
-            "url": "https://animeplay.cloud/anime/maou-sama-retry-todos-os-episodios",
-            "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
-            "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
-            "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Medaka Box – Todos os Episódios",
-            "slug": "medaka-box",
-            "url": "https://animeplay.cloud/anime/medaka-box-todos-os-episodios",
-            "poster": "https://image.tmdb.org/t/p/original/1GdlIGYSiIh4Kl4g3TvSGoPN3Wl.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Arifureta Shokugyou de Sekai Saikyou 3 Dublado – Todos os Episódios",
-            "slug": "arifureta-shokugyou-de-sekai-saikyou-3-dublado",
-            "url": "https://animeplay.cloud/anime/arifureta-shokugyou-de-sekai-saikyou-3-dublado-todos-os-episodios",
-            "poster": "https://image.tmdb.org/t/p/original/3QX7Mwl71NomXujvjN4vjQeDYW0.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
         "page": 31,
-        "hasMore": true,
+        "hasMore": false,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
         "total": 1480,
@@ -68951,7 +69162,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784511649593,
+          "lastProbeAt": 1784525961770,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -68977,9 +69188,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784497250367
+        "cachedAt": 1784511736766
       },
-      "at": 1784511736766
+      "at": 1784526050428
     },
     "partner:anitube|todos|32||48": {
       "data": {
@@ -105386,5 +105597,5 @@
       "at": 1784511707580
     }
   },
-  "updatedAt": 1784511819807
+  "updatedAt": 1784526050428
 }
