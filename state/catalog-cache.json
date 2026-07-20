@@ -69045,11 +69045,75 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/kwV4MylQoDhz14Qd54z3Hq4qppf-185x278.jpg",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animeplay.cloud/anime/one-piece",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animeplay.cloud/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Uzumaki – Todos os Episódios",
+            "slug": "uzumaki",
+            "url": "https://animeplay.cloud/anime/uzumaki",
+            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Hitoribocchi no Isekai Kouryaku",
+            "slug": "hitoribocchi-no-isekai-kouryaku",
+            "url": "https://animeplay.cloud/anime/hitoribocchi-no-isekai-kouryaku",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Maou-sama, Retry! 2 – Todos os Episódios",
+            "slug": "maou-sama-retry",
+            "url": "https://animeplay.cloud/anime/maou-sama-retry-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
+            "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+            "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Medaka Box – Todos os Episódios",
+            "slug": "medaka-box",
+            "url": "https://animeplay.cloud/anime/medaka-box-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/1GdlIGYSiIh4Kl4g3TvSGoPN3Wl.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Arifureta Shokugyou de Sekai Saikyou 3 Dublado – Todos os Episódios",
+            "slug": "arifureta-shokugyou-de-sekai-saikyou-3-dublado",
+            "url": "https://animeplay.cloud/anime/arifureta-shokugyou-de-sekai-saikyou-3-dublado-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/3QX7Mwl71NomXujvjN4vjQeDYW0.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
           }
         ],
         "category": "todos",
         "page": 31,
-        "hasMore": false,
+        "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
         "total": 1480,
@@ -69072,7 +69136,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784525961770,
+          "lastProbeAt": 1784540454062,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -69098,9 +69162,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784511736766
+        "cachedAt": 1784526050428
       },
-      "at": 1784526050428
+      "at": 1784540536592
     },
     "partner:anitube|todos|32||48": {
       "data": {
@@ -69255,7 +69319,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784511737121
+      "at": 1784540537451
     },
     "partner:animeplay|todos|32||48": {
       "data": {
@@ -69498,7 +69562,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784511738851
+      "at": 1784540537856
     },
     "todos|32||120": {
       "data": {
@@ -105507,5 +105571,5 @@
       "at": 1784540505887
     }
   },
-  "updatedAt": 1784540533430
+  "updatedAt": 1784540537856
 }
