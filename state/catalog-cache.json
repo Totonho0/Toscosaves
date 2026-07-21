@@ -92917,7 +92917,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784597482917
+      "at": 1784626280606
     },
     "partner:animesdrive|todos|45||48": {
       "data": {
@@ -93120,7 +93120,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784597484342
+      "at": 1784626282105
     },
     "todos|45||120": {
       "data": {
@@ -93304,6 +93304,11 @@
                 "slug": "kami-no-shizuku"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "liar-game"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "mairimashita-iruma-kun-4"
@@ -93312,6 +93317,11 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "yomi-no-tsugai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "liar-game"
               }
             ]
           },
@@ -93756,7 +93766,24 @@
             "url": "https://animeplay.cloud/anime/boku-no-hero-academia",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/peJKJn9rEzQP9FViI3suQloTIo7-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "boku-no-hero-academia"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "boku-no-hero-academia"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "boku-no-hero-academia"
+              }
+            ]
           },
           {
             "title": "Double-J – Todos os Episodio (Legendado)",
@@ -94124,7 +94151,7 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1529,
+        "total": 1528,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -94144,7 +94171,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784597432777,
+          "lastProbeAt": 1784626236978,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -94170,9 +94197,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784568738386
+        "cachedAt": 1784597484760
       },
-      "at": 1784597484760
+      "at": 1784626282544
     },
     "partner:anitube|todos|46||48": {
       "data": {
@@ -94327,7 +94354,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784597485094
+      "at": 1784626282890
     },
     "partner:animeplay|todos|46||48": {
       "data": {
@@ -94546,7 +94573,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784597486185
+      "at": 1784626283790
     },
     "partner:animesdrive|todos|46||48": {
       "data": {
@@ -109868,5 +109895,5 @@
       "at": 1784626187489
     }
   },
-  "updatedAt": 1784626279653
+  "updatedAt": 1784626283790
 }
