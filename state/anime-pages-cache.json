@@ -16492,6 +16492,50 @@
           }
         }
       }
+    },
+    "yani-neko-dublado": {
+      "at": 1784667777433,
+      "data": {
+        "slug": "yani-neko-dublado",
+        "title": "Yani Neko Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC80ZWk2OE9tWnIwWEhuTjgyT2ppVjhHQnFmeU4uanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Mieu Sou a Yanineko, Miau",
+            "url": "https://animesonline.cloud/episodio/yani-neko-dublado-episodio-01"
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "anime",
+        "provider": "aoc",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Animação",
+          "Comédia",
+          "Fantasia",
+          "Sci-Fi"
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "chainsmoker-cat",
+              "title": "Yani Neko",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "yani-neko-dublado",
+              "title": "Yani Neko Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
     }
   }
 }
