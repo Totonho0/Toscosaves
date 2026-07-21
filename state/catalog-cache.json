@@ -68781,31 +68781,6 @@
       "data": {
         "items": [
           {
-            "title": "Tenkuu Senki Shurato",
-            "slug": "tenkuu-senki-shurato",
-            "url": "https://animesdrive.online/anime/tenkuu-senki-shurato",
-            "poster": "https://animeplay.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-185x278.png",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "tenkuu-senki-shurato"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "tenkuu-senki-shurato"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "tenkuu-senki-shurato"
-              }
-            ]
-          },
-          {
             "title": "Tenmaku no Jaadugar",
             "slug": "tenmaku-no-jaadugar",
             "url": "https://animeplay.cloud/anime/tenmaku-no-jaadugar",
@@ -69556,6 +69531,26 @@
             "poster": "https://image.tmdb.org/t/p/original/dfP98hCmvirEj83yeheqpkL5xdL.jpg",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "Tower of God 2 Dublado- Todos os Episódios",
+            "slug": "tower-of-god-2-dublado",
+            "url": "https://animeplay.cloud/anime/tower-of-god-2-dublado-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/7khzDTwE4Ng5UvXi43Dbndoioab.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tower-of-god-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tower-of-god-2-dublado"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -69563,7 +69558,7 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1529,
+        "total": 1528,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -69583,7 +69578,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784611744874,
+          "lastProbeAt": 1784626146973,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -69609,9 +69604,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784597432618
+        "cachedAt": 1784611746524
       },
-      "at": 1784611746524
+      "at": 1784626228999
     },
     "partner:anitube|todos|31||48": {
       "data": {
@@ -69766,7 +69761,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784597433497
+      "at": 1784626229880
     },
     "partner:animeplay|todos|31||48": {
       "data": {
@@ -70017,7 +70012,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784597434112
+      "at": 1784626230507
     },
     "todos|31||120": {
       "data": {
@@ -109745,5 +109740,5 @@
       "at": 1784626187489
     }
   },
-  "updatedAt": 1784626225446
+  "updatedAt": 1784626230507
 }
