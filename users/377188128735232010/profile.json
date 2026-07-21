@@ -72,6 +72,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWFtZS10by1raW1pLXRvLXRvZG9zLW9zLWVwaXNvZGlvcy10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaXR1YmUuanBn",
       "kind": "anime"
     },
+    "1003557": {
+      "slug": "1003557",
+      "title": "Black Clover 2 (Legendado)",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWJsYWNrLWNsb3Zlci0yLXRvZG9zLW9zLWVwaXNvZGlvcy10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaXR1YmUuanBn",
+      "kind": "anime",
+      "adult": false
+    },
     "1003714": {
       "slug": "1003714",
       "title": "Bad Girl",
@@ -616,6 +623,9 @@
     "1003466": [
       1
     ],
+    "1003557": [
+      1
+    ],
     "1003714": [
       1
     ],
@@ -844,6 +854,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "1003557",
+      "ep": 1,
+      "at": 1784628176420
+    },
     {
       "slug": "black-clover",
       "ep": 1,
@@ -1503,5 +1518,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784628156194
+  "updatedAt": 1784628176023
 }
