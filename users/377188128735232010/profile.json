@@ -35,6 +35,13 @@
       "kind": "anime",
       "adult": false
     },
+    "946662": {
+      "slug": "946662",
+      "title": "Black Clover (Dublado)",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWJsYWNrLWNsb3Zlci1kdWJsYWRvLWR1YmxhZG8tdG9kb3Mtb3MtZXBpc29kaW9zLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pdHViZS5qcGc",
+      "kind": "anime",
+      "adult": false
+    },
     "993764": {
       "slug": "993764",
       "title": "Amagami-san Chi no Enmusubi",
@@ -605,6 +612,9 @@
       1,
       2
     ],
+    "946662": [
+      81
+    ],
     "993764": [
       1
     ],
@@ -854,6 +864,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "946662",
+      "ep": 81,
+      "at": 1784628188307
+    },
     {
       "slug": "1003557",
       "ep": 1,
@@ -1518,5 +1533,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784628176023
+  "updatedAt": 1784628187911
 }
