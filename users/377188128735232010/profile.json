@@ -564,6 +564,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC93SnpIRmw1bXE2SkZiRDZlcXVUbGVKdXpsbmsuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "stranger-things-historias-de-85-dublado": {
+      "slug": "stranger-things-historias-de-85-dublado",
+      "title": "Assistir Stranger Things: Histórias de 85 Dublado Online em HD - Todos os Episódios Atualizados",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91bEJHYXhxOUdtSmV4eUVPaTRYY2k3NGc2VnQuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -911,9 +918,17 @@
     ],
     "ao-no-exorcist-yosuga-hen": [
       1
+    ],
+    "stranger-things-historias-de-85-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "stranger-things-historias-de-85-dublado",
+      "ep": 1,
+      "at": 1784662562705
+    },
     {
       "slug": "ao-no-exorcist-yosuga-hen",
       "ep": 1,
@@ -1640,5 +1655,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784662500447
+  "updatedAt": 1784662562859
 }
