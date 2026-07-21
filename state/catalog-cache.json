@@ -62000,63 +62000,24 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784568680640
+      "at": 1784597427573
     },
     "todos|29||120": {
       "data": {
         "items": [
-          {
-            "title": "Sousou no Friere",
-            "slug": "sousou-no-friere",
-            "url": "https://animesdrive.online/anime/sousou-no-friere",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2023/09/Sousosu-no-Frieren-animesonline.cloud_-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "sousou-no-friere"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "sousou-no-friere"
-              }
-            ]
-          },
-          {
-            "title": "Sousou no Friere 2",
-            "slug": "sousou-no-friere-2",
-            "url": "https://animeplay.cloud/anime/sousou-no-friere-2",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/mV2L9VUhWbrKZpFCpfHKBUw3C9u-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Sousou no Friere 2 Dublado",
-            "slug": "sousou-no-friere-2-dublado",
-            "url": "https://animeplay.cloud/anime/sousou-no-friere-2-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/mV2L9VUhWbrKZpFCpfHKBUw3C9u-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Sousou no Friere Dublado",
-            "slug": "sousou-no-friere-dublado",
-            "url": "https://animeplay.cloud/anime/sousou-no-friere-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/tjdfiiZVgmX05DEjGO97PUVSmHx-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
           {
             "title": "Sousou no Frieren – Todos os Episódios",
             "slug": "frieren-beyond-journeys-end",
             "url": "https://animesdrive.online/anime/frieren-beyond-journeys-end",
             "poster": "https://animeplay.cloud/wp-content/uploads/2023/09/Sousosu-no-Frieren-animesonline.cloud_-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "frieren-beyond-journeys-end"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -62075,7 +62036,7 @@
             "url": "https://animeplay.cloud/anime/souzai-saishuka-no-isekai-ryokouki",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/7uW8DjN1ukRd3GKIswzMVMpDDMh-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Spy x Family – Todos os Episódios",
@@ -62083,8 +62044,13 @@
             "url": "https://animesdrive.online/anime/spy-x-family",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/04/vaIREdPGZOnW9Jrs86mheVVlIQQ-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "spy-x-family"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -62103,8 +62069,13 @@
             "url": "https://animesdrive.online/anime/spy-x-family-2",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/04/Spy-x-Family_2-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "spy-x-family-2"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -62123,7 +62094,7 @@
             "url": "https://animeplay.cloud/anime/spy-x-family-3",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/vDGB41PATBLb5GaXTfG1weZ03Xr-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Spy x Family 3 Dublado",
@@ -62131,7 +62102,7 @@
             "url": "https://animeplay.cloud/anime/spy-x-family-3-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/vDGB41PATBLb5GaXTfG1weZ03Xr-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Star Wars: Maul – Lorde das Sombras",
@@ -62139,7 +62110,7 @@
             "url": "https://animeplay.cloud/anime/star-wars-maul-lorde-das-sombras",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Star Wars: Maul – Lorde das Sombras Dublado",
@@ -62147,7 +62118,7 @@
             "url": "https://animeplay.cloud/anime/star-wars-maul-lorde-das-sombras-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Star Wars: Visions Season 3",
@@ -62155,7 +62126,7 @@
             "url": "https://animeplay.cloud/anime/star-wars-visions-season-3",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/uQQPHaTNiHVSqO0K4p9fy7NWZOK-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Steel Ball Run: JoJo no Kimyou na Bouken",
@@ -62163,7 +62134,7 @@
             "url": "https://animeplay.cloud/anime/steel-ball-run-jojo-no-kimyou-na-bouken",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/4SSpwZQMbuEurBUgq9r1I8cPlnZ-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Steel Ball Run: JoJo no Kimyou na Bouken Dublado",
@@ -62171,7 +62142,7 @@
             "url": "https://animeplay.cloud/anime/steel-ball-run-jojo-no-kimyou-na-bouken-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/h95Bnxv9I0JQ23YU2HUnzupwNM1-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Steins;Gate 0",
@@ -62179,8 +62150,13 @@
             "url": "https://animesdrive.online/anime/steinsgate-0",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/10/9u07yBllJTBRIcYxnfbgUxougk5-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "steinsgate-0"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -62199,7 +62175,7 @@
             "url": "https://animeplay.cloud/anime/stranger-things-historias-de-85-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/zUdykEDaQrjGKnVnAAcua3kNiAG-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Street Fighter II: Victory Dublado",
@@ -62207,7 +62183,7 @@
             "url": "https://animesdrive.online/anime/street-fighter-ii-victory-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive"
+            "provider": "aoc"
           },
           {
             "title": "Suicide Squad Isekai – Todos os Episodios",
@@ -62215,7 +62191,7 @@
             "url": "https://animeplay.cloud/anime/suicide-squad-isekai",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/06/Ave324jOdsVrCIDakGj0hhCgkd3-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Super Dragon Ball Heroes – Todos os Episódios",
@@ -62223,8 +62199,13 @@
             "url": "https://animesdrive.online/anime/super-dragon-ball-heroes",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/03/mieaZy4iPjnhOlE6sw7dBK3hCbt-185x278.jpg.webp",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "super-dragon-ball-heroes"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -62243,8 +62224,13 @@
             "url": "https://animesdrive.online/anime/super-equipe-de-resgate-solbrain",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/07/u1rlZgp8Tti7mdXPHNIZ5w7o06I-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "super-equipe-de-resgate-solbrain"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -62263,7 +62249,7 @@
             "url": "https://animeplay.cloud/anime/smoking-behind-the-supermarket-with-you",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/nSdgX507jBlonGFC91Ve0TfcLjJ-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Sword Art Online",
@@ -62271,8 +62257,13 @@
             "url": "https://animesdrive.online/anime/sword-art-online",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/08/htNohqrYEwuz4fCa9ATVF90s58S-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sword-art-online"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -62291,7 +62282,7 @@
             "url": "https://animeplay.cloud/anime/sword-art-online-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/ycCgDrMbUVx0hmwLikCUfv1lETG-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Sword Art Online 2 Dublado",
@@ -62299,7 +62290,7 @@
             "url": "https://animeplay.cloud/anime/sword-art-online-2-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/kd4EtP4I143o8kTO1q5AY9nABBz-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Sword Art Online Alternative: Gun Gale Online II – Todos os Episódios",
@@ -62307,7 +62298,7 @@
             "url": "https://animeplay.cloud/anime/sword-art-online-alternative-gun-gale-online-ii-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/e3lTqAxwYgzURmjI2mKZd02dFqX.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Sword Art Online Dublado",
@@ -62315,7 +62306,7 @@
             "url": "https://animeplay.cloud/anime/sword-art-online-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/nfnpRV9P5hr3HopG2pX2Zrfqd9g-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Sword Art Online: Alicization",
@@ -62323,7 +62314,7 @@
             "url": "https://animeplay.cloud/anime/sword-art-online-alicization",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/43waZTlwWoDCuMmaeNLhgkxPgrl-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Sword Art Online: Alicization – War of Underworld",
@@ -62331,7 +62322,7 @@
             "url": "https://animeplay.cloud/anime/sword-art-online-alicization-war-of-underworld",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/jBx7fUPvMFGT1LvbNlkyx5Pa1vK-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Sword Art Online: Alicization – War of Underworld 2",
@@ -62339,7 +62330,7 @@
             "url": "https://animeplay.cloud/anime/sword-art-online-alicization-war-of-underworld-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/LiC6RQb4HU7aBLw6vYQYzhuqX0-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Sword Art Online: Alicization – War of Underworld 2 Dublado",
@@ -62347,7 +62338,7 @@
             "url": "https://animeplay.cloud/anime/sword-art-online-alicization-war-of-underworld-2-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/i86Z8hcSHPRrplRgbNUGjmUbjEZ-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Sword Art Online: Alicization – War of Underworld Dublado",
@@ -62355,7 +62346,7 @@
             "url": "https://animeplay.cloud/anime/sword-art-online-alicization-war-of-underworld-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/vxog7oEJ0H8vYHYaWT2svyzzZSN-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Sword Art Online: Alicization Dublado",
@@ -62363,7 +62354,7 @@
             "url": "https://animeplay.cloud/anime/sword-art-online-alicization-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/ypwJXkjc9cpH1r5TxDXUWflbq2x-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Synduality: Noir 2 – Todos os Episódios",
@@ -62371,8 +62362,13 @@
             "url": "https://animesdrive.online/anime/synduality-noir-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/Synduality-Noir-2-Todos-os-Episodios-animesonline.cloud_-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "synduality-noir-2"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -62391,8 +62387,13 @@
             "url": "https://animesdrive.online/anime/tadaima-okaeri",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/04/mFLNrSczrzZjAMebEcuk1RttCs9-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tadaima-okaeri"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -62411,7 +62412,7 @@
             "url": "https://animeplay.cloud/anime/tadaima-ojamasaremasu",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/u0kcMz9QiDRX4hrcowBxPpbOW4b-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Taisho Otome Fairy Tale",
@@ -62419,8 +62420,13 @@
             "url": "https://animesdrive.online/anime/taisho-otome-fairy-tale",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/04/g1jC7PJogxxQ3lJ9EpL1r5HY0RI-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "taisho-otome-fairy-tale"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -62439,7 +62445,7 @@
             "url": "https://animeplay.cloud/anime/taiyou-yori-mo-mabushii-hoshi",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/yZ9k8exxlXuFXjAsmIIanpfdMQ7-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Taiyou yori mo Mabushii Hoshi Dublado",
@@ -62447,7 +62453,7 @@
             "url": "https://animeplay.cloud/anime/taiyou-yori-mo-mabushii-hoshi-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/yZ9k8exxlXuFXjAsmIIanpfdMQ7-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Takopii no Genzai",
@@ -62455,7 +62461,7 @@
             "url": "https://animeplay.cloud/anime/takopii-no-genzai",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/06/76M5Cag2T9oV73gPQdLfOHZCd9f-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tamon-kun Ima Docchi!?",
@@ -62463,7 +62469,7 @@
             "url": "https://animeplay.cloud/anime/tamon-kun-ima-docchi",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/3Z7G0zxIivPz4zVYgtjbbqD5M47-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tasogare Out Focus – Todos os Episodios",
@@ -62471,8 +62477,13 @@
             "url": "https://animesdrive.online/anime/tasogare-out-focus",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/5qgdbIbgG6cA7xDpFyTRoFhMZFH-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tasogare-out-focus"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -62491,8 +62502,13 @@
             "url": "https://animesdrive.online/anime/tasuketsu-fate-of-the-majority",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/9y8kJR8PexjfLrdoF1mhn7Tf00s-185x278.jpg.webp",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tasuketsu-fate-of-the-majority"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -62511,8 +62527,13 @@
             "url": "https://animesdrive.online/anime/tate-no-yuusha-no-nariagari",
             "poster": "https://animesdrive.online/wp-content/uploads/2023/12/yX0d6aTjHrE5Sjp6gZ1dkPWCmIF-185x278.jpg.webp",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tate-no-yuusha-no-nariagari"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -62531,7 +62552,7 @@
             "url": "https://animeplay.cloud/anime/tate-no-yuusha-no-nariagari-4",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/2MDqemFjy2gQucBfynjvE3ZxTWC-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tate no Yuusha no Nariagari 4 Dublado",
@@ -62539,7 +62560,7 @@
             "url": "https://animeplay.cloud/anime/tate-no-yuusha-no-nariagari-4-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/jFkp3lC2HmvIGvEyH2c4GlqruFp-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tatsuki Fujimoto 17-26",
@@ -62547,7 +62568,7 @@
             "url": "https://animeplay.cloud/anime/tatsuki-fujimoto-17-26",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/zZW4CJQE7nfu8btJLoWIcOaa7fe-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tatsuki Fujimoto 17-26 Dublado",
@@ -62555,7 +62576,107 @@
             "url": "https://animeplay.cloud/anime/tatsuki-fujimoto-17-26-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/6dXurS7fBLNavfzAKdCybdCwUjQ-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
+          },
+          {
+            "title": "Tengen Toppa Gurren Lagann – Todos os Episodios",
+            "slug": "tengen-toppa-gurren-lagann",
+            "url": "https://animesdrive.online/anime/tengen-toppa-gurren-lagann-todos-os-episodios",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/geFiRX5g4nHNaw0uvA9wHZfPWIS-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tengen-toppa-gurren-lagann"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tengen-toppa-gurren-lagann"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tengen-toppa-gurren-lagann"
+              }
+            ]
+          },
+          {
+            "title": "Tengen Toppa Gurren Lagann Movie 1: Gurren-hen – Todos os Episodios",
+            "slug": "toucan-tecs",
+            "url": "https://animesdrive.online/anime/toucan-tecs",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/nNjFlv4mJlkGLzfnLoU68YSy9KH-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "toucan-tecs"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "toucan-tecs"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "toucan-tecs"
+              }
+            ]
+          },
+          {
+            "title": "Tengen Toppa Gurren Lagann Movie 2: Lagann-hen – Todos os Episodios",
+            "slug": "beyond-with-james-van-praagh",
+            "url": "https://animesdrive.online/anime/beyond-with-james-van-praagh",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/4MTY2ZCuqyFGkunIF5fFIKi7DL0-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "beyond-with-james-van-praagh"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "beyond-with-james-van-praagh"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "beyond-with-james-van-praagh"
+              }
+            ]
+          },
+          {
+            "title": "Tengoku Daimakyou",
+            "slug": "tengoku-daimakyo",
+            "url": "https://animesdrive.online/anime/tengoku-daimakyo",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/kiYVwBgYQKN0TNkriEc0wPMON6x-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tengoku-daimakyo"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tengoku-daimakyo"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tengoku-daimakyo"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -62563,7 +62684,7 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1546,
+        "total": 1529,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -62583,7 +62704,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784582940591,
+          "lastProbeAt": 1784597342575,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -62609,9 +62730,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784568680821
+        "cachedAt": 1784582946304
       },
-      "at": 1784582946304
+      "at": 1784597427797
     },
     "partner:anitube|todos|30||48": {
       "data": {
@@ -62766,7 +62887,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784568681161
+      "at": 1784597428130
     },
     "partner:animeplay|todos|30||48": {
       "data": {
@@ -62816,6 +62937,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Shangri-La Frontier: Kusoge Hunter Kamige ni Idoman to su 2 Dublado",
+            "slug": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2-dublado",
+            "url": "https://animeplay.cloud/anime/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/7Oz6HQSKZ1e8yxpbuPxnVG4Krn1-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -62978,14 +63107,6 @@
             "poster": "https://image.tmdb.org/t/p/original/nlnbRpC8hycdcIsHWXwkNokFTA1.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Seirei Gensouki 2 Dublado",
-            "slug": "seirei-gensouki-2-dublado",
-            "url": "https://animeplay.cloud/anime/seirei-gensouki-2-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/423IHRx1cgkWrv1yqyhtq6pPBnq-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -62993,7 +63114,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784568682006
+      "at": 1784597429295
     },
     "todos|30||120": {
       "data": {
@@ -96753,5 +96874,5 @@
       "at": 1784597388909
     }
   },
-  "updatedAt": 1784597425930
+  "updatedAt": 1784597429295
 }
