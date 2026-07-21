@@ -125,6 +125,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2JsYWNrLXRvcmNoLXRodW1icGFkcmExLmpwZw",
       "kind": "anime"
     },
+    "1062098": {
+      "slug": "1062098",
+      "title": "Black Torch (Dublado) – Episódio 03",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL0JsYWNrLVRvcmNoLWR1YmxhZG8uanBn",
+      "kind": "anime",
+      "adult": false
+    },
     "chainsmoker-cat": {
       "slug": "chainsmoker-cat",
       "title": "Yani Neko",
@@ -670,6 +677,9 @@
     "1062030": [
       2
     ],
+    "1062098": [
+      2
+    ],
     "chainsmoker-cat": [
       1
     ],
@@ -889,6 +899,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "1062098",
+      "ep": 2,
+      "at": 1784658066306
+    },
     {
       "slug": "serie/assistir-coppers-online",
       "ep": 1,
@@ -1594,5 +1609,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784658055550
+  "updatedAt": 1784658066801
 }
