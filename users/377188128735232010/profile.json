@@ -537,6 +537,13 @@
       "title": "Azumanga Daioh",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC92aWczWU1iaFJKck1oaGs5MEF2aVVJVzBKRkguanBn",
       "kind": "anime"
+    },
+    "serie/assistir-origem-online": {
+      "slug": "serie/assistir-origem-online",
+      "title": "Origem",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9qNERKVjkxVkd4N2VBSVdQZW9sVjBuT3RUMUcuanBn",
+      "kind": "serie",
+      "adult": false
     }
   },
   "watched": {
@@ -866,9 +873,17 @@
     "black-clover": [
       1,
       81
+    ],
+    "serie/assistir-origem-online": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "serie/assistir-origem-online",
+      "ep": 1,
+      "at": 1784657403111
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -1564,5 +1579,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784657389257
+  "updatedAt": 1784657403355
 }
