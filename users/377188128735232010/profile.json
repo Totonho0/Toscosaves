@@ -137,9 +137,10 @@
     },
     "black-clover": {
       "slug": "black-clover",
-      "title": "black clover",
-      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1ibGFjay1jbG92ZXItdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbmltZXNkaWdpdGFsLmpwZw",
-      "kind": "anime"
+      "title": "Black Clover",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9qSEg0am1XV21ZV3BveHBHd01ZTTVScUpudm8uanBn",
+      "kind": "anime",
+      "adult": false
     },
     "does-it-count-if-you-lose-your-virginity-to-an-android": {
       "slug": "does-it-count-if-you-lose-your-virginity-to-an-android",
@@ -837,9 +838,17 @@
     ],
     "azumanga-daioh": [
       1
+    ],
+    "black-clover": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "black-clover",
+      "ep": 1,
+      "at": 1784628131141
+    },
     {
       "slug": "black-clover-dublado",
       "ep": 121,
@@ -1494,5 +1503,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784628102442
+  "updatedAt": 1784628131556
 }
