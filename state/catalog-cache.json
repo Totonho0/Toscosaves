@@ -67615,36 +67615,11 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784597427573
+      "at": 1784626223948
     },
     "todos|29||120": {
       "data": {
         "items": [
-          {
-            "title": "Sousou no Frieren – Todos os Episódios",
-            "slug": "frieren-beyond-journeys-end",
-            "url": "https://animesdrive.online/anime/frieren-beyond-journeys-end",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2023/09/Sousosu-no-Frieren-animesonline.cloud_-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "frieren-beyond-journeys-end"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "frieren-beyond-journeys-end"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "frieren-beyond-journeys-end"
-              }
-            ]
-          },
           {
             "title": "Souzai Saishuka no Isekai Ryokouki",
             "slug": "souzai-saishuka-no-isekai-ryokouki",
@@ -68338,6 +68313,31 @@
                 "slug": "tengoku-daimakyo"
               }
             ]
+          },
+          {
+            "title": "Tenkuu Senki Shurato",
+            "slug": "tenkuu-senki-shurato",
+            "url": "https://animesdrive.online/anime/tenkuu-senki-shurato",
+            "poster": "https://animeplay.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-185x278.png",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tenkuu-senki-shurato"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tenkuu-senki-shurato"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tenkuu-senki-shurato"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -68345,7 +68345,7 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1529,
+        "total": 1528,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -68365,7 +68365,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784611744874,
+          "lastProbeAt": 1784626146973,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -68391,9 +68391,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784597427797
+        "cachedAt": 1784611746299
       },
-      "at": 1784611746299
+      "at": 1784626224171
     },
     "partner:anitube|todos|30||48": {
       "data": {
@@ -68548,7 +68548,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784597428130
+      "at": 1784626224541
     },
     "partner:animeplay|todos|30||48": {
       "data": {
@@ -68775,7 +68775,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784597429295
+      "at": 1784626225446
     },
     "todos|30||120": {
       "data": {
@@ -109745,5 +109745,5 @@
       "at": 1784626187489
     }
   },
-  "updatedAt": 1784626222338
+  "updatedAt": 1784626225446
 }
