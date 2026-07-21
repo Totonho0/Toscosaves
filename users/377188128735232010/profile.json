@@ -592,6 +592,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci9kZS80NzY1ZmQwYjhlNWJlMWQwYjU3ZjkwOGVlOGFhOGIuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "ansatsu-kyoushitsu-2-dublado": {
+      "slug": "ansatsu-kyoushitsu-2-dublado",
+      "title": "Ansatsu Kyoushitsu 2 Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96a2MyRmtWeW1KRE5YaXNTMW1ncHI4SXAySi5qcGc",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -952,9 +959,17 @@
     ],
     "10215-cry-of-silence": [
       1
+    ],
+    "ansatsu-kyoushitsu-2-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "ansatsu-kyoushitsu-2-dublado",
+      "ep": 1,
+      "at": 1784663204183
+    },
     {
       "slug": "10215-cry-of-silence",
       "ep": 1,
@@ -1706,5 +1721,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784663161084
+  "updatedAt": 1784663204324
 }
