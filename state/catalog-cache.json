@@ -8380,7 +8380,7 @@
             "url": "https://animeplay.cloud/anime/guimi-zhi-zhu-xiaochou-pian",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/06/kBRyCCZWipMO5Gu9Y02nE3iMgr0-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Gundam vs Hello Kitty",
@@ -8388,16 +8388,16 @@
             "url": "https://animeplay.cloud/anime/gundam-vs-hello-kitty",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/nD3jGaVWSFi9DloFXkM69MX0XEc-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Haibara-kun no Tsuyokute Seishun New Game",
             "slug": "haibara-kun-no-tsuyokute-seishun-new-game",
-            "url": "https://animeplay.cloud/anime/haibara-kun-no-tsuyokute-seishun-new-game",
+            "url": "https://animesonline.cloud/anime/haibara-kun-no-tsuyokute-seishun-new-game",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/3Bxl4kYXdGMMIoZXgDGzo26OiGH-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Haikyuu!!",
@@ -8456,10 +8456,11 @@
           {
             "title": "Hanazakari no Kimitachi e",
             "slug": "hanazakari-no-kimitachi-e",
-            "url": "https://animeplay.cloud/anime/hanazakari-no-kimitachi-e",
+            "url": "https://animesonline.cloud/anime/hanazakari-no-kimitachi-e",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/tetE5PpsRWUiXdElMdzchPuI3SQ-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "rating": "8.4"
           },
           {
             "title": "Hanazakari no Kimitachi e 2nd",
@@ -8473,10 +8474,11 @@
           {
             "title": "Hanazakari no Kimitachi e Dublado",
             "slug": "hanazakari-no-kimitachi-e-dublado",
-            "url": "https://animeplay.cloud/anime/hanazakari-no-kimitachi-e-dublado",
+            "url": "https://animesonline.cloud/anime/hanazakari-no-kimitachi-e-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/wCZn0Is62Tx4HC9WuFGYysjeHCx-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "rating": "8.4"
           },
           {
             "title": "Heika Watashi wo Wasurete Kudasai",
@@ -8484,15 +8486,16 @@
             "url": "https://animeplay.cloud/anime/heika-watashi-wo-wasurete-kudasai",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/y0VrJnFQXmMXF4ASTI7tkU0IoOc-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
             "slug": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
-            "url": "https://animeplay.cloud/anime/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
+            "url": "https://animesonline.cloud/anime/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/hY0L6YX4Ree4DhjjrBB5kvZrzd0-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "rating": "6.74"
           },
           {
             "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
@@ -8501,7 +8504,19 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/dRBV8LaKwLrIOpa8Ud3ShxWKRnn-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "rating": "6.74"
+            "rating": "6.74",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season"
+              }
+            ]
           },
           {
             "title": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
@@ -8524,10 +8539,11 @@
           {
             "title": "High School! Kimengumi",
             "slug": "high-school-kimengumi",
-            "url": "https://animeplay.cloud/anime/high-school-kimengumi",
+            "url": "https://animesonline.cloud/anime/high-school-kimengumi",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/8ota15pVJEQYzEM0lVb9iVtUvPQ-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "rating": "0"
           },
           {
             "title": "Hikaru ga Shinda Natsu",
@@ -8535,7 +8551,7 @@
             "url": "https://animeplay.cloud/anime/hikaru-ga-shinda-natsu",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/4sxpBwpZVjQZ4sSonqmoGaae1ay-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Hikaru ga Shinda Natsu Dublado",
@@ -8543,23 +8559,25 @@
             "url": "https://animeplay.cloud/anime/hikaru-ga-shinda-natsu-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/dJKA2cVUxV3bZq5gI5Ez3WlD811-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Hikuidori: Ushuu Boro Tobi-gumi",
             "slug": "oedo-fire-slayer-the-legend-of-phoenix",
-            "url": "https://animeplay.cloud/anime/oedo-fire-slayer-the-legend-of-phoenix",
+            "url": "https://animesonline.cloud/anime/oedo-fire-slayer-the-legend-of-phoenix",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/fHt1mLMViDFeFL3DULYbKIihkk3-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "rating": "0"
           },
           {
             "title": "Hime-sama Goumon no Jikan desu 2",
             "slug": "hime-sama-goumon-no-jikan-desu-2",
-            "url": "https://animeplay.cloud/anime/hime-sama-goumon-no-jikan-desu-2",
+            "url": "https://animesonline.cloud/anime/hime-sama-goumon-no-jikan-desu-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/37mrw26Yj3PD8MKLbG6m4Fh98dN-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "rating": "6.9"
           },
           {
             "title": "Himekishi wa Barbaroi no Yome",
@@ -8573,10 +8591,11 @@
           {
             "title": "Hitori No Shita: The Outcast 6",
             "slug": "hitori-no-shita-the-outcast-6",
-            "url": "https://animeplay.cloud/anime/hitori-no-shita-the-outcast-6",
+            "url": "https://animesonline.cloud/anime/hitori-no-shita-the-outcast-6",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/1JTyS8RIPHqac6MaR7xNse4J6NI-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "rating": "6.9"
           },
           {
             "title": "Hitoribocchi no Isekai Kouryaku",
@@ -8585,7 +8604,24 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "rating": "7.1"
+            "rating": "7.1",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              }
+            ]
           },
           {
             "title": "Hokuto no Ken: Fist of the North Star",
@@ -8608,10 +8644,11 @@
           {
             "title": "Hokuto no Ken: Kenougun Zako-tachi no Banka",
             "slug": "hokuto-no-ken-kenougun-zako-tachi-no-banka",
-            "url": "https://animeplay.cloud/anime/hokuto-no-ken-kenougun-zako-tachi-no-banka",
+            "url": "https://animesonline.cloud/anime/hokuto-no-ken-kenougun-zako-tachi-no-banka",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/76VzGj5JENehcjWV4wK0LQKarhv-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "rating": "7.5"
           },
           {
             "title": "Honoo no Toukyuujo: Dodge Danko",
@@ -8625,11 +8662,11 @@
           {
             "title": "Honzuki no Gekokujou 4",
             "slug": "honzuki-no-gekokujou-4",
-            "url": "https://animeplay.cloud/anime/honzuki-no-gekokujou-4",
+            "url": "https://animesonline.cloud/anime/honzuki-no-gekokujou-4",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/cBgA4PdYNr0EqXB1naRe1ndrC33-185x278.jpg",
             "rating": "8.1",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Hotaru no Yomeiri",
@@ -8638,7 +8675,24 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/ccIPacvHWo4vO55S9PKl0ZWki49-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "rating": "0"
+            "rating": "0",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hotaru-no-yomeiri"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "hotaru-no-yomeiri"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hotaru-no-yomeiri"
+              }
+            ]
           },
           {
             "title": "Hotel Inhumans",
@@ -8646,7 +8700,7 @@
             "url": "https://animeplay.cloud/anime/hotel-inhumans",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/6ZHkFKJekNYADTByu3QI7vJaUbC-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Ibitte Konai Gibo to Gishi",
@@ -8669,19 +8723,20 @@
           {
             "title": "Ikoku Nikki",
             "slug": "ikoku-nikki",
-            "url": "https://animeplay.cloud/anime/ikoku-nikki",
+            "url": "https://animesonline.cloud/anime/ikoku-nikki",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/oMgxAEq7OVvkLDevVMfYwlAzBrP-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "rating": "0"
           },
           {
             "title": "Ingoku Danchi",
             "slug": "ingoku-danchi",
-            "url": "https://animeplay.cloud/anime/ingoku-danchi",
+            "url": "https://animesonline.cloud/anime/ingoku-danchi",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/1EcpjQHYMjEfZkLnj42UYYJhoLn-185x278.jpg",
             "rating": "8",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "InuYasha (2000)",
@@ -8689,7 +8744,7 @@
             "url": "https://animeplay.cloud/anime/inuyasha-2000",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/kG9XuTnUM3qPBeb6IyKEMD4u3ay-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "InuYasha (2000) Dublado",
@@ -8697,7 +8752,7 @@
             "url": "https://animeplay.cloud/anime/inuyasha-2000-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/2rMhymma9FSf8qhJc54muJAgwaz-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "InuYasha: Kanketsu-hen",
@@ -8705,23 +8760,25 @@
             "url": "https://animeplay.cloud/anime/inuyasha",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/sItvsjmuyely3E0fzftzvb2H3Zy-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Invencível 4",
             "slug": "invencivel-4",
-            "url": "https://animeplay.cloud/anime/invencivel-4",
+            "url": "https://animesonline.cloud/anime/invencivel-4",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/fopIqWozi4kTGcqKzB2c50wJMjo-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "rating": "8.6"
           },
           {
             "title": "Invencível 4 Dublado",
             "slug": "invencivel-4-dublado",
-            "url": "https://animeplay.cloud/anime/invencivel-4-dublado",
+            "url": "https://animesonline.cloud/anime/invencivel-4-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/2wnNxpeAHxhGVKj3PCyxskRhkbB-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "rating": "8.6"
           },
           {
             "title": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
@@ -8729,33 +8786,34 @@
             "url": "https://animeplay.cloud/anime/isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/nrd2DMbn39Usv9Lp5LpHh67yVAN-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Isekai no Sata wa Shachiku Shidai",
             "slug": "isekai-no-sata-wa-shachiku-shidai",
-            "url": "https://animeplay.cloud/anime/isekai-no-sata-wa-shachiku-shidai",
+            "url": "https://animesonline.cloud/anime/isekai-no-sata-wa-shachiku-shidai",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/9ZtYwGcz9g6vcOBcFTMOFrYQVKs-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "rating": "8.4"
           },
           {
             "title": "Isekai Nonbiri Nouka",
             "slug": "isekai-nonbiri-nouka",
-            "url": "https://animeplay.cloud/anime/isekai-nonbiri-nouka",
+            "url": "https://animesonline.cloud/anime/isekai-nonbiri-nouka",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/mE4pE6NOV3AbvTUE3MkFMlfs12n-185x278.jpg",
             "rating": "7.585",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Isekai Nonbiri Nouka 2",
             "slug": "isekai-nonbiri-nouka-2",
-            "url": "https://animeplay.cloud/anime/isekai-nonbiri-nouka-2",
+            "url": "https://animesonline.cloud/anime/isekai-nonbiri-nouka-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/9xpmB050xiiG1OD51Qf7SyUz6MC-185x278.jpg",
             "rating": "7.585",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Isekai Quartet 3",
@@ -8763,14 +8821,14 @@
             "url": "https://animeplay.cloud/anime/isekai-quartet-3",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/34N589rXVvG9wiQhN1O1fj4afBq-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 4,
         "hasMore": true,
-        "total": 545,
-        "cachedAt": 1784661173431,
+        "total": 544,
+        "cachedAt": 1784661210274,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -8817,7 +8875,7 @@
           "fixHint": null
         }
       },
-      "at": 1784661173465
+      "at": 1784661212463
     },
     "todos|5||120": {
       "data": {
@@ -20260,7 +20318,7 @@
         "page": 5,
         "hasMore": true
       },
-      "at": 1784661174142
+      "at": 1784661213094
     },
     "todos|6||48": {
       "data": {
@@ -28101,7 +28159,995 @@
         "partnerId": "animeplay"
       },
       "at": 1784661210660
+    },
+    "partner:animesdrive|todos|4||48": {
+      "data": {
+        "items": [
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesdrive.online/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Uzumaki – Todos os Episódios",
+            "slug": "uzumaki",
+            "url": "https://animesdrive.online/anime/uzumaki",
+            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Hitoribocchi no Isekai Kouryaku",
+            "slug": "hitoribocchi-no-isekai-kouryaku",
+            "url": "https://animesdrive.online/anime/hitoribocchi-no-isekai-kouryaku",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Maou-sama, Retry! 2 – Todos os Episódios",
+            "slug": "maou-sama-retry",
+            "url": "https://animesdrive.online/anime/maou-sama-retry-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
+            "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+            "url": "https://animesdrive.online/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Hotaru no Yomeiri",
+            "slug": "hotaru-no-yomeiri",
+            "url": "https://animesdrive.online/anime/hotaru-no-yomeiri",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/ccIPacvHWo4vO55S9PKl0ZWki49-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Lv999 no Murabito",
+            "slug": "lv999-no-murabito",
+            "url": "https://animesdrive.online/anime/lv999-no-murabito",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/b62MUHX0v8aVVyqH9P0zlEYhf9n-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
+            "slug": "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den",
+            "url": "https://animesdrive.online/anime/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/sdWNqtcPJpudPItPG3zBdyGyzTH-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Ranma ½ (2024) 3rd Season",
+            "slug": "ranma-½-2024-3rd-season",
+            "url": "https://animesdrive.online/anime/ranma-%c2%bd-2024-3rd-season",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/fSDzEp1RnBhTgyWmOLQoOoo5fdP-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Tougen Anki: Nikko Kegon no Taki-hen",
+            "slug": "tougen-anki-nikko-kegon-no-taki-hen",
+            "url": "https://animesdrive.online/anime/tougen-anki-nikko-kegon-no-taki-hen",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/dTT6VYgsEWloFOV1nsqibQijQ7c-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
+            "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita",
+            "url": "https://animesdrive.online/anime/koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/svcJyWDhj1STkOTSfxgd2hOvZ0z-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Nige Jouzu no Wakagimi 2nd Season",
+            "slug": "nige-jouzu-no-wakagimi-2nd-season",
+            "url": "https://animesdrive.online/anime/nige-jouzu-no-wakagimi-2nd-season",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/oe396waCa3Two9py6FLv6mxKDgh-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Kimi ga Shinu made Koi wo Shitai",
+            "slug": "kimi-ga-shinu-made-koi-wo-shitai",
+            "url": "https://animesdrive.online/anime/kimi-ga-shinu-made-koi-wo-shitai",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/ff1G9mLkK3Fzb8M1eKKj1lmPoi8-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+            "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
+            "url": "https://animesdrive.online/anime/the-exiled-heavy-knight-knows-how-to-game-the-system",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/oulMDIOJBoFqMvM5Fku5XKazYGX-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "World Is Dancing",
+            "slug": "the-world-is-dancing",
+            "url": "https://animesdrive.online/anime/the-world-is-dancing",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/oOmQf94idSBnDueIrM3FNQy8IXw-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Otome Kaijuu Caraméliser",
+            "slug": "otome-kaijuu-carameliser",
+            "url": "https://animesdrive.online/anime/otome-kaijuu-carameliser",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/1JW6hx7sAU1qRpYSxXpYb9B2xaG-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Blue Lock 3",
+            "slug": "blue-lock-3",
+            "url": "https://animesdrive.online/anime/blue-lock-3",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/a6i8cVlkIQbHBrxoGFdOG47xtZu-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Super no Ura de Yani Suu Futari Mini",
+            "slug": "smoking-behind-the-supermarket-with-you-mini",
+            "url": "https://animesdrive.online/anime/smoking-behind-the-supermarket-with-you-mini",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/nSdgX507jBlonGFC91Ve0TfcLjJ-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Koukaku Kidouta",
+            "slug": "koukaku-kidouta",
+            "url": "https://animesdrive.online/anime/koukaku-kidouta",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Yani Neko",
+            "slug": "chainsmoker-cat",
+            "url": "https://animesdrive.online/anime/chainsmoker-cat",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/mVaXYoSvcMWwbbJXKvkZTPdWRkR-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Bocchi the Rock! Season 2",
+            "slug": "bocchi-the-rock-season-2",
+            "url": "https://animesdrive.online/anime/bocchi-the-rock-season-2",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/hwwmH8NINlcC1nq6obL3atz2HDY-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Kagurabachi",
+            "slug": "kagurabachi",
+            "url": "https://animesdrive.online/anime/kagurabachi",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/vYE38d5dcyD0oAGgbtC5slERvM3-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          }
+        ],
+        "category": "todos",
+        "page": 4,
+        "hasMore": true,
+        "partnerId": "animesdrive"
+      },
+      "at": 1784661212373
+    },
+    "partner:anitube|todos|5||48": {
+      "data": {
+        "items": [
+          {
+            "title": "Aikatsu Friends! – (Legendado)",
+            "slug": "67654",
+            "url": "https://www.anitube.zip/video/67654/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Aikatsu-Friends.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Aikatsu on Parade! (Legendado)",
+            "slug": "882490",
+            "url": "https://www.anitube.zip/video/882490/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Aikatsu-on-Parade-Todos-os-Episódios.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Air (TV) – (Legendado)",
+            "slug": "66399",
+            "url": "https://www.anitube.zip/video/66399/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Air-tv.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Air Gear (Dublado) –",
+            "slug": "66297",
+            "url": "https://www.anitube.zip/video/66297/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Air-Gear-dub.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Air Gear (Legendado) –",
+            "slug": "66342",
+            "url": "https://www.anitube.zip/video/66342/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Air-Gear.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Air Master – (Legendado)",
+            "slug": "66235",
+            "url": "https://www.anitube.zip/video/66235/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Air-Master.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Aishiteru Game wo Owarasetai (Legendado)",
+            "slug": "1054107",
+            "url": "https://www.anitube.zip/video/1054107/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-aishiteru-game-wo-owarasetai-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Aishiteruze Baby – (Legendado)",
+            "slug": "66167",
+            "url": "https://www.anitube.zip/video/66167/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Aishiteruze-Baby.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Aiura – (Legendado)",
+            "slug": "65623",
+            "url": "https://www.anitube.zip/video/65623/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Aiura-1.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Ajin – (Legendado)",
+            "slug": "65590b",
+            "url": "https://www.anitube.zip/65590b",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-ajin-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Ajin 2 – (Legendado)",
+            "slug": "65574b",
+            "url": "https://www.anitube.zip/65574b",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-ajin-2-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Ajin Dublado –",
+            "slug": "882770",
+            "url": "https://www.anitube.zip/video/882770/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Ajin-Dublado-–-Todos-os-Episodios.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Akagami No Shirayuki-hime – (Legendado)",
+            "slug": "65538",
+            "url": "https://www.anitube.zip/video/65538/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Akagami-No-Shirayuki.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Akagami No Shirayuki-hime 2 – (Legendado)",
+            "slug": "65507",
+            "url": "https://www.anitube.zip/video/65507/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Akagami-No-Shirayuki-hime.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Akagi – (Legendado)",
+            "slug": "65440",
+            "url": "https://www.anitube.zip/video/65440/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Akagi.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Akahori Gedou Hour Love Game – (Legendado)",
+            "slug": "65354",
+            "url": "https://www.anitube.zip/video/65354/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Akahori-Gedou-Hour-Love-Game.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Akai Koudan Zillion – (Legendado)",
+            "slug": "65143",
+            "url": "https://www.anitube.zip/video/65143/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Akai-Koudan-Zillion.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Akai Koudan Zillion Dublado –",
+            "slug": "882800",
+            "url": "https://www.anitube.zip/video/882800/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/41797.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          }
+        ],
+        "category": "todos",
+        "page": 5,
+        "hasMore": true,
+        "partnerId": "anitube"
+      },
+      "at": 1784661212790
+    },
+    "partner:animesdigital|todos|5||48": {
+      "data": {
+        "items": [
+          {
+            "title": "star wars a guerra dos clones",
+            "slug": "star-wars-a-guerra-dos-clones",
+            "url": "https://animesdigital.org/anime/a/star-wars-a-guerra-dos-clones",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/11/Star-Wars-A-Guerra-dos-Clones-1-Dublado.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "invencivel 4a temporada dublado",
+            "slug": "invencivel-4a-temporada-dublado",
+            "url": "https://animesdigital.org/anime/a/invencivel-4a-temporada-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/03/invencivel-4-temporada-dublado.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "kimi no na wa",
+            "slug": "kimi-no-na-wa",
+            "url": "https://animesdigital.org/anime/a/kimi-no-na-wa",
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/07/Kimi-no-Na-wa-categoria.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bob esponja 6a temporada",
+            "slug": "bob-esponja-6a-temporada",
+            "url": "https://animesdigital.org/anime/a/bob-esponja-6a-temporada",
+            "poster": "https://animesdigital.org/wp-content/uploads/2024/04/Bob-Esponja-6-categoria.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bob esponja 3a temporada",
+            "slug": "bob-esponja-3a-temporada",
+            "url": "https://animesdigital.org/anime/a/bob-esponja-3a-temporada",
+            "poster": "https://animesdigital.org/wp-content/uploads/2024/04/Bob-Esponja-3-categoria.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "honey lemon soda",
+            "slug": "honey-lemon-soda",
+            "url": "https://animesdigital.org/anime/a/honey-lemon-soda",
+            "poster": "https://animesdigital.org/wp-content/uploads/2025/01/Honey-Lemon-SodaEp.jpeg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "shangri la frontier 2 dublado",
+            "slug": "shangri-la-frontier-2-dublado",
+            "url": "https://animesdigital.org/anime/a/shangri-la-frontier-2-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2024/11/assistir-shangri-la-frontier-2-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "spy x family season ll",
+            "slug": "spy-x-family-season-ll",
+            "url": "https://animesdigital.org/anime/a/spy-x-family-season-ll",
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/09/Spy-x-Family-2Ep.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bob esponja 3a temporada",
+            "slug": "bob-esponja-3a-temporada",
+            "url": "https://animesdigital.org/anime/a/bob-esponja-3a-temporada",
+            "poster": "https://animesdigital.org/wp-content/uploads/2024/04/Bob-Esponja-3-categoria.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "honey lemon soda",
+            "slug": "honey-lemon-soda",
+            "url": "https://animesdigital.org/anime/a/honey-lemon-soda",
+            "poster": "https://animesdigital.org/wp-content/uploads/2025/01/Honey-Lemon-SodaEp.jpeg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "shangri la frontier 2 dublado",
+            "slug": "shangri-la-frontier-2-dublado",
+            "url": "https://animesdigital.org/anime/a/shangri-la-frontier-2-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2024/11/assistir-shangri-la-frontier-2-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "spy x family season ll",
+            "slug": "spy-x-family-season-ll",
+            "url": "https://animesdigital.org/anime/a/spy-x-family-season-ll",
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/09/Spy-x-Family-2Ep.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "hunter x hunter 2",
+            "slug": "hunter-x-hunter-2",
+            "url": "https://animesdigital.org/anime/a/hunter-x-hunter-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "dragon ball daima dublado",
+            "slug": "dragon-ball-daima-dublado",
+            "url": "https://animesdigital.org/anime/a/dragon-ball-daima-dublado-todos-os-episodios",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "harley quinn 4a temporada",
+            "slug": "harley-quinn-4a-temporada",
+            "url": "https://animesdigital.org/anime/a/harley-quinn-4a-temporada",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "harley quinn 3a temporada",
+            "slug": "harley-quinn-3a-temporada",
+            "url": "https://animesdigital.org/anime/a/harley-quinn-3a-temporada",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "rooster fighter dublado",
+            "slug": "rooster-fighter-dublado",
+            "url": "https://animesdigital.org/anime/a/rooster-fighter-dublado",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "rooster fighter",
+            "slug": "rooster-fighter",
+            "url": "https://animesdigital.org/anime/a/rooster-fighter",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "one piece",
+            "slug": "one-piece",
+            "url": "https://animesdigital.org/anime/a/one-piece",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "wind breaker 2 dublado",
+            "slug": "wind-breaker-2-dublado",
+            "url": "https://animesdigital.org/anime/a/wind-breaker-2-dublado-todos-os-episodios",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "tower of god season 2 dublado",
+            "slug": "tower-of-god-season-2-dublado",
+            "url": "https://animesdigital.org/anime/a/tower-of-god-season-2-dublado",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "tower of god",
+            "slug": "tower-of-god",
+            "url": "https://animesdigital.org/anime/a/tower-of-god",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "tensei shitara slime datta ken 2nd season part 2",
+            "slug": "tensei-shitara-slime-datta-ken-2nd-season-part-2",
+            "url": "https://animesdigital.org/anime/a/tensei-shitara-slime-datta-ken-2nd-season-part-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "spy x family 3 dublado",
+            "slug": "spy-x-family-3-dublado",
+            "url": "https://animesdigital.org/anime/a/spy-x-family-3-dublado",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "spy x family 2 2",
+            "slug": "spy-x-family-2-2",
+            "url": "https://animesdigital.org/anime/a/spy-x-family-2-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "summer pockets",
+            "slug": "summer-pockets",
+            "url": "https://animesdigital.org/anime/a/summer-pockets",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "spy x family parte 2",
+            "slug": "spy-x-family-parte-2",
+            "url": "https://animesdigital.org/anime/a/spy-x-family-parte-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "solo leveling 2 dublado",
+            "slug": "solo-leveling-2-dublado",
+            "url": "https://animesdigital.org/anime/a/solo-leveling-2-dublado",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "one piece a serie 2",
+            "slug": "one-piece-a-serie-2",
+            "url": "https://animesdigital.org/anime/a/one-piece-a-serie-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "one piece a serie",
+            "slug": "one-piece-a-serie",
+            "url": "https://animesdigital.org/anime/a/one-piece-a-serie",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "mushoku tensei ii isekai ittara honki dasu",
+            "slug": "mushoku-tensei-ii-isekai-ittara-honki-dasu",
+            "url": "https://animesdigital.org/anime/a/mushoku-tensei-ii-isekai-ittara-honki-dasu",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "mushoku tensei isekai ittara honki dasu 2 2",
+            "slug": "mushoku-tensei-isekai-ittara-honki-dasu-2-2",
+            "url": "https://animesdigital.org/anime/a/mushoku-tensei-isekai-ittara-honki-dasu-2-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "jujutsu kaisen 2 dublado",
+            "slug": "jujutsu-kaisen-2-dublado",
+            "url": "https://animesdigital.org/anime/a/jujutsu-kaisen-2-dublado",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "jujutsu kaisen 0 2",
+            "slug": "jujutsu-kaisen-0-2",
+            "url": "https://animesdigital.org/anime/a/jujutsu-kaisen-0-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "jujutsu kaisen 3 dublado todos episodios",
+            "slug": "jujutsu-kaisen-3-dublado-todos-episodios",
+            "url": "https://animesdigital.org/anime/a/jujutsu-kaisen-3-dublado-todos-episodios",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "gachiakuta dublado",
+            "slug": "gachiakuta-dublado",
+            "url": "https://animesdigital.org/anime/a/gachiakuta-dublado",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "fire force 3 parte 2 todos episodios",
+            "slug": "fire-force-3-parte-2-todos-episodios",
+            "url": "https://animesdigital.org/anime/a/fire-force-3-parte-2-todos-episodios",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "fire force 3 part 2 dublado",
+            "slug": "fire-force-3-part-2-dublado",
+            "url": "https://animesdigital.org/anime/a/fire-force-3-part-2-dublado",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "boku no hero academia 3 dublado",
+            "slug": "boku-no-hero-academia-3-dublado",
+            "url": "https://animesdigital.org/anime/a/boku-no-hero-academia-3-dublado",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "drssfdub004",
+            "slug": "drssfdub004",
+            "url": "https://animesdigital.org/anime/a/drssfdub004-todos-os-episodios",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "dr stone science future",
+            "slug": "dr-stone-science-future",
+            "url": "https://animesdigital.org/anime/a/dr-stone-science-future",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "dragon ball super super hero",
+            "slug": "dragon-ball-super-super-hero",
+            "url": "https://animesdigital.org/anime/a/dragon-ball-super-super-hero",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "dr stone science future part 2 dublado",
+            "slug": "dr-stone-science-future-part-2-dublado",
+            "url": "https://animesdigital.org/anime/a/dr-stone-science-future-part-2-dublado",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "dragon ball z 2",
+            "slug": "dragon-ball-z-2",
+            "url": "https://animesdigital.org/anime/a/dragon-ball-z-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "dragon ball gt",
+            "slug": "dragon-ball-gt",
+            "url": "https://animesdigital.org/anime/a/dragon-ball-gt",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "dragon ball daima",
+            "slug": "dragon-ball-daima",
+            "url": "https://animesdigital.org/anime/a/dragon-ball-daima",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "boku no hero academia dublado",
+            "slug": "boku-no-hero-academia-dublado",
+            "url": "https://animesdigital.org/anime/a/boku-no-hero-academia-dublado",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "boku no hero academia 2 dublado",
+            "slug": "boku-no-hero-academia-2-dublado",
+            "url": "https://animesdigital.org/anime/a/boku-no-hero-academia-2-dublado",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          }
+        ],
+        "category": "todos",
+        "page": 5,
+        "hasMore": true,
+        "partnerId": "animesdigital"
+      },
+      "at": 1784661213319
+    },
+    "partner:animeplay|todos|5||48": {
+      "data": {
+        "items": [
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animeplay.cloud/anime/one-piece",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animeplay.cloud/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Uzumaki – Todos os Episódios",
+            "slug": "uzumaki",
+            "url": "https://animeplay.cloud/anime/uzumaki",
+            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Hitoribocchi no Isekai Kouryaku",
+            "slug": "hitoribocchi-no-isekai-kouryaku",
+            "url": "https://animeplay.cloud/anime/hitoribocchi-no-isekai-kouryaku",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Maou-sama, Retry! 2 – Todos os Episódios",
+            "slug": "maou-sama-retry",
+            "url": "https://animeplay.cloud/anime/maou-sama-retry-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
+            "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+            "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Kagurabachi",
+            "slug": "kagurabachi",
+            "url": "https://animeplay.cloud/anime/kagurabachi",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/vYE38d5dcyD0oAGgbtC5slERvM3-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Haikyuu!! Second Season Dublado",
+            "slug": "haikyuu-second-season-dublado",
+            "url": "https://animeplay.cloud/anime/haikyuu-second-season-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/wkQX0xwqXTtOtMXfwCf1Ad1ZfCv-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Haikyuu!! Second Season",
+            "slug": "haikyuu-second-season",
+            "url": "https://animeplay.cloud/anime/haikyuu-second-season",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/05/hLFmFGuu4PApB0s2eF5H5cDCFgT-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Akane-banashi Dublado",
+            "slug": "akane-banashi-dublado",
+            "url": "https://animeplay.cloud/anime/akane-banashi-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/05/2pZB5ThS04YRgHKgxD0mx9tiw5m-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Devil May Cry 2 (2026) Dublado",
+            "slug": "devil-may-cry-2026-dublado",
+            "url": "https://animeplay.cloud/anime/devil-may-cry-2026-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/05/dpBhVJXHWm6ApO013ZdHcINnHU8-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki Dublado",
+            "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
+            "url": "https://animeplay.cloud/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/6lNOqksJZAE4LzUs2yaqBpnZVm5-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Aishiteru Game wo Owarasetai Dublado",
+            "slug": "aishiteru-game-wo-owarasetai-dublado",
+            "url": "https://animeplay.cloud/anime/aishiteru-game-wo-owarasetai-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/kK7T8DcXKWcYfR6Kvy0ouCBjMnU-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Tsue to Tsurugi no Wistoria 2 Dublado",
+            "slug": "tsue-to-tsurugi-no-wistoria-2-dublado",
+            "url": "https://animeplay.cloud/anime/tsue-to-tsurugi-no-wistoria-2-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/cZnMdvNioymJxGM9DUISkjwKtwa-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Needy Girl Overdose Dublado",
+            "slug": "needy-girl-overdose-dublado",
+            "url": "https://animeplay.cloud/anime/needy-girl-overdose-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/05/bC6by4FdWsjG3ZesalPHRwPykeR-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Haikyuu!! Dublado",
+            "slug": "haikyuu-dublado",
+            "url": "https://animeplay.cloud/anime/haikyuu-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/05/sfrmkzwoHCnla2Tmgui3B5FFB4S-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Haikyuu!!",
+            "slug": "haikyuu",
+            "url": "https://animeplay.cloud/anime/haikyuu",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/05/6GvKbKG4hYyUE2P0QXdRCcgW4A8-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Kanojo Okarishimasu 5th Season Dublado",
+            "slug": "kanojo-okarishimasu-5th-season-dublado",
+            "url": "https://animeplay.cloud/anime/kanojo-okarishimasu-5th-season-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/w3o5wpqScVw1J3txAq8DfKv0vpR-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Marriagetoxin Dublado",
+            "slug": "marriagetoxin-dublado",
+            "url": "https://animeplay.cloud/anime/marriagetoxin-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/wXyOAIxNUFTEk9Mpj7Ca4jCibMf-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Tensei shitara Slime Datta Ken 4th Season Dublado",
+            "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado",
+            "url": "https://animeplay.cloud/anime/tensei-shitara-slime-datta-ken-4th-season-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/eboMISzbfsu9bAp4GYVa6nzDma1-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 Dublado",
+            "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
+            "url": "https://animeplay.cloud/anime/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/kD9617ZaR8rToD4G3TgsKOEs45N-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season Dublado",
+            "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado",
+            "url": "https://animeplay.cloud/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/2F7zlgOtk9z0FGn2EjOFWDjGcBP-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Stranger Things: Histórias de 85 Dublado",
+            "slug": "stranger-things-historias-de-85-dublado",
+            "url": "https://animeplay.cloud/anime/stranger-things-historias-de-85-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/zUdykEDaQrjGKnVnAAcua3kNiAG-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Shunkashuutou Daikousha: Haru no Mai Dublado",
+            "slug": "shunkashuutou-daikousha-haru-no-mai-dublado",
+            "url": "https://animeplay.cloud/anime/shunkashuutou-daikousha-haru-no-mai-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/8djjRBlmadmJkb6pmPY4orxLwml-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Kill Ao Dublado",
+            "slug": "kill-ao-dublado",
+            "url": "https://animeplay.cloud/anime/kill-ao-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/i1RaaFQUSGfx48CavoBRqeloLYb-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Dandelion Dublado",
+            "slug": "dandelion-dublado",
+            "url": "https://animeplay.cloud/anime/dandelion-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/r5Cq5wax0sQ1ModcZXWKyXF1xpy-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Dandelion",
+            "slug": "dandelion",
+            "url": "https://animeplay.cloud/anime/dandelion",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/ol5mLd4a7oEPEQD6PtaonILToow-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Tsue to Tsurugi no Wistoria 2",
+            "slug": "tsue-to-tsurugi-no-wistoria-2",
+            "url": "https://animeplay.cloud/anime/tsue-to-tsurugi-no-wistoria-2",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/cZnMdvNioymJxGM9DUISkjwKtwa-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Yozakura-san Chi no Daisakusen 2",
+            "slug": "yozakura-san-chi-no-daisakusen-2",
+            "url": "https://animeplay.cloud/anime/yozakura-san-chi-no-daisakusen-2",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/3SE2zjysB2gssErhW2QJ6Lenq5V-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          }
+        ],
+        "category": "todos",
+        "page": 5,
+        "hasMore": true,
+        "partnerId": "animeplay"
+      },
+      "at": 1784661213538
     }
   },
-  "updatedAt": 1784661210660
+  "updatedAt": 1784661213538
 }
