@@ -13883,36 +13883,12 @@
       "data": {
         "items": [
           {
-            "title": "Denpa Kyoushi – (Legendado)",
-            "slug": "60190",
-            "url": "https://www.anitube.zip/video/60190/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Denpa-Kyoushi.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Denpa Onna to Seishun Otoko – (Legendado)",
-            "slug": "60176",
-            "url": "https://www.anitube.zip/video/60176/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Denpa-Onna-to-Seishun-Otoko.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Densetsu no Yuusha no Densetsu – (Legendado)",
-            "slug": "60151",
-            "url": "https://www.anitube.zip/video/60151/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Densetsu-no-Yuusha-no-Densetsu.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
             "title": "Desert Punk – Todos os Episodio (Legendado)",
             "slug": "84831",
             "url": "https://www.anitube.zip/video/84831/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Desert-Punk.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Detective Conan (Legendado)",
@@ -13920,7 +13896,7 @@
             "url": "https://www.anitube.zip/955228b002",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-detective-conan-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Detetive Espacial Gavan",
@@ -13928,8 +13904,13 @@
             "url": "https://animesdrive.online/anime/detetive-espacial-gavan",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/07/ej48EpwFZOYXtCRgAm7if83BI1A-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "detetive-espacial-gavan"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -13948,8 +13929,13 @@
             "url": "https://animesdrive.online/anime/detetive-espacial-shaider",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/07/5i2E5PXMBQ2abYjA27dWHRy5wI2-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "detetive-espacial-shaider"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -13968,16 +13954,26 @@
             "url": "https://www.anitube.zip/video/59722/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-detroit-metal-city-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
-            "title": "Devil May Cry",
+            "title": "Devil May Cry (2025)",
             "slug": "devil-may-cry",
             "url": "https://animesdrive.online/anime/devil-may-cry",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/03/tZaO0YddJtUl6G9SD12mbriz9u9-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "devil-may-cry"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "devil-may-cry-2025"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -13987,26 +13983,6 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "devil-may-cry"
-              }
-            ]
-          },
-          {
-            "title": "Devil May Cry (2025)",
-            "slug": "devil-may-cry-2025",
-            "url": "https://animesdrive.online/anime/devil-may-cry-2025",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/i9ZQgNaeXsrKKBh6MaSYFxbGkDC-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "devil-may-cry-2025"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "devil-may-cry-2025"
               }
             ]
           },
@@ -14016,8 +13992,13 @@
             "url": "https://www.anitube.zip/video/59707/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-devil-may-cry-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "59707"
+              },
               {
                 "server": 6,
                 "provider": "anitube",
@@ -14036,8 +14017,18 @@
             "url": "https://animesdrive.online/anime/devil-may-cry-2025-dublado",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/04/40vvPZ1177Ipi6bkh00Wn2vSosI-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "devil-may-cry-2025-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1001139"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -14051,28 +14042,24 @@
             ]
           },
           {
-            "title": "Devil May Cry (2025) Dublado",
-            "slug": "1001139",
-            "url": "https://www.anitube.zip/video/1001139/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-devil-may-cry-2025-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
             "title": "Devil May Cry 2 (2026) Dublado",
             "slug": "devil-may-cry-2026-dublado",
             "url": "https://animeplay.cloud/anime/devil-may-cry-2026-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/05/dpBhVJXHWm6ApO013ZdHcINnHU8-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Devil May Cry 2 (2026) Dublado",
-            "slug": "1057663",
-            "url": "https://www.anitube.zip/video/1057663/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-devil-may-cry-2-2026-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "devil-may-cry-2026-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1057663"
+              }
+            ]
           },
           {
             "title": "Devil Survivor 2: The Animation – (Legendado)",
@@ -14080,7 +14067,7 @@
             "url": "https://www.anitube.zip/video/59653/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Devil-Survivor-2-The-Animation.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Devilman Crybaby – Todos os Episodios",
@@ -14088,8 +14075,13 @@
             "url": "https://animesdrive.online/anime/devilman-crybaby",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/06/vFIk26CGrhDrWgYkTdVqp6dZc48-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "devilman-crybaby"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -14108,7 +14100,7 @@
             "url": "https://www.anitube.zip/video/84833/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Devilman-Lady.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Devilman: Crybaby (Legendado)",
@@ -14116,7 +14108,7 @@
             "url": "https://www.anitube.zip/video/925863/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-devilman-crybaby-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Devils Line – (Legendado)",
@@ -14124,7 +14116,7 @@
             "url": "https://www.anitube.zip/video/62379/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Devils-Line.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Di Gi Charat – (Legendado)",
@@ -14132,7 +14124,7 @@
             "url": "https://www.anitube.zip/video/59614/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Di-Gi-Charat.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Diabolik Lovers – (Legendado)",
@@ -14140,7 +14132,7 @@
             "url": "https://www.anitube.zip/video/59600/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Diabolik-Lovers.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Diabolik Lovers 2 – (Legendado)",
@@ -14148,7 +14140,7 @@
             "url": "https://www.anitube.zip/video/59587/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Diabolik-Lovers-2.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Diabolik Lovers Dublado –",
@@ -14156,7 +14148,7 @@
             "url": "https://www.anitube.zip/video/84832/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Diabolik-Lovers-1.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Diamond no Ace – (Legendado)",
@@ -14164,7 +14156,7 @@
             "url": "https://www.anitube.zip/video/59483/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-diamond-no-ace-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Diamond no Ace 2 – (Legendado)",
@@ -14172,7 +14164,7 @@
             "url": "https://www.anitube.zip/video/59431/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-diamond-no-ace-2-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Diamond no Ace: Act II (Legendado)",
@@ -14180,7 +14172,7 @@
             "url": "https://www.anitube.zip/video/926134/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-diamond-no-ace-act-ii-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Dies Irae – (Legendado)",
@@ -14188,7 +14180,7 @@
             "url": "https://www.anitube.zip/video/62163/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Dies-Irae.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Digimon Adventure – (Legendado)",
@@ -14196,7 +14188,7 @@
             "url": "https://www.anitube.zip/video/59376/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-digimon-adventure-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Digimon Adventure (Dublado)",
@@ -14204,7 +14196,7 @@
             "url": "https://www.anitube.zip/video/60448/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Digimon-Adventure-poster.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Digimon Adventure 02 (Legendado)",
@@ -14212,7 +14204,7 @@
             "url": "https://www.anitube.zip/video/926318/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-digimon-adventure-02-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Digimon Adventure 2 (Dublado)",
@@ -14220,7 +14212,7 @@
             "url": "https://www.anitube.zip/video/59649/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Digimon-Adventure-2-poster.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Digimon Adventure 2020 (Legendado)",
@@ -14228,7 +14220,7 @@
             "url": "https://www.anitube.zip/video/892507/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Digimon-Adventure-2020-Todos-os-Episódios-AniTube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Digimon Adventure Tri (Legendado)",
@@ -14236,7 +14228,7 @@
             "url": "https://www.anitube.zip/video/60007/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-digimon-adventure-tri-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Digimon Adventure: 20 Shuunen Memorial Story (Legendado)",
@@ -14244,7 +14236,7 @@
             "url": "https://www.anitube.zip/video/889961/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Digimon-Adventure-20-Shuunen-Memorial-Story-Todos-os-Episódios-AniTube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Digimon Beatbreak",
@@ -14252,8 +14244,13 @@
             "url": "https://animesdrive.online/anime/digimon-beatbreak",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/xMpYdceq9QABJgeRCKgQZecUfg-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "digimon-beatbreak"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -14272,7 +14269,7 @@
             "url": "https://www.anitube.zip/video/1011661/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-digimon-beatbreak-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Digimon Data Squad (Legendado)",
@@ -14280,7 +14277,7 @@
             "url": "https://www.anitube.zip/video/76431/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-digimon-data-squad-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Digimon Frontier (Dublado)",
@@ -14288,7 +14285,7 @@
             "url": "https://www.anitube.zip/video/59647/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Digimon-Frontier.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Digimon Frontier (Legendado)",
@@ -14296,7 +14293,7 @@
             "url": "https://www.anitube.zip/video/926526/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-digimon-frontier-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Digimon Ghost Game (Legendado)",
@@ -14304,7 +14301,7 @@
             "url": "https://www.anitube.zip/video/906668/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-digimon-ghost-game-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Digimon Savers",
@@ -14312,8 +14309,13 @@
             "url": "https://animesdrive.online/anime/digimon-savers",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/09/kf0ByV62axMjsVPH24TqIokQkgF-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "digimon-savers"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -14332,7 +14334,7 @@
             "url": "https://www.anitube.zip/video/59163/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Digimon-Savers-Digimon-Data-Squad.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Digimon Tamers (Dublado) –",
@@ -14340,7 +14342,7 @@
             "url": "https://www.anitube.zip/video/58979/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Digimon-Tamers.png",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Digimon Tamers (Legendado)",
@@ -14348,7 +14350,7 @@
             "url": "https://www.anitube.zip/video/76377/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Digimon-Tamers-categoria.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Digimon Universe: Appli Monsters (Legendado)",
@@ -14356,7 +14358,7 @@
             "url": "https://www.anitube.zip/video/76044/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-digimon-universe-appli-monsters-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Digimon Xros Wars",
@@ -14364,8 +14366,13 @@
             "url": "https://animesdrive.online/anime/digimon-xros-wars",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/09/v2y0eYhTepOG5gD2qfl4T5CycnH-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "digimon-xros-wars"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -14384,7 +14391,91 @@
             "url": "https://www.anitube.zip/video/927000/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Digimon-Xros-Wars-categoria1.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
+          },
+          {
+            "title": "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku (Legendado)",
+            "slug": "927058",
+            "url": "https://www.anitube.zip/video/927058/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-digimon-xros-wars-aku-no-death-general-to-nanatsu-no-oukoku-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Digimon Xros Wars: Toki wo Kakeru Shounen Hunter-tachi (Legendado)",
+            "slug": "58518",
+            "url": "https://www.anitube.zip/video/58518/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-digimon-xros-wars-toki-wo-kakeru-shounen-hunter-tachi-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Dimension W (Legendado)",
+            "slug": "58517",
+            "url": "https://www.anitube.zip/video/58517/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Dimension-W.jpg",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesdrive.online/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              }
+            ]
+          },
+          {
+            "title": "Uzumaki – Todos os Episódios",
+            "slug": "uzumaki",
+            "url": "https://animesdrive.online/anime/uzumaki",
+            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "uzumaki"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "uzumaki"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -14393,7 +14484,7 @@
         "warning": "Catálogo salvo (há ~33d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
-        "total": 1576,
+        "total": 1530,
         "cachedAt": 1781739769633,
         "aocCircuitOpen": false,
         "aocReachable": false,
@@ -14412,7 +14503,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784582940591,
+          "lastProbeAt": 1784597342575,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -14439,7 +14530,7 @@
           "fixHint": null
         }
       },
-      "at": 1784582942672
+      "at": 1784597375740
     },
     "todos|13||120": {
       "data": {
@@ -41622,7 +41713,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784568622167
+      "at": 1784597375603
     },
     "partner:animesdigital|todos|13||48": {
       "data": {
@@ -41727,7 +41818,7 @@
             "title": "naruto movie 3 dai koufun mikazuki jima no animaru panic dattebayo",
             "slug": "naruto-movie-3-dai-koufun-mikazuki-jima-no-animaru-panic-dattebayo",
             "url": "https://animesdigital.org/anime/a/naruto-movie-3-dai-koufun-mikazuki-jima-no-animaru-panic-dattebayo",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/Naruto-filme-3.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41735,7 +41826,7 @@
             "title": "naruto sd rock lee",
             "slug": "naruto-sd-rock-lee",
             "url": "https://animesdigital.org/anime/a/naruto-sd-rock-lee",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-naruto-sd-rock-lee-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41743,7 +41834,7 @@
             "title": "naruto shippuden movie 3 hi no ishi wo tsugu mono",
             "slug": "naruto-shippuden-movie-3-hi-no-ishi-wo-tsugu-mono",
             "url": "https://animesdigital.org/anime/a/naruto-shippuden-movie-3-hi-no-ishi-wo-tsugu-mono",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/Naruto-Shippuden-filme-3.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41751,7 +41842,7 @@
             "title": "naruto shippuden movie 3 hi no ishi wo tsugu mono 2",
             "slug": "naruto-shippuden-movie-3-hi-no-ishi-wo-tsugu-mono-2",
             "url": "https://animesdigital.org/anime/a/naruto-shippuden-movie-3-hi-no-ishi-wo-tsugu-mono-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/Naruto-Shippuden-filme-3.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41759,7 +41850,7 @@
             "title": "naruto shippuden movie 4 the lost tower",
             "slug": "naruto-shippuden-movie-4-the-lost-tower",
             "url": "https://animesdigital.org/anime/a/naruto-shippuden-movie-4-the-lost-tower",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/Naruto-Shippuden-filme-4.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41767,7 +41858,7 @@
             "title": "naruto shippuden movie 4 the lost tower 2",
             "slug": "naruto-shippuden-movie-4-the-lost-tower-2",
             "url": "https://animesdigital.org/anime/a/naruto-shippuden-movie-4-the-lost-tower-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/Naruto-Shippuden-filme-4.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41775,7 +41866,7 @@
             "title": "naruto shippuden movie 5 blood prison",
             "slug": "naruto-shippuden-movie-5-blood-prison",
             "url": "https://animesdigital.org/anime/a/naruto-shippuden-movie-5-blood-prison",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/Naruto-Shippuden-filme-5.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41783,7 +41874,7 @@
             "title": "naruto shippuden movie 5 blood prison 2",
             "slug": "naruto-shippuden-movie-5-blood-prison-2",
             "url": "https://animesdigital.org/anime/a/naruto-shippuden-movie-5-blood-prison-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/Naruto-Shippuden-filme-5.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41791,7 +41882,7 @@
             "title": "naruto shippuden movie 6 road to ninja",
             "slug": "naruto-shippuden-movie-6-road-to-ninja",
             "url": "https://animesdigital.org/anime/a/naruto-shippuden-movie-6-road-to-ninja",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/Naruto-Shippuden-filme-6.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41799,7 +41890,7 @@
             "title": "naruto shippuden movie 6 road to ninja 2",
             "slug": "naruto-shippuden-movie-6-road-to-ninja-2",
             "url": "https://animesdigital.org/anime/a/naruto-shippuden-movie-6-road-to-ninja-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/Naruto-Shippuden-filme-6.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41807,7 +41898,7 @@
             "title": "naruto shippuden pt br",
             "slug": "naruto-shippuden-pt-br",
             "url": "https://animesdigital.org/anime/a/naruto-shippuden-pt-br",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/Naruto-Shippuden-dublado.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41815,7 +41906,7 @@
             "title": "naruto shippuden the last",
             "slug": "naruto-shippuden-the-last",
             "url": "https://animesdigital.org/anime/a/naruto-shippuden-the-last",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/08/Naruto-Shippuden-filme-7.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41919,7 +42010,7 @@
             "title": "dr stone dublado",
             "slug": "dr-stone-dublado",
             "url": "https://animesdigital.org/anime/a/dr-stone-dublado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-dr-stone-dublado-dublado-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41943,7 +42034,7 @@
             "title": "bleach sennen kessen hen ketsubetsu tan dublado",
             "slug": "bleach-sennen-kessen-hen-ketsubetsu-tan-dublado",
             "url": "https://animesdigital.org/anime/a/bleach-sennen-kessen-hen-ketsubetsu-tan-dublado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2024/01/assistir-bleach-sennen-kessen-hen-ketsubetsu-tan-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -42017,7 +42108,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1784568623095
+      "at": 1784597376556
     },
     "partner:animeplay|todos|13||48": {
       "data": {
@@ -42067,6 +42158,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Jujutsu Kaisen Dublado",
+            "slug": "jujutsu-kaisen-dublado",
+            "url": "https://animeplay.cloud/anime/jujutsu-kaisen-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/mGPwEkHxyErWoX7Z1sk2YuOKtQ8-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -42253,14 +42352,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/2CBMtiqU90SrcGN0aopRIHmTb5E-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Radiant 2 Dublado",
-            "slug": "radiant-2-dublado",
-            "url": "https://animeplay.cloud/anime/radiant-2-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/sPv6FNe5tdqPBAz3Fo1tNDKmBA0-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -42268,7 +42359,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784568623392
+      "at": 1784597377158
     },
     "partner:animesdrive|todos|13||48": {
       "data": {
@@ -94120,7 +94211,162 @@
         "partnerId": "animesdrive"
       },
       "at": 1784568866527
+    },
+    "partner:anitube|todos|13||48": {
+      "data": {
+        "items": [
+          {
+            "title": "Ashita no Joe 2 (Legendado)",
+            "slug": "66168",
+            "url": "https://www.anitube.zip/video/66168/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Ashita-no-Joe-2.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Ashita no Nadja (Dublado)",
+            "slug": "66090",
+            "url": "https://www.anitube.zip/video/66090/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Ashita-no-Nadja.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Asobi Asobase (Legendado)",
+            "slug": "78828",
+            "url": "https://www.anitube.zip/video/78828/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Asobi-Asobase.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Asobi ni Iku yo! (Legendado)",
+            "slug": "66038",
+            "url": "https://www.anitube.zip/video/66038/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Asobi-ni-Iku-yo.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Assassins Pride (Legendado)",
+            "slug": "882107",
+            "url": "https://www.anitube.zip/video/882107/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Assassins-Pride-Todos-os-Episódios.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Assault Lily: Bouquet (Legendado)",
+            "slug": "897268",
+            "url": "https://www.anitube.zip/video/897268/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Assault-Lily-Bouquet-Todos-os-Episódios-AniTube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Astarotte No Omocha (Legendado)",
+            "slug": "885002",
+            "url": "https://www.anitube.zip/video/885002/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Astarotte-No-Omocha.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Astro Note (Legendado)",
+            "slug": "986525",
+            "url": "https://www.anitube.zip/video/986525/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-astro-note-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Asu no Yoichi! (Legendado)",
+            "slug": "66024",
+            "url": "https://www.anitube.zip/video/66024/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Asu-no-Yoichi.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Asura Cryin’ (Legendado)",
+            "slug": "65982",
+            "url": "https://www.anitube.zip/video/65982/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Asura-Cryin.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Asura Cryin’ 2 (Legendado)",
+            "slug": "65968",
+            "url": "https://www.anitube.zip/video/65968/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Asura-Cryin-2.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Atarashii Joushi wa Do Tennen (Legendado)",
+            "slug": "936217",
+            "url": "https://www.anitube.zip/video/936217/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-atarashii-joushi-wa-do-tennen-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Atelier Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi (Legendado)",
+            "slug": "57596",
+            "url": "https://www.anitube.zip/video/57596/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Escha-Logy-no-Atelier.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Atom: The Beginning (Legendado)",
+            "slug": "65925",
+            "url": "https://www.anitube.zip/video/65925/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Atom-The.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Atri: My Dear Moments (Legendado)",
+            "slug": "989967",
+            "url": "https://www.anitube.zip/video/989967/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-atri-my-dear-moments-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Avatar: A Lenda de Aang – Dublado",
+            "slug": "944747",
+            "url": "https://www.anitube.zip/video/944747/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-avatar-a-lenda-de-aang-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Avatar: A Lenda de Korra Livro 1 – Dublado",
+            "slug": "944810",
+            "url": "https://www.anitube.zip/video/944810/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-avatar-a-lenda-de-korra-livro-1-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Avatar: A Lenda de Korra Livro 2 – Dublado",
+            "slug": "944824",
+            "url": "https://www.anitube.zip/video/944824/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-avatar-a-lenda-de-korra-livro-2-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          }
+        ],
+        "category": "todos",
+        "page": 13,
+        "hasMore": true,
+        "partnerId": "anitube"
+      },
+      "at": 1784597376067
     }
   },
-  "updatedAt": 1784597373673
+  "updatedAt": 1784597377158
 }
