@@ -74582,7 +74582,19 @@
             "url": "https://animeplay.cloud/anime/beastars-o-lobo-bom-dublado-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/lQwFRcAhtzFzMCx66RC0tRJxpZr.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "beastars-o-lobo-bom-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "beastars-o-lobo-bom-dublado"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -74590,7 +74602,7 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1529,
+        "total": 1528,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -74610,7 +74622,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784597432777,
+          "lastProbeAt": 1784626236978,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -74636,9 +74648,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784568704047
+        "cachedAt": 1784597451100
       },
-      "at": 1784597451100
+      "at": 1784626247554
     },
     "partner:anitube|todos|35||48": {
       "data": {
@@ -74793,7 +74805,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784597451988
+      "at": 1784626248405
     },
     "partner:animeplay|todos|35||48": {
       "data": {
@@ -75044,7 +75056,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784597452750
+      "at": 1784626249048
     },
     "partner:animesdrive|todos|35||48": {
       "data": {
@@ -109776,5 +109788,5 @@
       "at": 1784626187489
     }
   },
-  "updatedAt": 1784626244469
+  "updatedAt": 1784626249048
 }
