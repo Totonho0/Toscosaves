@@ -70018,26 +70018,6 @@
       "data": {
         "items": [
           {
-            "title": "Tower of God 2 Dublado- Todos os Episódios",
-            "slug": "tower-of-god-2-dublado",
-            "url": "https://animeplay.cloud/anime/tower-of-god-2-dublado-todos-os-episodios",
-            "poster": "https://image.tmdb.org/t/p/original/7khzDTwE4Ng5UvXi43Dbndoioab.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "tower-of-god-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "tower-of-god-2-dublado"
-              }
-            ]
-          },
-          {
             "title": "Tower of God Dublado – Todos os Episódios",
             "slug": "tower-of-god-dublado",
             "url": "https://animeplay.cloud/anime/tower-of-god-dublado-todos-os-episodios",
@@ -70761,6 +70741,31 @@
                 "slug": "x-men-97"
               }
             ]
+          },
+          {
+            "title": "Xian Wang de Richang Shenghuo 5",
+            "slug": "xian-wang-de-richang-shenghuo-5",
+            "url": "https://animesdrive.online/anime/xian-wang-de-richang-shenghuo-5",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/12/8A5mtoPZgYeg1AfIHqy5nhsNvCe-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "xian-wang-de-richang-shenghuo-5"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "xian-wang-de-richang-shenghuo-5"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "xian-wang-de-richang-shenghuo-5"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -70768,7 +70773,7 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1529,
+        "total": 1528,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -70788,7 +70793,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784611744874,
+          "lastProbeAt": 1784626146973,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -70814,9 +70819,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784597437238
+        "cachedAt": 1784611746727
       },
-      "at": 1784611746727
+      "at": 1784626233644
     },
     "partner:anitube|todos|32||48": {
       "data": {
@@ -70971,7 +70976,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784597438076
+      "at": 1784626233986
     },
     "partner:animeplay|todos|32||48": {
       "data": {
@@ -71214,7 +71219,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784597438687
+      "at": 1784626235201
     },
     "todos|32||120": {
       "data": {
@@ -109740,5 +109745,5 @@
       "at": 1784626187489
     }
   },
-  "updatedAt": 1784626230507
+  "updatedAt": 1784626235201
 }
