@@ -11435,7 +11435,7 @@
       }
     },
     "bang-dream-yume∞mita": {
-      "at": 1784568054766,
+      "at": 1784628454832,
       "data": {
         "slug": "bang-dream-yume∞mita",
         "title": "BanG Dream! YUME∞MITA",
@@ -11445,32 +11445,32 @@
           {
             "number": 1,
             "title": "Episódio 01 - Tipo Mew",
-            "url": "https://animesonline.cloud/episodio/bang-dream-yume%e2%88%9emita-episodio-01"
+            "url": "https://animesdrive.online/episodio/bang-dream-yume%e2%88%9emita-episodio-01"
           },
           {
             "number": 2,
             "title": "Episódio 02 - Beijooo",
-            "url": "https://animesonline.cloud/episodio/bang-dream-yume%e2%88%9emita-episodio-02"
+            "url": "https://animesdrive.online/episodio/bang-dream-yume%e2%88%9emita-episodio-02"
           },
           {
             "number": 3,
             "title": "Episódio 03 - Faça Como Quiser",
-            "url": "https://animesonline.cloud/episodio/bang-dream-yume%e2%88%9emita-episodio-03"
+            "url": "https://animesdrive.online/episodio/bang-dream-yume%e2%88%9emita-episodio-03"
           },
           {
             "number": 4,
             "title": "Episódio 04 - Pode Ser Divertido",
-            "url": "https://animesonline.cloud/episodio/bang-dream-yume%e2%88%9emita-episodio-04"
+            "url": "https://animesdrive.online/episodio/bang-dream-yume%e2%88%9emita-episodio-04"
           },
           {
             "number": 5,
             "title": "Episódio 05 - Socorro !",
-            "url": "https://animesonline.cloud/episodio/bang-dream-yume%e2%88%9emita-episodio-05"
+            "url": "https://animesdrive.online/episodio/bang-dream-yume%e2%88%9emita-episodio-05"
           }
         ],
         "totalEpisodes": 5,
         "kind": "anime",
-        "provider": "aoc",
+        "provider": "animesdrive",
         "genres": [
           "Legendado",
           "Dublado",
@@ -25875,7 +25875,24 @@
           "Ação",
           "Aventura",
           "Comédia"
-        ]
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "black-clover",
+              "title": "Black Clover",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "black-clover-dublado",
+              "title": "Black Clover Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     }
   }
