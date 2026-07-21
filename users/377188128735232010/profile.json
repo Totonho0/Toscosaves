@@ -578,6 +578,13 @@
       "poster": "https://www.pobreflix.host/wp-content/uploads/2026/01/pobreflix-Oficial-1.png",
       "kind": "serie",
       "adult": false
+    },
+    "11814-": {
+      "slug": "11814-",
+      "title": "Pobreflix Online",
+      "poster": "https://www.pobreflix.host/wp-content/uploads/2026/01/pobreflix-Oficial-1.png",
+      "kind": "serie",
+      "adult": false
     }
   },
   "watched": {
@@ -932,9 +939,17 @@
     ],
     "10091-wednesday": [
       1
+    ],
+    "11814-": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "11814-",
+      "ep": 1,
+      "at": 1784663125868
+    },
     {
       "slug": "10091-wednesday",
       "ep": 1,
@@ -1676,5 +1691,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784663113315
+  "updatedAt": 1784663125961
 }
