@@ -5314,6 +5314,64 @@
           }
         }
       }
+    },
+    "afro-samurai": {
+      "at": 1784663216951,
+      "data": {
+        "slug": "afro-samurai",
+        "title": "Afro Samurai – Todos os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avb3JpZ2luYWwvNE1nSTRzcDVoTGR6NFpaOU9pZVlqSGs3eTVOLmpwZw",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 2,
+            "title": "Episódio 02 - O Leitor de Sonhos",
+            "url": "https://animesdrive.online/episodio/afro-samurai-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - O Clã dos Sete Vazios",
+            "url": "https://animesdrive.online/episodio/afro-samurai-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Duelo",
+            "url": "https://animesdrive.online/episodio/afro-samurai-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Justiça",
+            "url": "https://animesdrive.online/episodio/afro-samurai-episodio-05"
+          }
+        ],
+        "totalEpisodes": 4,
+        "kind": "anime",
+        "provider": "animesdrive",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Ação e Aventura",
+          "Animação",
+          "Drama"
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "afro-samurai",
+              "title": "Afro Samurai – Todos os Episódios",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "67043",
+              "title": "Afro Samurai – (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            }
+          }
+        }
+      }
     }
   }
 }
