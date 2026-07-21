@@ -71225,31 +71225,6 @@
       "data": {
         "items": [
           {
-            "title": "Xian Wang de Richang Shenghuo 5",
-            "slug": "xian-wang-de-richang-shenghuo-5",
-            "url": "https://animesdrive.online/anime/xian-wang-de-richang-shenghuo-5",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/12/8A5mtoPZgYeg1AfIHqy5nhsNvCe-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "xian-wang-de-richang-shenghuo-5"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "xian-wang-de-richang-shenghuo-5"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "xian-wang-de-richang-shenghuo-5"
-              }
-            ]
-          },
-          {
             "title": "Yamato yo Towa ni Rebel 3199",
             "slug": "yamato-yo-towa-ni-rebel-3199",
             "url": "https://animeplay.cloud/anime/yamato-yo-towa-ni-rebel-3199",
@@ -71876,14 +71851,70 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/kwV4MylQoDhz14Qd54z3Hq4qppf-185x278.jpg",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animeplay.cloud/anime/one-piece",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animeplay.cloud/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Uzumaki – Todos os Episódios",
+            "slug": "uzumaki",
+            "url": "https://animeplay.cloud/anime/uzumaki",
+            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Hitoribocchi no Isekai Kouryaku",
+            "slug": "hitoribocchi-no-isekai-kouryaku",
+            "url": "https://animeplay.cloud/anime/hitoribocchi-no-isekai-kouryaku",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Maou-sama, Retry! 2 – Todos os Episódios",
+            "slug": "maou-sama-retry",
+            "url": "https://animeplay.cloud/anime/maou-sama-retry-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
+            "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+            "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Garo: Hagane o Tsugu Mono – Todos os Episódios",
+            "slug": "garo-hagane-o-tsugu-mono",
+            "url": "https://animeplay.cloud/anime/garo-hagane-o-tsugu-mono-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/w185/oqjraYBocSMkyj7UY5SnuoFUDAv.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
           }
         ],
         "category": "todos",
         "page": 32,
-        "hasMore": false,
+        "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1529,
+        "total": 1528,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -71903,7 +71934,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784611744874,
+          "lastProbeAt": 1784626146973,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -71929,9 +71960,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784597441914
+        "cachedAt": 1784611746917
       },
-      "at": 1784611746917
+      "at": 1784626238350
     },
     "partner:anitube|todos|33||48": {
       "data": {
@@ -72086,7 +72117,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784597442250
+      "at": 1784626238701
     },
     "partner:animeplay|todos|33||48": {
       "data": {
@@ -72305,7 +72336,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784597443407
+      "at": 1784626239647
     },
     "todos|33||120": {
       "data": {
@@ -109745,5 +109776,5 @@
       "at": 1784626187489
     }
   },
-  "updatedAt": 1784626235201
+  "updatedAt": 1784626239647
 }
