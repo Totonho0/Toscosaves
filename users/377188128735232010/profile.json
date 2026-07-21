@@ -153,8 +153,7 @@
       "slug": "black-clover",
       "title": "Black Clover",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9qSEg0am1XV21ZV3BveHBHd01ZTTVScUpudm8uanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "does-it-count-if-you-lose-your-virginity-to-an-android": {
       "slug": "does-it-count-if-you-lose-your-virginity-to-an-android",
@@ -565,7 +564,8 @@
       1
     ],
     "black-clover-dublado": [
-      170
+      170,
+      1
     ],
     "darwin-jihen-dublado": [
       1
@@ -870,73 +870,78 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "maou-sama-retry",
+      "ep": 1,
+      "at": 1784628895547
+    },
+    {
+      "slug": "tongari-boushi-no-atelier-dublado",
+      "ep": 3,
+      "at": 1784628895547
+    },
+    {
+      "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
+      "ep": 1,
+      "at": 1784628895547
+    },
+    {
+      "slug": "darwin-jihen-dublado",
+      "ep": 1,
+      "at": 1784628895547
+    },
+    {
+      "slug": "chainsmoker-cat",
+      "ep": 1,
+      "at": 1784628895547
+    },
+    {
+      "slug": "sword-art-online-2-dublado",
+      "ep": 1,
+      "at": 1784628895547
+    },
+    {
+      "slug": "azumanga-daioh",
+      "ep": 1,
+      "at": 1784628895547
+    },
+    {
+      "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season",
+      "ep": 3,
+      "at": 1784628895547
+    },
+    {
+      "slug": "black-clover",
+      "ep": 1,
+      "at": 1784628895547
+    },
+    {
+      "slug": "black-clover-dublado",
+      "ep": 1,
+      "at": 1784628895547
+    },
+    {
+      "slug": "1062030",
+      "ep": 2,
+      "at": 1784628895547
+    },
+    {
+      "slug": "67043",
+      "ep": 1,
+      "at": 1784628895547
+    },
+    {
+      "slug": "8029",
+      "ep": 1,
+      "at": 1784628895547
+    },
+    {
       "slug": "black-clover-dublado",
       "ep": 2,
       "at": 1784628848906
     },
     {
-      "slug": "maou-sama-retry",
-      "ep": 1,
-      "at": 1784628719335
-    },
-    {
-      "slug": "tongari-boushi-no-atelier-dublado",
-      "ep": 3,
-      "at": 1784628719335
-    },
-    {
       "slug": "black-clover-dublado",
       "ep": 170,
-      "at": 1784628719335
-    },
-    {
-      "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
-      "ep": 1,
-      "at": 1784628719335
-    },
-    {
-      "slug": "darwin-jihen-dublado",
-      "ep": 1,
-      "at": 1784628719335
-    },
-    {
-      "slug": "chainsmoker-cat",
-      "ep": 1,
-      "at": 1784628719335
-    },
-    {
-      "slug": "sword-art-online-2-dublado",
-      "ep": 1,
-      "at": 1784628719335
-    },
-    {
-      "slug": "azumanga-daioh",
-      "ep": 1,
-      "at": 1784628719335
-    },
-    {
-      "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season",
-      "ep": 3,
-      "at": 1784628719335
-    },
-    {
-      "slug": "black-clover",
-      "ep": 1,
-      "at": 1784628719335
-    },
-    {
-      "slug": "1062030",
-      "ep": 2,
-      "at": 1784628719335
-    },
-    {
-      "slug": "67043",
-      "ep": 1,
-      "at": 1784628719335
-    },
-    {
-      "slug": "8029",
-      "ep": 1,
       "at": 1784628719335
     },
     {
@@ -1153,11 +1158,6 @@
       "slug": "76853",
       "ep": 1,
       "at": 1784066375936
-    },
-    {
-      "slug": "black-clover-dublado",
-      "ep": 1,
-      "at": 1783971080097
     },
     {
       "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado",
@@ -1564,5 +1564,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784628869730
+  "updatedAt": 1784628895227
 }
