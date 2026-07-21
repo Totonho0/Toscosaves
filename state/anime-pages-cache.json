@@ -5579,6 +5579,84 @@
         "provider": "anitube"
       }
     },
+    "946662": {
+      "at": 1784627086668,
+      "data": {
+        "slug": "946662",
+        "title": "Black Clover (Dublado)",
+        "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWJsYWNrLWNsb3Zlci1kdWJsYWRvLWR1YmxhZG8tdG9kb3Mtb3MtZXBpc29kaW9zLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pdHViZS5qcGc",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 81,
+            "title": "Black Clover (Dublado) – Episódio 081",
+            "url": "https://www.anitube.zip/video/946736b",
+            "videoId": "946736b"
+          },
+          {
+            "number": 82,
+            "title": "Black Clover (Dublado) – Episódio 082",
+            "url": "https://www.anitube.zip/video/946735b",
+            "videoId": "946735b"
+          },
+          {
+            "number": 84,
+            "title": "Black Clover (Dublado) – Episódio 084",
+            "url": "https://www.anitube.zip/video/946733b",
+            "videoId": "946733b"
+          },
+          {
+            "number": 139,
+            "title": "Black Clover (Dublado) – Episódio 139",
+            "url": "https://www.anitube.zip/video/946678b",
+            "videoId": "946678b"
+          }
+        ],
+        "totalEpisodes": 4,
+        "kind": "anime",
+        "provider": "anitube",
+        "animeSources": [
+          {
+            "server": 1,
+            "provider": "aoc",
+            "slug": "946662"
+          },
+          {
+            "server": 6,
+            "provider": "anitube",
+            "slug": "946662"
+          },
+          {
+            "server": 6,
+            "provider": "anitube",
+            "slug": "881270"
+          }
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "black-clover",
+              "title": "Black Clover – Todos os Episódios",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "922867",
+              "title": "Black Clover (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "946662",
+              "title": "Black Clover (Dublado)",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
+    },
     "972123": {
       "at": 1784568503840,
       "data": {
