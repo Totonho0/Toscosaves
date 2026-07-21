@@ -25996,6 +25996,56 @@
           }
         }
       }
+    },
+    "black-torch": {
+      "at": 1784657404559,
+      "data": {
+        "slug": "black-torch",
+        "title": "Black Torch",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xaU9uSVNWb2VsMnNuWWR4dWJkVEFaalk4WUUuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - O futuro está em nossas mãos.",
+            "url": "https://animesonline.cloud/episodio/black-torch-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - A escolha é sua.",
+            "url": "https://animesonline.cloud/episodio/black-torch-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "aoc",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Ação",
+          "Animação",
+          "Aventura",
+          "Mistério",
+          "Sci-Fi"
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "black-torch",
+              "title": "Black Torch",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "black-torch-dublado",
+              "title": "Black Torch Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
     }
   }
 }
