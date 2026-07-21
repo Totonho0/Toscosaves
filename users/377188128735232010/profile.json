@@ -571,6 +571,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91bEJHYXhxOUdtSmV4eUVPaTRYY2k3NGc2VnQuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "10091-wednesday": {
+      "slug": "10091-wednesday",
+      "title": "Pobreflix Online",
+      "poster": "https://www.pobreflix.host/wp-content/uploads/2026/01/pobreflix-Oficial-1.png",
+      "kind": "serie",
+      "adult": false
     }
   },
   "watched": {
@@ -922,9 +929,17 @@
     ],
     "stranger-things-historias-de-85-dublado": [
       1
+    ],
+    "10091-wednesday": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "10091-wednesday",
+      "ep": 1,
+      "at": 1784663094067
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -1661,5 +1676,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784663051861
+  "updatedAt": 1784663094156
 }
