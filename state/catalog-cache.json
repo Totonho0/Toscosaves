@@ -16980,7 +16980,24 @@
             "url": "https://animeplay.cloud/anime/one-piece",
             "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "one-piece"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           },
           {
             "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
@@ -16988,7 +17005,24 @@
             "url": "https://animeplay.cloud/anime/nageki-no-bourei-wa-intai-shitai",
             "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              }
+            ]
           },
           {
             "title": "Uzumaki – Todos os Episódios",
@@ -16996,7 +17030,24 @@
             "url": "https://animeplay.cloud/anime/uzumaki",
             "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "uzumaki"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "uzumaki"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "uzumaki"
+              }
+            ]
           },
           {
             "title": "Hitoribocchi no Isekai Kouryaku",
@@ -17004,7 +17055,24 @@
             "url": "https://animeplay.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              }
+            ]
           },
           {
             "title": "Maou-sama, Retry! 2 – Todos os Episódios",
@@ -17012,7 +17080,24 @@
             "url": "https://animeplay.cloud/anime/maou-sama-retry-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "maou-sama-retry"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "maou-sama-retry"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "maou-sama-retry"
+              }
+            ]
           },
           {
             "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
@@ -17020,7 +17105,24 @@
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              }
+            ]
           },
           {
             "title": "Game Center Shoujo to Ibunka Kouryuu",
@@ -17028,7 +17130,7 @@
             "url": "https://animeplay.cloud/anime/game-center-shoujo-to-ibunka-kouryuu",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/zDwWyorWWm7OOCsOHcXidWHpaIr-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Nyaight of the Living Cat",
@@ -17036,7 +17138,7 @@
             "url": "https://animeplay.cloud/anime/nyaight-of-the-living-cat",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/xaiHM6xiEAcjuBSww2rUZ3ZaQM-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Busamen Gachi Fighter",
@@ -17044,7 +17146,7 @@
             "url": "https://animeplay.cloud/anime/busamen-gachi-fighter",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/tuOXsK63UNldWDNiWXZrajWRcyL-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
@@ -17052,7 +17154,7 @@
             "url": "https://animeplay.cloud/anime/isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/nrd2DMbn39Usv9Lp5LpHh67yVAN-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Ruri no Houseki",
@@ -17060,7 +17162,7 @@
             "url": "https://animeplay.cloud/anime/ruri-no-houseki",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/6uOEjCO4Zl4up30zWGjsO2nXeWV-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Hotel Inhumans",
@@ -17068,7 +17170,7 @@
             "url": "https://animeplay.cloud/anime/hotel-inhumans",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/6ZHkFKJekNYADTByu3QI7vJaUbC-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Hikaru ga Shinda Natsu",
@@ -17076,7 +17178,7 @@
             "url": "https://animeplay.cloud/anime/hikaru-ga-shinda-natsu",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/4sxpBwpZVjQZ4sSonqmoGaae1ay-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
@@ -17084,7 +17186,7 @@
             "url": "https://animeplay.cloud/anime/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/ce56jplr0r7pTZl3Rn4uXn18r9u-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Ultraman Omega",
@@ -17092,7 +17194,7 @@
             "url": "https://animeplay.cloud/anime/ultraman-omega",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/aIwc1CLT66eI1HEZtL32MYePmh4-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Bad Girl",
@@ -17100,7 +17202,7 @@
             "url": "https://animeplay.cloud/anime/badgirl",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/ovE3txsuLdvpIPWpG4WodlkWXGi-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Ame to Kimi to",
@@ -17108,7 +17210,7 @@
             "url": "https://animeplay.cloud/anime/ame-to-kimi-to",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/oCzIdh0j3s2Rh0KvfdbQ0MAwnr0-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Fermat no Ryouri",
@@ -17116,7 +17218,7 @@
             "url": "https://animeplay.cloud/anime/fermat-no-ryouri",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/22T1A22tDMYG0SMEAiQqmCZrIQw-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Kizetsu Yuusha to Ansatsu Hime",
@@ -17124,7 +17226,7 @@
             "url": "https://animeplay.cloud/anime/the-shy-hero-and-the-assassin-princesses",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/qdQBSwOUD99BvnBiOJ0RvnR5Oz8-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
@@ -17132,7 +17234,7 @@
             "url": "https://animeplay.cloud/anime/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/kwV4MylQoDhz14Qd54z3Hq4qppf-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Kaoru Hana wa Rin to Saku",
@@ -17140,7 +17242,7 @@
             "url": "https://animeplay.cloud/anime/kaoru-hana-wa-rin-to-saku",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/06/khxkciCkPVG1c7R00vNZFxqgqFE-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru",
@@ -17148,7 +17250,7 @@
             "url": "https://animeplay.cloud/anime/yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/nE1roPkXMjTpGNSuN1mjWsm9DNN-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "SilverHawks",
@@ -17156,7 +17258,7 @@
             "url": "https://animeplay.cloud/anime/silverhawks",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/mOEWtpkuqNMfY9c2UcWEIDQzo0o-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Arknights: Reimei Zensou",
@@ -17164,7 +17266,7 @@
             "url": "https://animeplay.cloud/anime/arknights-reimei-zensou",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/kRaE0uUaINUSFBd14gFSzhzB25l-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Watari-kun no xx ga Houkai Sunzen",
@@ -17172,7 +17274,7 @@
             "url": "https://animeplay.cloud/anime/watari-kun-no-xx-ga-houkai-sunzen",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/3WvPzs9EbizKgoAoZbKnvleu1S5-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Busu ni Hanataba wo.",
@@ -17180,7 +17282,7 @@
             "url": "https://animeplay.cloud/anime/busu-ni-hanataba-wo",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/m1OK9bwr1ukQa46QxfzRWIFHQ8L-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Mizu Zokusei no Mahoutsukai",
@@ -17188,7 +17290,7 @@
             "url": "https://animeplay.cloud/anime/the-water-magician",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/qYK9kCN23Lrg9jcPh1QDBL0PeWw-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tsuihousha Shokudou e Youkoso!",
@@ -17196,7 +17298,7 @@
             "url": "https://animeplay.cloud/anime/tsuihousha-shokudou-e-youkoso",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/1IJigiaXgp8qvjwlRVFYhP71z8Q-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Onmyo Kaiten Re:Birth Verse",
@@ -17204,7 +17306,7 @@
             "url": "https://animeplay.cloud/anime/onmyo-kaiten-rebirth-verse",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/gjXTpi4ENSkf69jtNlShoM3TdUe-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tsuyokute New Saga",
@@ -17212,13 +17314,373 @@
             "url": "https://animeplay.cloud/anime/tsuyokute-new-saga",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/7WAVcPVqdLK9whw75A7z6qeiuCg-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
+          },
+          {
+            "title": "Fruits Basket 2",
+            "slug": "fruits-basket-2",
+            "url": "https://animesdrive.online/anime/fruits-basket-2",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/bvE9TkoKDjITjMAFUHLUAJzD3JS-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "fruits-basket-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "fruits-basket-2"
+              }
+            ]
+          },
+          {
+            "title": "Fruits Basket (2019) Dublado",
+            "slug": "fruits-basket-2019-dublado",
+            "url": "https://animesdrive.online/anime/fruits-basket-2019-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/wqgCfhDsmDu1hvxJpDiGtGwKlWF-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "fruits-basket-2019-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "fruits-basket-2019-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Muchuu sa Kimi ni.",
+            "slug": "muchuu-sa-kimi-ni",
+            "url": "https://animesdrive.online/anime/muchuu-sa-kimi-ni",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/2WmvAUl9sJDxC9VGgqRQXqsE1tB-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "muchuu-sa-kimi-ni"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "muchuu-sa-kimi-ni"
+              }
+            ]
+          },
+          {
+            "title": "Sword Art Online: Alicization – War of Underworld 2 Dublado",
+            "slug": "sword-art-online-alicization-war-of-underworld-2-dublado",
+            "url": "https://animesdrive.online/anime/sword-art-online-alicization-war-of-underworld-2-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/i86Z8hcSHPRrplRgbNUGjmUbjEZ-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sword-art-online-alicization-war-of-underworld-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sword-art-online-alicization-war-of-underworld-2-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Sword Art Online: Alicization – War of Underworld 2",
+            "slug": "sword-art-online-alicization-war-of-underworld-2",
+            "url": "https://animesdrive.online/anime/sword-art-online-alicization-war-of-underworld-2",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/LiC6RQb4HU7aBLw6vYQYzhuqX0-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sword-art-online-alicization-war-of-underworld-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sword-art-online-alicization-war-of-underworld-2"
+              }
+            ]
+          },
+          {
+            "title": "Sword Art Online: Alicization – War of Underworld Dublado",
+            "slug": "sword-art-online-alicization-war-of-underworld-dublado",
+            "url": "https://animesdrive.online/anime/sword-art-online-alicization-war-of-underworld-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/vxog7oEJ0H8vYHYaWT2svyzzZSN-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sword-art-online-alicization-war-of-underworld-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sword-art-online-alicization-war-of-underworld-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Sword Art Online: Alicization – War of Underworld",
+            "slug": "sword-art-online-alicization-war-of-underworld",
+            "url": "https://animesdrive.online/anime/sword-art-online-alicization-war-of-underworld",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/jBx7fUPvMFGT1LvbNlkyx5Pa1vK-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sword-art-online-alicization-war-of-underworld"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sword-art-online-alicization-war-of-underworld"
+              }
+            ]
+          },
+          {
+            "title": "Sword Art Online: Alicization Dublado",
+            "slug": "sword-art-online-alicization-dublado",
+            "url": "https://animesdrive.online/anime/sword-art-online-alicization-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/ypwJXkjc9cpH1r5TxDXUWflbq2x-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sword-art-online-alicization-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sword-art-online-alicization-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Sword Art Online: Alicization",
+            "slug": "sword-art-online-alicization",
+            "url": "https://animesdrive.online/anime/sword-art-online-alicization",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/43waZTlwWoDCuMmaeNLhgkxPgrl-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sword-art-online-alicization"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sword-art-online-alicization"
+              }
+            ]
+          },
+          {
+            "title": "Bullet/Bullet Dublado",
+            "slug": "bullet-bullet-dublado",
+            "url": "https://animesdrive.online/anime/bullet-bullet-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/rA2U4DTb6woaI0ExjCusjx2LMQY-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "bullet-bullet-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "bullet-bullet-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Shin Samurai-den Yaiba Dublado",
+            "slug": "shin-samurai-den-yaiba-dublado",
+            "url": "https://animesdrive.online/anime/shin-samurai-den-yaiba-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/1jltcsz17CkfyhpcsSlmVC6pQGh-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "shin-samurai-den-yaiba-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "shin-samurai-den-yaiba-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Sword Art Online 2 Dublado",
+            "slug": "sword-art-online-2-dublado",
+            "url": "https://animesdrive.online/anime/sword-art-online-2-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/kd4EtP4I143o8kTO1q5AY9nABBz-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sword-art-online-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sword-art-online-2-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Sword Art Online 2",
+            "slug": "sword-art-online-2",
+            "url": "https://animesdrive.online/anime/sword-art-online-2",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/ycCgDrMbUVx0hmwLikCUfv1lETG-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sword-art-online-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sword-art-online-2"
+              }
+            ]
+          },
+          {
+            "title": "Sword Art Online Dublado",
+            "slug": "sword-art-online-dublado",
+            "url": "https://animesdrive.online/anime/sword-art-online-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/nfnpRV9P5hr3HopG2pX2Zrfqd9g-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sword-art-online-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sword-art-online-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Vinland Saga 2 Dublado",
+            "slug": "vinland-saga-2-dublado",
+            "url": "https://animesdrive.online/anime/vinland-saga-2-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/oOTLXjbcdZwoQ0f6gspqTH6Gspt-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "vinland-saga-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "vinland-saga-2-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Vinland Saga 2",
+            "slug": "vinland-saga-2",
+            "url": "https://animesdrive.online/anime/vinland-saga-2",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/7BwBilp19GklJGUy6IBFnuoQ12B-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "vinland-saga-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "vinland-saga-2"
+              }
+            ]
+          },
+          {
+            "title": "Vinland Saga Dublado",
+            "slug": "vinland-saga-dublado",
+            "url": "https://animesdrive.online/anime/vinland-saga-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/8Sih4LoQucb7ActfTcA5BkIS9Ua-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "vinland-saga-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "vinland-saga-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Akame ga Kill! Dublado",
+            "slug": "akame-ga-kill-dublado",
+            "url": "https://animesdrive.online/anime/akame-ga-kill-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/o4SxTlar1YGsKNhBzCxKYDeAPhb-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "akame-ga-kill-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "akame-ga-kill-dublado"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 18,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~4d) — em modo cache; tentando reconectar.",
+        "warning": "Catálogo salvo (há ~34d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 475,
@@ -17240,14 +17702,14 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1782070427177,
+          "lastProbeAt": 1784662383613,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
         "bypassConfigured": true,
-        "isProd": false,
+        "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
         "recentCatalog403": true,
@@ -17258,7 +17720,7 @@
           "cookieConfigured": true,
           "proxyConfigured": false,
           "bypassConfigured": true,
-          "isProd": false,
+          "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
           "recentCatalog403": true,
@@ -17267,7 +17729,7 @@
           "fixHint": null
         }
       },
-      "at": 1782070430935
+      "at": 1784662419949
     },
     "todos|19||120": {
       "data": {
@@ -31208,5 +31670,5 @@
       "at": 1784662418175
     }
   },
-  "updatedAt": 1784662418175
+  "updatedAt": 1784662419949
 }
