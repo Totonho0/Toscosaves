@@ -66107,36 +66107,11 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784597424394
+      "at": 1784626220769
     },
     "todos|28||120": {
       "data": {
         "items": [
-          {
-            "title": "Shangri-La Frontier",
-            "slug": "shangri-la-frontier",
-            "url": "https://animesdrive.online/anime/shangri-la-frontier",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/11/beg4GOY71HuaEdJ5yTR2ZXgf3mo-185x278.jpg.webp",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "shangri-la-frontier"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "shangri-la-frontier"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "shangri-la-frontier"
-              }
-            ]
-          },
           {
             "title": "Shangri-La Frontier: Kusoge Hunter Kamige ni Idoman to su 2 Dublado",
             "slug": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2-dublado",
@@ -66927,6 +66902,31 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/tjdfiiZVgmX05DEjGO97PUVSmHx-185x278.jpg",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "Sousou no Frieren – Todos os Episódios",
+            "slug": "frieren-beyond-journeys-end",
+            "url": "https://animesdrive.online/anime/frieren-beyond-journeys-end",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2023/09/Sousosu-no-Frieren-animesonline.cloud_-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "frieren-beyond-journeys-end"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "frieren-beyond-journeys-end"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "frieren-beyond-journeys-end"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -66934,7 +66934,7 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1529,
+        "total": 1528,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -66954,7 +66954,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1784611744874,
+          "lastProbeAt": 1784626146973,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -66980,9 +66980,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1784597424522
+        "cachedAt": 1784611746064
       },
-      "at": 1784611746064
+      "at": 1784626220913
     },
     "partner:anitube|todos|29||48": {
       "data": {
@@ -67137,7 +67137,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784597424854
+      "at": 1784626221400
     },
     "partner:animeplay|todos|29||48": {
       "data": {
@@ -67380,7 +67380,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784597425930
+      "at": 1784626222338
     },
     "partner:animesdrive|todos|29||48": {
       "data": {
@@ -109745,5 +109745,5 @@
       "at": 1784626187489
     }
   },
-  "updatedAt": 1784626219116
+  "updatedAt": 1784626222338
 }
