@@ -129,8 +129,7 @@
       "slug": "1062098",
       "title": "Black Torch (Dublado) – Episódio 03",
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL0JsYWNrLVRvcmNoLWR1YmxhZG8uanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "chainsmoker-cat": {
       "slug": "chainsmoker-cat",
@@ -570,6 +569,9 @@
     "1062030": [
       2
     ],
+    "1062098": [
+      2
+    ],
     "chainsmoker-cat": [
       1
     ],
@@ -900,79 +902,79 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "maou-sama-retry",
+      "ep": 1,
+      "at": 1784658190737
+    },
+    {
+      "slug": "tongari-boushi-no-atelier-dublado",
+      "ep": 3,
+      "at": 1784658190737
+    },
+    {
+      "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
+      "ep": 1,
+      "at": 1784658190737
+    },
+    {
+      "slug": "darwin-jihen-dublado",
+      "ep": 1,
+      "at": 1784658190737
+    },
+    {
+      "slug": "chainsmoker-cat",
+      "ep": 1,
+      "at": 1784658190737
+    },
+    {
+      "slug": "sword-art-online-2-dublado",
+      "ep": 1,
+      "at": 1784658190737
+    },
+    {
+      "slug": "azumanga-daioh",
+      "ep": 1,
+      "at": 1784658190737
+    },
+    {
+      "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season",
+      "ep": 3,
+      "at": 1784658190737
+    },
+    {
+      "slug": "black-clover",
+      "ep": 1,
+      "at": 1784658190737
+    },
+    {
+      "slug": "black-clover-dublado",
+      "ep": 1,
+      "at": 1784658190737
+    },
+    {
       "slug": "1062098",
       "ep": 2,
-      "at": 1784658066306
+      "at": 1784658190737
+    },
+    {
+      "slug": "1062030",
+      "ep": 2,
+      "at": 1784658190737
+    },
+    {
+      "slug": "67043",
+      "ep": 1,
+      "at": 1784658190737
+    },
+    {
+      "slug": "8029",
+      "ep": 1,
+      "at": 1784658190737
     },
     {
       "slug": "serie/assistir-coppers-online",
       "ep": 1,
       "at": 1784657892826
-    },
-    {
-      "slug": "maou-sama-retry",
-      "ep": 1,
-      "at": 1784657863303
-    },
-    {
-      "slug": "tongari-boushi-no-atelier-dublado",
-      "ep": 3,
-      "at": 1784657863303
-    },
-    {
-      "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
-      "ep": 1,
-      "at": 1784657863303
-    },
-    {
-      "slug": "darwin-jihen-dublado",
-      "ep": 1,
-      "at": 1784657863303
-    },
-    {
-      "slug": "chainsmoker-cat",
-      "ep": 1,
-      "at": 1784657863303
-    },
-    {
-      "slug": "sword-art-online-2-dublado",
-      "ep": 1,
-      "at": 1784657863303
-    },
-    {
-      "slug": "azumanga-daioh",
-      "ep": 1,
-      "at": 1784657863303
-    },
-    {
-      "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season",
-      "ep": 3,
-      "at": 1784657863303
-    },
-    {
-      "slug": "black-clover",
-      "ep": 1,
-      "at": 1784657863303
-    },
-    {
-      "slug": "black-clover-dublado",
-      "ep": 1,
-      "at": 1784657863303
-    },
-    {
-      "slug": "1062030",
-      "ep": 2,
-      "at": 1784657863303
-    },
-    {
-      "slug": "67043",
-      "ep": 1,
-      "at": 1784657863303
-    },
-    {
-      "slug": "8029",
-      "ep": 1,
-      "at": 1784657863303
     },
     {
       "slug": "serie/assistir-origem-online",
@@ -1620,5 +1622,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784658106271
+  "updatedAt": 1784658191390
 }
