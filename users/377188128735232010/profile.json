@@ -762,6 +762,7 @@
     ],
     "black-clover-dublado": [
       1,
+      2,
       7,
       121,
       137,
@@ -867,6 +868,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "black-clover-dublado",
+      "ep": 2,
+      "at": 1784628848906
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -1433,6 +1439,17 @@
       "adult": false,
       "duration": 1425.008617
     },
+    "black-clover-dublado": {
+      "ep": 1,
+      "time": 136.470149,
+      "at": 1784628847353,
+      "title": "Black Clover Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9wRDdYclUwZVZtOWpTVU5zak1URlN4blcxcncuanBn",
+      "kind": "anime",
+      "provider": "aoc",
+      "adult": false,
+      "duration": 1433.925079
+    },
     "black-clover": {
       "ep": 1,
       "time": 27.591111,
@@ -1510,17 +1527,6 @@
       "adult": false,
       "duration": 1434.987
     },
-    "black-clover-dublado": {
-      "ep": 170,
-      "time": 245.786434,
-      "at": 1783973040833,
-      "title": "Black Clover Dublado",
-      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9wRDdYclUwZVZtOWpTVU5zak1URlN4blcxcncuanBn",
-      "kind": "anime",
-      "provider": "animesdrive",
-      "adult": false,
-      "duration": 1419.157188
-    },
     "tongari-boushi-no-atelier-dublado": {
       "ep": 3,
       "time": 1420.053,
@@ -1557,5 +1563,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784628718916
+  "updatedAt": 1784628848704
 }
