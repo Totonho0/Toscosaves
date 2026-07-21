@@ -557,6 +557,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9nV0E0UXF5cGxCRTZrdEp2cjNUakVvR1RKdjQuanBn",
       "kind": "serie",
       "adult": false
+    },
+    "ao-no-exorcist-yosuga-hen": {
+      "slug": "ao-no-exorcist-yosuga-hen",
+      "title": "Ao no Exorcist: Yosuga-hen",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC93SnpIRmw1bXE2SkZiRDZlcXVUbGVKdXpsbmsuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -901,9 +908,17 @@
     ],
     "serie/assistir-coppers-online": [
       1
+    ],
+    "ao-no-exorcist-yosuga-hen": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "ao-no-exorcist-yosuga-hen",
+      "ep": 1,
+      "at": 1784662499793
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -1625,5 +1640,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784662479701
+  "updatedAt": 1784662500447
 }
