@@ -4890,6 +4890,26 @@
         "poster": "https://www.anitube.zip/wp-content/uploads/Black-Torch-dublado.jpg",
         "episodeUrl": "https://www.anitube.zip/video/1061904/"
       }
+    },
+    "anime:ao-no-exorcist-yosuga-hen:1": {
+      "at": 1784662510747,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/a/ao-no-exorcist-yosuga-hen/01.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdrive.online/episodio/ao-no-exorcist-yosuga-hen-episodio-01",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fa%2Fao-no-exorcist-yosuga-hen%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "ao-no-exorcist-yosuga-hen",
+        "kind": "anime",
+        "provider": "animesdigital",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC93SnpIRmw1bXE2SkZiRDZlcXVUbGVKdXpsbmsuanBn",
+        "episodeUrl": "https://animesdrive.online/episodio/ao-no-exorcist-yosuga-hen-episodio-01"
+      }
     }
   }
 }
