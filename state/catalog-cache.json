@@ -101573,7 +101573,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784691945008
+      "at": 1784720744432
     },
     "todos|3||24": {
       "data": {
@@ -102789,7 +102789,19 @@
             "url": "https://www.anitube.zip/video/998440/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-science-future-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dr-stone-science-future-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "998440"
+              }
+            ]
           },
           {
             "title": "Dr. Stone: Science Future Part 2 Dublado",
@@ -102819,8 +102831,8 @@
         "category": "todos",
         "page": 45,
         "hasMore": true,
-        "total": 1666,
-        "cachedAt": 1784691943007,
+        "total": 1676,
+        "cachedAt": 1784720742502,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -102867,7 +102879,7 @@
           "fixHint": null
         }
       },
-      "at": 1784691945574
+      "at": 1784720744958
     },
     "partner:anitube|todos|46||48": {
       "data": {
@@ -103022,7 +103034,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784691945899
+      "at": 1784720745309
     },
     "partner:animeplay|todos|46||48": {
       "data": {
@@ -103241,7 +103253,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784691946838
+      "at": 1784720746311
     },
     "partner:animesdrive|todos|46||48": {
       "data": {
@@ -103460,7 +103472,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784691948207
+      "at": 1784720747721
     },
     "todos|46||48": {
       "data": {
@@ -103704,7 +103716,7 @@
         "page": 46,
         "hasMore": true
       },
-      "at": 1784691946417
+      "at": 1784720745832
     },
     "todos|46||120": {
       "data": {
@@ -104573,8 +104585,8 @@
         "category": "todos",
         "page": 46,
         "hasMore": true,
-        "total": 1683,
-        "cachedAt": 1784691946417,
+        "total": 1676,
+        "cachedAt": 1784720745832,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -104621,7 +104633,7 @@
           "fixHint": null
         }
       },
-      "at": 1784691948570
+      "at": 1784720748070
     },
     "partner:anitube|todos|47||48": {
       "data": {
@@ -104776,7 +104788,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784691948911
+      "at": 1784720748403
     },
     "todos|47||48": {
       "data": {
@@ -105002,7 +105014,7 @@
         "page": 47,
         "hasMore": true
       },
-      "at": 1784691949405
+      "at": 1784720748973
     },
     "partner:animeplay|todos|47||48": {
       "data": {
@@ -105205,7 +105217,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784691949898
+      "at": 1784720749334
     },
     "partner:animesdrive|todos|47||48": {
       "data": {
@@ -120946,5 +120958,5 @@
       "at": 1784720741952
     }
   },
-  "updatedAt": 1784720742863
+  "updatedAt": 1784720749334
 }
