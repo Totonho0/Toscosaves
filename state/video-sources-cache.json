@@ -4374,23 +4374,40 @@
       }
     },
     "anime:ichijouma-mankitsugurashi:10": {
-      "at": 1784568671076,
+      "at": 1784728464276,
       "data": {
         "sources": [
           {
-            "type": "hls",
-            "src": "https://cdn.imagesskill.com/stream/i/ichijouma-mankitsugurashi/10.mp4/index.m3u8",
-            "label": "Servidor 1",
-            "referer": "https://animesdigital.org/video/a/136604/",
-            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fi%2Fichijouma-mankitsugurashi%2F10.mp4%2Findex.m3u8&ref=animesdigital"
+            "type": "embed",
+            "src": "https://www.blogger.com/video.g?token=AD6v5dxc90vhEgGVVgwvqL-5FBB_adUbizv9Dbs_fEPz0sWsOEg_oFzl1AyiIk_TM-WhCuVg4jwrUzdGERY0wtz_NHVnlV402E4S9MiU76WZekmZqQJr0SMQlxV2FTm8EqMWObLe22E",
+            "label": "Mobile / Celular",
+            "playUrl": "https://www.blogger.com/video.g?token=AD6v5dxc90vhEgGVVgwvqL-5FBB_adUbizv9Dbs_fEPz0sWsOEg_oFzl1AyiIk_TM-WhCuVg4jwrUzdGERY0wtz_NHVnlV402E4S9MiU76WZekmZqQJr0SMQlxV2FTm8EqMWObLe22E"
+          },
+          {
+            "type": "mp4",
+            "src": "https://aniplay.online/Midias/Animes/Letra-I/Ichijouma-Mankitsugurashi/10.mp4",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Faniplay.online%2FMidias%2FAnimes%2FLetra-I%2FIchijouma-Mankitsugurashi%2F10.mp4&ref=aoc"
+          },
+          {
+            "type": "embed",
+            "src": "https://animeshd.cloud/#31nvhe",
+            "label": "FHD",
+            "playUrl": "https://animeshd.cloud/#31nvhe"
+          },
+          {
+            "type": "embed",
+            "src": "https://animes.strp2p.com/#6zuieu",
+            "label": "FHD",
+            "playUrl": "https://animes.strp2p.com/#6zuieu"
           }
         ],
         "episode": 10,
         "slug": "ichijouma-mankitsugurashi",
         "kind": "anime",
-        "provider": "animesdigital",
-        "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Ichijouma-Mankitsugurashi.jpg",
-        "episodeUrl": "https://animesdigital.org/video/a/136604/"
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/lUYRLmJHJyVzwwJUIPIJHxZR6TE.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/ichijouma-mankitsugurashi-episodio-10"
       }
     },
     "anime:baki-dou:1": {
