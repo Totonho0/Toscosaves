@@ -3110,7 +3110,7 @@
       }
     },
     "65758": {
-      "at": 1784755353786,
+      "at": 1784756351917,
       "data": {
         "slug": "65758",
         "title": "Bakugan: Nova Vestroia (Dublado)",
@@ -3436,7 +3436,7 @@
       }
     },
     "65798": {
-      "at": 1784755412532,
+      "at": 1784756350683,
       "data": {
         "slug": "65798",
         "title": "Bakugan – Guerreiros da Batalha (Dublado)",
@@ -6234,7 +6234,7 @@
       }
     },
     "883113": {
-      "at": 1784755354249,
+      "at": 1784756350698,
       "data": {
         "slug": "883113",
         "title": "Bakugan: O Ímpeto do Mechtanium Dublado",
@@ -26252,7 +26252,7 @@
       }
     },
     "dragon-ball-daima-dublado": {
-      "at": 1784755513149,
+      "at": 1784756352436,
       "data": {
         "slug": "dragon-ball-daima-dublado",
         "title": "Dragon Ball Daima Dublado",
@@ -26536,7 +26536,24 @@
           "Comédia",
           "Fantasia",
           "Sci-Fi"
-        ]
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "isshun-de-chiryou-shiteita-noni-yakutatazu-to-tsuihou-sareta-tensai-chiyushi-yami-healer-toshite-tanoshiku-ikiru",
+              "title": "Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "isshun-de-chiryou-shiteita-noni-yakutatazu-to-tsuihou-sareta-tensai-chiyushi-yami-healer-toshite-tanoshiku-ikiru-dublado",
+              "title": "Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "kusuriya-no-hitorigoto-2-dublado": {
