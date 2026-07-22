@@ -12061,7 +12061,30 @@
           "Animação",
           "Fantasia",
           "Sci-Fi"
-        ]
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "akujiki-reijou-to-kyouketsu-koushaku",
+              "title": "Akujiki Reijou to Kyouketsu Koushaku",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "1010812",
+              "title": "Akujiki Reijou to Kyouketsu Koushaku (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "akujiki-reijou-to-kyouketsu-koushaku-dublado",
+              "title": "Akujiki Reijou to Kyouketsu Koushaku Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "alma-chan-wa-kazoku-ni-naritai": {
@@ -24632,7 +24655,24 @@
         ],
         "totalEpisodes": 50,
         "kind": "anime",
-        "provider": "animesdigital"
+        "provider": "animesdigital",
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "black-clover",
+              "title": "Black Clover",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "black-clover-dublado",
+              "title": "Black Clover Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "asb-tsundero": {
@@ -36345,7 +36385,7 @@
       }
     },
     "black-torch": {
-      "at": 1784728530613,
+      "at": 1784728554855,
       "data": {
         "slug": "black-torch",
         "title": "Black Torch",
@@ -36355,17 +36395,22 @@
           {
             "number": 1,
             "title": "Episódio 01 - O futuro está em nossas mãos.",
-            "url": "https://animesonline.cloud/episodio/black-torch-episodio-01"
+            "url": "https://animeplay.cloud/episodio/black-torch-episodio-01"
           },
           {
             "number": 2,
             "title": "Episódio 02 - A escolha é sua.",
-            "url": "https://animesonline.cloud/episodio/black-torch-episodio-02"
+            "url": "https://animeplay.cloud/episodio/black-torch-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Qual é o meu nome?",
+            "url": "https://animeplay.cloud/episodio/black-torch-episodio-03"
           }
         ],
-        "totalEpisodes": 2,
+        "totalEpisodes": 3,
         "kind": "anime",
-        "provider": "aoc",
+        "provider": "animeplay",
         "genres": [
           "Legendado",
           "Dublado",
@@ -36374,189 +36419,171 @@
           "Aventura",
           "Mistério",
           "Sci-Fi"
-        ],
-        "audioVariants": {
-          "current": "default",
-          "variants": {
-            "default": {
-              "slug": "black-torch",
-              "title": "Black Torch",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "black-torch-dublado",
-              "title": "Black Torch Dublado",
-              "audio": "dub",
-              "label": "Dublado"
-            }
-          }
-        }
+        ]
       }
     },
     "boku-no-hero-academia-2": {
-      "at": 1784728533781,
+      "at": 1784728546422,
       "data": {
         "slug": "boku-no-hero-academia-2",
         "title": "Boku no Hero Academia 2",
-        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9jSDM5YUpnOVZsRWFZbzZ5WTM3SWFoOFJBYXouanBn",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1ib2t1LW5vLWhlcm8tYWNhZGVtaWEtMi10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaW1lc2RpZ2l0YWwuanBn",
         "synopsis": "",
         "episodes": [
           {
             "number": 1,
-            "title": "Episódio 01 - Essa é a Ideia, Ochaco",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-01"
+            "title": "Boku no Hero Academia 2 Episódio 01 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3221z00",
+            "videoId": "3221z00"
           },
           {
             "number": 2,
-            "title": "Episódio 02 - Bramido Festival Esportivo!",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-02"
+            "title": "Boku no Hero Academia 2 Episódio 02 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3220z0",
+            "videoId": "3220z0"
           },
           {
             "number": 3,
-            "title": "Episódio 03 - Com as suas Próprias Individualidades",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-03"
+            "title": "Boku no Hero Academia 2 Episódio 03 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3219z0",
+            "videoId": "3219z0"
           },
           {
             "number": 4,
-            "title": "Episódio 04 - Estratégia, Estratégia, Estratégia",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-04"
+            "title": "Boku no Hero Academia 2 Episódio 04 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3218z0",
+            "videoId": "3218z0"
           },
           {
             "number": 5,
-            "title": "Episódio 05 - O Final da Batalha de Cavalaria",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-05"
+            "title": "Boku no Hero Academia 2 Episódio 05 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3217z0",
+            "videoId": "3217z0"
           },
           {
             "number": 6,
-            "title": "Episódio 06 - O Garoto que Nasceu com Tudo",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-06"
+            "title": "Boku no Hero Academia 2 Episódio 06 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3216z0",
+            "videoId": "3216z0"
           },
           {
             "number": 7,
-            "title": "Episódio 07 - Vitória ou Derrota",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-07"
+            "title": "Boku no Hero Academia 2 Episódio 07 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3215z0",
+            "videoId": "3215z0"
           },
           {
             "number": 8,
-            "title": "Episódio 08 - Lutem, Desafiantes!",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-08"
+            "title": "Boku no Hero Academia 2 Episódio 08 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3214z0",
+            "videoId": "3214z0"
           },
           {
             "number": 9,
-            "title": "Episódio 09 - Bakugo vs. Uraraka",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-09"
+            "title": "Boku no Hero Academia 2 Episódio 09 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3213z0",
+            "videoId": "3213z0"
           },
           {
             "number": 10,
-            "title": "Episódio 10 - Todoroki Shoto: Origens",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-10"
+            "title": "Boku no Hero Academia 2 Episódio 10 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3212z0",
+            "videoId": "3212z0"
           },
           {
             "number": 11,
-            "title": "Episódio 11 - Força, lida",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-11"
+            "title": "Boku no Hero Academia 2 Episódio 11 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3211z0",
+            "videoId": "3211z0"
           },
           {
             "number": 12,
-            "title": "Episódio 12 - Todoroki vs. Bakugo",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-12"
+            "title": "Boku no Hero Academia 2 Episódio 12 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3210z0",
+            "videoId": "3210z0"
           },
           {
             "number": 13,
-            "title": "Episódio 13 - Hora de Escolher os Nomes",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-13"
+            "title": "Boku no Hero Academia 2 Episódio 13 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3209b00",
+            "videoId": "3209b00"
           },
           {
             "number": 14,
-            "title": "Episódio 14 - Bizarro! Gran Torino Aparece!",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-14"
+            "title": "Boku no Hero Academia 2 Episódio 14 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3208z0",
+            "videoId": "3208z0"
           },
           {
             "number": 15,
-            "title": "Episódio 15 - Midoriya e Shigaraki",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-15"
+            "title": "Boku no Hero Academia 2 Episódio 15 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3207z0",
+            "videoId": "3207z0"
           },
           {
             "number": 16,
-            "title": "Episódio 16 - Stain, o Assassino de Super-Heróis vs. Alunos da U.A.",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-16"
+            "title": "Boku no Hero Academia 2 Episódio 16 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3206z0",
+            "videoId": "3206z0"
           },
           {
             "number": 17,
-            "title": "Episódio 17 - Conclusão",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-17"
+            "title": "Boku no Hero Academia 2 Episódio 17 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3205z0",
+            "videoId": "3205z0"
           },
           {
             "number": 18,
-            "title": "Episódio 18 - A Repercussão da Batalha Contra Stain, o Assassino de Super-Heróis",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-18"
+            "title": "Boku no Hero Academia 2 Episódio 18 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3204z0",
+            "videoId": "3204z0"
           },
           {
             "number": 19,
-            "title": "Episódio 19 - Os Estágios de Cada Um",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-19"
+            "title": "Boku no Hero Academia 2 Episódio 19 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3203z0",
+            "videoId": "3203z0"
           },
           {
             "number": 20,
-            "title": "Episódio 20 - Aprenda!! Uma História do Passado",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-20"
+            "title": "Boku no Hero Academia 2 Episódio 20 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3202z0",
+            "videoId": "3202z0"
           },
           {
             "number": 21,
-            "title": "Episódio 21 - Preparação Para a Prova Final",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-21"
+            "title": "Boku no Hero Academia 2 Episódio 21 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3201z0",
+            "videoId": "3201z0"
           },
           {
             "number": 22,
-            "title": "Episódio 22 - A Ascensão de Yaoyorozu",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-22"
+            "title": "Boku no Hero Academia 2 Episódio 22 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3200z0",
+            "videoId": "3200z0"
           },
           {
             "number": 23,
-            "title": "Episódio 23 - Tire a Camada Externa",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-23"
+            "title": "Boku no Hero Academia 2 Episódio 23 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3199z0",
+            "videoId": "3199z0"
           },
           {
             "number": 24,
-            "title": "Episódio 24 - Katsuki Bakugo: Origens",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-24"
+            "title": "Boku no Hero Academia 2 Episódio 24 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3198z0",
+            "videoId": "3198z0"
           },
           {
             "number": 25,
-            "title": "Episódio 25 - Encontro",
-            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-2-episodio-25"
+            "title": "Boku no Hero Academia 2 Episódio 25 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3197z0",
+            "videoId": "3197z0"
           }
         ],
         "totalEpisodes": 25,
         "kind": "anime",
-        "provider": "aoc",
-        "genres": [
-          "Legendado",
-          "Dublado",
-          "Ação",
-          "Animação",
-          "Aventura",
-          "Fantasia",
-          "Sci-Fi"
-        ],
-        "audioVariants": {
-          "current": "default",
-          "variants": {
-            "default": {
-              "slug": "boku-no-hero-academia-2",
-              "title": "Boku no Hero Academia 2",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "boku-no-hero-academia-2-dublado",
-              "title": "boku no hero academia 2 dublado",
-              "audio": "dub",
-              "label": "Dublado"
-            }
-          }
-        }
+        "provider": "animesdigital"
       }
     },
     "boku-no-hero-academia-3": {
@@ -37082,7 +37109,7 @@
       }
     },
     "bleach-sennen-kessen-hen-soukoku-tan-dublado": {
-      "at": 1784728533385,
+      "at": 1784728554772,
       "data": {
         "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado",
         "title": "Bleach: Sennen Kessen Hen – Soukoku Tan Dublado",
@@ -37092,77 +37119,77 @@
           {
             "number": 1,
             "title": "Episódio 01 - A",
-            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-01"
+            "url": "https://animesdrive.online/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-01"
           },
           {
             "number": 2,
             "title": "Episódio 02 - Mate o Rei",
-            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-02"
+            "url": "https://animesdrive.online/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-02"
           },
           {
             "number": 3,
             "title": "Episódio 03 - O Braço Negro",
-            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-03"
+            "url": "https://animesdrive.online/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-03"
           },
           {
             "number": 4,
             "title": "Episódio 04 - O Traidor",
-            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-04"
+            "url": "https://animesdrive.online/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-04"
           },
           {
             "number": 5,
             "title": "Episódio 05 - Contra o Julgamento",
-            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-05"
+            "url": "https://animesdrive.online/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-05"
           },
           {
             "number": 6,
             "title": "Episódio 06 - O Santo Recém-Nascido",
-            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-06"
+            "url": "https://animesdrive.online/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-06"
           },
           {
             "number": 7,
             "title": "Episódio 07 - O Portão do Sol",
-            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-07"
+            "url": "https://animesdrive.online/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-07"
           },
           {
             "number": 8,
             "title": "Episódio 08 - Querida, Segure Sua Mão",
-            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-08"
+            "url": "https://animesdrive.online/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-08"
           },
           {
             "number": 9,
             "title": "Episódio 09 - Não Persiga uma Sombra",
-            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-09"
+            "url": "https://animesdrive.online/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-09"
           },
           {
             "number": 10,
             "title": "Episódio 10 - Meu Sonho Sem Fim",
-            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-10"
+            "url": "https://animesdrive.online/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-10"
           },
           {
             "number": 11,
             "title": "Episódio 11 - Sombras Desaparecidas",
-            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-11"
+            "url": "https://animesdrive.online/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-11"
           },
           {
             "number": 12,
             "title": "Episódio 12 - Amigo",
-            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-12"
+            "url": "https://animesdrive.online/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-12"
           },
           {
             "number": 13,
             "title": "Episódio 13 - A Resposta Visível",
-            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-13"
+            "url": "https://animesdrive.online/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-13"
           },
           {
             "number": 14,
             "title": "Episódio 14 - Minhas Ultimas Palavras",
-            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-14"
+            "url": "https://animesdrive.online/episodio/bleach-sennen-kessen-hen-soukoku-tan-dublado-episodio-14"
           }
         ],
         "totalEpisodes": 14,
         "kind": "anime",
-        "provider": "aoc",
+        "provider": "animesdrive",
         "genres": [
           "Legendado",
           "Dublado",
@@ -37170,28 +37197,11 @@
           "Aventura",
           "Fantasia",
           "Sci-Fi"
-        ],
-        "audioVariants": {
-          "current": "dub",
-          "variants": {
-            "default": {
-              "slug": "bleach-sennen-kessen-hen-soukoku-tan",
-              "title": "bleach sennen kessen hen soukoku tan",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado",
-              "title": "Bleach: Sennen Kessen Hen – Soukoku Tan Dublado",
-              "audio": "dub",
-              "label": "Dublado"
-            }
-          }
-        }
+        ]
       }
     },
     "blue-swat": {
-      "at": 1784728534220,
+      "at": 1784728551637,
       "data": {
         "slug": "blue-swat",
         "title": "Blue SWAT",
@@ -37201,262 +37211,262 @@
           {
             "number": 1,
             "title": "Episódio 01",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-01"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-01"
           },
           {
             "number": 2,
             "title": "Episódio 02",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-02"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-02"
           },
           {
             "number": 3,
             "title": "Episódio 03",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-03"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-03"
           },
           {
             "number": 4,
             "title": "Episódio 04",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-04"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-04"
           },
           {
             "number": 5,
             "title": "Episódio 05",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-05"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-05"
           },
           {
             "number": 6,
             "title": "Episódio 06",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-06"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-06"
           },
           {
             "number": 7,
             "title": "Episódio 07",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-07"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-07"
           },
           {
             "number": 8,
             "title": "Episódio 08",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-08"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-08"
           },
           {
             "number": 9,
             "title": "Episódio 09",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-09"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-09"
           },
           {
             "number": 10,
             "title": "Episódio 10",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-10"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-10"
           },
           {
             "number": 11,
             "title": "Episódio 11",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-11"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-11"
           },
           {
             "number": 12,
             "title": "Episódio 12",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-12"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-12"
           },
           {
             "number": 13,
             "title": "Episódio 13",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-13"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-13"
           },
           {
             "number": 14,
             "title": "Episódio 14",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-14"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-14"
           },
           {
             "number": 15,
             "title": "Episódio 15",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-15"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-15"
           },
           {
             "number": 16,
             "title": "Episódio 16",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-16"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-16"
           },
           {
             "number": 17,
             "title": "Episódio 17",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-17"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-17"
           },
           {
             "number": 18,
             "title": "Episódio 18",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-18"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-18"
           },
           {
             "number": 19,
             "title": "Episódio 19",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-19"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-19"
           },
           {
             "number": 20,
             "title": "Episódio 20",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-20"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-20"
           },
           {
             "number": 21,
             "title": "Episódio 21",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-21"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-21"
           },
           {
             "number": 22,
             "title": "Episódio 22",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-22"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-22"
           },
           {
             "number": 23,
             "title": "Episódio 23",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-23"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-23"
           },
           {
             "number": 24,
             "title": "Episódio 24",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-24"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-24"
           },
           {
             "number": 25,
             "title": "Episódio 25",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-25"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-25"
           },
           {
             "number": 26,
             "title": "Episódio 26",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-26"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-26"
           },
           {
             "number": 27,
             "title": "Episódio 27",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-27"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-27"
           },
           {
             "number": 28,
             "title": "Episódio 28",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-28"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-28"
           },
           {
             "number": 29,
             "title": "Episódio 29",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-29"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-29"
           },
           {
             "number": 30,
             "title": "Episódio 30",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-30"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-30"
           },
           {
             "number": 31,
             "title": "Episódio 31",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-31"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-31"
           },
           {
             "number": 32,
             "title": "Episódio 32",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-32"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-32"
           },
           {
             "number": 33,
             "title": "Episódio 33",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-33"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-33"
           },
           {
             "number": 34,
             "title": "Episódio 34",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-34"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-34"
           },
           {
             "number": 35,
             "title": "Episódio 35",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-35"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-35"
           },
           {
             "number": 36,
             "title": "Episódio 36",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-36"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-36"
           },
           {
             "number": 37,
             "title": "Episódio 37",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-37"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-37"
           },
           {
             "number": 38,
             "title": "Episódio 38",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-38"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-38"
           },
           {
             "number": 39,
             "title": "Episódio 39",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-39"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-39"
           },
           {
             "number": 40,
             "title": "Episódio 40",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-40"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-40"
           },
           {
             "number": 41,
             "title": "Episódio 41",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-41"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-41"
           },
           {
             "number": 42,
             "title": "Episódio 42",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-42"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-42"
           },
           {
             "number": 43,
             "title": "Episódio 43",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-43"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-43"
           },
           {
             "number": 44,
             "title": "Episódio 44",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-44"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-44"
           },
           {
             "number": 45,
             "title": "Episódio 45",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-45"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-45"
           },
           {
             "number": 46,
             "title": "Episódio 46",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-46"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-46"
           },
           {
             "number": 47,
             "title": "Episódio 47",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-47"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-47"
           },
           {
             "number": 48,
             "title": "Episódio 48",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-48"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-48"
           },
           {
             "number": 49,
             "title": "Episódio 49",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-49"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-49"
           },
           {
             "number": 50,
             "title": "Episódio 50",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-50"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-50"
           },
           {
             "number": 51,
             "title": "Episódio 51 - Final",
-            "url": "https://animesonline.cloud/episodio/blue-swat-episodio-51"
+            "url": "https://animesdrive.online/episodio/blue-swat-episodio-51"
           }
         ],
         "totalEpisodes": 51,
         "kind": "anime",
-        "provider": "aoc",
+        "provider": "animesdrive",
         "genres": [
           "Legendado",
           "Dublado",
@@ -41172,6 +41182,3190 @@
             "dub": {
               "slug": "enen-no-shouboutai-san-no-shou-part-2-dublado",
               "title": "Enen no Shouboutai: San no Shou Part 2 Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
+    },
+    "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai": {
+      "at": 1784728538144,
+      "data": {
+        "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai",
+        "title": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91d0RiSndEcnpNNlhxeDF5aDRsa2g4eFVzYnAuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Vai dar namoro",
+            "url": "https://animesdrive.online/episodio/hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - As bruxas de OZ",
+            "url": "https://animesdrive.online/episodio/hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "animesdrive",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Animação",
+          "Comédia",
+          "Fantasia",
+          "Sci-Fi"
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai",
+              "title": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado",
+              "title": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
+    },
+    "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado": {
+      "at": 1784728538483,
+      "data": {
+        "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado",
+        "title": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91d0RiSndEcnpNNlhxeDF5aDRsa2g4eFVzYnAuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Vai dar namoro",
+            "url": "https://animesdrive.online/episodio/hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - As bruxas de OZ",
+            "url": "https://animesdrive.online/episodio/hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "animesdrive",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Animação",
+          "Comédia",
+          "Fantasia",
+          "Sci-Fi"
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai",
+              "title": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado",
+              "title": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
+    },
+    "boruto-naruto-the-movie": {
+      "at": 1784728551886,
+      "data": {
+        "slug": "boruto-naruto-the-movie",
+        "title": "Boruto: Naruto the Movie - Animes",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8wOC9OYXJ1dG8tU2hpcHB1ZGVuLWZpbG1lLTguanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Boruto: Naruto the Movie Episódio 01 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/101286/",
+            "videoId": "101286"
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "anime",
+        "provider": "animesdigital"
+      }
+    },
+    "boruto-naruto-the-movie-2": {
+      "at": 1784728552077,
+      "data": {
+        "slug": "boruto-naruto-the-movie-2",
+        "title": "Boruto: Naruto the Movie Dublado - Animes",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8wOC9OYXJ1dG8tU2hpcHB1ZGVuLWZpbG1lLTguanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Boruto: Naruto the Movie Dublado Episódio 01 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/101335/",
+            "videoId": "101335"
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "anime",
+        "provider": "animesdigital"
+      }
+    },
+    "dandadan-2-dublado": {
+      "at": 1784728552171,
+      "data": {
+        "slug": "dandadan-2-dublado",
+        "title": "Dandadan 2 Dublado - Todos Os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8wNy9EYW5kYWRhbi0yLUR1YmxhZG8uanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Dandadan 2 Dublado Episódio 01 1 ano atrás",
+            "url": "https://animesdigital.org/video/a/130474/",
+            "videoId": "130474"
+          },
+          {
+            "number": 2,
+            "title": "Dandadan 2 Dublado Episódio 02 1 ano atrás",
+            "url": "https://animesdigital.org/video/a/130701/",
+            "videoId": "130701"
+          },
+          {
+            "number": 3,
+            "title": "Dandadan 2 Dublado Episódio 03 1 ano atrás",
+            "url": "https://animesdigital.org/video/a/130822/",
+            "videoId": "130822"
+          },
+          {
+            "number": 4,
+            "title": "Dandadan 2 Dublado Episódio 04 12 meses atrás",
+            "url": "https://animesdigital.org/video/a/130987/",
+            "videoId": "130987"
+          },
+          {
+            "number": 5,
+            "title": "Dandadan 2 Dublado Episódio 05 12 meses atrás",
+            "url": "https://animesdigital.org/video/a/131107/",
+            "videoId": "131107"
+          },
+          {
+            "number": 6,
+            "title": "Dandadan 2 Dublado Episódio 06 12 meses atrás",
+            "url": "https://animesdigital.org/video/a/131287/",
+            "videoId": "131287"
+          },
+          {
+            "number": 7,
+            "title": "Dandadan 2 Dublado Episódio 07 11 meses atrás",
+            "url": "https://animesdigital.org/video/a/131473/",
+            "videoId": "131473"
+          },
+          {
+            "number": 8,
+            "title": "Dandadan 2 Dublado Episódio 08 11 meses atrás",
+            "url": "https://animesdigital.org/video/a/131598/",
+            "videoId": "131598"
+          },
+          {
+            "number": 9,
+            "title": "Dandadan 2 Dublado Episódio 09 11 meses atrás",
+            "url": "https://animesdigital.org/video/a/131739/",
+            "videoId": "131739"
+          },
+          {
+            "number": 10,
+            "title": "Dandadan 2 Dublado Episódio 10 11 meses atrás",
+            "url": "https://animesdigital.org/video/a/131986/",
+            "videoId": "131986"
+          },
+          {
+            "number": 11,
+            "title": "Dandadan 2 Dublado Episódio 11 10 meses atrás",
+            "url": "https://animesdigital.org/video/a/132128/",
+            "videoId": "132128"
+          },
+          {
+            "number": 12,
+            "title": "Dandadan 2 Dublado Episódio 12 10 meses atrás",
+            "url": "https://animesdigital.org/video/a/132278/",
+            "videoId": "132278"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "animesdigital",
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "dandadan-2",
+              "title": "Dan Da Dan 2",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "dandadan-2-dublado",
+              "title": "dandadan 2 dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
+    },
+    "boruto-naruto-next-generations": {
+      "at": 1784728552385,
+      "data": {
+        "slug": "boruto-naruto-next-generations",
+        "title": "Boruto: Naruto Next Generations - Todos os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8zWGxLY2t4UEVhNGxnNXc0dkhueUUzNVBVeUkuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Uzumaki Boruto!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "O Filho do Hokage!!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Metal Lee Vai Com Tudo!!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Guerra de Ninjutsu Entre os Sexos!!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "O Misterioso Aluno Novo!!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "A Última Aula!!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Amor e Batatinhas!!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "A Revelação do Sonho",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Prova de Si Mesmo",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "O Incidente do Fantasma! A investigação Começa!!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "A Sombra do Culpado",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Boruto e Mitsuki",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "A Besta Demoníaca Aparece!!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-13"
+          },
+          {
+            "number": 14,
+            "title": "O Caminho Que Boruto Vê",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-14"
+          },
+          {
+            "number": 15,
+            "title": "Um Novo Caminho",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-15"
+          },
+          {
+            "number": 16,
+            "title": "Crise: A Ameaça da Reprovação",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-16"
+          },
+          {
+            "number": 17,
+            "title": "Corra, Sarada!!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-17"
+          },
+          {
+            "number": 18,
+            "title": "Um Dia na Vida da Família Uzumaki",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-18"
+          },
+          {
+            "number": 19,
+            "title": "Sarada Uchiha",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-19"
+          },
+          {
+            "number": 20,
+            "title": "O Menino Com o Sharingan",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-20"
+          },
+          {
+            "number": 21,
+            "title": "Sasuke e Sarada",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-21"
+          },
+          {
+            "number": 22,
+            "title": "Sentimentos Ligados",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-22"
+          },
+          {
+            "number": 23,
+            "title": "Há Laços em Qualquer Formato",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-23"
+          },
+          {
+            "number": 24,
+            "title": "Boruto e Sarada",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-24"
+          },
+          {
+            "number": 25,
+            "title": "A Excursão Caótica!!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-25"
+          },
+          {
+            "number": 26,
+            "title": "O Sucessor do Mizukage",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-26"
+          },
+          {
+            "number": 27,
+            "title": "Um Duelo Ninja da Amizade",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-27"
+          },
+          {
+            "number": 28,
+            "title": "Uma Declaração de Guerra",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-28"
+          },
+          {
+            "number": 29,
+            "title": "Os Novos Sete Espadachins da Névoa!!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-29"
+          },
+          {
+            "number": 30,
+            "title": "Sharingan vs. Kiba, a Espada do Trovão",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-30"
+          },
+          {
+            "number": 31,
+            "title": "Boruto e Kagura",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-31"
+          },
+          {
+            "number": 32,
+            "title": "A Jornada Por Uma Lembrança",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-32"
+          },
+          {
+            "number": 33,
+            "title": "A Crise do Pergaminho da Superbesta!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-33"
+          },
+          {
+            "number": 34,
+            "title": "A Noite de Estrelas Cadentes",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-34"
+          },
+          {
+            "number": 35,
+            "title": "A Conferência de Pais e Alunos!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-35"
+          },
+          {
+            "number": 36,
+            "title": "O Exame de Graduação Começa!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-36"
+          },
+          {
+            "number": 37,
+            "title": "A Determinação de Um Ninja",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-37"
+          },
+          {
+            "number": 38,
+            "title": "Formação Das Equipes de Três Pessoas?",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-38"
+          },
+          {
+            "number": 39,
+            "title": "O Caminho Iluminado Pela Lua Cheia",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-39"
+          },
+          {
+            "number": 40,
+            "title": "Time 7: A Primeira Missão!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-40"
+          },
+          {
+            "number": 41,
+            "title": "Força na União",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-41"
+          },
+          {
+            "number": 42,
+            "title": "O Trabalho de Um Ninja",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-42"
+          },
+          {
+            "number": 43,
+            "title": "A Gangue Byakuya Aparece!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-43"
+          },
+          {
+            "number": 44,
+            "title": "As Dúvidas de Shikadai",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-44"
+          },
+          {
+            "number": 45,
+            "title": "Memórias de Um Dia de Neve",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-45"
+          },
+          {
+            "number": 46,
+            "title": "Vá! Plano Na Calada Da Noite!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-46"
+          },
+          {
+            "number": 47,
+            "title": "Quem Eu Almejo Ser",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-47"
+          },
+          {
+            "number": 48,
+            "title": "O Documentário Genin!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-48"
+          },
+          {
+            "number": 49,
+            "title": "Wasabi e Namida",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-49"
+          },
+          {
+            "number": 50,
+            "title": "Exame Chunin! A Reunião de Recomendação!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-50"
+          },
+          {
+            "number": 51,
+            "title": "O Aniversário do Boruto",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-51"
+          },
+          {
+            "number": 52,
+            "title": "A Sombra do Sasuke",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-52"
+          },
+          {
+            "number": 53,
+            "title": "O Aniversário da Himawari",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-53"
+          },
+          {
+            "number": 54,
+            "title": "Sasuke e Boruto",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-54"
+          },
+          {
+            "number": 55,
+            "title": "A Ferramenta Científica Ninja",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-55"
+          },
+          {
+            "number": 56,
+            "title": "Rivais, Reúnam-se!!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-56"
+          },
+          {
+            "number": 57,
+            "title": "O Motivo Pelo Qual Não Posso Perder",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-57"
+          },
+          {
+            "number": 58,
+            "title": "O Torneio Começa!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-58"
+          },
+          {
+            "number": 59,
+            "title": "Boruto vs. Shikadai",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-59"
+          },
+          {
+            "number": 60,
+            "title": "Vila da Folha vs. Vila da Areia",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-60"
+          },
+          {
+            "number": 61,
+            "title": "O Usuário da Areia de Ferro, Shinki",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-61"
+          },
+          {
+            "number": 62,
+            "title": "A Invasão Otsutsuki!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-62"
+          },
+          {
+            "number": 63,
+            "title": "A Arma Secreta de Sasuke",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-63"
+          },
+          {
+            "number": 64,
+            "title": "O Resgate de Naruto!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-64"
+          },
+          {
+            "number": 65,
+            "title": "Pai e Filho",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-65"
+          },
+          {
+            "number": 66,
+            "title": "Minha História!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-66"
+          },
+          {
+            "number": 67,
+            "title": "Modo Super! Super Cho-Cho!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-67"
+          },
+          {
+            "number": 68,
+            "title": "Modo Beijo da Cho-Cho!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-68"
+          },
+          {
+            "number": 69,
+            "title": "Perturbação Amorosa da Super Cho-Cho!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-69"
+          },
+          {
+            "number": 70,
+            "title": "O Outro Lado da Ansiedade",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-70"
+          },
+          {
+            "number": 71,
+            "title": "A Pedra Mais Dura do Mundo",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-71"
+          },
+          {
+            "number": 72,
+            "title": "O Desejo de Mitsuki",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-72"
+          },
+          {
+            "number": 73,
+            "title": "O Outro Lado da Lua",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-73"
+          },
+          {
+            "number": 74,
+            "title": "O Inimigo! Ino-Shika-Cho!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-74"
+          },
+          {
+            "number": 75,
+            "title": "Os Desafios da Caverna Ryuchi",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-75"
+          },
+          {
+            "number": 76,
+            "title": "Provocando a Ira",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-76"
+          },
+          {
+            "number": 77,
+            "title": "Um Inimigo Feroz! O Ataque Cruel de Garaga!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-77"
+          },
+          {
+            "number": 78,
+            "title": "Os Motivos de Todo Mundo",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-78"
+          },
+          {
+            "number": 79,
+            "title": "Reencontro Com Mitsuki!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-79"
+          },
+          {
+            "number": 80,
+            "title": "O Amigo de Mitsuki",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-80"
+          },
+          {
+            "number": 81,
+            "title": "O Desejo de Boruto",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-81"
+          },
+          {
+            "number": 82,
+            "title": "Infiltrando-se na Vila da Pedra",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-82"
+          },
+          {
+            "number": 83,
+            "title": "A Justiça de Ohnoki",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-83"
+          },
+          {
+            "number": 84,
+            "title": "Os Pensamentos de Ohnoki e de Ku",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-84"
+          },
+          {
+            "number": 85,
+            "title": "A Pedra do Coração",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-85"
+          },
+          {
+            "number": 86,
+            "title": "O Desejo de Kozuchi",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-86"
+          },
+          {
+            "number": 87,
+            "title": "A Sensação de Viver",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-87"
+          },
+          {
+            "number": 88,
+            "title": "Embate! Kokuyou!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-88"
+          },
+          {
+            "number": 89,
+            "title": "Um Coração Penetrante",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-89"
+          },
+          {
+            "number": 90,
+            "title": "Mitsuki e Sekiei",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-90"
+          },
+          {
+            "number": 91,
+            "title": "O Desejo de Ohnoki",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-91"
+          },
+          {
+            "number": 92,
+            "title": "Um Novo Normal",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-92"
+          },
+          {
+            "number": 93,
+            "title": "Dia Dos Pais e Filhos",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-93"
+          },
+          {
+            "number": 94,
+            "title": "Uma Grande Porção! O Concurso de Comida!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-94"
+          },
+          {
+            "number": 95,
+            "title": "Táticas Para se Dar Bem com Sua Filha",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-95"
+          },
+          {
+            "number": 96,
+            "title": "Sangue, Suor e Namida",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-96"
+          },
+          {
+            "number": 97,
+            "title": "A Decisão de Shikadai",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-97"
+          },
+          {
+            "number": 98,
+            "title": "A Floresta Amaldiçoada",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-98"
+          },
+          {
+            "number": 99,
+            "title": "Jugo e a Marca da Maldição",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-99"
+          },
+          {
+            "number": 100,
+            "title": "O Caminho Predestinado",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-100"
+          },
+          {
+            "number": 101,
+            "title": "Os Reforços de Jugo",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-101"
+          },
+          {
+            "number": 102,
+            "title": "Briga!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-102"
+          },
+          {
+            "number": 103,
+            "title": "Temporada de Migração",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-103"
+          },
+          {
+            "number": 104,
+            "title": "O Pequeno Colega de Quarto",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-104"
+          },
+          {
+            "number": 105,
+            "title": "Uma Ferida no Coração",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-105"
+          },
+          {
+            "number": 106,
+            "title": "O Pergaminho Dos Ninjas do Vapor! A Missão de Ranque S!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-106"
+          },
+          {
+            "number": 107,
+            "title": "O Pergaminho Dos Ninjas do Vapor! A Guerra de Cães e Gatos!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-107"
+          },
+          {
+            "number": 108,
+            "title": "O Pergaminho Dos Ninjas do Vapor! O Hotel Amaldiçoado!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-108"
+          },
+          {
+            "number": 109,
+            "title": "O Pergaminho Dos Ninjas do Vapor! Batatinhas e a Pedra Gigante!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-109"
+          },
+          {
+            "number": 110,
+            "title": "O Pergaminho Dos Ninjas do Vapor! Águas Termais da Ressurreição!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-110"
+          },
+          {
+            "number": 111,
+            "title": "O Pergaminho Dos Ninjas do Vapor! O Rei da Mirai!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-111"
+          },
+          {
+            "number": 112,
+            "title": "Conferência da Seleção Chunin",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-112"
+          },
+          {
+            "number": 113,
+            "title": "O Pergaminho Dos Ninjas do Vapor! Águas Termais da Ressurreição!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-113"
+          },
+          {
+            "number": 114,
+            "title": "Guerra de Cartas",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-114"
+          },
+          {
+            "number": 115,
+            "title": "Time 25",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-115"
+          },
+          {
+            "number": 116,
+            "title": "Konohamaru e Remon",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-116"
+          },
+          {
+            "number": 117,
+            "title": "O Pergaminho Dos Ninjas do Vapor! Águas Termais da Ressurreição!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-117"
+          },
+          {
+            "number": 118,
+            "title": "Algo Que Rouba Memórias",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-118"
+          },
+          {
+            "number": 119,
+            "title": "O Jeito Ninja de Konohamaru",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-119"
+          },
+          {
+            "number": 120,
+            "title": "Sasuke é o Objetivo",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-120"
+          },
+          {
+            "number": 121,
+            "title": "Missão Importante! Proteger Shukaku!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-121"
+          },
+          {
+            "number": 122,
+            "title": "O Balé de Marionetes!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-122"
+          },
+          {
+            "number": 123,
+            "title": "O Retorno de Urashiki",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-123"
+          },
+          {
+            "number": 124,
+            "title": "Momento Decisivo",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-124"
+          },
+          {
+            "number": 125,
+            "title": "Boruto e Shinki",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-125"
+          },
+          {
+            "number": 126,
+            "title": "O Truque de Shukaku",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-126"
+          },
+          {
+            "number": 127,
+            "title": "Táticas dos Amassos",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-127"
+          },
+          {
+            "number": 128,
+            "title": "O Alvo de Urashiki",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-128"
+          },
+          {
+            "number": 129,
+            "title": "Vila Oculta da Folha",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-129"
+          },
+          {
+            "number": 131,
+            "title": "O Poder da Nove Caudas",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-131"
+          },
+          {
+            "number": 132,
+            "title": "O Dever de Jiraiya",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-132"
+          },
+          {
+            "number": 133,
+            "title": "Reunião dos Genins!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-133"
+          },
+          {
+            "number": 134,
+            "title": "O Poder de Ver o Futuro",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-134"
+          },
+          {
+            "number": 135,
+            "title": "A Última Batalha: Urashiki",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-135"
+          },
+          {
+            "number": 136,
+            "title": "Hora da Cruzada!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-136"
+          },
+          {
+            "number": 137,
+            "title": "A Aluna Samurai Transferida",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-137"
+          },
+          {
+            "number": 138,
+            "title": "O Aniversário de Hiashi",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-138"
+          },
+          {
+            "number": 139,
+            "title": "O Terror! Onikuma Enko!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-139"
+          },
+          {
+            "number": 140,
+            "title": "O Jutsu da Mente Que Perdeu Para Batatinhas",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-140"
+          },
+          {
+            "number": 141,
+            "title": "Prisão Ninja! O Castelo Hozuki!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-141"
+          },
+          {
+            "number": 142,
+            "title": "Um Teste de Força de Vontade",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-142"
+          },
+          {
+            "number": 143,
+            "title": "O Criminoso Atrás de Kokuri",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-143"
+          },
+          {
+            "number": 144,
+            "title": "O Segredo de Kokuri",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-144"
+          },
+          {
+            "number": 145,
+            "title": "A Fuga do Castelo Hozuki",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-145"
+          },
+          {
+            "number": 146,
+            "title": "Executando a Fuga da Prisão!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-146"
+          },
+          {
+            "number": 147,
+            "title": "O Jutsu da Mente Que Perdeu Para Batatinhas",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-147"
+          },
+          {
+            "number": 148,
+            "title": "Uma Nova Missão!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-148"
+          },
+          {
+            "number": 149,
+            "title": "Amigo!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-149"
+          },
+          {
+            "number": 150,
+            "title": "O Valor de Uma Carta na Manga",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-150"
+          },
+          {
+            "number": 151,
+            "title": "Boruto e Tento",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-151"
+          },
+          {
+            "number": 152,
+            "title": "Desenvolvendo Ninjutsu Médico",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-152"
+          },
+          {
+            "number": 153,
+            "title": "Harmonia de Ouro",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-153"
+          },
+          {
+            "number": 154,
+            "title": "O Teste Ninja de Himawari!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-154"
+          },
+          {
+            "number": 155,
+            "title": "O Dia Chuvoso de Mitsuki",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-155"
+          },
+          {
+            "number": 156,
+            "title": "Não Posso Ficar Na Minha Forma Magra",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-156"
+          },
+          {
+            "number": 157,
+            "title": "Vestígios da Kara",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-157"
+          },
+          {
+            "number": 158,
+            "title": "O Homem que Desapareceu",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-158"
+          },
+          {
+            "number": 159,
+            "title": "A Célula de Hashirama",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-159"
+          },
+          {
+            "number": 160,
+            "title": "País do Silêncio",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-160"
+          },
+          {
+            "number": 161,
+            "title": "O Castelo dos Pesadelos",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-161"
+          },
+          {
+            "number": 162,
+            "title": "Escapando da Rede Que Se Aperta",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-162"
+          },
+          {
+            "number": 163,
+            "title": "Os Perseguidores",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-163"
+          },
+          {
+            "number": 164,
+            "title": "O Jutsu Proibido da Morte",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-164"
+          },
+          {
+            "number": 165,
+            "title": "O Dever dos Quadrigêmeos",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-165"
+          },
+          {
+            "number": 166,
+            "title": "Combate Até a Morte",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-166"
+          },
+          {
+            "number": 167,
+            "title": "A Decisão Deles",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-167"
+          },
+          {
+            "number": 168,
+            "title": "O Treinamento Começa!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-168"
+          },
+          {
+            "number": 169,
+            "title": "Missão em Parceria Com a Vila da Areia",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-169"
+          },
+          {
+            "number": 170,
+            "title": "Um Novo Rasengan",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-170"
+          },
+          {
+            "number": 171,
+            "title": "Resultados do Treinamento",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-171"
+          },
+          {
+            "number": 172,
+            "title": "Um Autógrafo de Dar Medo",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-172"
+          },
+          {
+            "number": 173,
+            "title": "O Segredo da Sala Subterrânea",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-173"
+          },
+          {
+            "number": 174,
+            "title": "A Ressurreição da Árvore Divina",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-174"
+          },
+          {
+            "number": 175,
+            "title": "Além dos Limites!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-175"
+          },
+          {
+            "number": 176,
+            "title": "Tranquem o Portão A-Un!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-176"
+          },
+          {
+            "number": 177,
+            "title": "O Sistema Sensorial da Parede de Ferro",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-177"
+          },
+          {
+            "number": 178,
+            "title": "O Exemplo de Nossos Pais",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-178"
+          },
+          {
+            "number": 179,
+            "title": "O Plano de Victor",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-179"
+          },
+          {
+            "number": 180,
+            "title": "Mugino, o Assassino",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-180"
+          },
+          {
+            "number": 181,
+            "title": "Receptáculo",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-181"
+          },
+          {
+            "number": 182,
+            "title": "Ao",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-182"
+          },
+          {
+            "number": 183,
+            "title": "A Mão",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-183"
+          },
+          {
+            "number": 184,
+            "title": "Marionetes",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-184"
+          },
+          {
+            "number": 185,
+            "title": "Ferramentas",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-185"
+          },
+          {
+            "number": 186,
+            "title": "Como Você a Usa",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-186"
+          },
+          {
+            "number": 187,
+            "title": "Karma",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-187"
+          },
+          {
+            "number": 188,
+            "title": "Despertar",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-188"
+          },
+          {
+            "number": 189,
+            "title": "Ressonância",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-189"
+          },
+          {
+            "number": 190,
+            "title": "Fuga",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-190"
+          },
+          {
+            "number": 191,
+            "title": "Cachorro Vira-Lata",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-191"
+          },
+          {
+            "number": 192,
+            "title": "O Passado",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-192"
+          },
+          {
+            "number": 193,
+            "title": "Coexistência",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-193"
+          },
+          {
+            "number": 194,
+            "title": "A Casa dos Uzumaki",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-194"
+          },
+          {
+            "number": 195,
+            "title": "Vaso",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-195"
+          },
+          {
+            "number": 196,
+            "title": "Uma Força Que Unifica",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-196"
+          },
+          {
+            "number": 197,
+            "title": "Delta",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-197"
+          },
+          {
+            "number": 198,
+            "title": "Monstros",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-198"
+          },
+          {
+            "number": 199,
+            "title": "Sobrecarga",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-199"
+          },
+          {
+            "number": 200,
+            "title": "Novo Aprendiz",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-200"
+          },
+          {
+            "number": 201,
+            "title": "Lágrimas Vazias",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-201"
+          },
+          {
+            "number": 202,
+            "title": "Culto",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-202"
+          },
+          {
+            "number": 203,
+            "title": "Ataque Surpresa!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-203"
+          },
+          {
+            "number": 204,
+            "title": "Ele é Perigoso",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-204"
+          },
+          {
+            "number": 205,
+            "title": "Prova",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-205"
+          },
+          {
+            "number": 206,
+            "title": "O Novo Time 7",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-206"
+          },
+          {
+            "number": 207,
+            "title": "Regeneração",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-207"
+          },
+          {
+            "number": 208,
+            "title": "A Manifestação de Momoshiki",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-208"
+          },
+          {
+            "number": 209,
+            "title": "O Exilado",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-209"
+          },
+          {
+            "number": 210,
+            "title": "Pistas Sobre a Kara",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-210"
+          },
+          {
+            "number": 211,
+            "title": "A Caçada",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-211"
+          },
+          {
+            "number": 212,
+            "title": "A Deserção de Amado",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-212"
+          },
+          {
+            "number": 213,
+            "title": "Verdadeira Identidade",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-213"
+          },
+          {
+            "number": 214,
+            "title": "Caminho Predestinado",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-214"
+          },
+          {
+            "number": 215,
+            "title": "Preparado",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-215"
+          },
+          {
+            "number": 216,
+            "title": "Sacrifício",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-216"
+          },
+          {
+            "number": 217,
+            "title": "Decisão",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-217"
+          },
+          {
+            "number": 218,
+            "title": "Parceiro",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-218"
+          },
+          {
+            "number": 219,
+            "title": "Retorno",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-219"
+          },
+          {
+            "number": 220,
+            "title": "Tempo Restante",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-220"
+          },
+          {
+            "number": 221,
+            "title": "O Retorno do Exame Chunin",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-221"
+          },
+          {
+            "number": 222,
+            "title": "A Noite Antes da Rodada Final",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-222"
+          },
+          {
+            "number": 223,
+            "title": "Inojin vs. Houki",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-223"
+          },
+          {
+            "number": 224,
+            "title": "A Lenda do Gato Monstro",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-224"
+          },
+          {
+            "number": 225,
+            "title": "Batalha Entre Melhores Amigas",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-225"
+          },
+          {
+            "number": 226,
+            "title": "Samurai vs. Ciência",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-226"
+          },
+          {
+            "number": 227,
+            "title": "A Última Missão do Time 7?!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-227"
+          },
+          {
+            "number": 228,
+            "title": "O Caminho de Kawaki Para Virar Um Ninja",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-228"
+          },
+          {
+            "number": 229,
+            "title": "Violação de Ordens",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-229"
+          },
+          {
+            "number": 230,
+            "title": "Um Desejo",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-230"
+          },
+          {
+            "number": 231,
+            "title": "A Espada Enferrujada",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-231"
+          },
+          {
+            "number": 232,
+            "title": "A Primeira Missão do Capitão Denki",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-232"
+          },
+          {
+            "number": 233,
+            "title": "O Novo Time 7 Entra em Ação",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-233"
+          },
+          {
+            "number": 234,
+            "title": "Libertação do Vilão",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-234"
+          },
+          {
+            "number": 235,
+            "title": "Infiltrando-se na Ilha Dotou",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-235"
+          },
+          {
+            "number": 236,
+            "title": "Cortar e Correr",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-236"
+          },
+          {
+            "number": 237,
+            "title": "Fortaleza Móvel",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-237"
+          },
+          {
+            "number": 238,
+            "title": "Um Assassino no Navio",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-238"
+          },
+          {
+            "number": 239,
+            "title": "O Menino da Ilha dos Construtores Navais",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-239"
+          },
+          {
+            "number": 240,
+            "title": "O Sonho de Ikada",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-240"
+          },
+          {
+            "number": 241,
+            "title": "O Segredo de Ikada",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-241"
+          },
+          {
+            "number": 242,
+            "title": "Seiren",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-242"
+          },
+          {
+            "number": 243,
+            "title": "O Meu Lugar",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-243"
+          },
+          {
+            "number": 244,
+            "title": "Brecha",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-244"
+          },
+          {
+            "number": 245,
+            "title": "A Tenacidade de Funamushi",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-245"
+          },
+          {
+            "number": 246,
+            "title": "Uma Grande Perda",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-246"
+          },
+          {
+            "number": 247,
+            "title": "Por Kagura",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-247"
+          },
+          {
+            "number": 248,
+            "title": "Mais Uma Batalha Feroz",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-248"
+          },
+          {
+            "number": 249,
+            "title": "Ódio Crescente",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-249"
+          },
+          {
+            "number": 250,
+            "title": "O Sangue dos Funato",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-250"
+          },
+          {
+            "number": 251,
+            "title": "Sua Determinação",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-251"
+          },
+          {
+            "number": 252,
+            "title": "O Desejo de Acreditar",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-252"
+          },
+          {
+            "number": 253,
+            "title": "Sentimentos Conflitantes",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-253"
+          },
+          {
+            "number": 254,
+            "title": "Espiral de Vingança",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-254"
+          },
+          {
+            "number": 255,
+            "title": "Uma Missão Complicada",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-255"
+          },
+          {
+            "number": 256,
+            "title": "A Receita Final",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-256"
+          },
+          {
+            "number": 257,
+            "title": "Konohamaru Vira o Hokage?!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-257"
+          },
+          {
+            "number": 258,
+            "title": "Férias da Família Uzumaki Nas Águas Termais",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-258"
+          },
+          {
+            "number": 259,
+            "title": "A Ferida que Nunca Cura",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-259"
+          },
+          {
+            "number": 260,
+            "title": "Fogos de Artifício de Amor",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-260"
+          },
+          {
+            "number": 261,
+            "title": "Kawaki Entra na Academia Ninja!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-261"
+          },
+          {
+            "number": 262,
+            "title": "A Festa de Chá da Princesa",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-262"
+          },
+          {
+            "number": 263,
+            "title": "Floresça, Hana! Os Presentes da Professora!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-263"
+          },
+          {
+            "number": 264,
+            "title": "O Time Investigativo dos Sete Mistérios é Formado!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-264"
+          },
+          {
+            "number": 265,
+            "title": "Rivalidade Entre Times! Treinamento de Habilidades Práticas!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-265"
+          },
+          {
+            "number": 266,
+            "title": "O Incidente do Sequestro de Himawari",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-266"
+          },
+          {
+            "number": 267,
+            "title": "O Disfarce de Kawaki é Descoberto?!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-267"
+          },
+          {
+            "number": 268,
+            "title": "Alvo: Festival Escolar",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-268"
+          },
+          {
+            "number": 269,
+            "title": "A Sombra Furtiva",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-269"
+          },
+          {
+            "number": 270,
+            "title": "Duas Faces da Mesma Moeda",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-270"
+          },
+          {
+            "number": 271,
+            "title": "Ilha da Traição",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-271"
+          },
+          {
+            "number": 272,
+            "title": "Alunos, Reúnam-se!!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-272"
+          },
+          {
+            "number": 273,
+            "title": "Adeus, Academia!!",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-273"
+          },
+          {
+            "number": 274,
+            "title": "Um Falcão Sem Voo",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-274"
+          },
+          {
+            "number": 275,
+            "title": "No Céu Novamente",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-275"
+          },
+          {
+            "number": 276,
+            "title": "Bem-Vindos ao Labirinto",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-276"
+          },
+          {
+            "number": 277,
+            "title": "Vidas Desaparecendo",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-277"
+          },
+          {
+            "number": 278,
+            "title": "Dança das Cadeiras",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-278"
+          },
+          {
+            "number": 279,
+            "title": "Obstáculo: 7",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-279"
+          },
+          {
+            "number": 280,
+            "title": "Avanço",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-280"
+          },
+          {
+            "number": 281,
+            "title": "A Oitava Verdade",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-281"
+          },
+          {
+            "number": 282,
+            "title": "História do Sasuke: Infiltração",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-282"
+          },
+          {
+            "number": 283,
+            "title": "História do Sasuke: Constelações",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-283"
+          },
+          {
+            "number": 284,
+            "title": "História do Sasuke: Segredo do Porão",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-284"
+          },
+          {
+            "number": 285,
+            "title": "História de Sasuke: O Céu que Caiu na Terra",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-285"
+          },
+          {
+            "number": 286,
+            "title": "História de Sasuke: A Aliança",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-286"
+          },
+          {
+            "number": 287,
+            "title": "Marcas de Garras",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-287"
+          },
+          {
+            "number": 288,
+            "title": "Prisioneiros",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-288"
+          },
+          {
+            "number": 289,
+            "title": "Qualificações",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-289"
+          },
+          {
+            "number": 290,
+            "title": "Presença",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-290"
+          },
+          {
+            "number": 291,
+            "title": "Controle",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-291"
+          },
+          {
+            "number": 292,
+            "title": "Fome",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-292"
+          },
+          {
+            "number": 293,
+            "title": "Adeus",
+            "url": "https://animeplay.cloud/episodio/boruto-naruto-next-generations-episodio-293-final"
+          }
+        ],
+        "totalEpisodes": 292,
+        "kind": "anime",
+        "provider": "animeplay",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Ação",
+          "Aventura",
+          "Comédia",
+          "Drama"
+        ]
+      }
+    },
+    "death-note-2": {
+      "at": 1784728552575,
+      "data": {
+        "slug": "death-note-2",
+        "title": "Death Note - Animes",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMS9hc3Npc3Rpci1kZWF0aC1ub3RlLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pbWVzZGlnaXRhbC5qcGc",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Death Note Episódio 01 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41555/",
+            "videoId": "41555"
+          },
+          {
+            "number": 2,
+            "title": "Death Note Episódio 02 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41554/",
+            "videoId": "41554"
+          },
+          {
+            "number": 3,
+            "title": "Death Note Episódio 03 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41553/",
+            "videoId": "41553"
+          },
+          {
+            "number": 4,
+            "title": "Death Note Episódio 04 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41552/",
+            "videoId": "41552"
+          },
+          {
+            "number": 5,
+            "title": "Death Note Episódio 05 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41551/",
+            "videoId": "41551"
+          },
+          {
+            "number": 6,
+            "title": "Death Note Episódio 06 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41550/",
+            "videoId": "41550"
+          },
+          {
+            "number": 7,
+            "title": "Death Note Episódio 07 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41549/",
+            "videoId": "41549"
+          },
+          {
+            "number": 8,
+            "title": "Death Note Episódio 08 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41548/",
+            "videoId": "41548"
+          },
+          {
+            "number": 9,
+            "title": "Death Note Episódio 09 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41547/",
+            "videoId": "41547"
+          },
+          {
+            "number": 10,
+            "title": "Death Note Episódio 10 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41546/",
+            "videoId": "41546"
+          },
+          {
+            "number": 11,
+            "title": "Death Note Episódio 11 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41545/",
+            "videoId": "41545"
+          },
+          {
+            "number": 12,
+            "title": "Death Note Episódio 12 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41544/",
+            "videoId": "41544"
+          },
+          {
+            "number": 13,
+            "title": "Death Note Episódio 13 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41543/",
+            "videoId": "41543"
+          },
+          {
+            "number": 14,
+            "title": "Death Note Episódio 14 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41542/",
+            "videoId": "41542"
+          },
+          {
+            "number": 15,
+            "title": "Death Note Episódio 15 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41541/",
+            "videoId": "41541"
+          },
+          {
+            "number": 16,
+            "title": "Death Note Episódio 16 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41540/",
+            "videoId": "41540"
+          },
+          {
+            "number": 17,
+            "title": "Death Note Episódio 17 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41539/",
+            "videoId": "41539"
+          },
+          {
+            "number": 18,
+            "title": "Death Note Episódio 18 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41538/",
+            "videoId": "41538"
+          },
+          {
+            "number": 19,
+            "title": "Death Note Episódio 19 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41537/",
+            "videoId": "41537"
+          },
+          {
+            "number": 20,
+            "title": "Death Note Episódio 20 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41536/",
+            "videoId": "41536"
+          },
+          {
+            "number": 21,
+            "title": "Death Note Episódio 21 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41535/",
+            "videoId": "41535"
+          },
+          {
+            "number": 22,
+            "title": "Death Note Episódio 22 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41534/",
+            "videoId": "41534"
+          },
+          {
+            "number": 23,
+            "title": "Death Note Episódio 23 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41533/",
+            "videoId": "41533"
+          },
+          {
+            "number": 24,
+            "title": "Death Note Episódio 24 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41532/",
+            "videoId": "41532"
+          },
+          {
+            "number": 25,
+            "title": "Death Note Episódio 25 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41531/",
+            "videoId": "41531"
+          },
+          {
+            "number": 26,
+            "title": "Death Note Episódio 26 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41530/",
+            "videoId": "41530"
+          },
+          {
+            "number": 27,
+            "title": "Death Note Episódio 27 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41529/",
+            "videoId": "41529"
+          },
+          {
+            "number": 28,
+            "title": "Death Note Episódio 28 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41528/",
+            "videoId": "41528"
+          },
+          {
+            "number": 29,
+            "title": "Death Note Episódio 29 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41527/",
+            "videoId": "41527"
+          },
+          {
+            "number": 30,
+            "title": "Death Note Episódio 30 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41526/",
+            "videoId": "41526"
+          },
+          {
+            "number": 31,
+            "title": "Death Note Episódio 31 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41525/",
+            "videoId": "41525"
+          },
+          {
+            "number": 32,
+            "title": "Death Note Episódio 32 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41524/",
+            "videoId": "41524"
+          },
+          {
+            "number": 33,
+            "title": "Death Note Episódio 33 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41523/",
+            "videoId": "41523"
+          },
+          {
+            "number": 34,
+            "title": "Death Note Episódio 34 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41522/",
+            "videoId": "41522"
+          },
+          {
+            "number": 35,
+            "title": "Death Note Episódio 35 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41521/",
+            "videoId": "41521"
+          },
+          {
+            "number": 36,
+            "title": "Death Note Episódio 36 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41520/",
+            "videoId": "41520"
+          },
+          {
+            "number": 37,
+            "title": "Death Note Episódio 37 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41519/",
+            "videoId": "41519"
+          }
+        ],
+        "totalEpisodes": 37,
+        "kind": "anime",
+        "provider": "animesdigital"
+      }
+    },
+    "death-note": {
+      "at": 1784728552761,
+      "data": {
+        "slug": "death-note",
+        "title": "Death Note Dublado - Animes",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1kZWF0aC1ub3RlLWR1YmxhZG8tdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbmltZXNkaWdpdGFsLmpwZw",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Death Note Dublado Episódio 01 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23722/",
+            "videoId": "23722"
+          },
+          {
+            "number": 2,
+            "title": "Death Note Dublado Episódio 02 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23721/",
+            "videoId": "23721"
+          },
+          {
+            "number": 3,
+            "title": "Death Note Dublado Episódio 03 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23720/",
+            "videoId": "23720"
+          },
+          {
+            "number": 4,
+            "title": "Death Note Dublado Episódio 04 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23719/",
+            "videoId": "23719"
+          },
+          {
+            "number": 5,
+            "title": "Death Note Dublado Episódio 05 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23718/",
+            "videoId": "23718"
+          },
+          {
+            "number": 6,
+            "title": "Death Note Dublado Episódio 06 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23717/",
+            "videoId": "23717"
+          },
+          {
+            "number": 7,
+            "title": "Death Note Dublado Episódio 07 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23716/",
+            "videoId": "23716"
+          },
+          {
+            "number": 8,
+            "title": "Death Note Dublado Episódio 08 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23715/",
+            "videoId": "23715"
+          },
+          {
+            "number": 9,
+            "title": "Death Note Dublado Episódio 09 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23714/",
+            "videoId": "23714"
+          },
+          {
+            "number": 10,
+            "title": "Death Note Dublado Episódio 10 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23713/",
+            "videoId": "23713"
+          },
+          {
+            "number": 11,
+            "title": "Death Note Dublado Episódio 11 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23712/",
+            "videoId": "23712"
+          },
+          {
+            "number": 12,
+            "title": "Death Note Dublado Episódio 12 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23711/",
+            "videoId": "23711"
+          },
+          {
+            "number": 13,
+            "title": "Death Note Dublado Episódio 13 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23710/",
+            "videoId": "23710"
+          },
+          {
+            "number": 14,
+            "title": "Death Note Dublado Episódio 14 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23709/",
+            "videoId": "23709"
+          },
+          {
+            "number": 15,
+            "title": "Death Note Dublado Episódio 15 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23708/",
+            "videoId": "23708"
+          },
+          {
+            "number": 16,
+            "title": "Death Note Dublado Episódio 16 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23707/",
+            "videoId": "23707"
+          },
+          {
+            "number": 17,
+            "title": "Death Note Dublado Episódio 17 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23706/",
+            "videoId": "23706"
+          },
+          {
+            "number": 18,
+            "title": "Death Note Dublado Episódio 18 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23705/",
+            "videoId": "23705"
+          },
+          {
+            "number": 19,
+            "title": "Death Note Dublado Episódio 19 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23704/",
+            "videoId": "23704"
+          },
+          {
+            "number": 20,
+            "title": "Death Note Dublado Episódio 20 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23703/",
+            "videoId": "23703"
+          },
+          {
+            "number": 21,
+            "title": "Death Note Dublado Episódio 21 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23702/",
+            "videoId": "23702"
+          },
+          {
+            "number": 22,
+            "title": "Death Note Dublado Episódio 22 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23701/",
+            "videoId": "23701"
+          },
+          {
+            "number": 23,
+            "title": "Death Note Dublado Episódio 23 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23700/",
+            "videoId": "23700"
+          },
+          {
+            "number": 24,
+            "title": "Death Note Dublado Episódio 24 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23699/",
+            "videoId": "23699"
+          },
+          {
+            "number": 25,
+            "title": "Death Note Dublado Episódio 25 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23698/",
+            "videoId": "23698"
+          },
+          {
+            "number": 26,
+            "title": "Death Note Dublado Episódio 26 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23697/",
+            "videoId": "23697"
+          },
+          {
+            "number": 27,
+            "title": "Death Note Dublado Episódio 27 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23696/",
+            "videoId": "23696"
+          },
+          {
+            "number": 28,
+            "title": "Death Note Dublado Episódio 28 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23695/",
+            "videoId": "23695"
+          },
+          {
+            "number": 29,
+            "title": "Death Note Dublado Episódio 29 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23694/",
+            "videoId": "23694"
+          },
+          {
+            "number": 30,
+            "title": "Death Note Dublado Episódio 30 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23693/",
+            "videoId": "23693"
+          },
+          {
+            "number": 31,
+            "title": "Death Note Dublado Episódio 31 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23692/",
+            "videoId": "23692"
+          },
+          {
+            "number": 32,
+            "title": "Death Note Dublado Episódio 32 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23691/",
+            "videoId": "23691"
+          },
+          {
+            "number": 33,
+            "title": "Death Note Dublado Episódio 33 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23690/",
+            "videoId": "23690"
+          },
+          {
+            "number": 34,
+            "title": "Death Note Dublado Episódio 34 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23689/",
+            "videoId": "23689"
+          },
+          {
+            "number": 35,
+            "title": "Death Note Dublado Episódio 35 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23688/",
+            "videoId": "23688"
+          },
+          {
+            "number": 36,
+            "title": "Death Note Dublado Episódio 36 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23687/",
+            "videoId": "23687"
+          },
+          {
+            "number": 37,
+            "title": "Death Note Dublado Episódio 37 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/23686/",
+            "videoId": "23686"
+          }
+        ],
+        "totalEpisodes": 37,
+        "kind": "anime",
+        "provider": "animesdigital"
+      }
+    },
+    "black-clover-dublado": {
+      "at": 1784728553114,
+      "data": {
+        "slug": "black-clover-dublado",
+        "title": "Black Clover Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9wRDdYclUwZVZtOWpTVU5zak1URlN4blcxcncuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Asta E Yuno",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - A Promessa Dos Meninos",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Para A Capital Real Do Reino Clover!",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - O Exame De Admissão Para Os Cavaleiros Mágicos!",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - O Caminho Para O Rei Mago",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Os Touros Negros",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - A Outra Nova Recruta",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Vamos! Vamos! Primeira Missão",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Fera",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Aqueles que Protegem",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - O Que Aconteceu Num Certo Dia na Capital",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - O Rei Mago Viu",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Episódio 13 - Continuação o Rei Mago Viu",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-13"
+          },
+          {
+            "number": 14,
+            "title": "Episódio 14 - Dungeon",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-14"
+          },
+          {
+            "number": 15,
+            "title": "Episódio 15 - O Mago de Diamond",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-15"
+          },
+          {
+            "number": 16,
+            "title": "Episódio 16 - Companheiros",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-16"
+          },
+          {
+            "number": 17,
+            "title": "Episódio 17 - Destruidor",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-17"
+          },
+          {
+            "number": 18,
+            "title": "Episódio 18 - Memórias de Você",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-18"
+          },
+          {
+            "number": 19,
+            "title": "Episódio 19 - Destruição e Salvação",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-19"
+          },
+          {
+            "number": 20,
+            "title": "Episódio 20 - Reunião Na Capital Central",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-20"
+          },
+          {
+            "number": 21,
+            "title": "Episódio 21 - Motim na Capital",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-21"
+          },
+          {
+            "number": 22,
+            "title": "Episódio 22 - Dança Mágica Selvagem",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-22"
+          },
+          {
+            "number": 23,
+            "title": "Episódio 23 - O Rei Leão Carmesim",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-23"
+          },
+          {
+            "number": 24,
+            "title": "Episódio 24 - Blackout",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-24"
+          },
+          {
+            "number": 25,
+            "title": "Episódio 25 - Adversidade",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-25"
+          },
+          {
+            "number": 26,
+            "title": "Episódio 26 - Feras Feridas",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-26"
+          },
+          {
+            "number": 27,
+            "title": "Episódio 27 - Luz",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-27"
+          },
+          {
+            "number": 28,
+            "title": "Episódio 28 - A Pessoa que Roubou Meu Coração",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-28"
+          },
+          {
+            "number": 29,
+            "title": "Episódio 29 - Caminho",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-29"
+          },
+          {
+            "number": 30,
+            "title": "Episódio 30 - O Mago Espelho",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-30"
+          },
+          {
+            "number": 31,
+            "title": "Episódio 31 - Perseguição na Neve",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-31"
+          },
+          {
+            "number": 32,
+            "title": "Episódio 32 - Brotos de Três Folhas",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-32"
+          },
+          {
+            "number": 33,
+            "title": "Episódio 33 - Para Ajudar Alguém um Dia",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-33"
+          },
+          {
+            "number": 34,
+            "title": "Episódio 34 - Magia de Luz vs Magia das Sombras",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-34"
+          },
+          {
+            "number": 35,
+            "title": "Episódio 35 - A Luz do Julgamento",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-35"
+          },
+          {
+            "number": 36,
+            "title": "Episódio 36 - Três Olhos",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-36"
+          },
+          {
+            "number": 37,
+            "title": "Episódio 37 - O Sem Magia",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-37"
+          },
+          {
+            "number": 38,
+            "title": "Episódio 38 - A Conferência dos Capitães Cavaleiros Mágicos",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-38"
+          },
+          {
+            "number": 39,
+            "title": "Episódio 39 - Saudação de Três Folhas",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-39"
+          },
+          {
+            "number": 40,
+            "title": "Episódio 40 - Uma História da Praia Sombria",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-40"
+          },
+          {
+            "number": 41,
+            "title": "Episódio 41 - O Crescimento da Menina da Água",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-41"
+          },
+          {
+            "number": 42,
+            "title": "Episódio 42 - O Templo Subaquático",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-42"
+          },
+          {
+            "number": 43,
+            "title": "Episódio 43 - Todos Contra Todos no Templo",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-43"
+          },
+          {
+            "number": 44,
+            "title": "Episódio 44 - A Bola de Fogo a Esmo e o Raio Selvagem",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-44"
+          },
+          {
+            "number": 45,
+            "title": "Episódio 45 - O Cara que Não Sabe Quando Parar",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-45"
+          },
+          {
+            "number": 46,
+            "title": "Episódio 46 - Despertar",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-46"
+          },
+          {
+            "number": 47,
+            "title": "Episódio 47 - A Única Arma",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-47"
+          },
+          {
+            "number": 48,
+            "title": "Episódio 48 - Desespero vs Esperança",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-48"
+          },
+          {
+            "number": 49,
+            "title": "Episódio 49 - Superando Limites",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-49"
+          },
+          {
+            "number": 50,
+            "title": "Episódio 50 - Fim da Batalha, Fim do Desespero",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-50"
+          },
+          {
+            "number": 51,
+            "title": "Episódio 51 - Prova de Retidão",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-51"
+          },
+          {
+            "number": 52,
+            "title": "Episódio 52 - O Mais Forte Vence",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-52"
+          },
+          {
+            "number": 53,
+            "title": "Episódio 53 - Por Trás da Máscara",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-53"
+          },
+          {
+            "number": 54,
+            "title": "Episódio 54 - Nunca Mais",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-54"
+          },
+          {
+            "number": 55,
+            "title": "Episódio 55 - O Homem Chamado Fanzell",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-55"
+          },
+          {
+            "number": 56,
+            "title": "Episódio 56 - O Homem Chamado Fanzell - Continuação",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-56"
+          },
+          {
+            "number": 57,
+            "title": "Episódio 57 - Infiltração",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-57"
+          },
+          {
+            "number": 58,
+            "title": "Episódio 58 - Decisão do Campo de Batalha",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-58"
+          },
+          {
+            "number": 59,
+            "title": "Episódio 59 - Chamas do Ódio",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-59"
+          },
+          {
+            "number": 60,
+            "title": "Episódio 60 - A Expiação do Desertor",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-60"
+          },
+          {
+            "number": 61,
+            "title": "Episódio 61 - O Mundo Prometido",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-61"
+          },
+          {
+            "number": 62,
+            "title": "Episódio 62 - Aqueles Que se Apoiam",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-62"
+          },
+          {
+            "number": 63,
+            "title": "Episódio 63 - Não é Nada",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-63"
+          },
+          {
+            "number": 64,
+            "title": "Episódio 64 - O Fio Vermelho do Destino",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-64"
+          },
+          {
+            "number": 65,
+            "title": "Episódio 65 - Bem-Vindo de Volta",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-65"
+          },
+          {
+            "number": 66,
+            "title": "Episódio 66 - O Segredo do Olho do sol da Meia-Noite",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-66"
+          },
+          {
+            "number": 67,
+            "title": "Episódio 67 - Encontro Duplo Divertido no Festival",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-67"
+          },
+          {
+            "number": 68,
+            "title": "Episódio 68 - Batalha até a Morte?! Yami vs Jack",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-68"
+          },
+          {
+            "number": 69,
+            "title": "Episódio 69 - A Melancolia da Dama dos Espinhos",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-69"
+          },
+          {
+            "number": 70,
+            "title": "Episódio 70 - Duas Novas Estrelas",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-70"
+          },
+          {
+            "number": 71,
+            "title": "Episódio 71 - A Invencível Leoa Sem Coroa",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-71"
+          },
+          {
+            "number": 72,
+            "title": "Episódio 72 - Fogo de Santelmo",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-72"
+          },
+          {
+            "number": 73,
+            "title": "Episódio 73 - O Teste de Seleção do Cavaleiros Reais",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-73"
+          },
+          {
+            "number": 74,
+            "title": "Episódio 74 - Flor da Determinação",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-74"
+          },
+          {
+            "number": 75,
+            "title": "Episódio 75 - Batalha Feroz",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-75"
+          },
+          {
+            "number": 76,
+            "title": "Episódio 76 - Mago X",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-76"
+          },
+          {
+            "number": 77,
+            "title": "Episódio 77 - Sangue Ruim",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-77"
+          },
+          {
+            "number": 78,
+            "title": "Episódio 78 - A Cilada do Plebeu",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-78"
+          },
+          {
+            "number": 79,
+            "title": "Episódio 79 - Senhor Delinquente vs Montanha de Músculos",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-79"
+          },
+          {
+            "number": 80,
+            "title": "Episódio 80 - Irmãozinho Especial vs Irmãozão Fracassado",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-80"
+          },
+          {
+            "number": 81,
+            "title": "Episódio 81 - A Vida de um Certo Homem",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-81"
+          },
+          {
+            "number": 82,
+            "title": "Episódio 82 - Petit Clover! O Pesadelo de Charmy SP!",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-82"
+          },
+          {
+            "number": 83,
+            "title": "Episódio 83 - Grave na Pele",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-83"
+          },
+          {
+            "number": 84,
+            "title": "Episódio 84 - Os Vencedores",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-84"
+          },
+          {
+            "number": 85,
+            "title": "Episódio 85 - Juntos no Banho",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-85"
+          },
+          {
+            "number": 86,
+            "title": "Episódio 86 - Yami e Vangeance",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-86"
+          },
+          {
+            "number": 87,
+            "title": "Episódio 87 - A Formação dos Cavaleiros Reais",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-87"
+          },
+          {
+            "number": 88,
+            "title": "Episódio 88 - Invadindo o Covil do Olho do Sol da Meia-Noite",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-88"
+          },
+          {
+            "number": 89,
+            "title": "Episódio 89 - O QG dos Touros Negros",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-89"
+          },
+          {
+            "number": 90,
+            "title": "Episódio 90 - Batalha Mágica Insana",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-90"
+          },
+          {
+            "number": 91,
+            "title": "Episódio 91 - Mereoleona vs Rhya, a Traição",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-91"
+          },
+          {
+            "number": 92,
+            "title": "Episódio 92 - O Rei Mago vs O Líder do Sol da Meia-Noite",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-92"
+          },
+          {
+            "number": 93,
+            "title": "Episódio 93 - Julius Novachrono",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-93"
+          },
+          {
+            "number": 94,
+            "title": "Episódio 94 - Novo Futuro",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-94"
+          },
+          {
+            "number": 95,
+            "title": "Episódio 95 - Reencarnação",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-95"
+          },
+          {
+            "number": 96,
+            "title": "Episódio 96 - O Capitão dos Touros Negros contra a Rosa Selvagem Crimson",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-96"
+          },
+          {
+            "number": 97,
+            "title": "Episódio 97 - Desvantagem esmagadora",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-97"
+          },
+          {
+            "number": 98,
+            "title": "Episódio 98 - O Leão Adormecido",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-98"
+          },
+          {
+            "number": 99,
+            "title": "Episódio 99 - O Caminho Desesperado para a Sobrevivência",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-99"
+          },
+          {
+            "number": 100,
+            "title": "Episódio 100 - Nós Não Vamos Perder para Você",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-100"
+          },
+          {
+            "number": 101,
+            "title": "Episódio 101 - As Vidas do Vilarejo em Jogo",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-101"
+          },
+          {
+            "number": 102,
+            "title": "Episódio 102 - Dois Milagres",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-102"
+          },
+          {
+            "number": 103,
+            "title": "Episódio 103 - Liberte-se do Infortúnio",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-103"
+          },
+          {
+            "number": 104,
+            "title": "Episódio 104 - A Fúria do Relâmpago vs Companheiros",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-104"
+          },
+          {
+            "number": 105,
+            "title": "Episódio 105 - Sorrisos, Lágrimas",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-105"
+          },
+          {
+            "number": 106,
+            "title": "Episódio 106 - O Caminho da Vingança, O Caminho da Reparação",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-106"
+          },
+          {
+            "number": 107,
+            "title": "Episódio 107 - A Batalha Pelo Castelo Clover",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-107"
+          },
+          {
+            "number": 108,
+            "title": "Episódio 108 - Dançarina do Campo de Batalha",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-108"
+          },
+          {
+            "number": 109,
+            "title": "Episódio 109 - Irmãos Magos Espaciais",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-109"
+          },
+          {
+            "number": 110,
+            "title": "Episódio 110 - O Touro Enfurecido Chega ao Combate!!",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-110"
+          },
+          {
+            "number": 111,
+            "title": "Episódio 111 - Os Olhos no Espelho",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-111"
+          },
+          {
+            "number": 112,
+            "title": "Episódio 112 - Humanos de Confiança",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-112"
+          },
+          {
+            "number": 113,
+            "title": "Episódio 113 - Invadindo o Palácio das Sombras",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-113"
+          },
+          {
+            "number": 114,
+            "title": "Episódio 114 - Os Invasores Finais",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-114"
+          },
+          {
+            "number": 115,
+            "title": "Episódio 115 - Mentor",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-115"
+          },
+          {
+            "number": 116,
+            "title": "Episódio 116 - O Inimigo Natural Supremo",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-116"
+          },
+          {
+            "number": 117,
+            "title": "Episódio 117 - Quebrando o Selo",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-117"
+          },
+          {
+            "number": 118,
+            "title": "Episódio 118 - Um Reencontro Além dos Limites do Tempo e do Espaço",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-118"
+          },
+          {
+            "number": 119,
+            "title": "Episódio 119 - O Ataque Final",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-119"
+          },
+          {
+            "number": 120,
+            "title": "Episódio 120 - Alvorecer",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-120"
+          },
+          {
+            "number": 121,
+            "title": "Episódio 121 - Três Problemas",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-121"
+          },
+          {
+            "number": 122,
+            "title": "Episódio 122 - Um Breu Absoluto",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-122"
+          },
+          {
+            "number": 123,
+            "title": "Episódio 123 - As Lembranças de Nero, Parte 1",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-123"
+          },
+          {
+            "number": 124,
+            "title": "Episódio 124 - As Lembranças de Nero, Parte 2",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-124"
+          },
+          {
+            "number": 125,
+            "title": "Episódio 125 - Retorno",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-125"
+          },
+          {
+            "number": 126,
+            "title": "Episódio 126 - A Confissão da Rosa Azul",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-126"
+          },
+          {
+            "number": 127,
+            "title": "Episódio 127 - Pistas",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-127"
+          },
+          {
+            "number": 128,
+            "title": "Episódio 128 - O Reino do Coração!",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-128"
+          },
+          {
+            "number": 129,
+            "title": "Episódio 129 - A Megicula do Mal",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-129"
+          },
+          {
+            "number": 130,
+            "title": "Episódio 130 - A Nova Reuniões dos Capitães Cavaleiros Mágicos",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-130"
+          },
+          {
+            "number": 131,
+            "title": "Episódio 131 - Uma Nova Resolução",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-131"
+          },
+          {
+            "number": 132,
+            "title": "Episódio 132 - O Leão Desperta",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-132"
+          },
+          {
+            "number": 133,
+            "title": "Episódio 133 - O Leão Desperta, Continuação",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-133"
+          },
+          {
+            "number": 134,
+            "title": "Episódio 134 - Aqueles Que se Reuniram",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-134"
+          },
+          {
+            "number": 135,
+            "title": "Episódio 135 - Quem Tem Meu Coração, Mente e Alma",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-135"
+          },
+          {
+            "number": 136,
+            "title": "Episódio 136 - Uma História das Profundezas do Mar",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-136"
+          },
+          {
+            "number": 137,
+            "title": "Episódio 137 - O Século de Fome da Charmy, O Milênio de Solidão do Gordon",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-137"
+          },
+          {
+            "number": 138,
+            "title": "Episódio 138 - Nos Passos de Zara",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-138"
+          },
+          {
+            "number": 139,
+            "title": "Episódio 139 - A Bruxa Volta Para Casa",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-139"
+          },
+          {
+            "number": 140,
+            "title": "Episódio 140 - Um Favor Para Julius",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-140"
+          },
+          {
+            "number": 141,
+            "title": "Episódio 141 - A Família Dourada",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-141"
+          },
+          {
+            "number": 142,
+            "title": "Episódio 142 - Os Que Ficaram Para Trás",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-142"
+          },
+          {
+            "number": 143,
+            "title": "Episódio 143 - A Balança Desequilibrada",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-143"
+          },
+          {
+            "number": 144,
+            "title": "Episódio 144 - Aqueles Que Desejam a Extinção do Demônio",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-144"
+          },
+          {
+            "number": 145,
+            "title": "Episódio 145 - Resgate",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-145"
+          },
+          {
+            "number": 146,
+            "title": "Episódio 146 - Os Adoradores do Demônio",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-146"
+          },
+          {
+            "number": 147,
+            "title": "Episódio 147 - Morte",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-147"
+          },
+          {
+            "number": 148,
+            "title": "Episódio 148 - Torne-se a luz que ilumina as trevas",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-148"
+          },
+          {
+            "number": 149,
+            "title": "Episódio 149 - Duas coisas a procurar",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-149"
+          },
+          {
+            "number": 150,
+            "title": "Episódio 150 - O Desafio da Donzela",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-150"
+          },
+          {
+            "number": 151,
+            "title": "Episódio 151 - Choque! A Batalha dos Capitães do Esquadrão dos Cavaleiros Mágicos",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-151"
+          },
+          {
+            "number": 152,
+            "title": "Episódio 152 - Rumo Ao Amanhã",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-152"
+          },
+          {
+            "number": 153,
+            "title": "Episódio 153 - Os Escolhidos",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-153"
+          },
+          {
+            "number": 154,
+            "title": "Episódio 154 - Vice-capitão Langris Vaude",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-154"
+          },
+          {
+            "number": 155,
+            "title": "Episódio 155 - Os 5 Guardiões Espirituais",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-155"
+          },
+          {
+            "number": 156,
+            "title": "Episódio 156 - Despertando Poderes",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-156"
+          },
+          {
+            "number": 157,
+            "title": "Episódio 157 - O Trevo de Cinco Folhas",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-157"
+          },
+          {
+            "number": 158,
+            "title": "Episódio 158 - O Começo da Esperança e do Desespero",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-158"
+          },
+          {
+            "number": 159,
+            "title": "Episódio 159 - Lagos Quietos e Florestas Sombrias",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-159"
+          },
+          {
+            "number": 160,
+            "title": "Episódio 160 - O Mensageiro do Reino Spade",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-160"
+          },
+          {
+            "number": 161,
+            "title": "Episódio 161 - Poder do Zenon",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-161"
+          },
+          {
+            "number": 162,
+            "title": "Episódio 162 - Eclode a Grande Guerra",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-162"
+          },
+          {
+            "number": 163,
+            "title": "Episódio 163 - Dante VS O Capitão dos Touros Negros",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-163"
+          },
+          {
+            "number": 164,
+            "title": "Episódio 164 - Campo de Batalha: Reino Heart",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-164"
+          },
+          {
+            "number": 165,
+            "title": "Episódio 165 - Cruzada nas Águas",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-165"
+          },
+          {
+            "number": 166,
+            "title": "Episódio 166 - Capitão: Yami Sukehiro",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-166"
+          },
+          {
+            "number": 167,
+            "title": "Episódio 167 - Juramento Negro",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-167"
+          },
+          {
+            "number": 168,
+            "title": "Episódio 168 - Perturbações dos Mais Fortes",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-168"
+          },
+          {
+            "number": 169,
+            "title": "Episódio 169 - O Ritual de Aprisionamento do Demônio",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-169"
+          },
+          {
+            "number": 170,
+            "title": "Episódio 170 - Futuro Distante",
+            "url": "https://animesdrive.online/episodio/black-clover-dublado-episodio-170"
+          }
+        ],
+        "totalEpisodes": 170,
+        "kind": "anime",
+        "provider": "animesdrive",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Ação",
+          "Aventura",
+          "Comédia"
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "black-clover",
+              "title": "Black Clover",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "black-clover-dublado",
+              "title": "Black Clover Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
+    },
+    "dandadan-dublado": {
+      "at": 1784728553242,
+      "data": {
+        "slug": "dandadan-dublado",
+        "title": "Dandadan Dublado - Todos os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9pdE5uWGlJSVV0T09HZk5hR1NkanNQNjM0YXIuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - É assim que o amor começa, tá ligado?",
+            "url": "https://animeplay.cloud/episodio/dandadan-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Isso aí é um alienígena, não é?!",
+            "url": "https://animeplay.cloud/episodio/dandadan-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Tem duas vovós saindo na mão!",
+            "url": "https://animeplay.cloud/episodio/dandadan-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Vamos descer a lenha na Vovó Turbo",
+            "url": "https://animeplay.cloud/episodio/dandadan-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Cadê as suas bolas, mano?",
+            "url": "https://animeplay.cloud/episodio/dandadan-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Chegou uma mulher que é treta",
+            "url": "https://animeplay.cloud/episodio/dandadan-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Rumo a um mundo mais gentil",
+            "url": "https://animeplay.cloud/episodio/dandadan-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Tô com uma sensação meio esquisita",
+            "url": "https://animeplay.cloud/episodio/dandadan-dublado-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Mesclar! Serpo Dover Demônio Nessie!",
+            "url": "https://animeplay.cloud/episodio/dandadan-dublado-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Você já viu uma mutilação de gado?",
+            "url": "https://animeplay.cloud/episodio/dandadan-dublado-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - O primeiro amor",
+            "url": "https://animeplay.cloud/episodio/dandadan-dublado-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Vamos para a casa amaldiçoada",
+            "url": "https://animeplay.cloud/episodio/dandadan-dublado-episodio-12"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "animeplay",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Ação",
+          "Animação",
+          "Aventura",
+          "Comédia",
+          "Fantasia",
+          "Sci-Fi"
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "dandadan",
+              "title": "dandadan",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "dandadan-dublado",
+              "title": "dandadan dublado",
               "audio": "dub",
               "label": "Dublado"
             }
