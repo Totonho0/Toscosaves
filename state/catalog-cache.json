@@ -87234,7 +87234,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784663166353
+      "at": 1784691923081
     },
     "todos|38||120": {
       "data": {
@@ -87464,6 +87464,11 @@
               {
                 "server": 3,
                 "provider": "animeplay",
+                "slug": "elf-san-wa-yaserarenai"
+              },
+              {
+                "server": 4,
+                "provider": "animesdigital",
                 "slug": "elf-san-wa-yaserarenai"
               }
             ]
@@ -88015,7 +88020,19 @@
             "url": "https://animesdrive.online/anime/overlord-4",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/05/Overlord-4-Todos-os-Episodios-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive"
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "overlord-4"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "overlord-4"
+              }
+            ]
           },
           {
             "title": "Shikanoko Nokonoko Koshitantan – Todos os Episodios",
@@ -88023,7 +88040,19 @@
             "url": "https://animeplay.cloud/anime/shikanoko-nokonoko-koshitantan-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/06/9yfMi1XzTFnRUVjrGNMZPqmtXpx-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "shikanoko-nokonoko-koshitantan"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "shikanoko-nokonoko-koshitantan"
+              }
+            ]
           },
           {
             "title": "Danball Senki Wars – (Legendado)",
@@ -88079,7 +88108,19 @@
             "url": "https://www.anitube.zip/video/1003383/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dandadan-2-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dandadan-2-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1003383"
+              }
+            ]
           },
           {
             "title": "Dandadan Dublado",
@@ -88087,7 +88128,24 @@
             "url": "https://www.anitube.zip/video/994034/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dandadan-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dandadan-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "994034"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dandadan-dublado"
+              }
+            ]
           },
           {
             "title": "Danganronpa 3: The End Of Kibougamine Gakuen – Kibou Hen (Legendado)",
@@ -88157,8 +88215,8 @@
         "category": "todos",
         "page": 38,
         "hasMore": true,
-        "total": 1297,
-        "cachedAt": 1784663163957,
+        "total": 1666,
+        "cachedAt": 1784691921018,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -88205,7 +88263,7 @@
           "fixHint": null
         }
       },
-      "at": 1784663166459
+      "at": 1784691923152
     },
     "partner:anitube|todos|39||48": {
       "data": {
@@ -88360,7 +88418,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784663166785
+      "at": 1784691923479
     },
     "todos|39||48": {
       "data": {
@@ -88631,7 +88689,7 @@
         "page": 39,
         "hasMore": true
       },
-      "at": 1784663167103
+      "at": 1784691924052
     },
     "partner:animeplay|todos|39||48": {
       "data": {
@@ -88874,7 +88932,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784663167700
+      "at": 1784691924451
     },
     "partner:animesdrive|todos|39||48": {
       "data": {
@@ -89117,7 +89175,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784663169252
+      "at": 1784691925801
     },
     "todos|39||120": {
       "data": {
@@ -89872,7 +89930,19 @@
             "url": "https://animesdrive.online/anime/vampire-dormitory",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/04/22c8lGyJv5fph12Wk518spTjPFo-185x278.jpg.webp",
             "kind": "anime",
-            "provider": "animesdrive"
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "vampire-dormitory"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "vampire-dormitory"
+              }
+            ]
           },
           {
             "title": "Katekyou Hitman Reborn! – Todos os Episódios",
@@ -89880,7 +89950,19 @@
             "url": "https://animeplay.cloud/anime/katekyou-hitman-reborn",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/05/6x7mx9f3ufHCC3pNgMoMnzVo3jw-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "katekyou-hitman-reborn"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "katekyou-hitman-reborn"
+              }
+            ]
           },
           {
             "title": "Dareka No Manazashi – Todos os Episodio (Legendado)",
@@ -89952,7 +90034,19 @@
             "url": "https://www.anitube.zip/video/1032637/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Darwin-Jihen-dub-categoria.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "darwin-jihen-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1032637"
+              }
+            ]
           },
           {
             "title": "Darwin’s Game (Legendado)",
@@ -90014,8 +90108,8 @@
         "category": "todos",
         "page": 39,
         "hasMore": true,
-        "total": 1336,
-        "cachedAt": 1784663167103,
+        "total": 1666,
+        "cachedAt": 1784691924052,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -90062,7 +90156,7 @@
           "fixHint": null
         }
       },
-      "at": 1784663169507
+      "at": 1784691925998
     },
     "partner:anitube|todos|40||48": {
       "data": {
@@ -90217,7 +90311,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784663169831
+      "at": 1784691926349
     },
     "todos|40||48": {
       "data": {
@@ -90497,7 +90591,7 @@
         "page": 40,
         "hasMore": true
       },
-      "at": 1784663170230
+      "at": 1784691926867
     },
     "partner:animeplay|todos|40||48": {
       "data": {
@@ -90748,7 +90842,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784663170648
+      "at": 1784691927392
     },
     "partner:animesdrive|todos|40||48": {
       "data": {
@@ -90999,7 +91093,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784663172286
+      "at": 1784691928892
     },
     "todos|40||120": {
       "data": {
@@ -91780,7 +91874,19 @@
             "url": "https://animesdrive.online/anime/hikari-no-ou-2",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/01/Hikari-no-Ou-2nd-Season-animesonline.cloud_-185x278.jpg.webp",
             "kind": "anime",
-            "provider": "animesdrive"
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hikari-no-ou-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hikari-no-ou-2"
+              }
+            ]
           },
           {
             "title": "Jiisan Baasan Wakagaeru – Todos os Episódios",
@@ -91788,7 +91894,19 @@
             "url": "https://animeplay.cloud/anime/jiisan-baasan-wakagaeru",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/04/pfiHJ5l67ptZSStHFaFdAppd5kZ-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "jiisan-baasan-wakagaeru"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "jiisan-baasan-wakagaeru"
+              }
+            ]
           },
           {
             "title": "Dead Mount Death Play (Legendado)",
@@ -91922,8 +92040,8 @@
         "category": "todos",
         "page": 40,
         "hasMore": true,
-        "total": 1376,
-        "cachedAt": 1784663170230,
+        "total": 1666,
+        "cachedAt": 1784691926867,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -91970,7 +92088,7 @@
           "fixHint": null
         }
       },
-      "at": 1784663172390
+      "at": 1784691928975
     },
     "partner:anitube|todos|41||48": {
       "data": {
@@ -92125,7 +92243,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784663172719
+      "at": 1784691929304
     },
     "todos|41||48": {
       "data": {
@@ -92396,7 +92514,7 @@
         "page": 41,
         "hasMore": true
       },
-      "at": 1784663173113
+      "at": 1784691929857
     },
     "partner:animeplay|todos|41||48": {
       "data": {
@@ -92639,7 +92757,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784663173625
+      "at": 1784691930279
     },
     "partner:animesdrive|todos|41||48": {
       "data": {
@@ -119329,5 +119447,5 @@
       "at": 1784679732130
     }
   },
-  "updatedAt": 1784691921458
+  "updatedAt": 1784691930279
 }
