@@ -8045,6 +8045,11 @@
             "provider": "aoc",
             "animeSources": [
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ao-no-miburo-2"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "ao-no-miburo-2"
@@ -8236,7 +8241,7 @@
             "url": "https://animesdigital.org/anime/a/arknights-perish-in-frost",
             "poster": null,
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Arknights: Reimei Zensou",
@@ -8416,10 +8421,32 @@
             "title": "Azur Lane: Bisoku Zenshin! Ni!!",
             "slug": "azur-lane-bisoku-zenshin-ni",
             "url": "https://animesonline.cloud/anime/azur-lane-bisoku-zenshin-ni",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/1QmL4cyQNKJjAzBZPDPH9u21m0M-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/1QmL4cyQNKJjAzBZPDPH9u21m0M-185x278.jpg",
             "rating": "7.1",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "azur-lane-bisoku-zenshin-ni"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "azur-lane-bisoku-zenshin-ni"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "azur-lane-bisoku-zenshin-ni"
+              },
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "azur-lane-bisoku-zenshin-ni"
+              }
+            ]
           },
           {
             "title": "B.King",
@@ -8643,10 +8670,22 @@
             "title": "BanG Dream! YUME∞MITA",
             "slug": "bang-dream-yume∞mita",
             "url": "https://animesonline.cloud/anime/bang-dream-yume%e2%88%9emita",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/13CKWGOOoSvaarTkKDxbcJ3mfNB-185x278.jpg",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/BanG-Dream-Yume-Mita.jpg",
             "rating": "7.5",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "bang-dream-yume∞mita"
+              },
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "bang-dream-yume-mita"
+              }
+            ]
           },
           {
             "title": "Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside",
@@ -8680,7 +8719,7 @@
             "url": "https://www.anitube.zip/video/83916/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Basquash.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Bastard!! (Legendado)",
@@ -8688,7 +8727,7 @@
             "url": "https://www.anitube.zip/video/64934/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Bastard.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Bastard!! Ankoku no Hakaishin (ONA) (Legendado)",
@@ -8696,7 +8735,7 @@
             "url": "https://www.anitube.zip/video/972123/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-bastard-ankoku-no-hakaishin-ona-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Bastard!! Ankoku no Hakaishin Part 2 (ONA) (Legendado)",
@@ -8704,7 +8743,7 @@
             "url": "https://www.anitube.zip/video/972153/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-bastard-ankoku-no-hakaishin-part-2-ona-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Bastard!! Ankoku no Hakaishin Season 2 (ONA) (Legendado)",
@@ -8712,7 +8751,7 @@
             "url": "https://www.anitube.zip/video/972181/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-bastard-ankoku-no-hakaishin-season-2-ona-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Battery (Legendado)",
@@ -8720,7 +8759,7 @@
             "url": "https://www.anitube.zip/video/64786/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Battery.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Battle Athletess Daiundoukai ReSTART! (Legendado)",
@@ -8728,7 +8767,7 @@
             "url": "https://www.anitube.zip/video/901904/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Battle-Athletess-Daiundoukai-ReSTART-Todos-os-Episódios-AniTube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Battle Girl High School (Legendado)",
@@ -8736,7 +8775,7 @@
             "url": "https://www.anitube.zip/video/83947/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Battle-Girl-High-School.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Battle Programmer Shirase (Legendado)",
@@ -8744,7 +8783,7 @@
             "url": "https://www.anitube.zip/video/64784/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Battle-Programmer-Shirase1.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Battle Spirits: Burning Soul (Legendado)",
@@ -8752,14 +8791,14 @@
             "url": "https://www.anitube.zip/video/83948/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Battle-Spirits-Burning-Soul.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 2,
         "hasMore": true,
-        "total": 1736,
-        "cachedAt": 1784742793238,
+        "total": 1692,
+        "cachedAt": 1784757195875,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -8806,7 +8845,7 @@
           "fixHint": null
         }
       },
-      "at": 1784742793362
+      "at": 1784757197945
     },
     "todos|3||120": {
       "data": {
@@ -8817,7 +8856,7 @@
             "url": "https://www.anitube.zip/video/83949/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Beast-Fighter-The-Apocalypse-2.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Beast Saga (Legendado)",
@@ -8825,7 +8864,7 @@
             "url": "https://www.anitube.zip/video/83950/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Beast-Saga.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Beastars – O Lobo Bom – Todos os Episódios",
@@ -8851,11 +8890,11 @@
           {
             "title": "Beastars – O Lobo Bom Dublado – Todos os Episódios",
             "slug": "beastars-o-lobo-bom-dublado",
-            "url": "https://animeplay.cloud/anime/beastars-o-lobo-bom-dublado-todos-os-episodios",
+            "url": "https://animesonline.cloud/anime/beastars-o-lobo-bom-dublado-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/lQwFRcAhtzFzMCx66RC0tRJxpZr.jpg",
             "rating": "8.477",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Beastars (Legendado)",
@@ -8863,7 +8902,7 @@
             "url": "https://www.anitube.zip/video/887248/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Beastars-Todos-os-Episódios.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Beastars 2nd Season (Legendado)",
@@ -8871,7 +8910,7 @@
             "url": "https://www.anitube.zip/952580b",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-beastars-2nd-season-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Beastars 3",
@@ -8940,7 +8979,7 @@
             "url": "https://www.anitube.zip/video/998242/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-beastars-final-season-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Beatless (Legendado)",
@@ -8948,7 +8987,7 @@
             "url": "https://www.anitube.zip/video/83951/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Beatless.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Beelzebub (Legendado)",
@@ -8956,7 +8995,7 @@
             "url": "https://www.anitube.zip/video/64781/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-beelzebub-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Beelzebub-jou No Okinimesu Mama (Legendado)",
@@ -8964,7 +9003,7 @@
             "url": "https://www.anitube.zip/video/83952/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Beelzebub-jou-No-Okinimesu-Mama.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Bem (Legendado)",
@@ -8972,7 +9011,7 @@
             "url": "https://www.anitube.zip/video/880735/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Bem-Todos-os-Episodios.png",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Ben-To (Legendado)",
@@ -8980,7 +9019,7 @@
             "url": "https://www.anitube.zip/video/64780/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Ben-To.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Benriya Saitou-san, Isekai ni Iku (Legendado)",
@@ -8988,7 +9027,7 @@
             "url": "https://www.anitube.zip/video/917526/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Benriya-Saitou-san-Isekai-ni-Iku-Todos-os-Episodios-Anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Bernard-jou Iwaku. (Legendado)",
@@ -8996,7 +9035,7 @@
             "url": "https://www.anitube.zip/video/64779/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Bernard-jou-Iwaku.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Berserk (Legendado)",
@@ -9004,7 +9043,7 @@
             "url": "https://www.anitube.zip/video/64152/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-berserk-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Berserk 2016 (Legendado)",
@@ -9012,7 +9051,7 @@
             "url": "https://www.anitube.zip/video/922772/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-berserk-2016-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Berserk 2nd Season (Legendado)",
@@ -9020,7 +9059,7 @@
             "url": "https://www.anitube.zip/video/922823/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-berserk-2nd-season-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Berserk: Ougon Jidai-hen – Memorial Edition (Legendado)",
@@ -9028,7 +9067,7 @@
             "url": "https://www.anitube.zip/video/915499/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Berserk-Ougon-Jidai-hen-Memorial-Edition-Todos-os-Episodios-Anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Betterman – Todos os Episódios",
@@ -9057,7 +9096,7 @@
             "url": "https://www.anitube.zip/video/63678/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Beyblade.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Beyblade Burst (Legendado)",
@@ -9065,7 +9104,7 @@
             "url": "https://www.anitube.zip/video/63514/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Beyblade-Burst.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "BeyBlade G Revolution (Legendado)",
@@ -9073,7 +9112,7 @@
             "url": "https://www.anitube.zip/video/63512/",
             "poster": "https://www.anitube.zip/wp-content/uploads/BeyBlade-G-Revolution.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "BeyBlade Metal Fury Dublado",
@@ -9081,7 +9120,7 @@
             "url": "https://www.anitube.zip/video/77337/",
             "poster": "https://www.anitube.zip/wp-content/uploads/BeyBlade-Metal-Fury.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Beyblade Metal Fusion Dublado",
@@ -9089,7 +9128,7 @@
             "url": "https://www.anitube.zip/video/63511/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Beyblade-Metal-Fusion.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Beyblade Metal Masters Dublado",
@@ -9097,7 +9136,7 @@
             "url": "https://www.anitube.zip/video/883511/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Beyblade-Metal-Masters-Dublado.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Bicrossers",
@@ -9131,7 +9170,7 @@
             "url": "https://www.anitube.zip/video/63446/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Big-Order.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Bihada Ichizoku (Legendado)",
@@ -9139,7 +9178,7 @@
             "url": "https://www.anitube.zip/video/63448/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Bihada-Ichizoku.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Bikini Warriors – Todos os Episódios",
@@ -9173,7 +9212,7 @@
             "url": "https://www.anitube.zip/video/63440/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Bikini-Warriors.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "binan koukou chikyuu bouei bu love",
@@ -9181,7 +9220,7 @@
             "url": "https://animesdigital.org/anime/a/binan-koukou-chikyuu-bouei-bu-love",
             "poster": "https://animesdigital.org/wp-content/uploads/2025/08/assistir-binan-koukou-chikyuu-bouei-bu-love-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Binan Koukou Chikyuu Bouei Bu Love! (Legendado)",
@@ -9189,7 +9228,7 @@
             "url": "https://www.anitube.zip/video/1054368/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-binan-koukou-chikyuu-bouei-bu-love-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Binan Koukou Chikyuu Bouei-Bu Love 3 (Legendado)",
@@ -9197,7 +9236,7 @@
             "url": "https://www.anitube.zip/video/77310/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Binan-Koukou-Chikyuu-Bouei-Bu-Love-3.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Binan Koukou Chikyuu Bouei-bu Love! 2 (Legendado)",
@@ -9205,7 +9244,7 @@
             "url": "https://www.anitube.zip/video/63136/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Binan-Koukou-Chikyuu-Bouei-bu-Love.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "binankoukouchikyuuboueibuhappykiss",
@@ -9213,7 +9252,7 @@
             "url": "https://animesdigital.org/anime/a/binankoukouchikyuuboueibuhappykiss",
             "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-binan-koukou-chikyuu-boueibu-happy-kiss-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "binankoukouchikyuuboueibulove2",
@@ -9221,7 +9260,7 @@
             "url": "https://animesdigital.org/anime/a/binankoukouchikyuuboueibulove2",
             "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-binan-koukou-chikyuu-bouei-bu-love-2-todos-os-episodios-online-animesdigital.png",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Binbou Shimai Monogatari (Legendado)",
@@ -9229,7 +9268,7 @@
             "url": "https://www.anitube.zip/video/63137/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Binbou-Shimai-Monogatari.png",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Binbougami ga (Legendado)",
@@ -9237,7 +9276,7 @@
             "url": "https://www.anitube.zip/video/63132/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-binbougami-ga-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Binchou-Tan (Legendado)",
@@ -9245,7 +9284,7 @@
             "url": "https://www.anitube.zip/video/63133/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Binchou-Tan.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Binzume Yousei (Legendado)",
@@ -9253,7 +9292,7 @@
             "url": "https://www.anitube.zip/video/83953/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Binzume-Yousei.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Bishoujo Yuugi Unit Crane Game Girls (Legendado)",
@@ -9261,7 +9300,7 @@
             "url": "https://www.anitube.zip/video/63130/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Bishoujo-Yuugi-Unit.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Bishoujo Yuugi Unit Crane Game Girls Galaxy (Legendado)",
@@ -9269,7 +9308,7 @@
             "url": "https://www.anitube.zip/video/83954/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Bishoujo-Yuugi-Unit-Crane-Game-Girls-Galaxy.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Bishounen Tanteidan (Legendado)",
@@ -9277,7 +9316,7 @@
             "url": "https://www.anitube.zip/video/901942/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Bishounen-Tanteidan-Todos-os-Episódios-AniTube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Black And White Warriors (Legendado)",
@@ -9285,7 +9324,7 @@
             "url": "https://www.anitube.zip/video/77013/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Black-And-White-Warriors.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Black Blood Brother (Legendado)",
@@ -9293,14 +9332,14 @@
             "url": "https://www.anitube.zip/video/63134/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Black-Blood-Brother.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 3,
         "hasMore": true,
-        "total": 1736,
-        "cachedAt": 1784742794226,
+        "total": 1692,
+        "cachedAt": 1784757198849,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -9347,7 +9386,7 @@
           "fixHint": null
         }
       },
-      "at": 1784742794355
+      "at": 1784757201145
     },
     "todos|4||120": {
       "data": {
@@ -9358,7 +9397,7 @@
             "url": "https://www.anitube.zip/video/63135/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Black-Bullet.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Black Clover",
@@ -9367,8 +9406,13 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/04/xoqmJpO3jGxEldDCItXuGj2MVTV-185x278.jpg",
             "rating": "8.507",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "black-clover"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -9387,8 +9431,18 @@
             "url": "https://www.anitube.zip/video/946662/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-black-clover-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "946662"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "black-clover-dublado"
+              },
               {
                 "server": 6,
                 "provider": "anitube",
@@ -9407,22 +9461,13 @@
             "url": "https://www.anitube.zip/video/922867/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-black-clover-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Black Clover 2 (Legendado)",
             "slug": "1003557",
             "url": "https://www.anitube.zip/video/1003557/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-black-clover-2-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Black Clover Dublado",
-            "slug": "black-clover-dublado",
-            "url": "https://animesonline.cloud/anime/black-clover-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/91z5IHcqGWmh8odTnKcMzWDrsZK-185x278.jpg",
-            "rating": "8.507",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -9432,7 +9477,7 @@
             "url": "https://www.anitube.zip/video/879932/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Black-Clover-Manga.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Black Jack (Legendado)",
@@ -9440,7 +9485,7 @@
             "url": "https://www.anitube.zip/video/63128/",
             "poster": "https://www.anitube.zip/wp-content/uploads/black-jack-categoria.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Black Jack 21 (Legendado)",
@@ -9448,7 +9493,7 @@
             "url": "https://www.anitube.zip/video/77307/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Black-Jack-21.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Black Kamen Rider",
@@ -9482,7 +9527,7 @@
             "url": "https://www.anitube.zip/video/62866/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Black-Lagoon.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Black Lagoon: Roberta’s Blood Trail (Legendado)",
@@ -9490,7 +9535,7 @@
             "url": "https://www.anitube.zip/video/881733/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Black-Lagoon-Robertas-Blood-Trail-Todos-os-Episódios-AniTube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Black Lagoon: The Second Barrage (Legendado)",
@@ -9498,7 +9543,7 @@
             "url": "https://www.anitube.zip/video/83955/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Black-Lagoon-The-Second-Barrage.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Black Rock Shooter (Legendado)",
@@ -9506,7 +9551,7 @@
             "url": "https://www.anitube.zip/video/62867/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Black-Rock-Shooter.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Black Rock Shooter: Dawn Fall (Legendado)",
@@ -9514,7 +9559,7 @@
             "url": "https://www.anitube.zip/video/909817/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Black-Rock-Shooter-Dawn-Fall-Todos-os-Episódios-AniTube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Black Torch",
@@ -9531,7 +9576,7 @@
             "url": "https://www.anitube.zip/video/1061298/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-black-torch-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Black Torch Dublado",
@@ -9540,15 +9585,19 @@
             "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/iWTBUy7tyJVnzSLFuV6os5G0J04-185x278.jpg",
             "rating": "8.9",
             "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Black Torch Dublado",
-            "slug": "1061503",
-            "url": "https://www.anitube.zip/video/1061503/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-black-torch-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "black-torch-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1061503"
+              }
+            ]
           },
           {
             "title": "Blade (anime) (Legendado)",
@@ -9556,7 +9605,7 @@
             "url": "https://www.anitube.zip/video/62865/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Blade.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Blade e Soul (Blade and Soul) (Legendado)",
@@ -9564,7 +9613,7 @@
             "url": "https://www.anitube.zip/video/62864/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Blade-e-Soul.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Blassreiter (Legendado)",
@@ -9572,7 +9621,7 @@
             "url": "https://www.anitube.zip/video/62861/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Blassreiter.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Bleach",
@@ -9606,22 +9655,25 @@
             "url": "https://www.anitube.zip/video/76853/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Bleach-dub.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "76853"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "bleach-dublado"
+              }
+            ]
           },
           {
             "title": "Bleach (Legendado)",
             "slug": "881501",
             "url": "https://www.anitube.zip/video/881501/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-bleach-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Bleach Dublado",
-            "slug": "bleach-dublado",
-            "url": "https://animesonline.cloud/anime/bleach-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/cACXGL4PBgKslAF5W8aaxWdriW7-185x278.jpg",
-            "rating": "8.383",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -9631,7 +9683,7 @@
             "url": "https://animesdigital.org/anime/a/bleach-sennen-kessen-hen-ketsubetsu-tan",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/07/assistir-bleach-sennen-kessen-hen-ketsubetsu-tan-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Bleach: Sennen Kessen Hen – Soukoku Tan Dublado",
@@ -9640,7 +9692,19 @@
             "poster": "https://animesonline.cloud/wp-content/uploads/2026/03/mtbY8EkmzQECgozxBIhIgkjCy3Q-185x278.jpg",
             "rating": "8.67",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "999849"
+              }
+            ]
           },
           {
             "title": "Bleach: Sennen Kessen-hen – Ketsubetsu-tan (Legendado)",
@@ -9648,7 +9712,7 @@
             "url": "https://www.anitube.zip/920090b",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-bleach-sennen-kessen-hen-ketsubetsu-tan-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Bleach: Sennen Kessen-hen – Ketsubetsu-tan Dublado",
@@ -9656,7 +9720,7 @@
             "url": "https://www.anitube.zip/969887b003",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-bleach-sennen-kessen-hen-ketsubetsu-tan-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Bleach: Sennen Kessen-hen – Soukoku-tan (Legendado)",
@@ -9664,15 +9728,7 @@
             "url": "https://www.anitube.zip/video/993916/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-bleach-sennen-kessen-hen-soukoku-tan-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Bleach: Sennen Kessen-hen – Soukoku-tan Dublado",
-            "slug": "999849",
-            "url": "https://www.anitube.zip/video/999849/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-bleach-sennen-kessen-hen-soukoku-tan-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Bleach: Sennen Kessen-hen (Legendado)",
@@ -9680,7 +9736,7 @@
             "url": "https://www.anitube.zip/915524b",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-bleach-sennen-kessen-hen-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Bleach: Sennen Kessen-hen Dublado",
@@ -9688,7 +9744,7 @@
             "url": "https://www.anitube.zip/969858b",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-bleach-sennen-kessen-hen-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Blend S (Legendado)",
@@ -9696,7 +9752,7 @@
             "url": "https://www.anitube.zip/video/76985/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Blend-S.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Blood Lad (Legendado)",
@@ -9704,7 +9760,7 @@
             "url": "https://www.anitube.zip/video/62858/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Blood-Lad.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Blood-C (Legendado)",
@@ -9712,7 +9768,7 @@
             "url": "https://www.anitube.zip/video/62857/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Blood-C.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Blood+ (Legendado)",
@@ -9720,7 +9776,7 @@
             "url": "https://www.anitube.zip/video/62859/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Blood.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Blood+ Dublado",
@@ -9728,7 +9784,7 @@
             "url": "https://www.anitube.zip/video/83956/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Blood-1.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Bloodivores (Legendado)",
@@ -9736,7 +9792,7 @@
             "url": "https://www.anitube.zip/video/62856/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Bloodivores.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Bloody Escape: Jigoku no Tousou Geki – Filme (Filme)",
@@ -9744,7 +9800,7 @@
             "url": "https://www.anitube.zip/video/1001292/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Bloody-Escape-Jigoku-no-Tousou-Geki-categoria.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Blue Archive the Animation – Todos os Episódios",
@@ -9778,7 +9834,7 @@
             "url": "https://www.anitube.zip/video/988077/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-blue-archive-the-animation-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Blue Dragon Tenkai Shichi Ryuu (Legendado)",
@@ -9786,7 +9842,7 @@
             "url": "https://www.anitube.zip/video/62616/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Blue-Dragon-Tenkai-Shichi-Ryuu.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Blue Drop (Legendado)",
@@ -9794,7 +9850,7 @@
             "url": "https://www.anitube.zip/video/83957/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Blue-Drop.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Blue Gender (Legendado)",
@@ -9802,7 +9858,7 @@
             "url": "https://www.anitube.zip/video/62615/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Blue-Gender.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Blue Lock – Todos os Episódios",
@@ -9836,14 +9892,94 @@
             "url": "https://www.anitube.zip/video/915455/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-blue-lock-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesdrive.online/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              }
+            ]
+          },
+          {
+            "title": "Uzumaki – Todos os Episódios",
+            "slug": "uzumaki",
+            "url": "https://animesdrive.online/anime/uzumaki",
+            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "uzumaki"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "uzumaki"
+              }
+            ]
+          },
+          {
+            "title": "Hitoribocchi no Isekai Kouryaku",
+            "slug": "hitoribocchi-no-isekai-kouryaku",
+            "url": "https://animesdrive.online/anime/hitoribocchi-no-isekai-kouryaku",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 4,
         "hasMore": true,
-        "total": 1736,
-        "cachedAt": 1784742795278,
+        "total": 1692,
+        "cachedAt": 1784757202111,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -9890,7 +10026,7 @@
           "fixHint": null
         }
       },
-      "at": 1784742795394
+      "at": 1784757204486
     },
     "todos|5||120": {
       "data": {
@@ -29391,7 +29527,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1784742794226
+      "at": 1784757198849
     },
     "lancamentos|1||48": {
       "data": {
@@ -31652,7 +31788,7 @@
         "page": 4,
         "hasMore": true
       },
-      "at": 1784742795278
+      "at": 1784757202111
     },
     "todos|5||48": {
       "data": {
@@ -36968,7 +37104,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784728441888
+      "at": 1784757197860
     },
     "partner:anitube|todos|3||48": {
       "data": {
@@ -37123,7 +37259,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784728442249
+      "at": 1784757198287
     },
     "partner:animesdigital|todos|3||48": {
       "data": {
@@ -37228,7 +37364,7 @@
             "title": "chitosegetyou",
             "slug": "chitosegetyou",
             "url": "https://animesdigital.org/anime/a/chitosegetyou",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-chitose-get-you-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37236,7 +37372,7 @@
             "title": "kirio fanclub todos episodios",
             "slug": "kirio-fanclub-todos-episodios",
             "url": "https://animesdigital.org/anime/a/kirio-fanclub-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/05/Kirio-FanclubEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37244,7 +37380,7 @@
             "title": "sorcerous stabber orphen",
             "slug": "sorcerous-stabber-orphen",
             "url": "https://animesdigital.org/anime/a/sorcerous-stabber-orphen",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/05/Majutsushi-Orphen-1998-categoria.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37252,7 +37388,7 @@
             "title": "tsue to tsurugi no wistoria season 2 dublado",
             "slug": "tsue-to-tsurugi-no-wistoria-season-2-dublado",
             "url": "https://animesdigital.org/anime/a/tsue-to-tsurugi-no-wistoria-season-2-dublado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/05/Tsue-to-Tsurugi-no-Wistoria-2-dublado.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37260,7 +37396,7 @@
             "title": "tsue to tsurugi no wistoria dublado",
             "slug": "tsue-to-tsurugi-no-wistoria-dublado",
             "url": "https://animesdigital.org/anime/a/tsue-to-tsurugi-no-wistoria-dublado-todos-os-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/05/Tsue-to-Tsurugi-no-Wistoria-dublado.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37268,7 +37404,7 @@
             "title": "devil may cry 2 2026 dublado",
             "slug": "devil-may-cry-2-2026-dublado",
             "url": "https://animesdigital.org/anime/a/devil-may-cry-2-2026-dublado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/05/Devil-May-Cry-2-2026-Dublado.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37276,7 +37412,7 @@
             "title": "suisei no gargantia meguru kouro haruka",
             "slug": "suisei-no-gargantia-meguru-kouro-haruka",
             "url": "https://animesdigital.org/anime/a/suisei-no-gargantia-meguru-kouro-haruka",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/05/assistir-suisei-no-gargantia-meguru-kouro-haruka-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37284,7 +37420,7 @@
             "title": "hayate no gotoku cuties 2013",
             "slug": "hayate-no-gotoku-cuties-2013",
             "url": "https://animesdigital.org/anime/a/hayate-no-gotoku-cuties-2013",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/05/assistir-hayate-no-gotoku-cuties-2013-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37292,7 +37428,7 @@
             "title": "hayate no gotoku 2",
             "slug": "hayate-no-gotoku-2",
             "url": "https://animesdigital.org/anime/a/hayate-no-gotoku-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/05/assistir-hayate-no-gotoku-2-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37300,7 +37436,7 @@
             "title": "suisei no gargantia",
             "slug": "suisei-no-gargantia",
             "url": "https://animesdigital.org/anime/a/suisei-no-gargantia",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/Suisei-no-Gargantia-categoria.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37308,7 +37444,7 @@
             "title": "hayate no gotoku 3",
             "slug": "hayate-no-gotoku-3",
             "url": "https://animesdigital.org/anime/a/hayate-no-gotoku-3",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-hayate-no-gotoku-3-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37316,7 +37452,7 @@
             "title": "otaku ni yasashii gal wa inai",
             "slug": "otaku-ni-yasashii-gal-wa-inai",
             "url": "https://animesdigital.org/anime/a/otaku-ni-yasashii-gal-wa-inai",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/05/Otaku-ni-Yasashii-Gal-wa-Inai.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37324,7 +37460,7 @@
             "title": "higeki no genkyou to naru saikyou gedou last boss 2 todos episodios",
             "slug": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-2-todos-episodios",
             "url": "https://animesdigital.org/anime/a/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-2-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/05/Higeki-no-Genkyou-to-Naru-Saikyou-Gedou-Last-Boss-2Ep.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37332,7 +37468,7 @@
             "title": "saikyou no shokugyou wa yuusha todos episodios",
             "slug": "saikyou-no-shokugyou-wa-yuusha-todos-episodios",
             "url": "https://animesdigital.org/anime/a/saikyou-no-shokugyou-wa-yuusha-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/saikyou-coverA.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37340,7 +37476,7 @@
             "title": "isekai nonbiri nouka 2 todos episodios",
             "slug": "isekai-nonbiri-nouka-2-todos-episodios",
             "url": "https://animesdigital.org/anime/a/isekai-nonbiri-nouka-2-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/05/Isekai-Nonbiri-Nouka-2Ep.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37348,7 +37484,7 @@
             "title": "one piece dublado",
             "slug": "one-piece-dublado",
             "url": "https://animesdigital.org/anime/a/one-piece-dublado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/04/assistir-one-piece-dublado-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37356,7 +37492,7 @@
             "title": "x men evolution",
             "slug": "x-men-evolution",
             "url": "https://animesdigital.org/anime/a/x-men-evolution",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-x-men-evolution-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37364,7 +37500,7 @@
             "title": "mahou no shimai lulutto lilly",
             "slug": "mahou-no-shimai-lulutto-lilly",
             "url": "https://animesdigital.org/anime/a/mahou-no-shimai-lulutto-lilly",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/assistir-mahou-no-shimai-lulutto-lilly-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37372,7 +37508,7 @@
             "title": "yomi no tsugai todos episodios",
             "slug": "yomi-no-tsugai-todos-episodios",
             "url": "https://animesdigital.org/anime/a/yomi-no-tsugai-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Yomi-no-TsugaiEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37380,7 +37516,7 @@
             "title": "love live school idol project 2",
             "slug": "love-live-school-idol-project-2",
             "url": "https://animesdigital.org/anime/a/love-live-school-idol-project-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-love-live-school-idol-project-2-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37388,7 +37524,7 @@
             "title": "zombie loan",
             "slug": "zombie-loan",
             "url": "https://animesdigital.org/anime/a/zombie-loan",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/assistir-zombie-loan-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37396,7 +37532,7 @@
             "title": "ramen daisuki koizumi san",
             "slug": "ramen-daisuki-koizumi-san",
             "url": "https://animesdigital.org/anime/a/ramen-daisuki-koizumi-san",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/assistir-ramen-daisuki-koizumi-san-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37404,7 +37540,7 @@
             "title": "aishiteru game wo owarasetai todos episodios",
             "slug": "aishiteru-game-wo-owarasetai-todos-episodios",
             "url": "https://animesdigital.org/anime/a/aishiteru-game-wo-owarasetai-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Aishiteru-Game-wo-OwarasetaiEp.jpeg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37412,7 +37548,7 @@
             "title": "yozakura san chi no daisakusen 2 todos episodios",
             "slug": "yozakura-san-chi-no-daisakusen-2-todos-episodios",
             "url": "https://animesdigital.org/anime/a/yozakura-san-chi-no-daisakusen-2-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/05/assistir-yozakura-san-chi-no-daisakusen-2-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37420,7 +37556,7 @@
             "title": "koori no jouheki dublado",
             "slug": "koori-no-jouheki-dublado",
             "url": "https://animesdigital.org/anime/a/koori-no-jouheki-dublado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Koori-no-Jouheki-dublado.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37428,7 +37564,7 @@
             "title": "tongari boushi no atelier dublado",
             "slug": "tongari-boushi-no-atelier-dublado",
             "url": "https://animesdigital.org/anime/a/tongari-boushi-no-atelier-dublado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Tongari-Boushi-no-Atelier-dublado.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37436,7 +37572,7 @@
             "title": "hokuto no ken 2026 dublado",
             "slug": "hokuto-no-ken-2026-dublado",
             "url": "https://animesdigital.org/anime/a/hokuto-no-ken-2026-dublado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Hokuto-no-Ken-2026-dublado.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37444,7 +37580,7 @@
             "title": "yomi no tsugai dublado",
             "slug": "yomi-no-tsugai-dublado",
             "url": "https://animesdigital.org/anime/a/yomi-no-tsugai-dublado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Yomi-no-Tsugai-dublado.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37452,7 +37588,7 @@
             "title": "yowayowa sensei",
             "slug": "yowayowa-sensei",
             "url": "https://animesdigital.org/anime/a/yowayowa-sensei",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Yowayowa-Sensei.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37460,7 +37596,7 @@
             "title": "kuroneko to majo no kyoushitsu",
             "slug": "kuroneko-to-majo-no-kyoushitsu",
             "url": "https://animesdigital.org/anime/a/kuroneko-to-majo-no-kyoushitsu",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Kuroneko-to-Majo-no-Kyoushitsu.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37468,7 +37604,7 @@
             "title": "maid san wa taberu dake",
             "slug": "maid-san-wa-taberu-dake",
             "url": "https://animesdigital.org/anime/a/maid-san-wa-taberu-dake",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Maid-san-wa-Taberu-dake.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37476,7 +37612,7 @@
             "title": "ichijouma mankitsugurashi",
             "slug": "ichijouma-mankitsugurashi",
             "url": "https://animesdigital.org/anime/a/ichijouma-mankitsugurashi",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Ichijouma-Mankitsugurashi.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37484,7 +37620,7 @@
             "title": "tsue to tsurugi no wistoria season 2",
             "slug": "tsue-to-tsurugi-no-wistoria-season-2",
             "url": "https://animesdigital.org/anime/a/tsue-to-tsurugi-no-wistoria-season-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Tsue-to-Tsurugi-no-Wistoria-2.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37492,7 +37628,7 @@
             "title": "kill ao",
             "slug": "kill-ao",
             "url": "https://animesdigital.org/anime/a/kill-ao",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Kill-Ao.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37500,7 +37636,7 @@
             "title": "kamiina botan yoeru sugata wa yuri no hana todos episodios",
             "slug": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana-todos-episodios",
             "url": "https://animesdigital.org/anime/a/kamiina-botan-yoeru-sugata-wa-yuri-no-hana-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Kamiina-Botan-Yoeru-Sugata-wa-Yuri-no-HanaEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -37508,7 +37644,7 @@
             "title": "rezero kara hajimeru isekai seikatsu 4 dublado",
             "slug": "rezero-kara-hajimeru-isekai-seikatsu-4-dublado",
             "url": "https://animesdigital.org/anime/a/rezero-kara-hajimeru-isekai-seikatsu-4-dublado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/ReZero-Dublado-4.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           }
@@ -37518,7 +37654,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1784728442954
+      "at": 1784757198493
     },
     "partner:animeplay|todos|3||48": {
       "data": {
@@ -37769,7 +37905,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784728443106
+      "at": 1784757199148
     },
     "partner:animesdrive|todos|3||48": {
       "data": {
@@ -38020,7 +38156,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784728444485
+      "at": 1784757201056
     },
     "partner:anitube|todos|4||48": {
       "data": {
@@ -38175,7 +38311,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784728444863
+      "at": 1784757201480
     },
     "partner:animesdigital|todos|4||48": {
       "data": {
@@ -38280,7 +38416,7 @@
             "title": "fullmetal alchemist brotherhood",
             "slug": "fullmetal-alchemist-brotherhood",
             "url": "https://animesdigital.org/anime/a/fullmetal-alchemist-brotherhood",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/12/assistir-fullmetal-alchemist-brotherhood-dublado-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38288,7 +38424,7 @@
             "title": "megami isekai tensei nani ni naritai desu ka ore yuusha no rokkotsu de todos episodios",
             "slug": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de-todos-episodios",
             "url": "https://animesdigital.org/anime/a/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Megami-Isekai-Tensei-Nani-ni-Naritai-Desu-ka-Ore-Yuusha-no-Rokkotsu-deEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38296,7 +38432,7 @@
             "title": "tadaima ojamasaremasu todos episodios",
             "slug": "tadaima-ojamasaremasu-todos-episodios",
             "url": "https://animesdigital.org/anime/a/tadaima-ojamasaremasu-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Tadaima-OjamasaremasuEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38304,7 +38440,7 @@
             "title": "hidarikiki no eren todos episodios",
             "slug": "hidarikiki-no-eren-todos-episodios",
             "url": "https://animesdigital.org/anime/a/hidarikiki-no-eren-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Hidarikiki-no-ErenEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38312,7 +38448,7 @@
             "title": "replica datte koi wo suru todos episodios",
             "slug": "replica-datte-koi-wo-suru-todos-episodios",
             "url": "https://animesdigital.org/anime/a/replica-datte-koi-wo-suru-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Replica-datte-Koi-wo-SuruEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38320,7 +38456,7 @@
             "title": "class de 2 ban me ni kawaii onna no ko to tomodachi ni natta todos episodios",
             "slug": "class-de-2-ban-me-ni-kawaii-onna-no-ko-to-tomodachi-ni-natta-todos-episodios",
             "url": "https://animesdigital.org/anime/a/class-de-2-ban-me-ni-kawaii-onna-no-ko-to-tomodachi-ni-natta-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Class-de-2-ban-Me-ni-Kawaii-Onna-no-Ko-to-Tomodachi-ni-NattaEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38336,7 +38472,7 @@
             "title": "ponkotsu fuukiin to skirt take ga futekisetsu na jk no hanashi todos episodios",
             "slug": "ponkotsu-fuukiin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi-todos-episodios",
             "url": "https://animesdigital.org/anime/a/ponkotsu-fuukiin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Ponkotsu-Fuukiin-to-Skirt-Take-ga-Futekisetsu-na-JK-no-HanashiEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38344,7 +38480,7 @@
             "title": "tongari boushi no atelier todos episodios",
             "slug": "tongari-boushi-no-atelier-todos-episodios",
             "url": "https://animesdigital.org/anime/a/tongari-boushi-no-atelier-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Tongari-Boushi-no-AteliereP.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38352,7 +38488,7 @@
             "title": "ace of the diamond act ii season 2 todos episodios",
             "slug": "ace-of-the-diamond-act-ii-season-2-todos-episodios",
             "url": "https://animesdigital.org/anime/a/ace-of-the-diamond-act-ii-season-2-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Ace-of-the-Diamond-Act-II-Season-2Ep.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38360,7 +38496,7 @@
             "title": "ghost concert missing songs todos episodios",
             "slug": "ghost-concert-missing-songs-todos-episodios",
             "url": "https://animesdigital.org/anime/a/ghost-concert-missing-songs-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Ghost-Concert-Missing-SongsEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38368,7 +38504,7 @@
             "title": "nippon sangoku",
             "slug": "nippon-sangoku",
             "url": "https://animesdigital.org/anime/a/nippon-sangoku-todos-os-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Nippon-SangokuEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38376,7 +38512,7 @@
             "title": "mao todos episodios",
             "slug": "mao-todos-episodios",
             "url": "https://animesdigital.org/anime/a/mao-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/MAOEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38384,7 +38520,7 @@
             "title": "needy girl overdose todos episodios",
             "slug": "needy-girl-overdose-todos-episodios",
             "url": "https://animesdigital.org/anime/a/needy-girl-overdose-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Needy-Girl-OverdoseEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38392,7 +38528,7 @@
             "title": "kami no niwatsuki kusunoki tei todos episodios",
             "slug": "kami-no-niwatsuki-kusunoki-tei-todos-episodios",
             "url": "https://animesdigital.org/anime/a/kami-no-niwatsuki-kusunoki-tei-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Kami-no-Niwatsuki-Kusunoki-teiEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38400,7 +38536,7 @@
             "title": "kanan sama wa akumade choroi todos episodios",
             "slug": "kanan-sama-wa-akumade-choroi-todos-episodios",
             "url": "https://animesdigital.org/anime/a/kanan-sama-wa-akumade-choroi-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Kanan-sama-wa-Akumade-ChoroiEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38408,7 +38544,7 @@
             "title": "mairimashita iruma kun 4 todos episodios",
             "slug": "mairimashita-iruma-kun-4-todos-episodios",
             "url": "https://animesdigital.org/anime/a/mairimashita-iruma-kun-4-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Mairimashita-Iruma-kun-4Ep.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38416,7 +38552,7 @@
             "title": "honzuki no gekokujou 4 todos episodios",
             "slug": "honzuki-no-gekokujou-4-todos-episodios",
             "url": "https://animesdigital.org/anime/a/honzuki-no-gekokujou-4-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Honzuki-no-Gekokujou-4Ep.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38424,7 +38560,7 @@
             "title": "snowball earth todos episodios",
             "slug": "snowball-earth-todos-episodios",
             "url": "https://animesdigital.org/anime/a/snowball-earth-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Snowball-EarthEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38432,7 +38568,7 @@
             "title": "tensei shitara slime datta ken 4 todos episodios",
             "slug": "tensei-shitara-slime-datta-ken-4-todos-episodios",
             "url": "https://animesdigital.org/anime/a/tensei-shitara-slime-datta-ken-4-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Tensei-Shitara-Slime-Datta-Ken-4Ep.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38440,7 +38576,7 @@
             "title": "otonari no tenshi sama 2 todos episodios",
             "slug": "otonari-no-tenshi-sama-2-todos-episodios",
             "url": "https://animesdigital.org/anime/a/otonari-no-tenshi-sama-2-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Otonari-no-Tenshi-sama-2Ep.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38448,7 +38584,7 @@
             "title": "jishou akuyaku reijou na konyakusha no kansatsu kiroku todos episodios",
             "slug": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku-todos-episodios",
             "url": "https://animesdigital.org/anime/a/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Jishou-Akuyaku-Reijou-na-Konyakusha-no-Kansatsu-KirokuEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38456,7 +38592,7 @@
             "title": "reincarnation no kaben todos episodios",
             "slug": "reincarnation-no-kaben-todos-episodios",
             "url": "https://animesdigital.org/anime/a/reincarnation-no-kaben-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Reincarnation-no-KabenEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38464,7 +38600,7 @@
             "title": "mata korosarete shimatta no desu ne tantei sama todos episodios",
             "slug": "mata-korosarete-shimatta-no-desu-ne-tantei-sama-todos-episodios",
             "url": "https://animesdigital.org/anime/a/mata-korosarete-shimatta-no-desu-ne-tantei-sama-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Mata-Korosarete-Shimatta-no-desu-ne-Tantei-samaEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38472,7 +38608,7 @@
             "title": "haibara kun no tsuyokute seishun new game todos episodios",
             "slug": "haibara-kun-no-tsuyokute-seishun-new-game-todos-episodios",
             "url": "https://animesdigital.org/anime/a/haibara-kun-no-tsuyokute-seishun-new-game-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Haibara-kun-no-Tsuyokute-Seishun-New-GameEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38480,7 +38616,7 @@
             "title": "koori no jouheki todos episodios",
             "slug": "koori-no-jouheki-todos-episodios",
             "url": "https://animesdigital.org/anime/a/koori-no-jouheki-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Koori-no-JouhekiEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38488,7 +38624,7 @@
             "title": "dr stone science future part 3 dublado",
             "slug": "dr-stone-science-future-part-3-dublado",
             "url": "https://animesdigital.org/anime/a/dr-stone-science-future-part-3-dublado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Dr-Stone-Science-Future-3-dublado.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38496,7 +38632,7 @@
             "title": "dr stone science future 3",
             "slug": "dr-stone-science-future-3",
             "url": "https://animesdigital.org/anime/a/dr-stone-science-future-3",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Dr-Stone-Science-Future-3.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38504,7 +38640,7 @@
             "title": "nigashita sakana wa ookikatta todos episodios",
             "slug": "nigashita-sakana-wa-ookikatta-todos-episodios",
             "url": "https://animesdigital.org/anime/a/nigashita-sakana-wa-ookikatta-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Nigashita-Sakana-wa-OokikattaEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38512,7 +38648,7 @@
             "title": "the beginning after the end 2nd season todos episodios",
             "slug": "the-beginning-after-the-end-2nd-season-todos-episodios",
             "url": "https://animesdigital.org/anime/a/the-beginning-after-the-end-2nd-season-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/The-Beginning-After-The-End-2Ep.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38520,7 +38656,7 @@
             "title": "jidouhanbaiki ni umarekawatta ore wa meikyuu ni samayou 3 todos episodios",
             "slug": "jidouhanbaiki-ni-umarekawatta-ore-wa-meikyuu-ni-samayou-3-todos-episodios",
             "url": "https://animesdigital.org/anime/a/jidouhanbaiki-ni-umarekawatta-ore-wa-meikyuu-ni-samayou-3-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Jidouhanbaiki-ni-Umarekawatta-Ore-wa-Meikyuu-ni-Samayou-3Ep.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38528,7 +38664,7 @@
             "title": "youkoso jitsuryoku shijou shugi no kyoushitsu e 4 todos episodios",
             "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4-todos-episodios",
             "url": "https://animesdigital.org/anime/a/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4Ep.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38536,7 +38672,7 @@
             "title": "b the beginning succession 2",
             "slug": "b-the-beginning-succession-2",
             "url": "https://animesdigital.org/anime/a/b-the-beginning-succession-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/B-The-Beginning-Succession-dublado-categoria.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38544,7 +38680,7 @@
             "title": "monster",
             "slug": "monster",
             "url": "https://animesdigital.org/anime/a/monster",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/03/Monster-categoria.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38552,7 +38688,7 @@
             "title": "shunkashuutou daikousha haru no mai",
             "slug": "shunkashuutou-daikousha-haru-no-mai",
             "url": "https://animesdigital.org/anime/a/shunkashuutou-daikousha-haru-no-mai",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/03/assistir-shunkashuutou-daikousha-haru-no-mai-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -38560,7 +38696,7 @@
             "title": "star wars a guerra dos clones 3a temporada",
             "slug": "star-wars-a-guerra-dos-clones-3a-temporada",
             "url": "https://animesdigital.org/anime/a/star-wars-a-guerra-dos-clones-3a-temporada",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/11/Star-Wars-A-Guerra-dos-Clones-3-Dublado.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           }
@@ -38570,7 +38706,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1784728445344
+      "at": 1784757201981
     },
     "partner:animeplay|todos|4||48": {
       "data": {
@@ -38773,7 +38909,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784728445992
+      "at": 1784757202404
     },
     "partner:animesdrive|todos|4||48": {
       "data": {
@@ -38968,7 +39104,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784728447103
+      "at": 1784757204307
     },
     "partner:anitube|todos|5||48": {
       "data": {
@@ -116462,5 +116598,5 @@
       "at": 1784728955379
     }
   },
-  "updatedAt": 1784757196248
+  "updatedAt": 1784757204486
 }
