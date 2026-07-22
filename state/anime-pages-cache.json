@@ -22476,6 +22476,67 @@
           }
         }
       }
+    },
+    "black-torch-dublado": {
+      "at": 1784679627143,
+      "data": {
+        "slug": "black-torch-dublado",
+        "title": "Black Torch Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xaU9uSVNWb2VsMnNuWWR4dWJkVEFaalk4WUUuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - O futuro está em nossas mãos.",
+            "url": "https://animesdrive.online/episodio/black-torch-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - A escolha é sua.",
+            "url": "https://animesdrive.online/episodio/black-torch-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Qual é o meu nome?",
+            "url": "https://animesdrive.online/episodio/black-torch-dublado-episodio-03"
+          }
+        ],
+        "totalEpisodes": 3,
+        "kind": "anime",
+        "provider": "animesdrive",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Ação",
+          "Animação",
+          "Aventura",
+          "Mistério",
+          "Sci-Fi"
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "black-torch",
+              "title": "Black Torch",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "1061298",
+              "title": "Black Torch (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "black-torch-dublado",
+              "title": "Black Torch Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
     }
   }
 }
