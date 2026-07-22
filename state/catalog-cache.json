@@ -98339,7 +98339,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784728915845
+      "at": 1784757327379
     },
     "todos|43||120": {
       "data": {
@@ -98427,7 +98427,7 @@
             "slug": "hitoribocchi-no-isekai-kouryaku",
             "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
-            "rating": "7.1",
+            "rating": "7.3",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
@@ -99094,7 +99094,19 @@
             "url": "https://animesdrive.online/anime/sakugan",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/01/h4v0id7U9YL8se3kIviAqyMNiqe-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive"
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sakugan"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sakugan"
+              }
+            ]
           },
           {
             "title": "A Série Pokémon: Horizontes",
@@ -99102,7 +99114,19 @@
             "url": "https://animeplay.cloud/anime/a-serie-pokemon-horizontes",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/02/gvT5IBN2syZjlJdPppd6LfxIX2D-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "a-serie-pokemon-horizontes"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "a-serie-pokemon-horizontes"
+              }
+            ]
           },
           {
             "title": "Digimon Frontier (Dublado)",
@@ -99236,8 +99260,8 @@
         "category": "todos",
         "page": 43,
         "hasMore": true,
-        "total": 1480,
-        "cachedAt": 1784728913286,
+        "total": 1688,
+        "cachedAt": 1784757324965,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -99284,7 +99308,7 @@
           "fixHint": null
         }
       },
-      "at": 1784728916074
+      "at": 1784757327567
     },
     "partner:anitube|todos|44||48": {
       "data": {
@@ -99439,7 +99463,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784728916426
+      "at": 1784757327919
     },
     "todos|44||48": {
       "data": {
@@ -99476,7 +99500,7 @@
             "slug": "hitoribocchi-no-isekai-kouryaku",
             "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
-            "rating": "7.1",
+            "rating": "7.3",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -99683,7 +99707,7 @@
         "page": 44,
         "hasMore": true
       },
-      "at": 1784728916784
+      "at": 1784757328377
     },
     "partner:animeplay|todos|44||48": {
       "data": {
@@ -99902,7 +99926,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784728917362
+      "at": 1784757328893
     },
     "partner:animesdrive|todos|44||48": {
       "data": {
@@ -119471,5 +119495,5 @@
       "at": 1784757235717
     }
   },
-  "updatedAt": 1784757325527
+  "updatedAt": 1784757328893
 }
