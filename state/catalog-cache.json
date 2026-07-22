@@ -6982,7 +6982,7 @@
             "url": "https://animesdigital.org/anime/a/3-nen-z-gumi-ginpachi-sensei-todos-episodios",
             "poster": "https://animesdigital.org/wp-content/uploads/2025/10/3-nen-Z-gumi-Ginpachi-senseiEp.jpeg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "4 Cut Hero – Todos os Episódios",
@@ -7038,7 +7038,7 @@
             "poster": "https://image.tmdb.org/t/p/w185/1ttxQPgX6HJqUsXuC2HgnQRv7wZ.jpg",
             "rating": "7.333",
             "kind": "anime",
-            "provider": "animeplay",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -7059,7 +7059,7 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2026/02/gvT5IBN2syZjlJdPppd6LfxIX2D-185x278.jpg",
             "rating": "8.8",
             "kind": "anime",
-            "provider": "animeplay",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -7233,6 +7233,11 @@
             "provider": "aoc",
             "rating": "0",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "aishiteru-game-wo-owarasetai"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -7817,7 +7822,7 @@
             "url": "https://animesdigital.org/anime/a/ansatsusha-de-aru-ore-no-status-ga-yuusha-todos-episodios",
             "poster": "https://animesdigital.org/wp-content/uploads/2025/10/Ansatsusha-de-Aru-Ore-no-Status-ga-YuushaEp.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
+            "provider": "aoc"
           },
           {
             "title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
@@ -7832,8 +7837,8 @@
         "category": "todos",
         "page": 1,
         "hasMore": true,
-        "total": 1736,
-        "cachedAt": 1784742792308,
+        "total": 1692,
+        "cachedAt": 1784757192108,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -7880,7 +7885,7 @@
           "fixHint": null
         }
       },
-      "at": 1784742792458
+      "at": 1784757195019
     },
     "todos|2||120": {
       "data": {
@@ -29106,7 +29111,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1784742793238
+      "at": 1784757195875
     },
     "todos|3||48": {
       "data": {
@@ -35147,7 +35152,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784728439215
+      "at": 1784757194933
     },
     "partner:anitube|todos|2||24": {
       "data": {
@@ -35863,7 +35868,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784728439592
+      "at": 1784757195361
     },
     "partner:animesdigital|todos|2||48": {
       "data": {
@@ -35968,7 +35973,7 @@
             "title": "youjo senki 2 todos episodios",
             "slug": "youjo-senki-2-todos-episodios",
             "url": "https://animesdigital.org/anime/a/youjo-senki-2-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Youjo-Senki-2eP.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -35976,7 +35981,7 @@
             "title": "clevatess 2 todos episodios",
             "slug": "clevatess-2-todos-episodios",
             "url": "https://animesdigital.org/anime/a/clevatess-2-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Clevatess-2Ep.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -35984,7 +35989,7 @@
             "title": "yoroi shin den samurai troopers ii parte 2 todos episodios",
             "slug": "yoroi-shin-den-samurai-troopers-ii-parte-2-todos-episodios",
             "url": "https://animesdigital.org/anime/a/yoroi-shin-den-samurai-troopers-ii-parte-2-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Yoroi-Shin-Den-Samurai-Troopers-II-Parte-2Ep.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -35992,7 +35997,7 @@
             "title": "tefuda ga oome no victoria todos episodios",
             "slug": "tefuda-ga-oome-no-victoria-todos-episodios",
             "url": "https://animesdigital.org/anime/a/tefuda-ga-oome-no-victoria-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Tefuda-ga-Oome-no-VictoriaEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36000,7 +36005,7 @@
             "title": "koukaku kidoutai 2026 todos episodios",
             "slug": "koukaku-kidoutai-2026-todos-episodios",
             "url": "https://animesdigital.org/anime/a/koukaku-kidoutai-2026-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Koukaku-Kidoutai-Stand-Alone-ComplexEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36008,7 +36013,7 @@
             "title": "kimi ga shinu made koi wo shitai todos episodios",
             "slug": "kimi-ga-shinu-made-koi-wo-shitai-todos-episodios",
             "url": "https://animesdigital.org/anime/a/kimi-ga-shinu-made-koi-wo-shitai-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Kimi-ga-Shinu-made-Koi-wo-ShitaiEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36016,7 +36021,7 @@
             "title": "tai ari deshita ojоu sama wa kakutоou game nante shinai todos episodios",
             "slug": "tai-ari-deshita-ojоu-sama-wa-kakutоou-game-nante-shinai-todos-episodios",
             "url": "https://animesdigital.org/anime/a/tai-ari-deshita-oj%d0%beu-sama-wa-kakut%d0%beou-game-nante-shinai-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Tai-Ari-Deshita-Ojоu-sama-wa-Kakutоou-Game-Nante-ShinaiEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36024,7 +36029,7 @@
             "title": "grand blue iii todos episodios",
             "slug": "grand-blue-iii-todos-episodios",
             "url": "https://animesdigital.org/anime/a/grand-blue-iii-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Grand-Blue-IIIEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36032,7 +36037,7 @@
             "title": "tenkou saki no seiso karen na bishoujo todos episodios",
             "slug": "tenkou-saki-no-seiso-karen-na-bishoujo-todos-episodios",
             "url": "https://animesdigital.org/anime/a/tenkou-saki-no-seiso-karen-na-bishoujo-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Tenkou-saki-no-Seiso-Karen-na-BishoujoEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36040,7 +36045,7 @@
             "title": "buchigire reijou wa houfuku wo chikaimashita todos episodios",
             "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-todos-episodios",
             "url": "https://animesdigital.org/anime/a/buchigire-reijou-wa-houfuku-wo-chikaimashita-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Buchigire-Reijou-wa-Houfuku-wo-ChikaimashitaEp.jpeg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36048,7 +36053,7 @@
             "title": "saikyou degarashi ouji no anyaku teii arasoi todos episodios",
             "slug": "saikyou-degarashi-ouji-no-anyaku-teii-arasoi-todos-episodios",
             "url": "https://animesdigital.org/anime/a/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Saikyou-Degarashi-Ouji-no-Anyaku-Teii-ArasoiEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36056,7 +36061,7 @@
             "title": "toumei na yoru ni kakeru kimi to me ni mienai koi wo shita todos episodios",
             "slug": "toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita-todos-episodios",
             "url": "https://animesdigital.org/anime/a/toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Toumei-na-Yoru-ni-Kakeru-Kimi-to-Me-ni-Mienai-Koi-wo-ShitaEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36064,7 +36069,7 @@
             "title": "kimi no koto ga daidaidaidaidaisuki na 100 nin no kanojo 3",
             "slug": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3",
             "url": "https://animesdigital.org/anime/a/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36072,7 +36077,7 @@
             "title": "sekai saikyou no kouei meikyuukoku no shinjin tansakusha",
             "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha",
             "url": "https://animesdigital.org/anime/a/sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36080,7 +36085,7 @@
             "title": "tetsunabe no jan",
             "slug": "tetsunabe-no-jan",
             "url": "https://animesdigital.org/anime/a/tetsunabe-no-jan",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-tetsunabe-no-jan-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36088,7 +36093,7 @@
             "title": "one piece heroines",
             "slug": "one-piece-heroines",
             "url": "https://animesdigital.org/anime/a/one-piece-heroines",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-one-piece-heroines-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36096,7 +36101,7 @@
             "title": "lets go kaiki gumi",
             "slug": "lets-go-kaiki-gumi",
             "url": "https://animesdigital.org/anime/a/lets-go-kaiki-gumi",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-lets-go-kaiki-gumi-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36104,7 +36109,7 @@
             "title": "azur lane bisoku zenshin ni",
             "slug": "azur-lane-bisoku-zenshin-ni",
             "url": "https://animesdigital.org/anime/a/azur-lane-bisoku-zenshin-ni",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-azur-lane-bisoku-zenshin-ni-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36112,7 +36117,7 @@
             "title": "sayonara lara",
             "slug": "sayonara-lara",
             "url": "https://animesdigital.org/anime/a/sayonara-lara",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-sayonara-lara-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36120,7 +36125,7 @@
             "title": "seihantai na kimi to boku 2nd season",
             "slug": "seihantai-na-kimi-to-boku-2nd-season",
             "url": "https://animesdigital.org/anime/a/seihantai-na-kimi-to-boku-2nd-season",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-seihantai-na-kimi-to-boku-2nd-season-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36128,7 +36133,7 @@
             "title": "grow up show himawari no circus dan",
             "slug": "grow-up-show-himawari-no-circus-dan",
             "url": "https://animesdigital.org/anime/a/grow-up-show-himawari-no-circus-dan",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-grow-up-show-himawari-no-circus-dan-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36136,7 +36141,7 @@
             "title": "saijo no osewa",
             "slug": "saijo-no-osewa",
             "url": "https://animesdigital.org/anime/a/saijo-no-osewa",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-saijo-no-osewa-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36144,7 +36149,7 @@
             "title": "mahou shoujo lyrical nanoha exceeds gun blaze vengeance",
             "slug": "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance",
             "url": "https://animesdigital.org/anime/a/mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36152,7 +36157,7 @@
             "title": "kimi wo aisuru ki wa nai to itta jiki koushaku sama ga nazeka dekiai shitekimasu",
             "slug": "kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu",
             "url": "https://animesdigital.org/anime/a/kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36160,7 +36165,7 @@
             "title": "oni no hanayome",
             "slug": "oni-no-hanayome",
             "url": "https://animesdigital.org/anime/a/oni-no-hanayome",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-oni-no-hanayome-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36168,7 +36173,7 @@
             "title": "tenmaku no jaadugar",
             "slug": "tenmaku-no-jaadugar",
             "url": "https://animesdigital.org/anime/a/tenmaku-no-jaadugar",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-tenmaku-no-jaadugar-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36176,7 +36181,7 @@
             "title": "iwamoto senpai no suisen",
             "slug": "iwamoto-senpai-no-suisen",
             "url": "https://animesdigital.org/anime/a/iwamoto-senpai-no-suisen",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-iwamoto-senpai-no-suisen-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36184,7 +36189,7 @@
             "title": "gaikotsu kishi sama tadaima isekai e odekakechuu ii",
             "slug": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii",
             "url": "https://animesdigital.org/anime/a/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36192,7 +36197,7 @@
             "title": "kabushikigaisha magi lumiere season 2",
             "slug": "kabushikigaisha-magi-lumiere-season-2",
             "url": "https://animesdigital.org/anime/a/kabushikigaisha-magi-lumiere-season-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-kabushikigaisha-magi-lumiere-season-2-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36200,7 +36205,7 @@
             "title": "mushoku tensei iii isekai ittara honki dasu",
             "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu",
             "url": "https://animesdigital.org/anime/a/mushoku-tensei-iii-isekai-ittara-honki-dasu",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-mushoku-tensei-iii-isekai-ittara-honki-dasu-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36208,7 +36213,7 @@
             "title": "uchi no otouto domo ga sumimasen todos episodios",
             "slug": "uchi-no-otouto-domo-ga-sumimasen-todos-episodios",
             "url": "https://animesdigital.org/anime/a/uchi-no-otouto-domo-ga-sumimasen-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Uchi-no-Otouto-domo-ga-SumimasenEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36216,7 +36221,7 @@
             "title": "hell mode 2 todos episodios",
             "slug": "hell-mode-2-todos-episodios",
             "url": "https://animesdigital.org/anime/a/hell-mode-2-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Hell-Mode-2Ep.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36224,7 +36229,7 @@
             "title": "kore kaite shine todos episodios",
             "slug": "kore-kaite-shine-todos-episodios",
             "url": "https://animesdigital.org/anime/a/kore-kaite-shine-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-kore-kaite-shine-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36232,7 +36237,7 @@
             "title": "bungou stray dogs wan 2 todos episodios",
             "slug": "bungou-stray-dogs-wan-2-todos-episodios",
             "url": "https://animesdigital.org/anime/a/bungou-stray-dogs-wan-2-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-bungou-stray-dogs-wan-2-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36240,7 +36245,7 @@
             "title": "reiwa no dara san todos episodios",
             "slug": "reiwa-no-dara-san-todos-episodios",
             "url": "https://animesdigital.org/anime/a/reiwa-no-dara-san-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Reiwa-no-Dara-sanEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -36248,7 +36253,7 @@
             "title": "bang dream yume mita",
             "slug": "bang-dream-yume-mita",
             "url": "https://animesdigital.org/anime/a/bang-dream-yume-mita",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/BanG-Dream-Yume-Mita.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           }
@@ -36258,7 +36263,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1784728440277
+      "at": 1784757196100
     },
     "partner:animeplay|todos|2||48": {
       "data": {
@@ -36509,7 +36514,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784728440370
+      "at": 1784757196248
     },
     "partner:animesdrive|todos|2||24": {
       "data": {
@@ -116457,5 +116462,5 @@
       "at": 1784728955379
     }
   },
-  "updatedAt": 1784757192465
+  "updatedAt": 1784757196248
 }
