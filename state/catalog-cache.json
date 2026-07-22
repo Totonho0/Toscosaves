@@ -96719,7 +96719,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784663182567
+      "at": 1784691938904
     },
     "todos|43||120": {
       "data": {
@@ -97474,7 +97474,19 @@
             "url": "https://animesdrive.online/anime/sakugan",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/01/h4v0id7U9YL8se3kIviAqyMNiqe-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive"
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sakugan"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sakugan"
+              }
+            ]
           },
           {
             "title": "A Série Pokémon: Horizontes",
@@ -97482,7 +97494,19 @@
             "url": "https://animeplay.cloud/anime/a-serie-pokemon-horizontes",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/02/gvT5IBN2syZjlJdPppd6LfxIX2D-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "a-serie-pokemon-horizontes"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "a-serie-pokemon-horizontes"
+              }
+            ]
           },
           {
             "title": "Digimon Frontier (Dublado)",
@@ -97616,8 +97640,8 @@
         "category": "todos",
         "page": 43,
         "hasMore": true,
-        "total": 1492,
-        "cachedAt": 1784663179892,
+        "total": 1666,
+        "cachedAt": 1784691936438,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -97664,7 +97688,7 @@
           "fixHint": null
         }
       },
-      "at": 1784663182758
+      "at": 1784691939057
     },
     "todos|44||48": {
       "data": {
@@ -97908,7 +97932,7 @@
         "page": 44,
         "hasMore": true
       },
-      "at": 1784663183835
+      "at": 1784691939968
     },
     "partner:anitube|todos|44||48": {
       "data": {
@@ -98063,7 +98087,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784663184309
+      "at": 1784691939395
     },
     "partner:animeplay|todos|44||48": {
       "data": {
@@ -98282,7 +98306,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784663184348
+      "at": 1784691940282
     },
     "partner:anitube|todos|3||24": {
       "data": {
@@ -98859,7 +98883,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784663186038
+      "at": 1784691941799
     },
     "todos|44||120": {
       "data": {
@@ -99541,7 +99565,19 @@
             "url": "https://animesdrive.online/anime/jibaku-shounen-hanako-kun-2",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/01/fJN1faGg5e7qB7RecEhOys8X9Bz-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive"
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "jibaku-shounen-hanako-kun-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "jibaku-shounen-hanako-kun-2"
+              }
+            ]
           },
           {
             "title": "Do It Yourself!! (Legendado)",
@@ -99683,8 +99719,8 @@
         "category": "todos",
         "page": 44,
         "hasMore": true,
-        "total": 1528,
-        "cachedAt": 1784663183835,
+        "total": 1666,
+        "cachedAt": 1784691939968,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -99731,7 +99767,7 @@
           "fixHint": null
         }
       },
-      "at": 1784663186494
+      "at": 1784691942178
     },
     "partner:animeplay|todos|3||24": {
       "data": {
@@ -100340,7 +100376,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784663187874
+      "at": 1784691943442
     },
     "partner:animesdrive|todos|45||48": {
       "data": {
@@ -100995,7 +101031,7 @@
         "page": 45,
         "hasMore": true
       },
-      "at": 1784663206668
+      "at": 1784691943007
     },
     "todos|45||120": {
       "data": {
@@ -119532,7 +119568,162 @@
         "hasMore": true
       },
       "at": 1784679732130
+    },
+    "partner:anitube|todos|45||48": {
+      "data": {
+        "items": [
+          {
+            "title": "Double-J – Todos os Episodio (Legendado)",
+            "slug": "84841",
+            "url": "https://www.anitube.zip/video/84841/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Double-J1.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Doujin Work – Todos os Episodio (Legendado)",
+            "slug": "84842",
+            "url": "https://www.anitube.zip/video/84842/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Doujin-Work.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Douse Koishite Shimaunda (Legendado)",
+            "slug": "998190",
+            "url": "https://www.anitube.zip/video/998190/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-douse-koishite-shimaunda-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Douse Koishite Shimaunda 2 (Legendado)",
+            "slug": "1032205",
+            "url": "https://www.anitube.zip/video/1032205/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-douse-koishite-shimaunda-2-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Dr. Stone (Legendado)",
+            "slug": "928225b",
+            "url": "https://www.anitube.zip/928225b",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Dr. Stone Dublado",
+            "slug": "898504b",
+            "url": "https://www.anitube.zip/video/898504b",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Dr-Stone-Dublado-Todos-os-Episodios-AniTube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Dr. Stone: New World (Legendado)",
+            "slug": "928305",
+            "url": "https://www.anitube.zip/video/928305/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-new-world-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Dr. Stone: New World Dublado",
+            "slug": "1011028",
+            "url": "https://www.anitube.zip/video/1011028/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-new-world-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Dr. Stone: New World Part 2 (Legendado)",
+            "slug": "920847",
+            "url": "https://www.anitube.zip/video/920847/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-new-world-part-2-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Dr. Stone: New World Part 2 Dublado",
+            "slug": "1011052",
+            "url": "https://www.anitube.zip/video/1011052/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-new-world-part-2-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Dr. Stone: Science Future (Legendado)",
+            "slug": "1005212",
+            "url": "https://www.anitube.zip/video/1005212/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-science-future-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Dr. Stone: Science Future 2 (Legendado)",
+            "slug": "1003622",
+            "url": "https://www.anitube.zip/video/1003622/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-science-future-2-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Dr. Stone: Science Future 3 (Legendado)",
+            "slug": "1050986",
+            "url": "https://www.anitube.zip/video/1050986/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Dr-Stone-Science-Future-3-categoria.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Dr. Stone: Science Future Dublado",
+            "slug": "998440",
+            "url": "https://www.anitube.zip/video/998440/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-science-future-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Dr. Stone: Science Future Part 2 Dublado",
+            "slug": "1003935",
+            "url": "https://www.anitube.zip/video/1003935/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-science-future-part-2-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Dr. Stone: Science Future Part 3 Dublado",
+            "slug": "1050993",
+            "url": "https://www.anitube.zip/video/1050993/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-science-future-part-3-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Dr. Stone: Stone Wars (Legendado)",
+            "slug": "897886",
+            "url": "https://www.anitube.zip/video/897886/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Dr-Stone-Stone-Wars-Todos-os-Episódios-AniTube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Dr. Stone: Stone Wars Dublado",
+            "slug": "1011000",
+            "url": "https://www.anitube.zip/video/1011000/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Dr-Stone-Stone-Wars-Todos-os-Episódios-AniTube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          }
+        ],
+        "category": "todos",
+        "page": 45,
+        "hasMore": true,
+        "partnerId": "anitube"
+      },
+      "at": 1784691942536
     }
   },
-  "updatedAt": 1784691936914
+  "updatedAt": 1784691943442
 }
