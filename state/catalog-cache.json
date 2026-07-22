@@ -93000,7 +93000,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784663175857
+      "at": 1784691932219
     },
     "todos|41||120": {
       "data": {
@@ -93755,7 +93755,19 @@
             "url": "https://animesdrive.online/anime/a-sign-of-affection",
             "poster": "https://image.tmdb.org/t/p/w185/6WJZiR1lRoa80tkWrR2U2IQm9rO.jpg",
             "kind": "anime",
-            "provider": "animesdrive"
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "a-sign-of-affection"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "a-sign-of-affection"
+              }
+            ]
           },
           {
             "title": "Synduality: Noir 2 – Todos os Episódios",
@@ -93763,7 +93775,19 @@
             "url": "https://animeplay.cloud/anime/synduality-noir-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/Synduality-Noir-2-Todos-os-Episodios-animesonline.cloud_-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "synduality-noir-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "synduality-noir-2"
+              }
+            ]
           },
           {
             "title": "Delico’s Nursery (Legendado)",
@@ -93854,6 +93878,11 @@
             "provider": "anitube",
             "animeSources": [
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "59707"
+              },
+              {
                 "server": 6,
                 "provider": "anitube",
                 "slug": "59707"
@@ -93871,7 +93900,29 @@
             "url": "https://www.anitube.zip/video/1001139/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-devil-may-cry-2025-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "devil-may-cry-2025-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1001139"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "devil-may-cry-2025-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "devil-may-cry-2025-dublado"
+              }
+            ]
           },
           {
             "title": "Devil May Cry 2 (2026) Dublado",
@@ -93879,7 +93930,19 @@
             "url": "https://www.anitube.zip/video/1057663/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-devil-may-cry-2-2026-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "devil-may-cry-2026-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1057663"
+              }
+            ]
           },
           {
             "title": "Devil Survivor 2: The Animation – (Legendado)",
@@ -93909,8 +93972,8 @@
         "category": "todos",
         "page": 41,
         "hasMore": true,
-        "total": 1415,
-        "cachedAt": 1784663173113,
+        "total": 1666,
+        "cachedAt": 1784691929857,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -93957,7 +94020,7 @@
           "fixHint": null
         }
       },
-      "at": 1784663176048
+      "at": 1784691932388
     },
     "partner:anitube|todos|42||48": {
       "data": {
@@ -94112,7 +94175,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784663176387
+      "at": 1784691932718
     },
     "todos|42||48": {
       "data": {
@@ -94365,7 +94428,7 @@
         "page": 42,
         "hasMore": true
       },
-      "at": 1784663176763
+      "at": 1784691933230
     },
     "partner:animeplay|todos|42||48": {
       "data": {
@@ -94592,7 +94655,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784663177280
+      "at": 1784691933737
     },
     "partner:animesdrive|todos|42||48": {
       "data": {
@@ -119447,5 +119510,5 @@
       "at": 1784679732130
     }
   },
-  "updatedAt": 1784691930279
+  "updatedAt": 1784691933737
 }
