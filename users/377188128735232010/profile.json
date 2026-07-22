@@ -613,6 +613,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9sVVlSTG1KSEp5Vnp3d0pVSVBJSkh4WlI2VEUuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "mushoku-tensei-ii-isekai-ittara-honki-dasu": {
+      "slug": "mushoku-tensei-ii-isekai-ittara-honki-dasu",
+      "title": "Mushoku Tensei 2 Isekai Ittara Honki Dasu Todos Episódios",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8wNy9NdXNob2t1LVRlbnNlaS1JSS1Jc2VrYWktSXR0YXJhLUhvbmtpLURhc3UtY2F0ZWdvcmlhLmpwZw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -990,9 +997,17 @@
     ],
     "kanojo-okarishimasu-5th-season": [
       11
+    ],
+    "mushoku-tensei-ii-isekai-ittara-honki-dasu": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "mushoku-tensei-ii-isekai-ittara-honki-dasu",
+      "ep": 1,
+      "at": 1784731045759
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -1779,5 +1794,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784731026122
+  "updatedAt": 1784731047502
 }
