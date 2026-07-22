@@ -94882,7 +94882,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784663178962
+      "at": 1784691935360
     },
     "todos|42||120": {
       "data": {
@@ -95585,7 +95585,19 @@
             "url": "https://animesdrive.online/anime/ao-no-orchestra-2",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/10/gQsieyi5yUN7Mrw4dSpiWjPSXbv-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive"
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ao-no-orchestra-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ao-no-orchestra-2"
+              }
+            ]
           },
           {
             "title": "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!",
@@ -95593,7 +95605,19 @@
             "url": "https://animeplay.cloud/anime/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy",
             "poster": "https://image.tmdb.org/t/p/w185/1ttxQPgX6HJqUsXuC2HgnQRv7wZ.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy"
+              }
+            ]
           },
           {
             "title": "Di Gi Charat – (Legendado)",
@@ -95735,8 +95759,8 @@
         "category": "todos",
         "page": 42,
         "hasMore": true,
-        "total": 1452,
-        "cachedAt": 1784663176763,
+        "total": 1666,
+        "cachedAt": 1784691933230,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -95783,7 +95807,7 @@
           "fixHint": null
         }
       },
-      "at": 1784663179225
+      "at": 1784691935607
     },
     "partner:anitube|todos|43||48": {
       "data": {
@@ -95938,7 +95962,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784663179554
+      "at": 1784691935947
     },
     "todos|43||48": {
       "data": {
@@ -96209,7 +96233,7 @@
         "page": 43,
         "hasMore": true
       },
-      "at": 1784663179892
+      "at": 1784691936438
     },
     "partner:animeplay|todos|43||48": {
       "data": {
@@ -96452,7 +96476,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784663180480
+      "at": 1784691936914
     },
     "partner:animesdrive|todos|43||48": {
       "data": {
@@ -119510,5 +119534,5 @@
       "at": 1784679732130
     }
   },
-  "updatedAt": 1784691933737
+  "updatedAt": 1784691936914
 }
