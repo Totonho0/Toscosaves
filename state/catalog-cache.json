@@ -101816,7 +101816,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784728922418
+      "at": 1784757334169
     },
     "todos|45||120": {
       "data": {
@@ -101904,7 +101904,7 @@
             "slug": "hitoribocchi-no-isekai-kouryaku",
             "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
-            "rating": "7.1",
+            "rating": "7.3",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
@@ -102091,14 +102091,29 @@
                 "slug": "fruits-basket-2019"
               },
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fruits-basket-2001"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "fruits-basket-2019"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "fruits-basket-2001"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "fruits-basket-2019"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "fruits-basket-2001"
               }
             ]
           },
@@ -102565,7 +102580,24 @@
             "url": "https://www.anitube.zip/video/998440/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-science-future-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dr-stone-science-future-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "998440"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "dr-stone-science-future-dublado"
+              }
+            ]
           },
           {
             "title": "Dr. Stone: Science Future Part 2 Dublado",
@@ -102595,8 +102627,8 @@
         "category": "todos",
         "page": 45,
         "hasMore": true,
-        "total": 1550,
-        "cachedAt": 1784728920149,
+        "total": 1688,
+        "cachedAt": 1784757331967,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -102643,7 +102675,7 @@
           "fixHint": null
         }
       },
-      "at": 1784728923134
+      "at": 1784757334851
     },
     "partner:anitube|todos|46||48": {
       "data": {
@@ -102798,7 +102830,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784728923458
+      "at": 1784757335195
     },
     "todos|46||48": {
       "data": {
@@ -102835,7 +102867,7 @@
             "slug": "hitoribocchi-no-isekai-kouryaku",
             "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
-            "rating": "7.1",
+            "rating": "7.3",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -103042,7 +103074,7 @@
         "page": 46,
         "hasMore": true
       },
-      "at": 1784728923749
+      "at": 1784757335814
     },
     "partner:animeplay|todos|46||48": {
       "data": {
@@ -103261,7 +103293,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784728924441
+      "at": 1784757336211
     },
     "partner:animesdrive|todos|46||48": {
       "data": {
@@ -103480,7 +103512,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784728926033
+      "at": 1784757337454
     },
     "todos|46||120": {
       "data": {
@@ -103568,7 +103600,7 @@
             "slug": "hitoribocchi-no-isekai-kouryaku",
             "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
-            "rating": "7.1",
+            "rating": "7.3",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
@@ -104191,7 +104223,29 @@
             "url": "https://www.anitube.zip/video/1001647/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dragon-ball-daima-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-daima-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1001647"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "dragon-ball-daima-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dragon-ball-daima-dublado"
+              }
+            ]
           },
           {
             "title": "Dragon Ball Dublado",
@@ -104242,6 +104296,11 @@
             "provider": "anitube",
             "animeSources": [
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "929169b001"
+              },
+              {
                 "server": 6,
                 "provider": "anitube",
                 "slug": "929169b001"
@@ -104261,6 +104320,11 @@
             "kind": "anime",
             "provider": "anitube",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "58259b001"
+              },
               {
                 "server": 6,
                 "provider": "anitube",
@@ -104317,8 +104381,8 @@
         "category": "todos",
         "page": 46,
         "hasMore": true,
-        "total": 1586,
-        "cachedAt": 1784728923749,
+        "total": 1688,
+        "cachedAt": 1784757335814,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -104365,7 +104429,7 @@
           "fixHint": null
         }
       },
-      "at": 1784728926588
+      "at": 1784757337882
     },
     "partner:anitube|todos|47||48": {
       "data": {
@@ -104520,7 +104584,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784728926912
+      "at": 1784757338240
     },
     "todos|47||48": {
       "data": {
@@ -104557,7 +104621,7 @@
             "slug": "hitoribocchi-no-isekai-kouryaku",
             "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
-            "rating": "7.1",
+            "rating": "7.3",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -104746,7 +104810,7 @@
         "page": 47,
         "hasMore": true
       },
-      "at": 1784728927249
+      "at": 1784757338897
     },
     "partner:animeplay|todos|47||48": {
       "data": {
@@ -104949,7 +105013,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784728927904
+      "at": 1784757339259
     },
     "partner:animesdrive|todos|47||48": {
       "data": {
@@ -105152,7 +105216,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784728929173
+      "at": 1784757340605
     },
     "todos|47||120": {
       "data": {
@@ -105240,7 +105304,7 @@
             "slug": "hitoribocchi-no-isekai-kouryaku",
             "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
-            "rating": "7.1",
+            "rating": "7.3",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
@@ -105447,10 +105511,27 @@
             "title": "Sword Art",
             "slug": "sword-art-online",
             "url": "https://animesonline.cloud/anime/sword-art-online",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/htNohqrYEwuz4fCa9ATVF90s58S-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/htNohqrYEwuz4fCa9ATVF90s58S-185x278.jpg",
             "rating": "8.2",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sword-art-online"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sword-art-online"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sword-art-online"
+              }
+            ]
           },
           {
             "title": "Danshi Koukousei no Nichijou",
@@ -105519,6 +105600,11 @@
                 "slug": "hunter-x-hunter-2011"
               },
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hunter-x-hunter"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "hunter-x-hunter-2011"
@@ -105527,6 +105613,11 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "hunter-x-hunter-2011"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hunter-x-hunter"
               }
             ]
           },
@@ -105773,6 +105864,11 @@
             "provider": "animesdrive",
             "animeSources": [
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sword-art-online"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "sword-art-online"
@@ -105924,8 +106020,8 @@
         "category": "todos",
         "page": 47,
         "hasMore": true,
-        "total": 1620,
-        "cachedAt": 1784728927249,
+        "total": 1688,
+        "cachedAt": 1784757338897,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -105972,7 +106068,7 @@
           "fixHint": null
         }
       },
-      "at": 1784728929905
+      "at": 1784757341210
     },
     "partner:anitube|todos|48||48": {
       "data": {
@@ -106127,7 +106223,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784728930230
+      "at": 1784757341544
     },
     "todos|48||48": {
       "data": {
@@ -106164,7 +106260,7 @@
             "slug": "hitoribocchi-no-isekai-kouryaku",
             "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
-            "rating": "7.1",
+            "rating": "7.3",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -106362,7 +106458,7 @@
         "page": 48,
         "hasMore": true
       },
-      "at": 1784728930616
+      "at": 1784757342042
     },
     "partner:animeplay|todos|48||48": {
       "data": {
@@ -106573,7 +106669,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784728931176
+      "at": 1784757342494
     },
     "partner:animesdrive|todos|48||48": {
       "data": {
@@ -119507,5 +119603,5 @@
       "at": 1784757235717
     }
   },
-  "updatedAt": 1784757332465
+  "updatedAt": 1784757342494
 }
