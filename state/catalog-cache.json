@@ -94620,7 +94620,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784728909077
+      "at": 1784757320669
     },
     "todos|41||120": {
       "data": {
@@ -94708,7 +94708,7 @@
             "slug": "hitoribocchi-no-isekai-kouryaku",
             "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
-            "rating": "7.1",
+            "rating": "7.3",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
@@ -95375,7 +95375,19 @@
             "url": "https://animesdrive.online/anime/a-sign-of-affection",
             "poster": "https://image.tmdb.org/t/p/w185/6WJZiR1lRoa80tkWrR2U2IQm9rO.jpg",
             "kind": "anime",
-            "provider": "animesdrive"
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "a-sign-of-affection"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "a-sign-of-affection"
+              }
+            ]
           },
           {
             "title": "Synduality: Noir 2 – Todos os Episódios",
@@ -95383,7 +95395,19 @@
             "url": "https://animeplay.cloud/anime/synduality-noir-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/Synduality-Noir-2-Todos-os-Episodios-animesonline.cloud_-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "synduality-noir-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "synduality-noir-2"
+              }
+            ]
           },
           {
             "title": "Delico’s Nursery (Legendado)",
@@ -95474,6 +95498,11 @@
             "provider": "anitube",
             "animeSources": [
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "59707"
+              },
+              {
                 "server": 6,
                 "provider": "anitube",
                 "slug": "59707"
@@ -95491,7 +95520,29 @@
             "url": "https://www.anitube.zip/video/1001139/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-devil-may-cry-2025-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "devil-may-cry-2025-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1001139"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "devil-may-cry-2025-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "devil-may-cry-2025-dublado"
+              }
+            ]
           },
           {
             "title": "Devil May Cry 2 (2026) Dublado",
@@ -95499,7 +95550,19 @@
             "url": "https://www.anitube.zip/video/1057663/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-devil-may-cry-2-2026-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "devil-may-cry-2026-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1057663"
+              }
+            ]
           },
           {
             "title": "Devil Survivor 2: The Animation – (Legendado)",
@@ -95529,8 +95592,8 @@
         "category": "todos",
         "page": 41,
         "hasMore": true,
-        "total": 1403,
-        "cachedAt": 1784728906457,
+        "total": 1688,
+        "cachedAt": 1784757317924,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -95577,7 +95640,7 @@
           "fixHint": null
         }
       },
-      "at": 1784728909314
+      "at": 1784757320849
     },
     "partner:anitube|todos|42||48": {
       "data": {
@@ -95732,7 +95795,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784728909647
+      "at": 1784757321185
     },
     "todos|42||48": {
       "data": {
@@ -95769,7 +95832,7 @@
             "slug": "hitoribocchi-no-isekai-kouryaku",
             "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
-            "rating": "7.1",
+            "rating": "7.3",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -95985,7 +96048,7 @@
         "page": 42,
         "hasMore": true
       },
-      "at": 1784728910023
+      "at": 1784757321853
     },
     "partner:animeplay|todos|42||48": {
       "data": {
@@ -96212,7 +96275,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784728910666
+      "at": 1784757322176
     },
     "partner:animesdrive|todos|42||48": {
       "data": {
@@ -119384,5 +119447,5 @@
       "at": 1784757235717
     }
   },
-  "updatedAt": 1784757318332
+  "updatedAt": 1784757322176
 }
