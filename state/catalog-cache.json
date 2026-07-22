@@ -100145,7 +100145,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784728919005
+      "at": 1784757330681
     },
     "todos|44||120": {
       "data": {
@@ -100233,7 +100233,7 @@
             "slug": "hitoribocchi-no-isekai-kouryaku",
             "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
-            "rating": "7.1",
+            "rating": "7.3",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
@@ -100827,7 +100827,19 @@
             "url": "https://animesdrive.online/anime/jibaku-shounen-hanako-kun-2",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/01/fJN1faGg5e7qB7RecEhOys8X9Bz-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive"
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "jibaku-shounen-hanako-kun-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "jibaku-shounen-hanako-kun-2"
+              }
+            ]
           },
           {
             "title": "Do It Yourself!! (Legendado)",
@@ -100969,8 +100981,8 @@
         "category": "todos",
         "page": 44,
         "hasMore": true,
-        "total": 1516,
-        "cachedAt": 1784728916784,
+        "total": 1688,
+        "cachedAt": 1784757328377,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -101017,7 +101029,7 @@
           "fixHint": null
         }
       },
-      "at": 1784728919509
+      "at": 1784757331112
     },
     "partner:anitube|todos|45||48": {
       "data": {
@@ -101172,7 +101184,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784728919831
+      "at": 1784757331451
     },
     "todos|45||48": {
       "data": {
@@ -101209,7 +101221,7 @@
             "slug": "hitoribocchi-no-isekai-kouryaku",
             "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
-            "rating": "7.1",
+            "rating": "7.3",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -101398,7 +101410,7 @@
         "page": 45,
         "hasMore": true
       },
-      "at": 1784728920149
+      "at": 1784757331967
     },
     "partner:animeplay|todos|45||48": {
       "data": {
@@ -101601,7 +101613,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784728920777
+      "at": 1784757332465
     },
     "partner:animesdrive|todos|45||48": {
       "data": {
@@ -119495,5 +119507,5 @@
       "at": 1784757235717
     }
   },
-  "updatedAt": 1784757328893
+  "updatedAt": 1784757332465
 }
