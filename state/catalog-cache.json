@@ -92713,7 +92713,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784728905701
+      "at": 1784757316890
     },
     "todos|40||120": {
       "data": {
@@ -92801,7 +92801,7 @@
             "slug": "hitoribocchi-no-isekai-kouryaku",
             "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
-            "rating": "7.1",
+            "rating": "7.3",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
@@ -93494,7 +93494,19 @@
             "url": "https://animesdrive.online/anime/hikari-no-ou-2",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/01/Hikari-no-Ou-2nd-Season-animesonline.cloud_-185x278.jpg.webp",
             "kind": "anime",
-            "provider": "animesdrive"
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hikari-no-ou-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hikari-no-ou-2"
+              }
+            ]
           },
           {
             "title": "Jiisan Baasan Wakagaeru – Todos os Episódios",
@@ -93502,7 +93514,19 @@
             "url": "https://animeplay.cloud/anime/jiisan-baasan-wakagaeru",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/04/pfiHJ5l67ptZSStHFaFdAppd5kZ-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "jiisan-baasan-wakagaeru"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "jiisan-baasan-wakagaeru"
+              }
+            ]
           },
           {
             "title": "Dead Mount Death Play (Legendado)",
@@ -93636,8 +93660,8 @@
         "category": "todos",
         "page": 40,
         "hasMore": true,
-        "total": 1364,
-        "cachedAt": 1784728904141,
+        "total": 1688,
+        "cachedAt": 1784757314733,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -93684,7 +93708,7 @@
           "fixHint": null
         }
       },
-      "at": 1784728905881
+      "at": 1784757316988
     },
     "partner:anitube|todos|41||48": {
       "data": {
@@ -93839,7 +93863,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784728906219
+      "at": 1784757317326
     },
     "todos|41||48": {
       "data": {
@@ -93876,7 +93900,7 @@
             "slug": "hitoribocchi-no-isekai-kouryaku",
             "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
-            "rating": "7.1",
+            "rating": "7.3",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -94110,7 +94134,7 @@
         "page": 41,
         "hasMore": true
       },
-      "at": 1784728906457
+      "at": 1784757317924
     },
     "partner:animeplay|todos|41||48": {
       "data": {
@@ -94353,7 +94377,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784728907260
+      "at": 1784757318332
     },
     "partner:animesdrive|todos|41||48": {
       "data": {
@@ -119360,5 +119384,5 @@
       "at": 1784757235717
     }
   },
-  "updatedAt": 1784757315323
+  "updatedAt": 1784757318332
 }
