@@ -600,6 +600,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96a2MyRmtWeW1KRE5YaXNTMW1ncHI4SXAySi5qcGc",
       "kind": "anime",
       "adult": false
+    },
+    "acchi-kocchi": {
+      "slug": "acchi-kocchi",
+      "title": "Acchi Kocchi",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC83NXJhZ0NTMGg0RmZLbmx0SkFHMktlNU1vOWguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -968,9 +975,17 @@
     ],
     "ansatsu-kyoushitsu-2-dublado": [
       1
+    ],
+    "acchi-kocchi": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "acchi-kocchi",
+      "ep": 1,
+      "at": 1784727957126
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -1742,5 +1757,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1784727941836
+  "updatedAt": 1784727957798
 }
