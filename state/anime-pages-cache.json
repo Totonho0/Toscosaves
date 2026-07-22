@@ -18747,7 +18747,7 @@
       }
     },
     "one-piece": {
-      "at": 1784755000891,
+      "at": 1784755085889,
       "data": {
         "slug": "one-piece",
         "title": "One Piece – Todos os Episodios",
@@ -25314,7 +25314,7 @@
       }
     },
     "dragon-ball-daima-dublado": {
-      "at": 1784723796382,
+      "at": 1784755086921,
       "data": {
         "slug": "dragon-ball-daima-dublado",
         "title": "Dragon Ball Daima Dublado",
@@ -25431,28 +25431,11 @@
           "Ação",
           "Animação",
           "Aventura"
-        ],
-        "audioVariants": {
-          "current": "dub",
-          "variants": {
-            "default": {
-              "slug": "dragon-ball-daima",
-              "title": "dragon ball daima",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "dragon-ball-daima-dublado",
-              "title": "Dragon Ball Daima Dublado",
-              "audio": "dub",
-              "label": "Dublado"
-            }
-          }
-        }
+        ]
       }
     },
     "solo-leveling-dublado": {
-      "at": 1784755027028,
+      "at": 1784755086677,
       "data": {
         "slug": "solo-leveling-dublado",
         "title": "Solo Leveling Dublado",
@@ -25535,7 +25518,7 @@
       }
     },
     "isshun-de-chiryou-shiteita-noni-yakutatazu-to-tsuihou-sareta-tensai-chiyushi-yami-healer-toshite-tanoshiku-ikiru-dublado": {
-      "at": 1784723797761,
+      "at": 1784755086801,
       "data": {
         "slug": "isshun-de-chiryou-shiteita-noni-yakutatazu-to-tsuihou-sareta-tensai-chiyushi-yami-healer-toshite-tanoshiku-ikiru-dublado",
         "title": "Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru Dublado",
@@ -25615,28 +25598,11 @@
           "Comédia",
           "Fantasia",
           "Sci-Fi"
-        ],
-        "audioVariants": {
-          "current": "dub",
-          "variants": {
-            "default": {
-              "slug": "isshun-de-chiryou-shiteita-noni-yakutatazu-to-tsuihou-sareta-tensai-chiyushi-yami-healer-toshite-tanoshiku-ikiru",
-              "title": "Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "isshun-de-chiryou-shiteita-noni-yakutatazu-to-tsuihou-sareta-tensai-chiyushi-yami-healer-toshite-tanoshiku-ikiru-dublado",
-              "title": "Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru Dublado",
-              "audio": "dub",
-              "label": "Dublado"
-            }
-          }
-        }
+        ]
       }
     },
     "kusuriya-no-hitorigoto-2-dublado": {
-      "at": 1784723798311,
+      "at": 1784755084956,
       "data": {
         "slug": "kusuriya-no-hitorigoto-2-dublado",
         "title": "Kusuriya no Hitorigoto 2 Dublado",
@@ -25773,11 +25739,28 @@
           "Animação",
           "Drama",
           "Mistério"
+        ],
+        "animeSources": [
+          {
+            "server": 1,
+            "provider": "aoc",
+            "slug": "kusuriya-no-hitorigoto-2-dublado"
+          },
+          {
+            "server": 2,
+            "provider": "animesdrive",
+            "slug": "kusuriya-no-hitorigoto-2-dublado"
+          },
+          {
+            "server": 3,
+            "provider": "animeplay",
+            "slug": "kusuriya-no-hitorigoto-2-dublado"
+          }
         ]
       }
     },
     "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru": {
-      "at": 1784755027157,
+      "at": 1784755083731,
       "data": {
         "slug": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
         "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
