@@ -12875,7 +12875,7 @@
       }
     },
     "dragon-ball": {
-      "at": 1784663235394,
+      "at": 1784754735415,
       "data": {
         "slug": "dragon-ball",
         "title": "Dragon Ball",
@@ -13659,29 +13659,23 @@
           "Comédia",
           "Fantasia"
         ],
-        "audioVariants": {
-          "current": "default",
-          "variants": {
-            "default": {
-              "slug": "dragon-ball",
-              "title": "Dragon Ball",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "leg": {
-              "slug": "934137",
-              "title": "Dragon Ball (Legendado)",
-              "audio": "leg",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "937390",
-              "title": "Dragon Ball Dublado",
-              "audio": "dub",
-              "label": "Dublado"
-            }
+        "animeSources": [
+          {
+            "server": 1,
+            "provider": "aoc",
+            "slug": "dragon-ball"
+          },
+          {
+            "server": 2,
+            "provider": "animesdrive",
+            "slug": "dragon-ball"
+          },
+          {
+            "server": 3,
+            "provider": "animeplay",
+            "slug": "dragon-ball"
           }
-        }
+        ]
       }
     },
     "mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru": {
