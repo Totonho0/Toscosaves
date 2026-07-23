@@ -86314,11 +86314,37 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784814904565
+      "at": 1784843704640
     },
     "todos|35||120": {
       "data": {
         "items": [
+          {
+            "title": "Yeosin Gangnim – Todos os Episódios",
+            "slug": "yeosin-gangnim",
+            "url": "https://animesonline.cloud/anime/yeosin-gangnim-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/9gpc8kIhNEG7r0VTkyI9aVBxdO3.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "yeosin-gangnim"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "yeosin-gangnim"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "yeosin-gangnim"
+              }
+            ]
+          },
           {
             "title": "Yeosin Gangnim Dublado – Todos os Episódios",
             "slug": "yeosin-gangnim-dublado",
@@ -87327,22 +87353,13 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "8"
-          },
-          {
-            "title": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
-            "slug": "zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru",
-            "url": "https://animesonline.cloud/anime/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/kwV4MylQoDhz14Qd54z3Hq4qppf-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "7,07"
           }
         ],
         "category": "todos",
         "page": 35,
-        "hasMore": false,
-        "total": 1680,
-        "cachedAt": 1784829227631,
+        "hasMore": true,
+        "total": 1681,
+        "cachedAt": 1784843702083,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -87389,7 +87406,7 @@
           "fixHint": null
         }
       },
-      "at": 1784829227709
+      "at": 1784843704945
     },
     "partner:anitube|todos|36||48": {
       "data": {
@@ -87544,7 +87561,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784814905142
+      "at": 1784843705286
     },
     "todos|36||48": {
       "data": {
@@ -87809,22 +87826,13 @@
             "rating": "7.943",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Vinland Saga",
-            "slug": "vinland-saga",
-            "url": "https://animesonline.cloud/anime/vinland-saga",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/07/ySPYLN1sHmgRdqdfLOE092JlNTp-185x278.jpg",
-            "rating": "8.5",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 36,
         "hasMore": true
       },
-      "at": 1784814905755
+      "at": 1784843705842
     },
     "partner:animeplay|todos|36||48": {
       "data": {
@@ -88067,7 +88075,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784814906152
+      "at": 1784843706161
     },
     "partner:animesdrive|todos|36||48": {
       "data": {
@@ -131599,5 +131607,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784843702316
+  "updatedAt": 1784843706161
 }
