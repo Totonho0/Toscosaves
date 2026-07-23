@@ -18237,7 +18237,19 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/uCoZXmBckZ6iveA6UuutnKeJXTf-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "rating": "7.9"
+            "rating": "7.9",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fruits-basket-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "fruits-basket-2-dublado"
+              }
+            ]
           },
           {
             "title": "Fruits Basket: The Final",
@@ -19096,7 +19108,7 @@
         "page": 18,
         "hasMore": true,
         "total": 1680,
-        "cachedAt": 1784800409237,
+        "cachedAt": 1784814842028,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -19143,7 +19155,7 @@
           "fixHint": null
         }
       },
-      "at": 1784800409314
+      "at": 1784814843976
     },
     "todos|19||120": {
       "data": {
@@ -19961,7 +19973,7 @@
         "page": 19,
         "hasMore": true,
         "total": 1680,
-        "cachedAt": 1784800410175,
+        "cachedAt": 1784814844943,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -20008,7 +20020,7 @@
           "fixHint": null
         }
       },
-      "at": 1784800410262
+      "at": 1784814846814
     },
     "todos|20||120": {
       "data": {
@@ -20242,42 +20254,6 @@
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "hunter-x-hunter-2011"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "hunter-x-hunter"
-              }
-            ]
-          },
-          {
-            "title": "Hunter x Hunter (2011)",
-            "slug": "hunter-x-hunter-2011",
-            "url": "https://animesonline.cloud/anime/hunter-x-hunter-2011",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/9WxfAQquTun9ATkV6iAeFHMkqxv-185x278.jpg",
-            "rating": "8.626",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "hunter-x-hunter-2011"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "hunter-x-hunter"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "hunter-x-hunter-2011"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
                 "slug": "hunter-x-hunter-2011"
               },
               {
@@ -20934,13 +20910,33 @@
                 "slug": "iwamoto-senpai-no-suisen"
               }
             ]
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 20,
         "hasMore": true,
         "total": 1680,
-        "cachedAt": 1784800411137,
+        "cachedAt": 1784814847678,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -20987,7 +20983,7 @@
           "fixHint": null
         }
       },
-      "at": 1784800411221
+      "at": 1784814849666
     },
     "legendado|1||120": {
       "data": {
@@ -59381,7 +59377,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784786045120
+      "at": 1784814843922
     },
     "partner:anitube|todos|19||48": {
       "data": {
@@ -59536,7 +59532,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784786045511
+      "at": 1784814844320
     },
     "todos|19||48": {
       "data": {
@@ -59816,7 +59812,7 @@
         "page": 19,
         "hasMore": true
       },
-      "at": 1784800410175
+      "at": 1784814844943
     },
     "partner:animeplay|todos|19||48": {
       "data": {
@@ -60067,7 +60063,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784786046465
+      "at": 1784814845283
     },
     "partner:animesdrive|todos|19||48": {
       "data": {
@@ -60318,7 +60314,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784786048215
+      "at": 1784814846764
     },
     "partner:anitube|todos|20||48": {
       "data": {
@@ -60473,7 +60469,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784786048587
+      "at": 1784814847155
     },
     "todos|20||48": {
       "data": {
@@ -60753,7 +60749,7 @@
         "page": 20,
         "hasMore": true
       },
-      "at": 1784800411137
+      "at": 1784814847678
     },
     "partner:animeplay|todos|20||48": {
       "data": {
@@ -61004,7 +61000,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784786049431
+      "at": 1784814848132
     },
     "partner:animesdrive|todos|20||48": {
       "data": {
@@ -61255,7 +61251,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784786051076
+      "at": 1784814849612
     },
     "partner:anitube|todos|21||48": {
       "data": {
@@ -61410,7 +61406,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784786051469
+      "at": 1784814850015
     },
     "todos|21||48": {
       "data": {
@@ -61690,7 +61686,7 @@
         "page": 21,
         "hasMore": true
       },
-      "at": 1784800412080
+      "at": 1784814850604
     },
     "partner:animeplay|todos|21||48": {
       "data": {
@@ -61941,7 +61937,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784786052442
+      "at": 1784814850955
     },
     "partner:animesdrive|todos|21||48": {
       "data": {
@@ -131816,5 +131812,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784814842298
+  "updatedAt": 1784814850955
 }
