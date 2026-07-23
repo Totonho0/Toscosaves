@@ -84264,6 +84264,15 @@
       "data": {
         "items": [
           {
+            "title": "Uma Musume: Cinderella Gray",
+            "slug": "uma-musume-cinderella-gray",
+            "url": "https://animesonline.cloud/anime/uma-musume-cinderella-gray",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/03/uIbnLx9ik2iiEi1kwmY6Zh4T3ia-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Undead Girl Murder Farce – Todos os Episódios",
             "slug": "undead-girl-murder-farce",
             "url": "https://animesonline.cloud/anime/undead-girl-murder-farce-todos-os-episodios",
@@ -84831,7 +84840,7 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/ySPYLN1sHmgRdqdfLOE092JlNTp-185x278.jpg.webp",
             "rating": "8.5",
             "kind": "anime",
-            "provider": "animeplay",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -85281,15 +85290,6 @@
             ]
           },
           {
-            "title": "Yani Neko",
-            "slug": "yani-neko",
-            "url": "https://animesonline.cloud/anime/yani-neko",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
-            "rating": "5",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Yani Neko Dublado",
             "slug": "yani-neko-dublado",
             "url": "https://animesonline.cloud/anime/yani-neko-dublado",
@@ -85326,37 +85326,19 @@
             "rating": "8.6"
           },
           {
-            "title": "Yeosin Gangnim – Todos os Episódios",
-            "slug": "yeosin-gangnim",
-            "url": "https://animesonline.cloud/anime/yeosin-gangnim-todos-os-episodios",
-            "poster": "https://image.tmdb.org/t/p/original/9gpc8kIhNEG7r0VTkyI9aVBxdO3.jpg",
-            "rating": "0",
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animeplay.cloud/anime/one-piece",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "yeosin-gangnim"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "yeosin-gangnim"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "yeosin-gangnim"
-              }
-            ]
+            "provider": "animeplay"
           }
         ],
         "category": "todos",
         "page": 34,
         "hasMore": true,
-        "total": 1680,
-        "cachedAt": 1784829226522,
+        "total": 1681,
+        "cachedAt": 1784843697543,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -85403,7 +85385,7 @@
           "fixHint": null
         }
       },
-      "at": 1784829226631
+      "at": 1784843701070
     },
     "partner:anitube|todos|35||48": {
       "data": {
@@ -85558,7 +85540,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784814901774
+      "at": 1784843701955
     },
     "todos|35||48": {
       "data": {
@@ -85614,6 +85596,15 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Puniru wa Kawaii Slime – Todos os Episódios",
+            "slug": "puniru-wa-kawaii-slime",
+            "url": "https://animesonline.cloud/anime/puniru-wa-kawaii-slime",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/08/fgQTJa7R5fYE12BL5BtJNAVsYtX-185x278.jpg",
+            "rating": "0",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -85829,7 +85820,7 @@
         "page": 35,
         "hasMore": true
       },
-      "at": 1784829227631
+      "at": 1784843702083
     },
     "partner:animeplay|todos|35||48": {
       "data": {
@@ -86080,7 +86071,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784814902921
+      "at": 1784843702316
     },
     "partner:animesdrive|todos|35||48": {
       "data": {
@@ -131608,5 +131599,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784843697746
+  "updatedAt": 1784843702316
 }
