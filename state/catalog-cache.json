@@ -112413,7 +112413,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784814949832
+      "at": 1784843750725
     },
     "todos|49||120": {
       "data": {
@@ -112571,6 +112571,32 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              }
+            ]
+          },
+          {
+            "title": "Dragon Ball GT",
+            "slug": "dragon-ball-gt",
+            "url": "https://animesonline.cloud/anime/dragon-ball-gt",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/03/kmO4AHj1xx8wiaBMgwGjXhOQfNt-185x278.jpg.webp",
+            "rating": "7.69",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-gt"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "dragon-ball-gt"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dragon-ball-gt"
               }
             ]
           },
@@ -113175,11 +113201,10 @@
           {
             "title": "Machineman",
             "slug": "machineman",
-            "url": "https://animesonline.cloud/anime/machineman",
+            "url": "https://animesdrive.online/anime/machineman",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/06/nuqCvNAJrE6sMFDov5TAAo4Mziw-185x278.jpg",
-            "rating": "8.7",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -113333,21 +113358,13 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/Elsword-El-Lady.jpg",
             "kind": "anime",
             "provider": "anitube"
-          },
-          {
-            "title": "Endride (Legendado)",
-            "slug": "57694",
-            "url": "https://www.anitube.zip/video/57694/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Endride.jpg",
-            "kind": "anime",
-            "provider": "anitube"
           }
         ],
         "category": "todos",
         "page": 49,
         "hasMore": true,
-        "total": 1680,
-        "cachedAt": 1784814947914,
+        "total": 1681,
+        "cachedAt": 1784843748836,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -113394,7 +113411,7 @@
           "fixHint": null
         }
       },
-      "at": 1784814949942
+      "at": 1784843750840
     },
     "partner:anitube|todos|50||48": {
       "data": {
@@ -113549,7 +113566,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784814950279
+      "at": 1784843751196
     },
     "todos|50||48": {
       "data": {
@@ -113609,6 +113626,15 @@
             "provider": "aoc"
           },
           {
+            "title": "Machineman",
+            "slug": "machineman",
+            "url": "https://animesonline.cloud/anime/machineman",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/06/nuqCvNAJrE6sMFDov5TAAo4Mziw-185x278.jpg",
+            "rating": "8.7",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Sharivan, O Guardião do Espaço",
             "slug": "sharivan-o-guardiao-do-espaco",
             "url": "https://animesonline.cloud/anime/sharivan-o-guardiao-do-espaco",
@@ -113640,7 +113666,7 @@
         "page": 50,
         "hasMore": false
       },
-      "at": 1784814950877
+      "at": 1784843751772
     },
     "partner:animeplay|todos|50||48": {
       "data": {
@@ -113723,7 +113749,7 @@
         "hasMore": false,
         "partnerId": "animeplay"
       },
-      "at": 1784814951127
+      "at": 1784843751903
     },
     "partner:animesdrive|todos|50||48": {
       "data": {
@@ -131683,5 +131709,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784843749148
+  "updatedAt": 1784843751903
 }
