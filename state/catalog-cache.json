@@ -70962,11 +70962,37 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784814868108
+      "at": 1784843668247
     },
     "todos|26||120": {
       "data": {
         "items": [
+          {
+            "title": "Nanatsu no Taizai",
+            "slug": "nanatsu-no-taizai",
+            "url": "https://animesonline.cloud/anime/nanatsu-no-taizai",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/05/9BgEGOzGnd5r3SDGffKweHyauB5-185x278.jpg",
+            "rating": "8.449",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "nanatsu-no-taizai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nanatsu-no-taizai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nanatsu-no-taizai"
+              }
+            ]
+          },
           {
             "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2",
             "slug": "nanatsu-no-taizai-mokushiroku-no-yonkishi-2",
@@ -71714,39 +71740,13 @@
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Oi! Tonbo – Todos os Episodios",
-            "slug": "oi-tonbo",
-            "url": "https://animesonline.cloud/anime/oi-tonbo",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/06/Z53qdls6kfGTihy8BvvfOe4We9-185x278.jpg",
-            "rating": "7.143",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "oi-tonbo"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "oi-tonbo"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "oi-tonbo"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 26,
         "hasMore": true,
-        "total": 1680,
-        "cachedAt": 1784829218452,
+        "total": 1681,
+        "cachedAt": 1784843666517,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -71793,7 +71793,7 @@
           "fixHint": null
         }
       },
-      "at": 1784829218538
+      "at": 1784843668378
     },
     "partner:anitube|todos|27||48": {
       "data": {
@@ -71948,7 +71948,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784814868592
+      "at": 1784843668722
     },
     "todos|27||48": {
       "data": {
@@ -72004,6 +72004,15 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Pokémon 8ª Temporada: Batalha Avançada – Todos os Episódios",
+            "slug": "pokemon-8a-temporada-batalha-avancada",
+            "url": "https://animesonline.cloud/anime/pokemon-8a-temporada-batalha-avancada-todos-os-episodios",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/14xmF5WNaKkqp33a6THM4e148aV-185x278.jpg",
+            "rating": "7.758",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -72186,22 +72195,13 @@
             "rating": "7,29",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Dr. Stone: Science Future Dublado",
-            "slug": "dr-stone-science-future-dublado",
-            "url": "https://animesonline.cloud/anime/dr-stone-science-future-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/g7LwQqNFmxoxrdVKBHk18z6iv0p-185x278.jpg",
-            "rating": "8.564",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 27,
         "hasMore": true
       },
-      "at": 1784829219351
+      "at": 1784843669318
     },
     "partner:animeplay|todos|27||48": {
       "data": {
@@ -72428,7 +72428,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784814869552
+      "at": 1784843669547
     },
     "partner:animesdrive|todos|27||48": {
       "data": {
@@ -131592,5 +131592,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784843666667
+  "updatedAt": 1784843669547
 }
