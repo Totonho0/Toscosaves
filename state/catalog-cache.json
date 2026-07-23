@@ -9406,7 +9406,7 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/04/xoqmJpO3jGxEldDCItXuGj2MVTV-185x278.jpg",
             "rating": "8.507",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -9468,15 +9468,6 @@
             "slug": "1003557",
             "url": "https://www.anitube.zip/video/1003557/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-black-clover-2-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Black Clover Dublado",
-            "slug": "black-clover-dublado",
-            "url": "https://animesonline.cloud/anime/black-clover-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/91z5IHcqGWmh8odTnKcMzWDrsZK-185x278.jpg",
-            "rating": "8.507",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -9683,15 +9674,6 @@
             "slug": "881501",
             "url": "https://www.anitube.zip/video/881501/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-bleach-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Bleach Dublado",
-            "slug": "bleach-dublado",
-            "url": "https://animesonline.cloud/anime/bleach-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/cACXGL4PBgKslAF5W8aaxWdriW7-185x278.jpg",
-            "rating": "8.383",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -9929,13 +9911,53 @@
             "rating": "8.045",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesdrive.online/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 4,
         "hasMore": true,
-        "total": 1688,
-        "cachedAt": 1784771594966,
+        "total": 1687,
+        "cachedAt": 1784786001145,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -9982,7 +10004,7 @@
           "fixHint": null
         }
       },
-      "at": 1784771595058
+      "at": 1784786003363
     },
     "todos|5||120": {
       "data": {
@@ -10403,25 +10425,17 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/myxWINN4lV2YRtb3DcCi7UFn6C5-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "rating": "8.651"
-          },
-          {
-            "title": "Boku no Hero Academia: Final Season Dublado",
-            "slug": "1018817",
-            "url": "https://www.anitube.zip/video/1018817/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-boku-no-hero-academia-final-season-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "aoc",
+            "rating": "8.651",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "1018817"
+                "slug": "boku-no-hero-academia-final-season-dublado"
               },
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "boku-no-hero-academia-final-season-dublado"
+                "slug": "1018817"
               }
             ]
           },
@@ -10614,13 +10628,38 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/96637l.jpg",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              },
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 5,
         "hasMore": true,
-        "total": 1688,
-        "cachedAt": 1784771596029,
+        "total": 1687,
+        "cachedAt": 1784786004269,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -10667,19 +10706,11 @@
           "fixHint": null
         }
       },
-      "at": 1784771596111
+      "at": 1784786006304
     },
     "todos|6||120": {
       "data": {
         "items": [
-          {
-            "title": "Bonjour Sweet Love Patisserie (Legendado)",
-            "slug": "83959",
-            "url": "https://www.anitube.zip/video/83959/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Bonjour-Sweet-Love-Patisserie.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
           {
             "title": "Bonjour: Koiaji Pâtisserie – Todos os Eposódios (Legendado)",
             "slug": "62520",
@@ -11196,13 +11227,21 @@
                 "slug": "bullet-bullet-dublado"
               }
             ]
+          },
+          {
+            "title": "Bungaku Shoujo: Memoire (Legendado)",
+            "slug": "60737",
+            "url": "https://www.anitube.zip/video/60737/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Bungaku-Shoujo-Memoire.jpg",
+            "kind": "anime",
+            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 6,
         "hasMore": true,
-        "total": 1688,
-        "cachedAt": 1784771596995,
+        "total": 1686,
+        "cachedAt": 1784786007166,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -11249,7 +11288,7 @@
           "fixHint": null
         }
       },
-      "at": 1784771597075
+      "at": 1784786009157
     },
     "todos|7||120": {
       "data": {
@@ -33370,7 +33409,7 @@
         "page": 5,
         "hasMore": true
       },
-      "at": 1784771596029
+      "at": 1784786004269
     },
     "todos|6||48": {
       "data": {
@@ -33641,7 +33680,7 @@
         "page": 6,
         "hasMore": true
       },
-      "at": 1784771596995
+      "at": 1784786007166
     },
     "todos|7||48": {
       "data": {
@@ -33921,7 +33960,7 @@
         "page": 7,
         "hasMore": true
       },
-      "at": 1784771597935
+      "at": 1784786010098
     },
     "todos|8||48": {
       "data": {
@@ -40415,7 +40454,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784757204307
+      "at": 1784786003193
     },
     "partner:anitube|todos|5||48": {
       "data": {
@@ -40570,7 +40609,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784757204832
+      "at": 1784786003690
     },
     "partner:animesdigital|todos|5||48": {
       "data": {
@@ -40965,7 +41004,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1784757205444
+      "at": 1784786003382
     },
     "partner:animeplay|todos|5||48": {
       "data": {
@@ -41208,7 +41247,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784757205652
+      "at": 1784786004680
     },
     "partner:animesdrive|todos|5||48": {
       "data": {
@@ -41451,7 +41490,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784757207131
+      "at": 1784786006202
     },
     "partner:anitube|todos|6||48": {
       "data": {
@@ -41606,7 +41645,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784757207587
+      "at": 1784786006626
     },
     "partner:animesdigital|todos|6||48": {
       "data": {
@@ -41847,7 +41886,7 @@
             "title": "oshi no ko 3",
             "slug": "oshi-no-ko-3",
             "url": "https://animesdigital.org/anime/a/oshi-no-ko-3",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/01/Oshi-no-Ko-3.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41855,7 +41894,7 @@
             "title": "medalist 2nd season",
             "slug": "medalist-2nd-season",
             "url": "https://animesdigital.org/anime/a/medalist-2nd-season",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/01/assistir-medalist-2nd-season-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41863,7 +41902,7 @@
             "title": "mato seihei no slave 2",
             "slug": "mato-seihei-no-slave-2",
             "url": "https://animesdigital.org/anime/a/mato-seihei-no-slave-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/01/Mato-Seihei-no-Slave-2.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41871,7 +41910,7 @@
             "title": "yoroi shin den samurai troopers",
             "slug": "yoroi-shin-den-samurai-troopers",
             "url": "https://animesdigital.org/anime/a/yoroi-shin-den-samurai-troopers",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/01/Yoroi-Shin-Den-Samurai-Troopers.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41879,7 +41918,7 @@
             "title": "fate stay night unlimited blade works 2",
             "slug": "fate-stay-night-unlimited-blade-works-2",
             "url": "https://animesdigital.org/anime/a/fate-stay-night-unlimited-blade-works-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/01/Fate-Stay-Night-Unlimited-Blade-Works-2-categoria.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41887,7 +41926,7 @@
             "title": "fate stay night unlimited blade works",
             "slug": "fate-stay-night-unlimited-blade-works",
             "url": "https://animesdigital.org/anime/a/fate-stay-night-unlimited-blade-works",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/assistir-fate-stay-night-unlimited-blade-works-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41895,7 +41934,7 @@
             "title": "yami shibai 16",
             "slug": "yami-shibai-16",
             "url": "https://animesdigital.org/anime/a/yami-shibai-16",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/01/Yami-Shibai-16.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41903,7 +41942,7 @@
             "title": "android wa keiken ninzuu ni hairimasu ka",
             "slug": "android-wa-keiken-ninzuu-ni-hairimasu-ka",
             "url": "https://animesdigital.org/anime/a/android-wa-keiken-ninzuu-ni-hairimasu-ka",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/01/Android-wa-Keiken-Ninzuu-ni-Hairimasu-ka-1.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41911,7 +41950,7 @@
             "title": "jingai kyoushitsu no ningengirai kyoushi",
             "slug": "jingai-kyoushitsu-no-ningengirai-kyoushi",
             "url": "https://animesdigital.org/anime/a/jingai-kyoushitsu-no-ningengirai-kyoushi",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/01/Jingai-Kyoushitsu-no-Ningengirai-Kyoushi.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41919,7 +41958,7 @@
             "title": "ao no miburo serizawa ansatsu hen",
             "slug": "ao-no-miburo-serizawa-ansatsu-hen",
             "url": "https://animesdigital.org/anime/a/ao-no-miburo-serizawa-ansatsu-hen",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/01/Ao-no-Miburo-Serizawa-Ansatsu-hen.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41927,7 +41966,7 @@
             "title": "sousou no frieren 2 todos episodios",
             "slug": "sousou-no-frieren-2-todos-episodios",
             "url": "https://animesdigital.org/anime/a/sousou-no-frieren-2-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/01/Sousou-no-Frieren-2Ep.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41935,7 +41974,7 @@
             "title": "prism rondo",
             "slug": "prism-rondo",
             "url": "https://animesdigital.org/anime/a/prism-rondo",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/01/Prism-Rondo.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -42001,7 +42040,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1784757208039
+      "at": 1784786007398
     },
     "partner:animeplay|todos|6||48": {
       "data": {
@@ -42244,7 +42283,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784757208492
+      "at": 1784786007622
     },
     "partner:animesdrive|todos|6||48": {
       "data": {
@@ -42487,7 +42526,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784757210074
+      "at": 1784786009065
     },
     "partner:anitube|todos|7||48": {
       "data": {
@@ -42642,7 +42681,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784757210516
+      "at": 1784786009478
     },
     "partner:animesdigital|todos|7||48": {
       "data": {
@@ -42851,7 +42890,7 @@
             "title": "necronomico and the cosmic horror show todos episodios",
             "slug": "necronomico-and-the-cosmic-horror-show-todos-episodios",
             "url": "https://animesdigital.org/anime/a/necronomico-and-the-cosmic-horror-show-todos-episodios",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2025/07/Necronomico-and-the-Cosmic-Horror-ShowEp.jpeg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -42859,7 +42898,7 @@
             "title": "spy x family 2",
             "slug": "spy-x-family-2",
             "url": "https://animesdigital.org/anime/a/spy-x-family-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2022/04/assistir-spy-x-family-dublado-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -42875,7 +42914,7 @@
             "title": "nyaight of the living cat todos",
             "slug": "nyaight-of-the-living-cat-todos",
             "url": "https://animesdigital.org/anime/a/nyaight-of-the-living-cat-todos",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2025/07/assistir-nyaight-of-the-living-cat-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -42883,7 +42922,7 @@
             "title": "solo leveling ii",
             "slug": "solo-leveling-ii",
             "url": "https://animesdigital.org/anime/a/solo-leveling-ii",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2025/01/assistir-solo-leveling-ii-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -42891,7 +42930,7 @@
             "title": "to be hero x dublado",
             "slug": "to-be-hero-x-dublado",
             "url": "https://animesdigital.org/anime/a/to-be-hero-x-dublado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2025/05/To-Be-Hero-X-dub.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -42899,7 +42938,7 @@
             "title": "kobayashi san chi no maid dragon s",
             "slug": "kobayashi-san-chi-no-maid-dragon-s",
             "url": "https://animesdigital.org/anime/a/kobayashi-san-chi-no-maid-dragon-s",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-kobayashi-san-chi-no-maid-dragon-s-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -42907,7 +42946,7 @@
             "title": "megami no cafe terrace",
             "slug": "megami-no-cafe-terrace",
             "url": "https://animesdigital.org/anime/a/megami-no-cafe-terrace",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/03/Megami-no-Cafe-TerraceEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -42915,7 +42954,7 @@
             "title": "enen no shouboutai",
             "slug": "enen-no-shouboutai",
             "url": "https://animesdigital.org/anime/a/enen-no-shouboutai",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-enen-no-shouboutai-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -42923,7 +42962,7 @@
             "title": "failure frame",
             "slug": "failure-frame",
             "url": "https://animesdigital.org/anime/a/failure-frame",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2024/07/Failure-FrameEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -42931,7 +42970,7 @@
             "title": "gintama the semi final",
             "slug": "gintama-the-semi-final",
             "url": "https://animesdigital.org/anime/a/gintama-the-semi-final",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/12/assistir-gintama-the-semi-final-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -42939,7 +42978,7 @@
             "title": "sousou no frieren dublado",
             "slug": "sousou-no-frieren-dublado",
             "url": "https://animesdigital.org/anime/a/sousou-no-frieren-dublado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2024/01/assistir-sousou-no-frieren-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -42955,7 +42994,7 @@
             "title": "hxh 2011",
             "slug": "hxh-2011",
             "url": "https://animesdigital.org/anime/a/hxh-2011",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/Hunter-x-Hunter-2011-categoria.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -43037,7 +43076,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1784757211247
+      "at": 1784786010354
     },
     "partner:animeplay|todos|7||48": {
       "data": {
@@ -43288,7 +43327,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784757211499
+      "at": 1784786010478
     },
     "partner:animesdrive|todos|7||48": {
       "data": {
@@ -122440,5 +122479,5 @@
       "at": 1784760423166
     }
   },
-  "updatedAt": 1784786001635
+  "updatedAt": 1784786010478
 }
