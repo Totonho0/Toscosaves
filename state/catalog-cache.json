@@ -84802,6 +84802,11 @@
                 "slug": "tetsunabe-no-jan"
               },
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "ushiro-no-shoumen-kamui-san"
@@ -85120,7 +85125,7 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/ySPYLN1sHmgRdqdfLOE092JlNTp-185x278.jpg.webp",
             "rating": "8.5",
             "kind": "anime",
-            "provider": "animeplay",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -85570,15 +85575,6 @@
             ]
           },
           {
-            "title": "Yani Neko",
-            "slug": "yani-neko",
-            "url": "https://animesonline.cloud/anime/yani-neko",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
-            "rating": "5",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Yani Neko Dublado",
             "slug": "yani-neko-dublado",
             "url": "https://animesonline.cloud/anime/yani-neko-dublado",
@@ -85639,13 +85635,21 @@
                 "slug": "yeosin-gangnim"
               }
             ]
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animeplay.cloud/anime/one-piece",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animeplay"
           }
         ],
         "category": "todos",
         "page": 34,
         "hasMore": true,
         "total": 1680,
-        "cachedAt": 1784800424720,
+        "cachedAt": 1784814897730,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -85692,7 +85696,7 @@
           "fixHint": null
         }
       },
-      "at": 1784800424809
+      "at": 1784814901433
     },
     "partner:anitube|todos|35||48": {
       "data": {
@@ -85847,7 +85851,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784786103556
+      "at": 1784814901774
     },
     "todos|35||48": {
       "data": {
@@ -86118,7 +86122,7 @@
         "page": 35,
         "hasMore": true
       },
-      "at": 1784800425605
+      "at": 1784814902426
     },
     "partner:animeplay|todos|35||48": {
       "data": {
@@ -86369,7 +86373,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784786103901
+      "at": 1784814902921
     },
     "partner:animesdrive|todos|35||48": {
       "data": {
@@ -131879,5 +131883,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784814898380
+  "updatedAt": 1784814902921
 }
