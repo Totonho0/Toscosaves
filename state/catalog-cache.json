@@ -78375,10 +78375,22 @@
             "title": "Shangri-La Frontier: Kusoge Hunter Kamige ni Idoman to su 2 Dublado",
             "slug": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2-dublado",
             "url": "https://animesonline.cloud/anime/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/7Oz6HQSKZ1e8yxpbuPxnVG4Krn1-185x278.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/7Oz6HQSKZ1e8yxpbuPxnVG4Krn1-185x278.jpg",
             "rating": "7.6",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2-dublado"
+              }
+            ]
           },
           {
             "title": "Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su 2",
@@ -78487,7 +78499,7 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/06/9yfMi1XzTFnRUVjrGNMZPqmtXpx-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animeplay",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -79124,7 +79136,7 @@
         "page": 30,
         "hasMore": true,
         "total": 1680,
-        "cachedAt": 1784800420755,
+        "cachedAt": 1784814878774,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -79171,7 +79183,7 @@
           "fixHint": null
         }
       },
-      "at": 1784800420831
+      "at": 1784814882741
     },
     "todos|31||48": {
       "data": {
@@ -79442,7 +79454,7 @@
         "page": 31,
         "hasMore": true
       },
-      "at": 1784800421762
+      "at": 1784814883855
     },
     "partner:anitube|todos|31||48": {
       "data": {
@@ -79597,7 +79609,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784786084306
+      "at": 1784814883588
     },
     "partner:animeplay|todos|31||48": {
       "data": {
@@ -79848,7 +79860,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784786085397
+      "at": 1784814884215
     },
     "todos|31||120": {
       "data": {
@@ -131863,5 +131875,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784814879221
+  "updatedAt": 1784814884215
 }
