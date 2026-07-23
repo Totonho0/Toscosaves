@@ -107186,7 +107186,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784814939770
+      "at": 1784843740506
     },
     "todos|46||120": {
       "data": {
@@ -107344,6 +107344,32 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              }
+            ]
+          },
+          {
+            "title": "D.Gray-man Hallow",
+            "slug": "d-gray-man-hallow",
+            "url": "https://animesonline.cloud/anime/d-gray-man-hallow",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/01/4TQvVtH1MTs7ZMvuEJ95lulaQGc-185x278.jpg",
+            "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "d-gray-man-hallow"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "d-gray-man-hallow"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "d-gray-man-hallow"
               }
             ]
           },
@@ -107844,11 +107870,10 @@
           {
             "title": "Akuma no Riddle",
             "slug": "akuma-no-riddle",
-            "url": "https://animesonline.cloud/anime/akuma-no-riddle",
+            "url": "https://animesdrive.online/anime/akuma-no-riddle",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/04/kxYkhoOzutECAXQrwkjv9BOy7Q9-185x278.jpg",
-            "rating": "7.9",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -107927,7 +107952,19 @@
             "url": "https://www.anitube.zip/video/937390/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dragon-ball-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "937390"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-dublado"
+              }
+            ]
           },
           {
             "title": "Dragon Ball GT – (Legendado)",
@@ -108055,8 +108092,8 @@
         "category": "todos",
         "page": 46,
         "hasMore": true,
-        "total": 1680,
-        "cachedAt": 1784814937863,
+        "total": 1681,
+        "cachedAt": 1784843738337,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -108103,7 +108140,7 @@
           "fixHint": null
         }
       },
-      "at": 1784814940187
+      "at": 1784843740926
     },
     "partner:anitube|todos|47||48": {
       "data": {
@@ -108258,7 +108295,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784814940543
+      "at": 1784843741268
     },
     "todos|47||48": {
       "data": {
@@ -108314,6 +108351,15 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Akuma no Riddle",
+            "slug": "akuma-no-riddle",
+            "url": "https://animesonline.cloud/anime/akuma-no-riddle",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/kxYkhoOzutECAXQrwkjv9BOy7Q9-185x278.jpg",
+            "rating": "7.9",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -108469,22 +108515,13 @@
             "rating": "7.899",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Monogatari Nisemonogatari",
-            "slug": "monogatari-nisemonogatari",
-            "url": "https://animesonline.cloud/anime/monogatari-nisemonogatari",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/7YCwUUXyMvuLyPcZDe2KIu4qXLo-185x278.jpg",
-            "rating": "8.2",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 47,
         "hasMore": true
       },
-      "at": 1784814941103
+      "at": 1784843741844
     },
     "partner:animeplay|todos|47||48": {
       "data": {
@@ -108687,7 +108724,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784814941562
+      "at": 1784843742095
     },
     "partner:animesdrive|todos|47||48": {
       "data": {
@@ -131612,5 +131649,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784843738580
+  "updatedAt": 1784843742095
 }
