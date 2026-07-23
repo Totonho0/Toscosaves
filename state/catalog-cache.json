@@ -19167,6 +19167,32 @@
       "data": {
         "items": [
           {
+            "title": "Guerreiro Dimensional Spielvan",
+            "slug": "guerreiro-dimensional-spielvan",
+            "url": "https://animesonline.cloud/anime/guerreiro-dimensional-spielvan",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/07/nwXD7wnRsPQN3E7f5Qt1FuFyGOo-185x278.jpg",
+            "rating": "9.2",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "guerreiro-dimensional-spielvan"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "guerreiro-dimensional-spielvan"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "guerreiro-dimensional-spielvan"
+              }
+            ]
+          },
+          {
             "title": "Guild no Uketsukejou desu ga Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu",
             "slug": "guild-no-uketsukejou-desu-ga-zangyou-wa-iya-nanode-boss-wo-solo-toubatsu-shiyou-to-omoimasu",
             "url": "https://animesonline.cloud/anime/guild-no-uketsukejou-desu-ga-zangyou-wa-iya-nanode-boss-wo-solo-toubatsu-shiyou-to-omoimasu",
@@ -19964,22 +19990,13 @@
                 "slug": "hokkaido-gals-are-super-adorable"
               }
             ]
-          },
-          {
-            "title": "Hokuto no Ken: Fist of the North Star",
-            "slug": "fist-of-the-north-star-hokuto-no-ken",
-            "url": "https://animesonline.cloud/anime/fist-of-the-north-star-hokuto-no-ken",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/8SRwvqBl3yzhy6PwvZVXy1A14rd-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "8.6"
           }
         ],
         "category": "todos",
         "page": 19,
         "hasMore": true,
-        "total": 1680,
-        "cachedAt": 1784829211321,
+        "total": 1681,
+        "cachedAt": 1784843646304,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -20026,7 +20043,7 @@
           "fixHint": null
         }
       },
-      "at": 1784829211414
+      "at": 1784843648249
     },
     "todos|20||120": {
       "data": {
@@ -60019,7 +60036,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784814846764
+      "at": 1784843648182
     },
     "partner:anitube|todos|20||48": {
       "data": {
@@ -60174,7 +60191,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784814847155
+      "at": 1784843648596
     },
     "todos|20||48": {
       "data": {
@@ -60230,6 +60247,15 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tougen Anki Dublado",
+            "slug": "tougen-anki-dublado",
+            "url": "https://animesonline.cloud/anime/tougen-anki-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/aVG8MTcg6MdTPlbs3S5w5L2enSI-185x278.jpg",
+            "rating": "0",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -60439,22 +60465,13 @@
             "rating": "7.16",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Ruri no Houseki",
-            "slug": "ruri-no-houseki",
-            "url": "https://animesonline.cloud/anime/ruri-no-houseki",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/6uOEjCO4Zl4up30zWGjsO2nXeWV-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 20,
         "hasMore": true
       },
-      "at": 1784829212406
+      "at": 1784843649201
     },
     "partner:animeplay|todos|20||48": {
       "data": {
@@ -60705,7 +60722,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784814848132
+      "at": 1784843649473
     },
     "partner:animesdrive|todos|20||48": {
       "data": {
@@ -131608,5 +131625,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784843646567
+  "updatedAt": 1784843649473
 }
