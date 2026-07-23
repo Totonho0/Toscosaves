@@ -63866,7 +63866,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784786056925
+      "at": 1784814855455
     },
     "todos|22||120": {
       "data": {
@@ -63878,7 +63878,24 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/06/150344-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "rating": "0"
+            "rating": "0",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kaijuu-8-gou-2nd-season-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kaijuu-8-gou-2nd-season-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kaijuu-8-gou-2nd-season-dublado"
+              }
+            ]
           },
           {
             "title": "Kakkou no Iinazuke",
@@ -64398,7 +64415,7 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/05/6x7mx9f3ufHCC3pNgMoMnzVo3jw-185x278.jpg",
             "rating": "8.1",
             "kind": "anime",
-            "provider": "animeplay",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -64669,7 +64686,7 @@
         "page": 22,
         "hasMore": true,
         "total": 1680,
-        "cachedAt": 1784800413030,
+        "cachedAt": 1784814853480,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -64716,7 +64733,7 @@
           "fixHint": null
         }
       },
-      "at": 1784800413110
+      "at": 1784814855549
     },
     "partner:anitube|todos|23||48": {
       "data": {
@@ -64871,7 +64888,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784786057330
+      "at": 1784814855894
     },
     "todos|23||48": {
       "data": {
@@ -65151,7 +65168,7 @@
         "page": 23,
         "hasMore": true
       },
-      "at": 1784800414009
+      "at": 1784814856473
     },
     "partner:animeplay|todos|23||48": {
       "data": {
@@ -65394,7 +65411,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784786058285
+      "at": 1784814856769
     },
     "partner:animesdrive|todos|23||48": {
       "data": {
@@ -131812,5 +131829,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784814853834
+  "updatedAt": 1784814856769
 }
