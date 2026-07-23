@@ -21676,7 +21676,7 @@
         "page": 1,
         "hasMore": true,
         "total": 121,
-        "cachedAt": 1784786155611,
+        "cachedAt": 1784814956387,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -21723,7 +21723,7 @@
           "fixHint": null
         }
       },
-      "at": 1784786156873
+      "at": 1784814957611
     },
     "legendado|2||120": {
       "data": {
@@ -22533,7 +22533,7 @@
         "page": 2,
         "hasMore": true,
         "total": 121,
-        "cachedAt": 1784786157836,
+        "cachedAt": 1784814958548,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -22580,7 +22580,7 @@
           "fixHint": null
         }
       },
-      "at": 1784786158843
+      "at": 1784814959605
     },
     "legendado|3||120": {
       "data": {
@@ -23121,6 +23121,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "tetsunabe-no-jan"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
                 "slug": "youjo-senki-ii"
               },
               {
@@ -23246,7 +23251,7 @@
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "tetsunabe-no-jan"
+                "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha"
               },
               {
                 "server": 2,
@@ -23744,6 +23749,11 @@
                 "server": 1,
                 "provider": "aoc",
                 "slug": "tetsunabe-no-jan"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha"
               },
               {
                 "server": 2,
@@ -24356,15 +24366,6 @@
             "audioHint": "leg"
           },
           {
-            "title": "Koukaku Kidouta",
-            "slug": "koukaku-kidouta",
-            "url": "https://animeplay.cloud/anime/koukaku-kidouta",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "audioHint": "leg"
-          },
-          {
             "title": "Aa! Megami-sama !: Chichaitte Koto wa Benri da ne (Legendado)",
             "slug": "882691",
             "url": "https://www.anitube.zip/video/882691/",
@@ -24387,13 +24388,21 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/Abarenbou-Kishi-Matsutarou.jpg",
             "kind": "anime",
             "provider": "anitube"
+          },
+          {
+            "title": "Abenobashi Mahou Shoutengai – (Legendado)",
+            "slug": "67331",
+            "url": "https://www.anitube.zip/video/67331/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Abenobashi-Mahou-Shoutengai.jpg",
+            "kind": "anime",
+            "provider": "anitube"
           }
         ],
         "category": "legendado",
         "page": 3,
         "hasMore": true,
         "total": 121,
-        "cachedAt": 1784786159717,
+        "cachedAt": 1784814960522,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -24440,7 +24449,7 @@
           "fixHint": null
         }
       },
-      "at": 1784786160886
+      "at": 1784814961616
     },
     "dublado|1||120": {
       "data": {
@@ -24472,6 +24481,15 @@
             ]
           },
           {
+            "title": "Akame ga Kill! Dublado",
+            "slug": "akame-ga-kill-dublado",
+            "url": "https://animesonline.cloud/anime/akame-ga-kill-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/o4SxTlar1YGsKNhBzCxKYDeAPhb-185x278.jpg",
+            "rating": "8.286",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Akane-banashi Dublado",
             "slug": "akane-banashi-dublado",
             "url": "https://animesonline.cloud/anime/akane-banashi-dublado",
@@ -24500,16 +24518,36 @@
           {
             "title": "Akujiki Reijou to Kyouketsu Koushaku Dublado",
             "slug": "akujiki-reijou-to-kyouketsu-koushaku-dublado",
-            "url": "https://animeplay.cloud/anime/akujiki-reijou-to-kyouketsu-koushaku-dublado",
+            "url": "https://animesonline.cloud/anime/akujiki-reijou-to-kyouketsu-koushaku-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/6E1hsfFlwWr14yxfgmt9Lt7Gjw9-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "rating": "7.1"
           },
           {
             "title": "Alma-chan wa Kazoku ni Naritai Dublado",
             "slug": "alma-chan-wa-kazoku-ni-naritai-dublado",
-            "url": "https://animeplay.cloud/anime/alma-chan-wa-kazoku-ni-naritai-dublado",
+            "url": "https://animesonline.cloud/anime/alma-chan-wa-kazoku-ni-naritai-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/sal3tEwQCv1Eh9PSMZbMpg8MUqe-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "0"
+          },
+          {
+            "title": "Anne Shirley Dublado",
+            "slug": "anne-shirley-dublado",
+            "url": "https://animesonline.cloud/anime/anne-shirley-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/vYbTMSAwn5YWIbemHhe2jH2iD2h-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Ao Ashi Dublado",
+            "slug": "ao-ashi-dublado",
+            "url": "https://animesonline.cloud/anime/ao-ashi-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/gmLYJPrOApnCANeKIQczu841krp-185x278.jpg",
+            "rating": "7.6",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -24562,6 +24600,32 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "baki-dou-o-samurai-invencivel-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Beastars 3 Dublado",
+            "slug": "beastars-3-dublado",
+            "url": "https://animesonline.cloud/anime/beastars-3-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/jFADWcOQyBuxgSvOJEp5uCnyIXR-185x278.jpg",
+            "rating": "8.477",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "beastars-3-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "beastars-3-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "beastars-3-dublado"
               }
             ]
           },
@@ -24695,10 +24759,47 @@
             ]
           },
           {
+            "title": "Blue Lock 2 Dublado",
+            "slug": "blue-lock-2-dublado",
+            "url": "https://animesonline.cloud/anime/blue-lock-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/kDtcjC5RDMyEFnq5OlbQoLAG22J-185x278.jpg",
+            "rating": "8.045",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Boku no Hero Academia: Final Season Dublado",
             "slug": "boku-no-hero-academia-final-season-dublado",
-            "url": "https://animeplay.cloud/anime/boku-no-hero-academia-final-season-dublado",
+            "url": "https://animesonline.cloud/anime/boku-no-hero-academia-final-season-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/myxWINN4lV2YRtb3DcCi7UFn6C5-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "8.651"
+          },
+          {
+            "title": "Bullet/Bullet Dublado",
+            "slug": "bullet-bullet-dublado",
+            "url": "https://animesonline.cloud/anime/bullet-bullet-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/rA2U4DTb6woaI0ExjCusjx2LMQY-185x278.jpg",
+            "rating": "6.48",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Bye Bye, Earth 2 Dublado",
+            "slug": "bye-bye-earth-2-dublado",
+            "url": "https://animesonline.cloud/anime/bye-bye-earth-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/hBsy7irEeiSNRYuNopi2c7qdD4q-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Cat’s Eye Dublado",
+            "slug": "cats-eye-dublado",
+            "url": "https://animesonline.cloud/anime/cats-eye-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/09/pIHLz3KfZYdc4oGTw5AHHfo7pSb-185x278.jpg",
+            "rating": "0",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -24729,6 +24830,24 @@
             ]
           },
           {
+            "title": "Chiyu Mahou no Machigatta Tsukaikata Dublado",
+            "slug": "chiyu-mahou-no-machigatta-tsukaikata-dublado",
+            "url": "https://animesonline.cloud/anime/chiyu-mahou-no-machigatta-tsukaikata-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/09/5yGNrE3vuKb1vRrOoFIvja32Oho-185x278.jpg",
+            "rating": "7.2",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "City The Animation Dublado",
+            "slug": "city-the-animation-dublado",
+            "url": "https://animesonline.cloud/anime/city-the-animation-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/iF1lDNPZtqqUk200IBFnOe4K26m-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou Dublado",
             "slug": "clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou-dublado",
             "url": "https://animesonline.cloud/anime/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou-dublado",
@@ -24753,6 +24872,24 @@
                 "slug": "clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou-dublado"
               }
             ]
+          },
+          {
+            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha Dublado",
+            "slug": "clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado",
+            "url": "https://animesonline.cloud/anime/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/tJCR0g2EvVQ8V0laox1HB7Up9DS-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Dan Da Dan 2 Dublado",
+            "slug": "dan-da-dan-2-dublado",
+            "url": "https://animesonline.cloud/anime/dan-da-dan-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/06/gqjtEBkTnqgzh1oKFNR5Rh2cD2K-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
           },
           {
             "title": "Dandelion Dublado",
@@ -24812,6 +24949,37 @@
             ]
           },
           {
+            "title": "Devil May Cry (2025) Dublado",
+            "slug": "devil-may-cry-2025-dublado",
+            "url": "https://animesonline.cloud/anime/devil-may-cry-2025-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/40vvPZ1177Ipi6bkh00Wn2vSosI-185x278.jpg",
+            "rating": "8.3",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "devil-may-cry-2025-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1001139"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "devil-may-cry-2025-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "devil-may-cry-2025-dublado"
+              }
+            ]
+          },
+          {
             "title": "Devil May Cry 2 (2026) Dublado",
             "slug": "devil-may-cry-2026-dublado",
             "url": "https://animesonline.cloud/anime/devil-may-cry-2026-dublado",
@@ -24859,6 +25027,16 @@
             ]
           },
           {
+            "title": "Doraemon: O Gato do Futuro",
+            "slug": "doraemon-o-gato-do-futuro",
+            "url": "https://animesonline.cloud/anime/doraemon-o-gato-do-futuro",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/06/j8pbx2pjSMAEEs7TiPp8bOZEtpg-185x278.jpg",
+            "rating": "8.1",
+            "kind": "anime",
+            "provider": "aoc",
+            "audioHint": "dub"
+          },
+          {
             "title": "Dorohedoro 2 Dublado",
             "slug": "dorohedoro-2-dublado",
             "url": "https://animesonline.cloud/anime/dorohedoro-2-dublado",
@@ -24883,6 +25061,15 @@
                 "slug": "dorohedoro-2-dublado"
               }
             ]
+          },
+          {
+            "title": "Dr. Stone: Science Future 2 Dublado",
+            "slug": "dr-stone-science-future-2-dublado",
+            "url": "https://animesonline.cloud/anime/dr-stone-science-future-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/2C7lHKeWY7k1qEtTKecUHuqKv1X-185x278.jpg",
+            "rating": "8.564",
+            "kind": "anime",
+            "provider": "aoc"
           },
           {
             "title": "Dr. Stone: Science Future 3 Dublado",
@@ -24911,12 +25098,39 @@
             ]
           },
           {
+            "title": "Dr. Stone: Science Future Dublado",
+            "slug": "dr-stone-science-future-dublado",
+            "url": "https://animesonline.cloud/anime/dr-stone-science-future-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/g7LwQqNFmxoxrdVKBHk18z6iv0p-185x278.jpg",
+            "rating": "8.564",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dr-stone-science-future-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "998440"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "dr-stone-science-future-dublado"
+              }
+            ]
+          },
+          {
             "title": "Dragon Ball Daima Dublado",
             "slug": "dragon-ball-daima-dublado",
-            "url": "https://animesdigital.org/anime/a/dragon-ball-daima-dublado-todos-os-episodios",
+            "url": "https://animesonline.cloud/anime/dragon-ball-daima-dublado",
             "poster": "https://animesdigital.org/wp-content/uploads/2025/04/Dragon-Ball-Daima-dublado.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "rating": "7,65"
           },
           {
             "title": "Dragon Ball GT Dublado",
@@ -25033,262 +25247,45 @@
             "provider": "aoc"
           },
           {
+            "title": "Enen no Shouboutai Dublado",
+            "slug": "enen-no-shouboutai-dublado",
+            "url": "https://animesonline.cloud/anime/enen-no-shouboutai-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/fnBYLpKvbnyV4wkr7NcVmMlFAlX-185x278.jpg",
+            "rating": "8.4",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "enen-no-shouboutai-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "enen-no-shouboutai-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "enen-no-shouboutai-dublado"
+              }
+            ]
+          },
+          {
             "title": "Enen no Shouboutai: Ni no Shou (Fire Force 2) Dublado",
             "slug": "enen-no-shouboutai-ni-no-shou-fire-force-2-dublado",
             "url": "https://animesdigital.org/anime/a/enen-no-shouboutai-ni-no-shou-fire-force-2-dublado",
             "poster": "https://animesdigital.org/wp-content/uploads/2025/04/assistir-enen-no-shouboutai-ni-no-shou-fire-force-2-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Enen no Shouboutai: San no Shou (Fire Force 3) Dublado",
-            "slug": "enen-no-shouboutai-san-no-shou-fire-force-3-dublado",
-            "url": "https://animesdigital.org/anime/a/enen-no-shouboutai-san-no-shou-fire-force-3-dublado",
-            "poster": "https://animesdigital.org/wp-content/uploads/2025/04/assistir-enen-no-shouboutai-san-no-shou-fire-force-3-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Enen no Shouboutai: San no Shou Part 2 (Fire Force 3 Part 2) Dublado",
-            "slug": "fire-force-3-part-2-dublado",
-            "url": "https://animesdigital.org/anime/a/fire-force-3-part-2-dublado",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/01/Enen-no-Shouboutai-3-pt2-dublado.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Enen no Shouboutai: San no Shou Part 2 Dublado",
-            "slug": "enen-no-shouboutai-san-no-shou-part-2-dublado",
-            "url": "https://animesonline.cloud/anime/enen-no-shouboutai-san-no-shou-part-2-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/2WpTHDXOfBw8pM9cbicfLbCIM6q-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "8.4",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "enen-no-shouboutai-san-no-shou-part-2-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "enen-no-shouboutai-san-no-shou-part-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "enen-no-shouboutai-san-no-shou-part-2-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Excel Saga Dublado",
-            "slug": "excel-saga-dublado",
-            "url": "https://animesdigital.org/anime/a/excel-saga-dublado",
-            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-excel-saga-dublado-dublado-todos-os-episodios-online-animesdigital-212x300.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Fairy Tail Dublado",
-            "slug": "fairy-tail-2",
-            "url": "https://animesdigital.org/anime/a/fairy-tail-2",
-            "poster": "https://animesdigital.org/wp-content/uploads/2022/06/assistir-fairy-tail-dublado-todos-os-episodios-online-animes-online.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Fruits Basket (2019) Dublado",
-            "slug": "fruits-basket-2019-dublado",
-            "url": "https://animesdigital.org/anime/a/fruits-basket-2019-dublado",
-            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-fruits-basket-2019-dublado-dublado-todos-os-episodios-online-animesdigital.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Fruits Basket: The Final Dublado",
-            "slug": "fruits-basket-the-final-2",
-            "url": "https://animesdigital.org/anime/a/fruits-basket-the-final-2",
-            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-fruits-basket-the-final-dublado-todos-os-episodios-online-animesdigital.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Fullmetal Alchemist Brotherhood Dublado",
-            "slug": "fullmetal-alchemist-brotherhood",
-            "url": "https://animesdigital.org/anime/a/fullmetal-alchemist-brotherhood",
-            "poster": "https://animesdigital.org/wp-content/uploads/2021/12/assistir-fullmetal-alchemist-brotherhood-dublado-todos-os-episodios-online-animes-online.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "fullmetal-alchemist-brotherhood"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "fullmetal-alchemist-brotherhood"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "fullmetal-alchemist-brotherhood"
-              }
-            ]
-          },
-          {
-            "title": "Fullmetal Alchemist Dublado",
-            "slug": "fullmetal-alchemist-dublado",
-            "url": "https://animesdigital.org/anime/a/fullmetal-alchemist-dublado",
-            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-fullmetal-alchemist-dublado-dublado-todos-os-episodios-online-animesdigital.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Fumetsu no Anata e 2nd Season Dublado",
-            "slug": "fumetsu-no-anata-e-2nd-season",
-            "url": "https://animesdigital.org/anime/a/fumetsu-no-anata-e-2nd-season",
-            "poster": "https://animesdigital.org/wp-content/uploads/2023/02/Fumetsu-no-Anata-e-2.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Fumetsu no Anata e 3 Dublado",
-            "slug": "fumetsu-no-anata-e-3-dublado",
-            "url": "https://animeplay.cloud/anime/fumetsu-no-anata-e-3-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/cd0YbgKvqi62ghhOwTIOUtjlXSy-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Fumetsu no Anata e Dublado",
-            "slug": "fumetsu-no-anata-e-2",
-            "url": "https://animesdigital.org/anime/a/fumetsu-no-anata-e-2",
-            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-fumetsu-no-anata-e-dublado-todos-os-episodios-online-animesdigital.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Fumetsu no Anata e Season 3 Dublado",
-            "slug": "fumetsu-no-anata-e-season-3-dublado",
-            "url": "https://animesdigital.org/anime/a/fumetsu-no-anata-e-season-3-dublado",
-            "poster": "https://animesdigital.org/wp-content/uploads/2025/10/Fumetsu-no-Anata-e-Season-3-Dublado.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Ganbare! Nakamura-kun!! Dublado",
-            "slug": "ganbare-nakamura-kun-dublado",
-            "url": "https://animesonline.cloud/anime/ganbare-nakamura-kun-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/gS6cT23gqSEIGzycxyMry5bSc4e-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "0",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "ganbare-nakamura-kun-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "ganbare-nakamura-kun-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "ganbare-nakamura-kun-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Gnosia Dublado",
-            "slug": "gnosia-dublado",
-            "url": "https://animesonline.cloud/anime/gnosia-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/zmQPDO6RdidMg7Y95s8I62SbKxK-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "8.1",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "gnosia-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "gnosia-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "gnosia-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Haikyuu!! Dublado",
-            "slug": "haikyuu-dublado",
-            "url": "https://animesonline.cloud/anime/haikyuu-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/05/sfrmkzwoHCnla2Tmgui3B5FFB4S-185x278.jpg",
-            "rating": "8.607",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "haikyuu-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "haikyuu-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "haikyuu-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Haikyuu!! Second Season Dublado",
-            "slug": "haikyuu-second-season-dublado",
-            "url": "https://animesonline.cloud/anime/haikyuu-second-season-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/wkQX0xwqXTtOtMXfwCf1Ad1ZfCv-185x278.jpg",
-            "rating": "8.607",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "haikyuu-second-season-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "haikyuu-second-season-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "haikyuu-second-season-dublado"
-              }
-            ]
           }
         ],
         "category": "dublado",
         "page": 1,
         "hasMore": true,
-        "total": 109,
-        "cachedAt": 1784786161328,
+        "total": 189,
+        "cachedAt": 1784814962054,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -25335,11 +25332,169 @@
           "fixHint": null
         }
       },
-      "at": 1784786162929
+      "at": 1784814963556
     },
     "dublado|2||120": {
       "data": {
         "items": [
+          {
+            "title": "Enen no Shouboutai: San no Shou (Fire Force 3) Dublado",
+            "slug": "enen-no-shouboutai-san-no-shou-fire-force-3-dublado",
+            "url": "https://animesdigital.org/anime/a/enen-no-shouboutai-san-no-shou-fire-force-3-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2025/04/assistir-enen-no-shouboutai-san-no-shou-fire-force-3-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Enen no Shouboutai: San no Shou Part 2 Dublado",
+            "slug": "enen-no-shouboutai-san-no-shou-part-2-dublado",
+            "url": "https://animesonline.cloud/anime/enen-no-shouboutai-san-no-shou-part-2-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/2WpTHDXOfBw8pM9cbicfLbCIM6q-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "enen-no-shouboutai-san-no-shou-part-2-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "enen-no-shouboutai-san-no-shou-part-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "enen-no-shouboutai-san-no-shou-part-2-dublado"
+              }
+            ],
+            "rating": "8.4"
+          },
+          {
+            "title": "Fruits Basket (2019) Dublado",
+            "slug": "fruits-basket-2019-dublado",
+            "url": "https://animesonline.cloud/anime/fruits-basket-2019-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/wqgCfhDsmDu1hvxJpDiGtGwKlWF-185x278.jpg",
+            "rating": "7.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Fruits Basket: The Final Dublado",
+            "slug": "fruits-basket-the-final-dublado",
+            "url": "https://animesonline.cloud/anime/fruits-basket-the-final-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/ymUm25ipczUKswRRMe8DuEs1MXh-185x278.jpg",
+            "rating": "7.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Fumetsu no Anata e 3 Dublado",
+            "slug": "fumetsu-no-anata-e-3-dublado",
+            "url": "https://animesonline.cloud/anime/fumetsu-no-anata-e-3-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/cd0YbgKvqi62ghhOwTIOUtjlXSy-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "8.2"
+          },
+          {
+            "title": "Futari Solo Camp Dublado",
+            "slug": "futari-solo-camp-dublado",
+            "url": "https://animesonline.cloud/anime/futari-solo-camp-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/gP7rdhoejxIwZUzB6vpnlsQsdOB-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Gachiakuta Dublado",
+            "slug": "gachiakuta-dublado",
+            "url": "https://animesonline.cloud/anime/gachiakuta-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/RxuL7KuFoOzHC0htjtLGxJEGGx-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Ganbare! Nakamura-kun!! Dublado",
+            "slug": "ganbare-nakamura-kun-dublado",
+            "url": "https://animesonline.cloud/anime/ganbare-nakamura-kun-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/gS6cT23gqSEIGzycxyMry5bSc4e-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "0",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ganbare-nakamura-kun-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "ganbare-nakamura-kun-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ganbare-nakamura-kun-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Gnosia Dublado",
+            "slug": "gnosia-dublado",
+            "url": "https://animesonline.cloud/anime/gnosia-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/zmQPDO6RdidMg7Y95s8I62SbKxK-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "gnosia-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "gnosia-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "gnosia-dublado"
+              }
+            ],
+            "rating": "8.1"
+          },
+          {
+            "title": "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru Dublado",
+            "slug": "gorilla-no-kami-kara-kago-sareta-reijou-wa-ouritsu-kishidan-de-kawaigarareru-dublado",
+            "url": "https://animesonline.cloud/anime/gorilla-no-kami-kara-kago-sareta-reijou-wa-ouritsu-kishidan-de-kawaigarareru-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/cF9GmQqzWpEVNC6du04lOvBJCWH-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Haikyuu!! Dublado",
+            "slug": "haikyuu-dublado",
+            "url": "https://animesonline.cloud/anime/haikyuu-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/sfrmkzwoHCnla2Tmgui3B5FFB4S-185x278.jpg",
+            "rating": "8.607",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Haikyuu!! Second Season Dublado",
+            "slug": "haikyuu-second-season-dublado",
+            "url": "https://animesonline.cloud/anime/haikyuu-second-season-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/wkQX0xwqXTtOtMXfwCf1Ad1ZfCv-185x278.jpg",
+            "rating": "8.607",
+            "kind": "anime",
+            "provider": "aoc"
+          },
           {
             "title": "Hanazakari no Kimitachi e Dublado",
             "slug": "hanazakari-no-kimitachi-e-dublado",
@@ -25419,6 +25574,67 @@
             "rating": "8.6"
           },
           {
+            "title": "InuYasha (2000) Dublado",
+            "slug": "inuyasha-2000-dublado",
+            "url": "https://animesonline.cloud/anime/inuyasha-2000-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/09/2rMhymma9FSf8qhJc54muJAgwaz-185x278.jpg",
+            "rating": "9.2",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Invencível 2 Dublado",
+            "slug": "invencivel-2-dublado",
+            "url": "https://animesonline.cloud/anime/invencivel-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/02/nraGpWMtDFAoXqTjVw5CQB8NBJ4-185x278.jpg",
+            "rating": "8.6",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "invencivel-2-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "invencivel-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "invencivel-2-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Invencível 3 Dublado",
+            "slug": "invencivel-3-dublado",
+            "url": "https://animesonline.cloud/anime/invencivel-3-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/02/jBn4LWlgdsf6xIUYhYBwpctBVsj-185x278.jpg",
+            "rating": "8.6",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "invencivel-3-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "invencivel-3-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "invencivel-3-dublado"
+              }
+            ]
+          },
+          {
             "title": "Invencível 4 Dublado",
             "slug": "invencivel-4-dublado",
             "url": "https://animesonline.cloud/anime/invencivel-4-dublado",
@@ -25443,6 +25659,68 @@
               }
             ],
             "rating": "8.6"
+          },
+          {
+            "title": "Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru Dublado",
+            "slug": "isshun-de-chiryou-shiteita-noni-yakutatazu-to-tsuihou-sareta-tensai-chiyushi-yami-healer-toshite-tanoshiku-ikiru-dublado",
+            "url": "https://animesonline.cloud/anime/isshun-de-chiryou-shiteita-noni-yakutatazu-to-tsuihou-sareta-tensai-chiyushi-yami-healer-toshite-tanoshiku-ikiru-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/r87Uv7ESFlB4do3Ze43u3il7cGG-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Izure Saikyou no Renkinjutsushi? Dublado",
+            "slug": "izure-saikyou-no-renkinjutsushi-2-dublado",
+            "url": "https://animesonline.cloud/anime/izure-saikyou-no-renkinjutsushi-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/qfdzcGkQ0j1YEYBO7XZctlFz6FY-185x278.jpg",
+            "rating": "10",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Jibaku Shounen Hanako-kun 2 Dublado",
+            "slug": "jibaku-shounen-hanako-kun-2-dublado",
+            "url": "https://animesonline.cloud/anime/jibaku-shounen-hanako-kun-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/02/gyNwB3jRunvzwaRO9XwVeva9GSj-185x278.jpg",
+            "rating": "8.6",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "jibaku-shounen-hanako-kun-2-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "jibaku-shounen-hanako-kun-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "jibaku-shounen-hanako-kun-2-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Jibaku Shounen Hanako-kun 2 Part 2 Dublado",
+            "slug": "jibaku-shounen-hanako-kun-2-part-2-dublado",
+            "url": "https://animesonline.cloud/anime/jibaku-shounen-hanako-kun-2-part-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/g7arUubV7fNq38SPjmzQkv2hf9s-185x278.jpg",
+            "rating": "8.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2 Dublado",
+            "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2-dublado",
+            "url": "https://animesonline.cloud/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/3Z7T9LxxCC6AhhWUxJsShtV3dXM-185x278.jpg",
+            "rating": "6.8",
+            "kind": "anime",
+            "provider": "aoc"
           },
           {
             "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season Dublado",
@@ -25495,6 +25773,51 @@
                 "slug": "jigokuraku-2-dublado"
               }
             ]
+          },
+          {
+            "title": "JoJo no Kimyou na Bouken Dublado (2012)",
+            "slug": "jojo-no-kimyou-na-bouken-dublado-2012",
+            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-dublado-2012",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/okoCuLlbLBUwj4BBWYat3XErP75-185x278.jpg",
+            "rating": "8.569",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders Dublado",
+            "slug": "jojo-no-kimyou-na-bouken-part-3-stardust-crusaders-dublado",
+            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-part-3-stardust-crusaders-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/f3drdFytkB4WzEbwu63lgFl29Ym-185x278.jpg",
+            "rating": "8.569",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai Dublado",
+            "slug": "jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai-dublado",
+            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/uOo7gxGJHQtTHxtaqnx4PILUsre-185x278.jpg",
+            "rating": "8.569",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze Dublado",
+            "slug": "jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze-dublado",
+            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/iP17LLR2okmDSVfuOHiq7CuH3om-185x278.jpg",
+            "rating": "8.569",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2 Dublado",
+            "slug": "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2-dublado",
+            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/ddND31kXTAlBdDQYbUEQJgswcig-185x278.jpg",
+            "rating": "8.569",
+            "kind": "anime",
+            "provider": "aoc"
           },
           {
             "title": "Jujutsu Kaisen 2 Dublado",
@@ -25584,6 +25907,33 @@
             "provider": "aoc"
           },
           {
+            "title": "Kaijuu 8-gou 2nd Season Dublado",
+            "slug": "kaijuu-8-gou-2nd-season-dublado",
+            "url": "https://animesonline.cloud/anime/kaijuu-8-gou-2nd-season-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/06/150344-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kakkou no Iinazuke 2 Dublado",
+            "slug": "kakkou-no-iinazuke-2-dublado",
+            "url": "https://animesonline.cloud/anime/kakkou-no-iinazuke-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/rM44B7aike8mV4eJaE6ekKrCnQS-185x278.jpg",
+            "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kanojo Okarishimasu 4th Season Dublado",
+            "slug": "kanojo-okarishimasu-4th-season-dublado",
+            "url": "https://animesonline.cloud/anime/kanojo-okarishimasu-4th-season-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/ie6ErCiZeFrJGswmtVuFbRneXC1-185x278.jpg",
+            "rating": "6.22",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Kanojo Okarishimasu 5th Season Dublado",
             "slug": "kanojo-okarishimasu-5th-season-dublado",
             "url": "https://animesonline.cloud/anime/kanojo-okarishimasu-5th-season-dublado",
@@ -25591,6 +25941,41 @@
             "rating": "8.4",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "Kaoru Hana wa Rin to Saku Dublado",
+            "slug": "kaoru-hana-wa-rin-to-saku-dublado",
+            "url": "https://animesonline.cloud/anime/kaoru-hana-wa-rin-to-saku-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/06/khxkciCkPVG1c7R00vNZFxqgqFE-185x278.jpg",
+            "rating": "8.86",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Katainaka no Ossan, Kensei ni Naru Dublado",
+            "slug": "katainaka-no-ossan-kensei-ni-naru-dublado",
+            "url": "https://animesonline.cloud/anime/katainaka-no-ossan-kensei-ni-naru-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/27ruKnVULs2xgpobmzvfvA0LHC8-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "katainaka-no-ossan-kensei-ni-naru-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "katainaka-no-ossan-kensei-ni-naru-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "katainaka-no-ossan-kensei-ni-naru-dublado"
+              }
+            ]
           },
           {
             "title": "Katainaka no Ossan, Kensei ni Naru II Dublado",
@@ -25604,10 +25989,11 @@
           {
             "title": "Kekkon Yubiwa Monogatari II Dublado",
             "slug": "kekkon-yubiwa-monogatari-ii-dublado",
-            "url": "https://animeplay.cloud/anime/kekkon-yubiwa-monogatari-ii-dublado",
+            "url": "https://animesonline.cloud/anime/kekkon-yubiwa-monogatari-ii-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/dd17YkjAmyycnIYuVBhqgN2ZipP-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "rating": "6.48"
           },
           {
             "title": "Kill Ao Dublado",
@@ -25697,59 +26083,158 @@
             "provider": "aoc"
           },
           {
-            "title": "Let’s Play Dublado",
-            "slug": "lets-play-dublado",
-            "url": "https://animeplay.cloud/anime/lets-play-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/ohEVj2YPIyIJxuT9uw6r4eDMD5Q-185x278.jpg",
+            "title": "Kuroshitsuji- Midori no Majo-hen Dublado",
+            "slug": "kuroshitsuji-midori-no-majo-hen-dublado",
+            "url": "https://animesonline.cloud/anime/kuroshitsuji-midori-no-majo-hen-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/05/4ZhsJ9BA2X6GTUkiMKV0xYgSmcx-185x278.jpg",
+            "rating": "7.6",
             "kind": "anime",
             "provider": "aoc"
+          }
+        ],
+        "category": "dublado",
+        "page": 2,
+        "hasMore": true,
+        "total": 180,
+        "cachedAt": 1784814964427,
+        "aocCircuitOpen": false,
+        "aocDegraded": false,
+        "catalogFromCache": false,
+        "aocReachable": true,
+        "aocCircuit": {
+          "open": false,
+          "openUntil": 0,
+          "cooldownMs": 90000,
+          "remainingMs": 0,
+          "streak": 0,
+          "bypass": true
+        },
+        "aocDegradedStatus": {
+          "slowMode": false,
+          "slowUntil": 0,
+          "timeoutStreak": 0
+        },
+        "aocReachability": {
+          "reachable": true,
+          "lastProbeAt": 1784728392070,
+          "lastProbeOk": true,
+          "cookieOnly": true
+        },
+        "cookieConfigured": true,
+        "proxyConfigured": false,
+        "bypassConfigured": true,
+        "isProd": true,
+        "datacenterRisk": false,
+        "authFailed": false,
+        "recentCatalog403": false,
+        "aocBlocked": false,
+        "blocking": false,
+        "fixHint": null,
+        "mediaAccess": {
+          "cookieConfigured": true,
+          "proxyConfigured": false,
+          "bypassConfigured": true,
+          "isProd": true,
+          "datacenterRisk": false,
+          "authFailed": false,
+          "recentCatalog403": false,
+          "aocBlocked": false,
+          "blocking": false,
+          "fixHint": null
+        }
+      },
+      "at": 1784814965601
+    },
+    "dublado|3||120": {
+      "data": {
+        "items": [
+          {
+            "title": "Kusuriya no Hitorigoto 2 Dublado",
+            "slug": "kusuriya-no-hitorigoto-2-dublado",
+            "url": "https://animesonline.cloud/anime/kusuriya-no-hitorigoto-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/02/jh8kS2uR93GCyeo25Lto4zqhrHZ-185x278.jpg",
+            "rating": "8.814",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kusuriya-no-hitorigoto-2-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kusuriya-no-hitorigoto-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kusuriya-no-hitorigoto-2-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Lazarus Dublado",
+            "slug": "lazarus-dublado",
+            "url": "https://animesonline.cloud/anime/lazarus-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/03/8ViqUWPWh6aPZGQA57FMRVmaXZ1-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Let’s Play Dublado",
+            "slug": "lets-play-dublado",
+            "url": "https://animesonline.cloud/anime/lets-play-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/ohEVj2YPIyIJxuT9uw6r4eDMD5Q-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "7.8"
+          },
+          {
+            "title": "Magic Maker: Isekai Mahou no Tsukurikata Dublado",
+            "slug": "magic-maker-isekai-mahou-no-tsukurikata-dublado",
+            "url": "https://animesonline.cloud/anime/magic-maker-isekai-mahou-no-tsukurikata-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/lXcADJ8Yxx7Bev1eiH0WEX6b1f9-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "magic-maker-isekai-mahou-no-tsukurikata-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "magic-maker-isekai-mahou-no-tsukurikata-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "magic-maker-isekai-mahou-no-tsukurikata-dublado"
+              }
+            ]
           },
           {
             "title": "Mairimashita! Iruma-kun 4 Dublado",
             "slug": "mairimashita-iruma-kun-4-dublado",
             "url": "https://animesonline.cloud/anime/mairimashita-iruma-kun-4-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/8TCA7dOBNtqBXloFtx5d1XYoG6d-185x278.jpg",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/8TCA7dOBNtqBXloFtx5d1XYoG6d-185x278.jpg",
+            "rating": "8.2",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "mairimashita-iruma-kun-4-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "mairimashita-iruma-kun-4-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "mairimashita-iruma-kun-4-dublado"
-              }
-            ],
-            "rating": "8.2"
+            "provider": "aoc"
           },
           {
             "title": "Marriagetoxin Dublado",
             "slug": "marriagetoxin-dublado",
             "url": "https://animesonline.cloud/anime/marriagetoxin-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/wXyOAIxNUFTEk9Mpj7Ca4jCibMf-185x278.jpg",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/wXyOAIxNUFTEk9Mpj7Ca4jCibMf-185x278.jpg",
             "rating": "7.5",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "marriagetoxin-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "marriagetoxin-dublado"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Medalist 2 Dublado",
@@ -25758,7 +26243,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/6ni0b30NBXsOK6cdE7ta3dHhDV4-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "rating": "8.1",
             "animeSources": [
               {
                 "server": 1,
@@ -25775,7 +26259,17 @@
                 "provider": "animeplay",
                 "slug": "medalist-2-dublado"
               }
-            ]
+            ],
+            "rating": "8.1"
+          },
+          {
+            "title": "Medalist Dublado",
+            "slug": "medalist-dublado",
+            "url": "https://animesonline.cloud/anime/medalist-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/sQO4uwGmmbGnEy1UdJYXSsdUNhI-185x278.jpg",
+            "rating": "8",
+            "kind": "anime",
+            "provider": "aoc"
           },
           {
             "title": "MF Ghost 3 Dublado",
@@ -25784,7 +26278,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/iFxKVNJ8EnhgyYyozwvrRjpkWxT-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "rating": "7.6",
             "animeSources": [
               {
                 "server": 1,
@@ -25801,7 +26294,17 @@
                 "provider": "animeplay",
                 "slug": "mf-ghost-3-dublado"
               }
-            ]
+            ],
+            "rating": "7.6"
+          },
+          {
+            "title": "Mono Dublado",
+            "slug": "mono-dublado",
+            "url": "https://animesonline.cloud/anime/mono-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/05/lXsY3KHZptNv7MhMrUYXWjamh7m-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
           },
           {
             "title": "My Hero Academia: Vigilantes 2 Dublado",
@@ -25810,7 +26313,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/5To7gr0PmuAvo31YLwb3EQpMlVy-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "rating": "7.12",
             "animeSources": [
               {
                 "server": 1,
@@ -25827,13 +26329,50 @@
                 "provider": "animeplay",
                 "slug": "my-hero-academia-vigilantes-2-dublado"
               }
-            ]
+            ],
+            "rating": "7.12"
+          },
+          {
+            "title": "My Hero Academia: Vigilantes Dublado",
+            "slug": "my-hero-academia-vigilantes-dublado",
+            "url": "https://animesonline.cloud/anime/my-hero-academia-vigilantes-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/fCq1z6zno12YvluB5ohVMijLKwj-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Naruto Shippuuden Dublado",
+            "slug": "naruto-shippuuden-dublado",
+            "url": "https://animesonline.cloud/anime/naruto-shippuuden-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/09/deEUrpqhTDhxkSbZHv81LPPjYwq-185x278.jpg",
+            "rating": "8.28",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Nazotoki wa Dinner no Ato de Dublado",
+            "slug": "nazotoki-wa-dinner-no-ato-de-dublado",
+            "url": "https://animesonline.cloud/anime/nazotoki-wa-dinner-no-ato-de-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/qKXBKzoU0Xe8gPHRqyx45AIxOuM-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
           },
           {
             "title": "Needy Girl Overdose Dublado",
             "slug": "needy-girl-overdose-dublado",
             "url": "https://animesonline.cloud/anime/needy-girl-overdose-dublado",
             "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/bC6by4FdWsjG3ZesalPHRwPykeR-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "New Panty & Stocking with Garterbelt Dublado",
+            "slug": "new-panty-stocking-with-garterbelt-dublado",
+            "url": "https://animesonline.cloud/anime/new-panty-stocking-with-garterbelt-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/aNI2q7s2all1sH5k7B5yGhBZdfr-185x278.jpg",
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
@@ -25848,38 +26387,31 @@
             "provider": "aoc"
           },
           {
-            "title": "Ninja vs. Gokudo Dublado",
-            "slug": "ninja-vs-gokudo-dublado",
-            "url": "https://animeplay.cloud/anime/ninja-vs-gokudo-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/cjFjvds8pnzFnB2acsHLL7LsNW1-185x278.jpg",
+            "title": "Ninja Kamui Dublado",
+            "slug": "ninja-kamui-dublado",
+            "url": "https://animesonline.cloud/anime/ninja-kamui-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/09/pXXtm245W878dNgEzO6kg8e3Kg9-185x278.jpg",
+            "rating": "8.74",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "Ninja vs. Gokudo Dublado",
+            "slug": "ninja-vs-gokudo-dublado",
+            "url": "https://animesonline.cloud/anime/ninja-vs-gokudo-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/cjFjvds8pnzFnB2acsHLL7LsNW1-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "7.5"
           },
           {
             "title": "NIPPON SANGOKU Dublado",
             "slug": "nippon-sangoku-dublado",
             "url": "https://animesonline.cloud/anime/nippon-sangoku-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/hjihUw4UPndUxklecJxz1qCbcjT-185x278.jpg",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/hjihUw4UPndUxklecJxz1qCbcjT-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "nippon-sangoku-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "nippon-sangoku-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "nippon-sangoku-dublado"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Niwatori Fighter Dublado",
@@ -25896,11 +26428,20 @@
                 "slug": "niwatori-fighter-dublado"
               },
               {
-                "server": 2,
-                "provider": "animesdrive",
+                "server": 3,
+                "provider": "animeplay",
                 "slug": "niwatori-fighter-dublado"
               }
             ]
+          },
+          {
+            "title": "Nyaight of the Living Cat Dublado",
+            "slug": "nyaight-of-the-living-cat-dublado",
+            "url": "https://animesonline.cloud/anime/nyaight-of-the-living-cat-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/8JGwsqHqdTUQ2z6BpVoI0XsuOQc-185x278.jpg",
+            "rating": "6.43",
+            "kind": "anime",
+            "provider": "aoc"
           },
           {
             "title": "Omae Gotoki ga Maou ni Kateru to Omouna to Yuusha Party wo Tsuihou sareta node Dublado",
@@ -25909,7 +26450,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/nH6Ch1q5rwdRs56bYTA9wuOhfbL-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "rating": "8.455",
             "animeSources": [
               {
                 "server": 1,
@@ -25926,7 +26466,17 @@
                 "provider": "animeplay",
                 "slug": "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado"
               }
-            ]
+            ],
+            "rating": "8.455"
+          },
+          {
+            "title": "One-Punch Man 2 Dublado",
+            "slug": "one-punch-man-2-dublado",
+            "url": "https://animesonline.cloud/anime/one-punch-man-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/06/7ItkgqDhxkOZ6wFdYwMAUXOEQDC-185x278.jpg",
+            "rating": "8.396",
+            "kind": "anime",
+            "provider": "aoc"
           },
           {
             "title": "Oshi no Ko Dublado",
@@ -25940,16 +26490,27 @@
           {
             "title": "Radiant 2 Dublado",
             "slug": "radiant-2-dublado",
-            "url": "https://animeplay.cloud/anime/radiant-2-dublado",
+            "url": "https://animesonline.cloud/anime/radiant-2-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/sPv6FNe5tdqPBAz3Fo1tNDKmBA0-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "rating": "8.6"
           },
           {
             "title": "Radiant Dublado",
             "slug": "radiant-dublado",
-            "url": "https://animeplay.cloud/anime/radiant-dublado",
+            "url": "https://animesonline.cloud/anime/radiant-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/o19uFUrC9gLa366Sr41kSJM8vRz-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "8.6"
+          },
+          {
+            "title": "Ranma 1/2 (2024) 2 Dublado",
+            "slug": "ranma-1-2-2024-2-dublado",
+            "url": "https://animesonline.cloud/anime/ranma-1-2-2024-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/fj5iEatJv7L80Mp9STKTLf6uwcB-185x278.jpg",
+            "rating": "0",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -25957,27 +26518,10 @@
             "title": "Re:Zero kara Hajimeru Isekai Seikatsu Dublado 4th Season",
             "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season",
             "url": "https://animesonline.cloud/anime/rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/lyEb7V91L2P1Q8SLDbmteAv2YXk-185x278.jpg",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/lyEb7V91L2P1Q8SLDbmteAv2YXk-185x278.jpg",
             "rating": "8.65",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Record of Ragnarok 3 Dublado",
@@ -25986,7 +26530,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/iJStWZQNGQ6tgedmr47ujU59KoX-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "rating": "8.5",
             "animeSources": [
               {
                 "server": 1,
@@ -26003,13 +26546,33 @@
                 "provider": "animeplay",
                 "slug": "record-of-ragnarok-3-dublado"
               }
-            ]
+            ],
+            "rating": "8.5"
           },
           {
             "title": "Romantic Killer Dublado",
             "slug": "romantic-killer-dublado",
-            "url": "https://animeplay.cloud/anime/romantic-killer-dublado",
+            "url": "https://animesonline.cloud/anime/romantic-killer-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/24ou2XFtgHpkElfmmGciW4vJIgw-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "8.374"
+          },
+          {
+            "title": "Rurouni Kenshin Meiji Kenkaku Romantan Kyoto Douran Dublado",
+            "slug": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-dublado",
+            "url": "https://animesonline.cloud/anime/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/02/fXLiRlCqwuUQOR3TUMnpytruNuD-185x278.jpg",
+            "rating": "8.324",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka Dublado",
+            "slug": "saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka-dublado",
+            "url": "https://animesonline.cloud/anime/saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/7WVc8kFsHDKYp2U3tZgv3n9BCoG-185x278.jpg",
+            "rating": "8.4",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -26017,27 +26580,46 @@
             "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 Dublado",
             "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
             "url": "https://animesonline.cloud/anime/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/kD9617ZaR8rToD4G3TgsKOEs45N-185x278.jpg",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/kD9617ZaR8rToD4G3TgsKOEs45N-185x278.jpg",
             "rating": "7.5",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado"
-              }
-            ]
+            "provider": "aoc"
+          },
+          {
+            "title": "Sakamoto Days 2 Dublado",
+            "slug": "sakamoto-days-2-dublado",
+            "url": "https://animesonline.cloud/anime/sakamoto-days-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/4RV1Icg4NPoUEjue57m3hlnqRmM-185x278.jpg",
+            "rating": "8,03",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sakamoto Days Dublado",
+            "slug": "sakamoto-days-dublado",
+            "url": "https://animesonline.cloud/anime/sakamoto-days-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/xfdyTs0SSVt2FySoL5IEnMzqANj-185x278.jpg",
+            "rating": "8,03",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sakugan Dublado",
+            "slug": "sakugan-dublado",
+            "url": "https://animesonline.cloud/anime/sakugan-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/09/oeYcVIheU4qnHFzvRyTARNSllg5-185x278.jpg",
+            "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sanda Dublado",
+            "slug": "sanda-dublado",
+            "url": "https://animesonline.cloud/anime/sanda-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/5Nfdb0I8Az6rwSOtS4K0HnsHEd4-185x278.jpg",
+            "rating": "8.1",
+            "kind": "anime",
+            "provider": "aoc"
           },
           {
             "title": "Shadows House Dublado",
@@ -26055,7 +26637,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/gV3YBO8I3CjaC90MDWap8pUHlCS-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "rating": "7.46",
             "animeSources": [
               {
                 "server": 1,
@@ -26072,33 +26653,54 @@
                 "provider": "animeplay",
                 "slug": "shibou-yuugi-de-meshi-wo-kuu-dublado"
               }
-            ]
+            ],
+            "rating": "7.46"
+          },
+          {
+            "title": "Shin Samurai-den Yaiba Dublado",
+            "slug": "shin-samurai-den-yaiba-dublado",
+            "url": "https://animesonline.cloud/anime/shin-samurai-den-yaiba-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/1jltcsz17CkfyhpcsSlmVC6pQGh-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Shiunji-ke no Kodomotachi Dublado",
+            "slug": "shiunji-ke-no-kodomotachi-dublado",
+            "url": "https://animesonline.cloud/anime/shiunji-ke-no-kodomotachi-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/05/e6oz3sopRHzG7tsyvrGJhFI1Swi-185x278.jpg",
+            "rating": "7.15",
+            "kind": "anime",
+            "provider": "aoc"
           },
           {
             "title": "Shunkashuutou Daikousha: Haru no Mai Dublado",
             "slug": "shunkashuutou-daikousha-haru-no-mai-dublado",
             "url": "https://animesonline.cloud/anime/shunkashuutou-daikousha-haru-no-mai-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/8djjRBlmadmJkb6pmPY4orxLwml-185x278.jpg",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/8djjRBlmadmJkb6pmPY4orxLwml-185x278.jpg",
             "rating": "7.71",
             "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "SilverHawks",
+            "slug": "silverhawks",
+            "url": "https://animesonline.cloud/anime/silverhawks",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/mOEWtpkuqNMfY9c2UcWEIDQzo0o-185x278.jpg",
+            "rating": "8.148",
+            "kind": "anime",
             "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "shunkashuutou-daikousha-haru-no-mai-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "shunkashuutou-daikousha-haru-no-mai-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "shunkashuutou-daikousha-haru-no-mai-dublado"
-              }
-            ]
+            "audioHint": "dub"
+          },
+          {
+            "title": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni Dublado",
+            "slug": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni-dublado",
+            "url": "https://animesonline.cloud/anime/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/olv9eCdn4m1p7PLZaMTn5zR1SEB-185x278.jpg",
+            "rating": "7.9",
+            "kind": "anime",
+            "provider": "aoc"
           },
           {
             "title": "Snowball Earth Dublado",
@@ -26107,1012 +26709,32 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/61E9aXjYUGPfrO5CW2cTutu0jX3-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "rating": "7.7",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "snowball-earth-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "snowball-earth-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "snowball-earth-dublado"
-              }
-            ]
+            "rating": "7.7"
           },
           {
-            "title": "Sousou no Friere 2 Dublado",
-            "slug": "sousou-no-friere-2-dublado",
-            "url": "https://animesonline.cloud/anime/sousou-no-friere-2-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/mV2L9VUhWbrKZpFCpfHKBUw3C9u-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "8.921",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "sousou-no-friere-2-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "sousou-no-friere-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "sousou-no-friere-2-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Sousou no Friere Dublado",
-            "slug": "sousou-no-friere-dublado",
-            "url": "https://animesonline.cloud/anime/sousou-no-friere-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/tjdfiiZVgmX05DEjGO97PUVSmHx-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "8.921",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "sousou-no-friere-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "sousou-no-friere-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "sousou-no-friere-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Spy x Family 3 Dublado",
-            "slug": "spy-x-family-3-dublado",
-            "url": "https://animeplay.cloud/anime/spy-x-family-3-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/vDGB41PATBLb5GaXTfG1weZ03Xr-185x278.jpg",
+            "title": "Solo Leveling 2 Arise from the Shadow Dublado",
+            "slug": "solo-leveling-2-arise-from-the-shadow-dublado",
+            "url": "https://animesonline.cloud/anime/solo-leveling-2-arise-from-the-shadow-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/4geiqSSkcktwWKzTNJmFfYkaeq5-185x278.jpg",
+            "rating": "8.883",
             "kind": "anime",
             "provider": "aoc"
           },
           {
-            "title": "Star Wars: Maul – Lorde das Sombras Dublado",
-            "slug": "star-wars-maul-lorde-das-sombras",
-            "url": "https://animesonline.cloud/anime/star-wars-maul-lorde-das-sombras",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
-            "rating": "7",
-            "kind": "anime",
-            "provider": "aoc",
-            "audioHint": "dub",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "star-wars-maul-lorde-das-sombras"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "star-wars-maul-lorde-das-sombras-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "star-wars-maul-lorde-das-sombras-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "star-wars-maul-lorde-das-sombras"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "star-wars-maul-lorde-das-sombras"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "star-wars-maul-lorde-das-sombras-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Steel Ball Run: JoJo no Kimyou na Bouken Dublado",
-            "slug": "steel-ball-run-jojo-no-kimyou-na-bouken-dublado",
-            "url": "https://animesonline.cloud/anime/steel-ball-run-jojo-no-kimyou-na-bouken-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/h95Bnxv9I0JQ23YU2HUnzupwNM1-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "8.569",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "steel-ball-run-jojo-no-kimyou-na-bouken-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "steel-ball-run-jojo-no-kimyou-na-bouken-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "steel-ball-run-jojo-no-kimyou-na-bouken-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Stranger Things: Histórias de 85 Dublado",
-            "slug": "stranger-things-historias-de-85-dublado",
-            "url": "https://animesonline.cloud/anime/stranger-things-historias-de-85-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/zUdykEDaQrjGKnVnAAcua3kNiAG-185x278.jpg",
-            "rating": "7.1",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "stranger-things-historias-de-85-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "stranger-things-historias-de-85-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "stranger-things-historias-de-85-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Tensei shitara Slime Datta Ken 4th Season Dublado",
-            "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado",
-            "url": "https://animesonline.cloud/anime/tensei-shitara-slime-datta-ken-4th-season-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/eboMISzbfsu9bAp4GYVa6nzDma1-185x278.jpg",
-            "rating": "8.5",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Dandelion Dublado",
-            "slug": "dandelion-dublado",
-            "url": "https://animesdrive.online/anime/dandelion-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/r5Cq5wax0sQ1ModcZXWKyXF1xpy-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "dandelion-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "dandelion-dublado"
-              }
-            ]
-          }
-        ],
-        "category": "dublado",
-        "page": 2,
-        "hasMore": true,
-        "total": 109,
-        "cachedAt": 1784786163806,
-        "aocCircuitOpen": false,
-        "aocDegraded": false,
-        "catalogFromCache": false,
-        "aocReachable": true,
-        "aocCircuit": {
-          "open": false,
-          "openUntil": 0,
-          "cooldownMs": 90000,
-          "remainingMs": 0,
-          "streak": 0,
-          "bypass": true
-        },
-        "aocDegradedStatus": {
-          "slowMode": false,
-          "slowUntil": 0,
-          "timeoutStreak": 0
-        },
-        "aocReachability": {
-          "reachable": true,
-          "lastProbeAt": 1784728392070,
-          "lastProbeOk": true,
-          "cookieOnly": true
-        },
-        "cookieConfigured": true,
-        "proxyConfigured": false,
-        "bypassConfigured": true,
-        "isProd": true,
-        "datacenterRisk": false,
-        "authFailed": false,
-        "recentCatalog403": false,
-        "aocBlocked": false,
-        "blocking": false,
-        "fixHint": null,
-        "mediaAccess": {
-          "cookieConfigured": true,
-          "proxyConfigured": false,
-          "bypassConfigured": true,
-          "isProd": true,
-          "datacenterRisk": false,
-          "authFailed": false,
-          "recentCatalog403": false,
-          "aocBlocked": false,
-          "blocking": false,
-          "fixHint": null
-        }
-      },
-      "at": 1784786164991
-    },
-    "dublado|3||120": {
-      "data": {
-        "items": [
-          {
-            "title": "Thunder 3 Dublado",
-            "slug": "thunder-3-dublado",
-            "url": "https://animesonline.cloud/anime/thunder-3-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/uVGuFiXA1PocSxpQbMVCHXgGPwr-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Tongari Boushi no Atelier Dublado",
-            "slug": "tongari-boushi-no-atelier-dublado",
-            "url": "https://animesonline.cloud/anime/tongari-boushi-no-atelier-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/l7EMuIU0xpqlV4NEYMgrvZDRHQq-185x278.jpg",
-            "rating": "8.564",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai Dublado",
-            "slug": "toujima-tanzaburou-wa-kamen-rider-ni-naritai-dublado",
-            "url": "https://animeplay.cloud/anime/toujima-tanzaburou-wa-kamen-rider-ni-naritai-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/bD80ugDX7krshLcWxnqRYCOQPoo-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Trigun Stargaze Dublado",
-            "slug": "trigun-stargaze-dublado",
-            "url": "https://animesonline.cloud/anime/trigun-stargaze-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/02/9Ou2dUJY9qmkOHX8x3Pk3al3EDz-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "7.309",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "trigun-stargaze-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "trigun-stargaze-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "trigun-stargaze-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Tsue to Tsurugi no Wistoria 2 Dublado",
-            "slug": "tsue-to-tsurugi-no-wistoria-2-dublado",
-            "url": "https://animesonline.cloud/anime/tsue-to-tsurugi-no-wistoria-2-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/cZnMdvNioymJxGM9DUISkjwKtwa-185x278.jpg",
-            "rating": "7.77",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Tsuki ga Michibiku Isekai Douchuu Dublado",
-            "slug": "tsuki-ga-michibiku-isekai-douchuu-dublado",
-            "url": "https://animesonline.cloud/anime/tsuki-ga-michibiku-isekai-douchuu-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/02/vMwcGYuTtvvD7KUU2TOFknJkT1H-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "8.4",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "tsuki-ga-michibiku-isekai-douchuu-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "tsuki-ga-michibiku-isekai-douchuu-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "tsuki-ga-michibiku-isekai-douchuu-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Wandance Dublado",
-            "slug": "wandance-dublado",
-            "url": "https://animeplay.cloud/anime/wandance-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/1FbU0jXGPTKKWtRkVD1zplH73La-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Witch Watch Dublado",
-            "slug": "witch-watch-dublado",
-            "url": "https://animeplay.cloud/anime/witch-watch-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/04/jeh8PhZecsxpPikl6oUrVEkG8s6-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "X-Men ’97 Season 2 Dublado",
-            "slug": "x-men-97-season-2-dublado",
-            "url": "https://animesonline.cloud/anime/x-men-97-season-2-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/suqpgGqRvzOXhwIkQlN7LnoZXiF-185x278.jpg",
+            "title": "Sono Bisque Doll wa Koi wo Suru 2 Dublado",
+            "slug": "sono-bisque-doll-wa-koi-wo-suru-2-dublado",
+            "url": "https://animesonline.cloud/anime/sono-bisque-doll-wa-koi-wo-suru-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/06/fFT9dqPsfAjnmpnSQBEPpl09tEV-185x278.jpg",
             "rating": "8.5",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Yani Neko Dublado",
-            "slug": "yani-neko-dublado",
-            "url": "https://animesonline.cloud/anime/yani-neko-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/8z5BnilO0k786id9woYTmF2OWj4-185x278.jpg",
-            "rating": "8.43",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Yomi no Tsugai Dublado",
-            "slug": "yomi-no-tsugai-dublado",
-            "url": "https://animesonline.cloud/anime/yomi-no-tsugai-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/x9tqZfZLzu6T6q7wuySI8k7Qytf-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "8.6"
-          },
-          {
-            "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki Dublado",
-            "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
-            "url": "https://animesonline.cloud/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/03/6lNOqksJZAE4LzUs2yaqBpnZVm5-185x278.jpg",
-            "rating": "8.506",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku Dublado",
-            "slug": "yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku-dublado",
-            "url": "https://animesonline.cloud/anime/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/kzyNxTZFcWjkYJU9T9aJ8vXTAFN-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "6.13",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku-dublado"
-              }
-            ]
-          },
-          {
-            "title": "BAKI-DOU: O Samurai Invencível Dublado",
-            "slug": "baki-dou-o-samurai-invencivel-dublado",
-            "url": "https://animesdrive.online/anime/baki-dou-o-samurai-invencivel-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/02/gIuCoLJSD09qx16FUn2OckjL6CA-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "baki-dou-o-samurai-invencivel-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "baki-dou-o-samurai-invencivel-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Sousou no Friere 2 Dublado",
-            "slug": "sousou-no-friere-2-dublado",
-            "url": "https://animesdrive.online/anime/sousou-no-friere-2-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/12/mV2L9VUhWbrKZpFCpfHKBUw3C9u-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "sousou-no-friere-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "sousou-no-friere-2-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Jigokuraku 2 Dublado",
-            "slug": "jigokuraku-2-dublado",
-            "url": "https://animesdrive.online/anime/jigokuraku-2-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/01/nanYJccQsftI3fLNkNYJ5zv2QTD-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "jigokuraku-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "jigokuraku-2-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Omae Gotoki ga Maou ni Kateru to Omouna to Yuusha Party wo Tsuihou sareta node Dublado",
-            "slug": "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado",
-            "url": "https://animesdrive.online/anime/omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/01/nH6Ch1q5rwdRs56bYTA9wuOhfbL-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu – Zenpen Dublado",
-            "slug": "jujutsu-kaisen-shimetsu-kaiyuu-zenpen-dublado",
-            "url": "https://animesdrive.online/anime/jujutsu-kaisen-shimetsu-kaiyuu-zenpen-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/01/nLQizRZjhjja507QeLWk3Kps3hF-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "jujutsu-kaisen-shimetsu-kaiyuu-zenpen-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "jujutsu-kaisen-shimetsu-kaiyuu-zenpen-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Medalist 2 Dublado",
-            "slug": "medalist-2-dublado",
-            "url": "https://animesdrive.online/anime/medalist-2-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/01/6ni0b30NBXsOK6cdE7ta3dHhDV4-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "medalist-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "medalist-2-dublado"
-              }
-            ]
-          },
-          {
-            "title": "MF Ghost 3 Dublado",
-            "slug": "mf-ghost-3-dublado",
-            "url": "https://animesdrive.online/anime/mf-ghost-3-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/01/iFxKVNJ8EnhgyYyozwvrRjpkWxT-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "mf-ghost-3-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "mf-ghost-3-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Enen no Shouboutai: San no Shou Part 2 Dublado",
-            "slug": "enen-no-shouboutai-san-no-shou-part-2-dublado",
-            "url": "https://animesdrive.online/anime/enen-no-shouboutai-san-no-shou-part-2-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/01/2WpTHDXOfBw8pM9cbicfLbCIM6q-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "enen-no-shouboutai-san-no-shou-part-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "enen-no-shouboutai-san-no-shou-part-2-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Shibou Yuugi de Meshi wo Kuu. Dublado",
-            "slug": "shibou-yuugi-de-meshi-wo-kuu-dublado",
-            "url": "https://animesdrive.online/anime/shibou-yuugi-de-meshi-wo-kuu-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/01/gV3YBO8I3CjaC90MDWap8pUHlCS-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "shibou-yuugi-de-meshi-wo-kuu-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "shibou-yuugi-de-meshi-wo-kuu-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Darwin Jihen Dublado",
-            "slug": "darwin-jihen-dublado",
-            "url": "https://animesdrive.online/anime/darwin-jihen-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/01/sC2u3QLzFO0sruIQGNXw4Mo4Eqq-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "darwin-jihen-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "darwin-jihen-dublado"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1032637"
-              }
-            ]
-          },
-          {
-            "title": "Hanazakari no Kimitachi e Dublado",
-            "slug": "hanazakari-no-kimitachi-e-dublado",
-            "url": "https://animesdrive.online/anime/hanazakari-no-kimitachi-e-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/01/wCZn0Is62Tx4HC9WuFGYysjeHCx-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "hanazakari-no-kimitachi-e-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "hanazakari-no-kimitachi-e-dublado"
-              }
-            ]
-          },
-          {
-            "title": "My Hero Academia: Vigilantes 2 Dublado",
-            "slug": "my-hero-academia-vigilantes-2-dublado",
-            "url": "https://animesdrive.online/anime/my-hero-academia-vigilantes-2-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/01/5To7gr0PmuAvo31YLwb3EQpMlVy-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "my-hero-academia-vigilantes-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "my-hero-academia-vigilantes-2-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Sousou no Friere Dublado",
-            "slug": "sousou-no-friere-dublado",
-            "url": "https://animesdrive.online/anime/sousou-no-friere-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/12/tjdfiiZVgmX05DEjGO97PUVSmHx-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "sousou-no-friere-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "sousou-no-friere-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Jujutsu Kaisen 2 Dublado",
-            "slug": "jujutsu-kaisen-2-dublado",
-            "url": "https://animesdrive.online/anime/jujutsu-kaisen-2-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/12/v1QcGlOMSiRWawyGWNHYULToOjL-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "jujutsu-kaisen-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "jujutsu-kaisen-2-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Record of Ragnarok 3 Dublado",
-            "slug": "record-of-ragnarok-3-dublado",
-            "url": "https://animesdrive.online/anime/record-of-ragnarok-3-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/12/iJStWZQNGQ6tgedmr47ujU59KoX-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "record-of-ragnarok-3-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "record-of-ragnarok-3-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Jujutsu Kaisen Dublado",
-            "slug": "jujutsu-kaisen-dublado",
-            "url": "https://animesdrive.online/anime/jujutsu-kaisen-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/12/mGPwEkHxyErWoX7Z1sk2YuOKtQ8-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "jujutsu-kaisen-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "jujutsu-kaisen-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Chainsaw Man Dublado",
-            "slug": "chainsaw-man-dublado",
-            "url": "https://animesdrive.online/anime/chainsaw-man-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/12/eM7GYp7CrEnDZmZXyMnOr9iXDlo-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "chainsaw-man-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "chainsaw-man-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Kimi to Koete Koi ni Naru Dublado",
-            "slug": "kimi-to-koete-koi-ni-naru-dublado",
-            "url": "https://animesdrive.online/anime/kimi-to-koete-koi-ni-naru-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/10/l8YQfVfTKtWnBS54cvHlCLeUidc-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "kimi-to-koete-koi-ni-naru-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kimi-to-koete-koi-ni-naru-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Hikaru ga Shinda Natsu Dublado",
-            "slug": "hikaru-ga-shinda-natsu-dublado",
-            "url": "https://animesdrive.online/anime/hikaru-ga-shinda-natsu-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/11/dJKA2cVUxV3bZq5gI5Ez3WlD811-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "hikaru-ga-shinda-natsu-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "hikaru-ga-shinda-natsu-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Gnosia Dublado",
-            "slug": "gnosia-dublado",
-            "url": "https://animesdrive.online/anime/gnosia-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/11/zmQPDO6RdidMg7Y95s8I62SbKxK-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "gnosia-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "gnosia-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Disney Twisted-Wonderland: A Série Dublado",
-            "slug": "disney-twisted-wonderland-a-serie-dublado",
-            "url": "https://animesdrive.online/anime/disney-twisted-wonderland-a-serie-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/10/c9RJoqZktpCQVUiZOhHLyq6Fhwb-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "Niwatori Fighter Dublado",
-            "slug": "niwatori-fighter-dublado",
-            "url": "https://animeplay.cloud/anime/niwatori-fighter-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/ybfC20URnOX3LWhnTUgNblVooRz-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Dragon Ball Daima Dublado",
-            "slug": "dragon-ball-daima-dublado",
-            "url": "https://animesdigital.org/anime/a/dragon-ball-daima-dublado-todos-os-episodios",
-            "poster": "https://animesdigital.org/wp-content/uploads/2025/04/Dragon-Ball-Daima-dublado.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "Dragon Ball GT Dublado",
-            "slug": "dragon-ball-gt",
-            "url": "https://animesdigital.org/anime/a/dragon-ball-gt",
-            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-gt-dublado-todos-os-episodios-online-animesdigital.jpg",
-            "kind": "anime",
-            "provider": "animesdigital",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "dragon-ball-gt"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "dragon-ball-gt"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "dragon-ball-gt"
-              }
-            ]
-          },
-          {
-            "title": "Dragon Ball Super Dublado",
-            "slug": "dragon-ball-super-dublado-pt-br",
-            "url": "https://animesdigital.org/anime/a/dragon-ball-super-dublado-pt-br",
-            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-dublado-pt-br-dublado-todos-os-episodios-online-animesdigital-210x300.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "Dragon Ball Super: Broly Dublado",
-            "slug": "dragon-ball-super-broly-pt-br-2",
-            "url": "https://animesdigital.org/anime/a/dragon-ball-super-broly-pt-br-2",
-            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-super-broly-pt-br-todos-os-episodios-online-animesdigital.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "Dragon Ball Super: Super Hero Dublado",
-            "slug": "dragon-ball-super-super-hero",
-            "url": "https://animesdigital.org/anime/a/dragon-ball-super-super-hero",
-            "poster": "https://animesdigital.org/wp-content/uploads/2023/07/Dragon-Ball-Super-Super-Hero-filme.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "Dragon Ball Z Dublado",
-            "slug": "dragon-ball-z",
-            "url": "https://animesdigital.org/anime/a/dragon-ball-z",
-            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-z-dublado-todos-os-episodios-online-animesdigital.jpg",
-            "kind": "anime",
-            "provider": "animesdigital",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "dragon-ball-z"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "dragon-ball-z"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "dragon-ball-z"
-              }
-            ]
-          },
-          {
-            "title": "Dungeon Meshi Dublado",
-            "slug": "dungeon-meshi-dublado",
-            "url": "https://animesdigital.org/anime/a/dungeon-meshi-dublado",
-            "poster": "https://animesdigital.org/wp-content/uploads/2024/01/Dungeon-MeshiEp-1.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "Eden Dublado",
-            "slug": "eden",
-            "url": "https://animesdigital.org/anime/a/eden",
-            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-eden-dublado-todos-os-episodios-online-animesdigital.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "Eighty Six Dublado Dublado",
-            "slug": "eighty-six-2",
-            "url": "https://animesdigital.org/anime/a/eighty-six-2",
-            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-eighty-six-dublado-todos-os-episodios-online-animesdigital.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "Eiyuu Kyoushitsu Dublado",
-            "slug": "eiyuu-kyoushitsu-dublado",
-            "url": "https://animesdigital.org/anime/a/eiyuu-kyoushitsu-dublado",
-            "poster": "https://animesdigital.org/wp-content/uploads/2024/01/assistir-eiyuu-kyoushitsu-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "Enen no Shouboutai (Fire Force) Dublado",
-            "slug": "enen-no-shouboutai-fire-force-dublado",
-            "url": "https://animesdigital.org/anime/a/enen-no-shouboutai-fire-force-dublado",
-            "poster": "https://animesdigital.org/wp-content/uploads/2025/04/assistir-enen-no-shouboutai-fire-force-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "Enen no Shouboutai: Ni no Shou (Fire Force 2) Dublado",
-            "slug": "enen-no-shouboutai-ni-no-shou-fire-force-2-dublado",
-            "url": "https://animesdigital.org/anime/a/enen-no-shouboutai-ni-no-shou-fire-force-2-dublado",
-            "poster": "https://animesdigital.org/wp-content/uploads/2025/04/assistir-enen-no-shouboutai-ni-no-shou-fire-force-2-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "Enen no Shouboutai: San no Shou (Fire Force 3) Dublado",
-            "slug": "enen-no-shouboutai-san-no-shou-fire-force-3-dublado",
-            "url": "https://animesdigital.org/anime/a/enen-no-shouboutai-san-no-shou-fire-force-3-dublado",
-            "poster": "https://animesdigital.org/wp-content/uploads/2025/04/assistir-enen-no-shouboutai-san-no-shou-fire-force-3-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
           }
         ],
         "category": "dublado",
         "page": 3,
         "hasMore": true,
-        "total": 109,
-        "cachedAt": 1784786165867,
+        "total": 180,
+        "cachedAt": 1784814966458,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -27159,7 +26781,7 @@
           "fixHint": null
         }
       },
-      "at": 1784786167016
+      "at": 1784814967665
     },
     "partner:animesdigital|lancamentos|1||24": {
       "data": {
@@ -29050,6 +28672,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
                 "slug": "youjo-senki-ii"
               },
               {
@@ -29522,6 +29149,46 @@
             ]
           },
           {
+            "title": "Bungou Stray Dogs Wan! 2",
+            "slug": "assistir-bungou-stray-dogs-wan!-2",
+            "url": "https://animesdigital.org/video/a/137301/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-bungou-stray-dogs-wan-2-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital",
+            "animeSources": [
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "assistir-bungou-stray-dogs-wan!-2"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1062384"
+              }
+            ]
+          },
+          {
+            "title": "Reiwa no Dara-san",
+            "slug": "assistir-reiwa-no-dara-san",
+            "url": "https://animesdigital.org/video/a/137300/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Reiwa-no-Dara-sanEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital",
+            "animeSources": [
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "assistir-reiwa-no-dara-san"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1062382"
+              }
+            ]
+          },
+          {
             "title": "Katainaka no Ossan Kensei ni Naru 2",
             "epTitle": "Episódio 3",
             "slug": "1062361",
@@ -29691,35 +29358,13 @@
             "kind": "anime",
             "provider": "anitube",
             "isRelease": true
-          },
-          {
-            "title": "Tenkou-saki no Seiso Karen na Bishoujo",
-            "epTitle": "Episódio 3",
-            "slug": "1062115",
-            "episode": 3,
-            "url": "https://www.anitube.zip/video/1062115/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Tenkou-saki-no-Seiso-Karen-na-BishoujoEp-1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Grand Blue III",
-            "epTitle": "Episódio 3",
-            "slug": "1062118",
-            "episode": 3,
-            "url": "https://www.anitube.zip/video/1062118/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Grand-Blue-IIIEp.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": true,
         "total": 108,
-        "cachedAt": 1784786152199,
+        "cachedAt": 1784814953494,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -29766,11 +29411,44 @@
           "fixHint": null
         }
       },
-      "at": 1784786153197
+      "at": 1784814954320
     },
     "lancamentos|2||120": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 2",
+            "epTitle": "Episódio 2",
+            "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado",
+            "episode": 2,
+            "url": "https://animesonline.cloud/episodio/hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado-episodio-02",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/absDt45abYetHRf3xu9R502zd36-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "black-torch-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado"
+              }
+            ]
+          },
           {
             "title": "Episódio 2",
             "epTitle": "Episódio 2",
@@ -29835,6 +29513,11 @@
                 "server": 1,
                 "provider": "aoc",
                 "slug": "youjo-senki-ii"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha"
               },
               {
                 "server": 1,
@@ -30602,29 +30285,6 @@
             ]
           },
           {
-            "title": "Katainaka no Ossan Kensei ni Naru 2",
-            "epTitle": "Episódio 3",
-            "slug": "1062361",
-            "episode": 3,
-            "url": "https://www.anitube.zip/video/1062361/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Katainaka-no-Ossan-Kensei-ni-Naru-2Ep.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "1062361"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1062361"
-              }
-            ]
-          },
-          {
             "title": "Episódio 1170",
             "epTitle": "Episódio 1170",
             "slug": "one-piece",
@@ -30700,29 +30360,6 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "tsue-to-tsurugi-no-wistoria-2-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Episódio 2",
-            "epTitle": "Episódio 2",
-            "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado",
-            "episode": 2,
-            "url": "https://animesdrive.online/episodio/hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado-episodio-02",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/absDt45abYetHRf3xu9R502zd36-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado"
               }
             ]
           },
@@ -30817,6 +30454,63 @@
                 "slug": "digimon-beatbreak"
               }
             ]
+          },
+          {
+            "title": "Bungou Stray Dogs Wan! 2",
+            "epTitle": "Episódio 4",
+            "slug": "1062384",
+            "episode": 4,
+            "url": "https://www.anitube.zip/video/1062384/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Bungou-Stray-Dogs-Wan-2Ep.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "assistir-bungou-stray-dogs-wan!-2"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1062384"
+              }
+            ]
+          },
+          {
+            "title": "Reiwa no Dara-san",
+            "epTitle": "Episódio 4",
+            "slug": "1062382",
+            "episode": 4,
+            "url": "https://www.anitube.zip/video/1062382/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Reiwa-no-Dara-sanEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "assistir-reiwa-no-dara-san"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1062382"
+              }
+            ]
+          },
+          {
+            "title": "Katainaka no Ossan Kensei ni Naru 2",
+            "epTitle": "Episódio 3",
+            "slug": "1062361",
+            "episode": 3,
+            "url": "https://www.anitube.zip/video/1062361/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Katainaka-no-Ossan-Kensei-ni-Naru-2Ep.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
           },
           {
             "title": "Dogulwang (Tomb Raider King)",
@@ -31034,24 +30728,13 @@
             "kind": "anime",
             "provider": "anitube",
             "isRelease": true
-          },
-          {
-            "title": "Tenkou-saki no Seiso Karen na Bishoujo",
-            "epTitle": "Episódio 3",
-            "slug": "1062115",
-            "episode": 3,
-            "url": "https://www.anitube.zip/video/1062115/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Tenkou-saki-no-Seiso-Karen-na-BishoujoEp-1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 2,
         "hasMore": true,
-        "total": 108,
-        "cachedAt": 1784786154087,
+        "total": 110,
+        "cachedAt": 1784814955324,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -31098,7 +30781,7 @@
           "fixHint": null
         }
       },
-      "at": 1784786155180
+      "at": 1784814955933
     },
     "todos|1||48": {
       "data": {
@@ -32212,7 +31895,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1784786152199
+      "at": 1784814953494
     },
     "partner:anitube|todos|1||24": {
       "data": {
@@ -103743,7 +103426,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784786131760
+      "at": 1784814933099
     },
     "todos|44||120": {
       "data": {
@@ -104580,7 +104263,7 @@
         "page": 44,
         "hasMore": true,
         "total": 1680,
-        "cachedAt": 1784786129767,
+        "cachedAt": 1784814930933,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -104627,7 +104310,7 @@
           "fixHint": null
         }
       },
-      "at": 1784786132154
+      "at": 1784814933534
     },
     "partner:anitube|todos|45||48": {
       "data": {
@@ -104782,7 +104465,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784786132525
+      "at": 1784814933888
     },
     "todos|45||48": {
       "data": {
@@ -105008,7 +104691,7 @@
         "page": 45,
         "hasMore": true
       },
-      "at": 1784786133037
+      "at": 1784814934499
     },
     "partner:animeplay|todos|45||48": {
       "data": {
@@ -105211,7 +104894,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784786133695
+      "at": 1784814934878
     },
     "partner:animesdrive|todos|45||48": {
       "data": {
@@ -105414,7 +105097,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784786134978
+      "at": 1784814936373
     },
     "todos|45||120": {
       "data": {
@@ -105962,6 +105645,11 @@
                 "server": 1,
                 "provider": "aoc",
                 "slug": "youjo-senki-ii"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha"
               },
               {
                 "server": 1,
@@ -106586,7 +106274,7 @@
         "page": 45,
         "hasMore": true,
         "total": 1680,
-        "cachedAt": 1784786133037,
+        "cachedAt": 1784814934499,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -106633,7 +106321,7 @@
           "fixHint": null
         }
       },
-      "at": 1784786135502
+      "at": 1784814936967
     },
     "partner:anitube|todos|46||48": {
       "data": {
@@ -106788,7 +106476,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784786135853
+      "at": 1784814937304
     },
     "todos|46||48": {
       "data": {
@@ -107032,7 +106720,7 @@
         "page": 46,
         "hasMore": true
       },
-      "at": 1784786136424
+      "at": 1784814937863
     },
     "partner:animeplay|todos|46||48": {
       "data": {
@@ -107251,7 +106939,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784786136945
+      "at": 1784814938330
     },
     "partner:animesdrive|todos|46||48": {
       "data": {
@@ -107470,7 +107158,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784786138198
+      "at": 1784814939770
     },
     "todos|46||120": {
       "data": {
@@ -108340,7 +108028,7 @@
         "page": 46,
         "hasMore": true,
         "total": 1680,
-        "cachedAt": 1784786136424,
+        "cachedAt": 1784814937863,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -108387,7 +108075,7 @@
           "fixHint": null
         }
       },
-      "at": 1784786138564
+      "at": 1784814940187
     },
     "partner:anitube|todos|47||48": {
       "data": {
@@ -108542,7 +108230,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784786138913
+      "at": 1784814940543
     },
     "todos|47||48": {
       "data": {
@@ -108768,7 +108456,7 @@
         "page": 47,
         "hasMore": true
       },
-      "at": 1784786139532
+      "at": 1784814941103
     },
     "partner:animeplay|todos|47||48": {
       "data": {
@@ -108971,7 +108659,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784786139964
+      "at": 1784814941562
     },
     "partner:animesdrive|todos|47||48": {
       "data": {
@@ -109174,7 +108862,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784786141469
+      "at": 1784814942990
     },
     "todos|47||120": {
       "data": {
@@ -109979,7 +109667,7 @@
         "page": 47,
         "hasMore": true,
         "total": 1680,
-        "cachedAt": 1784786139532,
+        "cachedAt": 1784814941103,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -110026,7 +109714,7 @@
           "fixHint": null
         }
       },
-      "at": 1784786142092
+      "at": 1784814943691
     },
     "partner:anitube|todos|48||48": {
       "data": {
@@ -110181,7 +109869,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784786142446
+      "at": 1784814944031
     },
     "todos|48||48": {
       "data": {
@@ -110416,7 +110104,7 @@
         "page": 48,
         "hasMore": true
       },
-      "at": 1784786143020
+      "at": 1784814944535
     },
     "partner:animeplay|todos|48||48": {
       "data": {
@@ -110627,7 +110315,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784786143531
+      "at": 1784814945105
     },
     "partner:animesdrive|todos|48||48": {
       "data": {
@@ -110838,7 +110526,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784786144932
+      "at": 1784814946516
     },
     "todos|48||120": {
       "data": {
@@ -111642,7 +111330,7 @@
         "page": 48,
         "hasMore": true,
         "total": 1680,
-        "cachedAt": 1784786143020,
+        "cachedAt": 1784814944535,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -111689,7 +111377,7 @@
           "fixHint": null
         }
       },
-      "at": 1784786145369
+      "at": 1784814947002
     },
     "partner:anitube|todos|49||48": {
       "data": {
@@ -111844,7 +111532,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784786145718
+      "at": 1784814947346
     },
     "todos|49||48": {
       "data": {
@@ -112124,7 +111812,7 @@
         "page": 49,
         "hasMore": true
       },
-      "at": 1784786146299
+      "at": 1784814947914
     },
     "partner:animeplay|todos|49||48": {
       "data": {
@@ -112375,7 +112063,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784786146655
+      "at": 1784814948376
     },
     "partner:animesdrive|todos|49||48": {
       "data": {
@@ -112626,7 +112314,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784786148225
+      "at": 1784814949832
     },
     "todos|49||120": {
       "data": {
@@ -113560,7 +113248,7 @@
         "page": 49,
         "hasMore": true,
         "total": 1680,
-        "cachedAt": 1784786146299,
+        "cachedAt": 1784814947914,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -113607,7 +113295,7 @@
           "fixHint": null
         }
       },
-      "at": 1784786148299
+      "at": 1784814949942
     },
     "partner:anitube|todos|50||48": {
       "data": {
@@ -113762,7 +113450,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784786148645
+      "at": 1784814950279
     },
     "todos|50||48": {
       "data": {
@@ -113853,7 +113541,7 @@
         "page": 50,
         "hasMore": false
       },
-      "at": 1784786149189
+      "at": 1784814950877
     },
     "partner:animeplay|todos|50||48": {
       "data": {
@@ -113936,7 +113624,7 @@
         "hasMore": false,
         "partnerId": "animeplay"
       },
-      "at": 1784786149446
+      "at": 1784814951127
     },
     "partner:animesdrive|todos|50||48": {
       "data": {
@@ -114019,7 +113707,7 @@
         "hasMore": false,
         "partnerId": "animesdrive"
       },
-      "at": 1784786151178
+      "at": 1784814952501
     },
     "todos|50||120": {
       "data": {
@@ -114407,7 +114095,7 @@
         "page": 50,
         "hasMore": true,
         "total": 1680,
-        "cachedAt": 1784786149189,
+        "cachedAt": 1784814950877,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -114454,11 +114142,33 @@
           "fixHint": null
         }
       },
-      "at": 1784786151222
+      "at": 1784814952546
     },
     "partner:anitube|lancamentos|1||48": {
       "data": {
         "items": [
+          {
+            "title": "Bungou Stray Dogs Wan! 2",
+            "epTitle": "Episódio 4",
+            "slug": "1062384",
+            "episode": 4,
+            "url": "https://www.anitube.zip/video/1062384/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Bungou-Stray-Dogs-Wan-2Ep.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Reiwa no Dara-san",
+            "epTitle": "Episódio 4",
+            "slug": "1062382",
+            "episode": 4,
+            "url": "https://www.anitube.zip/video/1062382/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Reiwa-no-Dara-sanEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
           {
             "title": "Katainaka no Ossan Kensei ni Naru 2",
             "epTitle": "Episódio 3",
@@ -114656,28 +114366,6 @@
             "kind": "anime",
             "provider": "anitube",
             "isRelease": true
-          },
-          {
-            "title": "Tenkou-saki no Seiso Karen na Bishoujo",
-            "epTitle": "Episódio 3",
-            "slug": "1062115",
-            "episode": 3,
-            "url": "https://www.anitube.zip/video/1062115/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Tenkou-saki-no-Seiso-Karen-na-BishoujoEp-1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Grand Blue III",
-            "epTitle": "Episódio 3",
-            "slug": "1062118",
-            "episode": 3,
-            "url": "https://www.anitube.zip/video/1062118/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Grand-Blue-IIIEp.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -114685,11 +114373,27 @@
         "hasMore": false,
         "partnerId": "anitube"
       },
-      "at": 1784786151604
+      "at": 1784814952893
     },
     "partner:animesdigital|lancamentos|1||48": {
       "data": {
         "items": [
+          {
+            "title": "Bungou Stray Dogs Wan! 2",
+            "slug": "assistir-bungou-stray-dogs-wan!-2",
+            "url": "https://animesdigital.org/video/a/137301/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-bungou-stray-dogs-wan-2-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Reiwa no Dara-san",
+            "slug": "assistir-reiwa-no-dara-san",
+            "url": "https://animesdigital.org/video/a/137300/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Reiwa-no-Dara-sanEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
           {
             "title": "Aikatsu!",
             "slug": "assistir-aikatsu!",
@@ -114704,7 +114408,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1784786151562
+      "at": 1784814953528
     },
     "partner:animeplay|lancamentos|1||48": {
       "data": {
@@ -114979,7 +114683,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784786152394
+      "at": 1784814953719
     },
     "partner:animesdrive|lancamentos|1||48": {
       "data": {
@@ -115254,7 +114958,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784786153148
+      "at": 1784814954236
     },
     "lancamentos|2||48": {
       "data": {
@@ -115528,11 +115232,33 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1784786154087
+      "at": 1784814955324
     },
     "partner:anitube|lancamentos|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Bungou Stray Dogs Wan! 2",
+            "epTitle": "Episódio 4",
+            "slug": "1062384",
+            "episode": 4,
+            "url": "https://www.anitube.zip/video/1062384/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Bungou-Stray-Dogs-Wan-2Ep.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Reiwa no Dara-san",
+            "epTitle": "Episódio 4",
+            "slug": "1062382",
+            "episode": 4,
+            "url": "https://www.anitube.zip/video/1062382/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Reiwa-no-Dara-sanEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
           {
             "title": "Katainaka no Ossan Kensei ni Naru 2",
             "epTitle": "Episódio 3",
@@ -115730,28 +115456,6 @@
             "kind": "anime",
             "provider": "anitube",
             "isRelease": true
-          },
-          {
-            "title": "Tenkou-saki no Seiso Karen na Bishoujo",
-            "epTitle": "Episódio 3",
-            "slug": "1062115",
-            "episode": 3,
-            "url": "https://www.anitube.zip/video/1062115/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Tenkou-saki-no-Seiso-Karen-na-BishoujoEp-1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Grand Blue III",
-            "epTitle": "Episódio 3",
-            "slug": "1062118",
-            "episode": 3,
-            "url": "https://www.anitube.zip/video/1062118/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Grand-Blue-IIIEp.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -115759,7 +115463,7 @@
         "hasMore": false,
         "partnerId": "anitube"
       },
-      "at": 1784786153572
+      "at": 1784814954690
     },
     "partner:animeplay|lancamentos|2||48": {
       "data": {
@@ -116034,7 +115738,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784786154445
+      "at": 1784814955527
     },
     "partner:animesdrive|lancamentos|2||48": {
       "data": {
@@ -116309,7 +116013,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784786155134
+      "at": 1784814955866
     },
     "legendado|1||48": {
       "data": {
@@ -116535,7 +116239,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1784786155611
+      "at": 1784814956387
     },
     "partner:anitube|legendado|1||48": {
       "data": {
@@ -116690,7 +116394,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784786155532
+      "at": 1784814956274
     },
     "partner:animeplay|legendado|1||48": {
       "data": {
@@ -116832,14 +116536,6 @@
             "provider": "animeplay"
           },
           {
-            "title": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
-            "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
-            "url": "https://animeplay.cloud/anime/buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/61TfKgUhwJLpsEOsWQXu3ClKPNI-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
             "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
             "slug": "the-insipid-princes-furtive-grab-for-the-throne",
             "url": "https://animeplay.cloud/anime/the-insipid-princes-furtive-grab-for-the-throne",
@@ -116860,6 +116556,14 @@
             "slug": "honoo-no-toukyuujo-dodge-danko",
             "url": "https://animeplay.cloud/anime/honoo-no-toukyuujo-dodge-danko",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/sZvF473smAN0XktDRj50J8nwtaB-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
+            "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
+            "url": "https://animeplay.cloud/anime/buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/61TfKgUhwJLpsEOsWQXu3ClKPNI-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -116893,7 +116597,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784786155929
+      "at": 1784814956718
     },
     "partner:animesdrive|legendado|1||48": {
       "data": {
@@ -117035,14 +116739,6 @@
             "provider": "animesdrive"
           },
           {
-            "title": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
-            "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
-            "url": "https://animesdrive.online/anime/buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/61TfKgUhwJLpsEOsWQXu3ClKPNI-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
             "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
             "slug": "the-insipid-princes-furtive-grab-for-the-throne",
             "url": "https://animesdrive.online/anime/the-insipid-princes-furtive-grab-for-the-throne",
@@ -117063,6 +116759,14 @@
             "slug": "honoo-no-toukyuujo-dodge-danko",
             "url": "https://animesdrive.online/anime/honoo-no-toukyuujo-dodge-danko",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/07/sZvF473smAN0XktDRj50J8nwtaB-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
+            "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
+            "url": "https://animesdrive.online/anime/buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/61TfKgUhwJLpsEOsWQXu3ClKPNI-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -117096,7 +116800,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784786156812
+      "at": 1784814957552
     },
     "partner:anitube|legendado|2||48": {
       "data": {
@@ -117251,7 +116955,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784786157228
+      "at": 1784814957963
     },
     "legendado|2||48": {
       "data": {
@@ -117477,7 +117181,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1784786157836
+      "at": 1784814958548
     },
     "partner:animeplay|legendado|2||48": {
       "data": {
@@ -117487,6 +117191,14 @@
             "slug": "sayonara-lara",
             "url": "https://animeplay.cloud/anime/sayonara-lara",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/1s7wuO2nrL20hD10Y83OpTx3vII-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "AI no Idenshi",
+            "slug": "ai-no-idenshi",
+            "url": "https://animeplay.cloud/anime/ai-no-idenshi",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/wSAD5RS0LRvx7rqvCKEJlXbDOv1-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -117511,14 +117223,6 @@
             "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha",
             "url": "https://animeplay.cloud/anime/sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/oYVBc1fUzPNrBSrfOLSCSd9BYjL-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "AI no Idenshi",
-            "slug": "ai-no-idenshi",
-            "url": "https://animeplay.cloud/anime/ai-no-idenshi",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/wSAD5RS0LRvx7rqvCKEJlXbDOv1-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -117579,6 +117283,14 @@
             "provider": "animeplay"
           },
           {
+            "title": "Iwamoto-senpai no Suisen",
+            "slug": "iwamoto-senpai-no-suisen",
+            "url": "https://animeplay.cloud/anime/iwamoto-senpai-no-suisen",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/4Yc6I7jwpu3ThgElYESVMaRuPvd-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
             "title": "Ushiro no Shoumen Kamui-san",
             "slug": "ushiro-no-shoumen-kamui-san",
             "url": "https://animeplay.cloud/anime/ushiro-no-shoumen-kamui-san",
@@ -117591,14 +117303,6 @@
             "slug": "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita",
             "url": "https://animeplay.cloud/anime/saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/o6k2eVEowtfwTKnKvbKUn87LGzX-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Iwamoto-senpai no Suisen",
-            "slug": "iwamoto-senpai-no-suisen",
-            "url": "https://animeplay.cloud/anime/iwamoto-senpai-no-suisen",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/4Yc6I7jwpu3ThgElYESVMaRuPvd-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -117619,18 +117323,18 @@
             "provider": "animeplay"
           },
           {
-            "title": "Yani Neko",
-            "slug": "yani-neko",
-            "url": "https://animeplay.cloud/anime/yani-neko",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
             "title": "Kore Kaite Shine",
             "slug": "kore-kaite-shine",
             "url": "https://animeplay.cloud/anime/kore-kaite-shine",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/wyNF7ZhfyOihNwLponoegKK7xQQ-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Yani Neko",
+            "slug": "yani-neko",
+            "url": "https://animeplay.cloud/anime/yani-neko",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -117680,7 +117384,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784786157980
+      "at": 1784814958865
     },
     "partner:animesdrive|legendado|2||48": {
       "data": {
@@ -117690,14 +117394,6 @@
             "slug": "sayonara-lara",
             "url": "https://animesdrive.online/anime/sayonara-lara",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/06/1s7wuO2nrL20hD10Y83OpTx3vII-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "AI no Idenshi",
-            "slug": "ai-no-idenshi",
-            "url": "https://animesdrive.online/anime/ai-no-idenshi",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/wSAD5RS0LRvx7rqvCKEJlXbDOv1-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -117722,6 +117418,14 @@
             "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha",
             "url": "https://animesdrive.online/anime/sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/07/oYVBc1fUzPNrBSrfOLSCSd9BYjL-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "AI no Idenshi",
+            "slug": "ai-no-idenshi",
+            "url": "https://animesdrive.online/anime/ai-no-idenshi",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/wSAD5RS0LRvx7rqvCKEJlXbDOv1-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -117782,14 +117486,6 @@
             "provider": "animesdrive"
           },
           {
-            "title": "Iwamoto-senpai no Suisen",
-            "slug": "iwamoto-senpai-no-suisen",
-            "url": "https://animesdrive.online/anime/iwamoto-senpai-no-suisen",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/4Yc6I7jwpu3ThgElYESVMaRuPvd-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
             "title": "Ushiro no Shoumen Kamui-san",
             "slug": "ushiro-no-shoumen-kamui-san",
             "url": "https://animesdrive.online/anime/ushiro-no-shoumen-kamui-san",
@@ -117802,6 +117498,14 @@
             "slug": "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita",
             "url": "https://animesdrive.online/anime/saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/07/o6k2eVEowtfwTKnKvbKUn87LGzX-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Iwamoto-senpai no Suisen",
+            "slug": "iwamoto-senpai-no-suisen",
+            "url": "https://animesdrive.online/anime/iwamoto-senpai-no-suisen",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/4Yc6I7jwpu3ThgElYESVMaRuPvd-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -117883,7 +117587,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784786158782
+      "at": 1784814959549
     },
     "partner:anitube|legendado|3||48": {
       "data": {
@@ -118038,7 +117742,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784786159180
+      "at": 1784814959940
     },
     "legendado|3||48": {
       "data": {
@@ -118228,7 +117932,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1784786159717
+      "at": 1784814960522
     },
     "partner:animeplay|legendado|3||48": {
       "data": {
@@ -118362,14 +118066,6 @@
             "provider": "animeplay"
           },
           {
-            "title": "Koukaku Kidouta",
-            "slug": "koukaku-kidouta",
-            "url": "https://animeplay.cloud/anime/koukaku-kidouta",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
             "title": "Super no Ura de Yani Suu Futari Mini",
             "slug": "smoking-behind-the-supermarket-with-you-mini",
             "url": "https://animeplay.cloud/anime/smoking-behind-the-supermarket-with-you-mini",
@@ -118391,7 +118087,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784786160041
+      "at": 1784814960817
     },
     "partner:animesdrive|legendado|3||48": {
       "data": {
@@ -118538,7 +118234,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784786160743
+      "at": 1784814961496
     },
     "dublado|1||48": {
       "data": {
@@ -118764,7 +118460,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1784786161328
+      "at": 1784814962054
     },
     "partner:anitube|dublado|1||48": {
       "data": {
@@ -118919,7 +118615,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784786161238
+      "at": 1784814961950
     },
     "partner:animeplay|dublado|1||48": {
       "data": {
@@ -119122,7 +118818,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784786161659
+      "at": 1784814962368
     },
     "partner:animesdrive|dublado|1||48": {
       "data": {
@@ -119325,7 +119021,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784786162511
+      "at": 1784814963291
     },
     "partner:animesdigital|dublado|1||48": {
       "data": {
@@ -119712,7 +119408,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1784786162688
+      "at": 1784814962968
     },
     "partner:anitube|dublado|2||48": {
       "data": {
@@ -119867,7 +119563,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784786163270
+      "at": 1784814963890
     },
     "dublado|2||48": {
       "data": {
@@ -120093,7 +119789,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1784786163806
+      "at": 1784814964427
     },
     "partner:animeplay|dublado|2||48": {
       "data": {
@@ -120296,7 +119992,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784786164150
+      "at": 1784814964718
     },
     "partner:animesdigital|dublado|2||48": {
       "data": {
@@ -120691,7 +120387,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1784786164225
+      "at": 1784814964883
     },
     "partner:animesdrive|dublado|2||48": {
       "data": {
@@ -120785,17 +120481,17 @@
             "provider": "animesdrive"
           },
           {
-            "title": "Star Wars: Maul – Lorde das Sombras",
-            "slug": "star-wars-maul-lorde-das-sombras",
-            "url": "https://animesdrive.online/anime/star-wars-maul-lorde-das-sombras",
+            "title": "Star Wars: Maul – Lorde das Sombras Dublado",
+            "slug": "star-wars-maul-lorde-das-sombras-dublado",
+            "url": "https://animesdrive.online/anime/star-wars-maul-lorde-das-sombras-dublado",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
           {
-            "title": "Star Wars: Maul – Lorde das Sombras Dublado",
-            "slug": "star-wars-maul-lorde-das-sombras-dublado",
-            "url": "https://animesdrive.online/anime/star-wars-maul-lorde-das-sombras-dublado",
+            "title": "Star Wars: Maul – Lorde das Sombras",
+            "slug": "star-wars-maul-lorde-das-sombras",
+            "url": "https://animesdrive.online/anime/star-wars-maul-lorde-das-sombras",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
@@ -120894,7 +120590,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784786164840
+      "at": 1784814965449
     },
     "partner:anitube|dublado|3||48": {
       "data": {
@@ -121049,7 +120745,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784786165334
+      "at": 1784814965928
     },
     "dublado|3||48": {
       "data": {
@@ -121275,7 +120971,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1784786165867
+      "at": 1784814966458
     },
     "partner:animeplay|dublado|3||48": {
       "data": {
@@ -121478,7 +121174,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784786166218
+      "at": 1784814966824
     },
     "partner:animesdigital|dublado|3||48": {
       "data": {
@@ -121873,7 +121569,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1784786166187
+      "at": 1784814966861
     },
     "partner:animesdrive|dublado|3||48": {
       "data": {
@@ -122076,7 +121772,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784786166894
+      "at": 1784814967506
     },
     "partner:anitube|todos|14||48": {
       "data": {
@@ -131888,5 +131584,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784814931339
+  "updatedAt": 1784814967665
 }
