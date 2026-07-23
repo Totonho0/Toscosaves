@@ -76514,7 +76514,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784786078831
+      "at": 1784814877576
     },
     "todos|29||120": {
       "data": {
@@ -76526,16 +76526,50 @@
             "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/xWgtg6l6vLaucO5caOwy5GywpX9-185x278.jpg",
             "rating": "8.5",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "the-frontier-lord-begins-with-zero-subjects"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "the-frontier-lord-begins-with-zero-subjects"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "the-frontier-lord-begins-with-zero-subjects"
+              }
+            ]
           },
           {
             "title": "S-Rank Monster no “Behemoth” dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu",
             "slug": "s-rank-monster-no-behemoth-dakedo-neko-to-machigawarete-elf-musume-no-pet-toshite-kurashitemasu",
             "url": "https://animesonline.cloud/anime/s-rank-monster-no-behemoth-dakedo-neko-to-machigawarete-elf-musume-no-pet-toshite-kurashitemasu",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/j9q6ZUfdKMHS67w82ASbYf0eDIL-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/j9q6ZUfdKMHS67w82ASbYf0eDIL-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "s-rank-monster-no-behemoth-dakedo-neko-to-machigawarete-elf-musume-no-pet-toshite-kurashitemasu"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "s-rank-monster-no-behemoth-dakedo-neko-to-machigawarete-elf-musume-no-pet-toshite-kurashitemasu"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "s-rank-monster-no-behemoth-dakedo-neko-to-machigawarete-elf-musume-no-pet-toshite-kurashitemasu"
+              }
+            ]
           },
           {
             "title": "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka",
@@ -77624,7 +77658,7 @@
         "page": 29,
         "hasMore": true,
         "total": 1680,
-        "cachedAt": 1784800419847,
+        "cachedAt": 1784814875442,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -77671,7 +77705,7 @@
           "fixHint": null
         }
       },
-      "at": 1784800419924
+      "at": 1784814877861
     },
     "partner:anitube|todos|30||48": {
       "data": {
@@ -77826,7 +77860,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784786079466
+      "at": 1784814878217
     },
     "todos|30||48": {
       "data": {
@@ -78079,7 +78113,7 @@
         "page": 30,
         "hasMore": true
       },
-      "at": 1784800420755
+      "at": 1784814878774
     },
     "partner:animeplay|todos|30||48": {
       "data": {
@@ -78306,7 +78340,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784786080410
+      "at": 1784814879221
     },
     "todos|30||120": {
       "data": {
@@ -131829,5 +131863,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784814875767
+  "updatedAt": 1784814879221
 }
