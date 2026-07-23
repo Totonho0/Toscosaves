@@ -103420,7 +103420,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784814933099
+      "at": 1784843733445
     },
     "todos|44||120": {
       "data": {
@@ -103578,6 +103578,32 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              }
+            ]
+          },
+          {
+            "title": "Taisho Otome Fairy Tale",
+            "slug": "taisho-otome-fairy-tale",
+            "url": "https://animesonline.cloud/anime/taisho-otome-fairy-tale",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/g1jC7PJogxxQ3lJ9EpL1r5HY0RI-185x278.jpg",
+            "rating": "7.6",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "taisho-otome-fairy-tale"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "taisho-otome-fairy-tale"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "taisho-otome-fairy-tale"
               }
             ]
           },
@@ -104073,11 +104099,10 @@
           {
             "title": "Dorohedoro",
             "slug": "dorohedoro",
-            "url": "https://animesonline.cloud/anime/dorohedoro",
+            "url": "https://animesdrive.online/anime/dorohedoro",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/03/mmpGV6laOLyNeo21aOFM9oB9HYw-185x278.jpg",
-            "rating": "8.3",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -104243,21 +104268,13 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dororo-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
             "provider": "anitube"
-          },
-          {
-            "title": "Dororon Enma-kun Meeramera – Todos os Episodio (Legendado)",
-            "slug": "84840",
-            "url": "https://www.anitube.zip/video/84840/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Dororon-Enma-kun-Meeramera.jpg",
-            "kind": "anime",
-            "provider": "anitube"
           }
         ],
         "category": "todos",
         "page": 44,
         "hasMore": true,
-        "total": 1680,
-        "cachedAt": 1784814930933,
+        "total": 1681,
+        "cachedAt": 1784843731204,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -104304,7 +104321,7 @@
           "fixHint": null
         }
       },
-      "at": 1784814933534
+      "at": 1784843733845
     },
     "partner:anitube|todos|45||48": {
       "data": {
@@ -104459,7 +104476,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784814933888
+      "at": 1784843734191
     },
     "todos|45||48": {
       "data": {
@@ -104515,6 +104532,15 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Dorohedoro",
+            "slug": "dorohedoro",
+            "url": "https://animesonline.cloud/anime/dorohedoro",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/03/mmpGV6laOLyNeo21aOFM9oB9HYw-185x278.jpg",
+            "rating": "8.3",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -104670,22 +104696,13 @@
             "rating": "7.3",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "D.Gray-man Hallow",
-            "slug": "d-gray-man-hallow",
-            "url": "https://animesonline.cloud/anime/d-gray-man-hallow",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/4TQvVtH1MTs7ZMvuEJ95lulaQGc-185x278.jpg",
-            "rating": "6.9",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 45,
         "hasMore": true
       },
-      "at": 1784814934499
+      "at": 1784843734715
     },
     "partner:animeplay|todos|45||48": {
       "data": {
@@ -104888,7 +104905,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784814934878
+      "at": 1784843735055
     },
     "partner:animesdrive|todos|45||48": {
       "data": {
@@ -131578,5 +131595,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784843731542
+  "updatedAt": 1784843735055
 }
