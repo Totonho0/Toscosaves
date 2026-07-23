@@ -69131,11 +69131,20 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784814864420
+      "at": 1784843665345
     },
     "todos|25||120": {
       "data": {
         "items": [
+          {
+            "title": "Medalist 2",
+            "slug": "medalist-2",
+            "url": "https://animesonline.cloud/anime/medalist-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/01/AvD6M2gJa9HSZK3XZM0qar14jnT-185x278.jpg",
+            "rating": "8.1",
+            "kind": "anime",
+            "provider": "aoc"
+          },
           {
             "title": "Medalist 2 Dublado",
             "slug": "medalist-2-dublado",
@@ -69963,39 +69972,13 @@
                 "slug": "nana-maru-san-batsu"
               }
             ]
-          },
-          {
-            "title": "Nanatsu no Taizai",
-            "slug": "nanatsu-no-taizai",
-            "url": "https://animesonline.cloud/anime/nanatsu-no-taizai",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/05/9BgEGOzGnd5r3SDGffKweHyauB5-185x278.jpg",
-            "rating": "8.449",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "nanatsu-no-taizai"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "nanatsu-no-taizai"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "nanatsu-no-taizai"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 25,
         "hasMore": true,
-        "total": 1680,
-        "cachedAt": 1784829217348,
+        "total": 1681,
+        "cachedAt": 1784843663360,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -70042,7 +70025,7 @@
           "fixHint": null
         }
       },
-      "at": 1784829217433
+      "at": 1784843665558
     },
     "partner:anitube|todos|26||48": {
       "data": {
@@ -70197,7 +70180,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784814864926
+      "at": 1784843665889
     },
     "todos|26||48": {
       "data": {
@@ -70253,6 +70236,15 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru",
+            "slug": "gorilla-no-kami-kara-kago-sareta-reijou-wa-ouritsu-kishidan-de-kawaigarareru",
+            "url": "https://animesonline.cloud/anime/gorilla-no-kami-kara-kago-sareta-reijou-wa-ouritsu-kishidan-de-kawaigarareru",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/03/qJ7OuLn37BbXOC47mXWvKTgOudW-185x278.jpg",
+            "rating": "0",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -70462,22 +70454,13 @@
             "rating": "8.883",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Pokémon 8ª Temporada: Batalha Avançada – Todos os Episódios",
-            "slug": "pokemon-8a-temporada-batalha-avancada",
-            "url": "https://animesonline.cloud/anime/pokemon-8a-temporada-batalha-avancada-todos-os-episodios",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/14xmF5WNaKkqp33a6THM4e148aV-185x278.jpg",
-            "rating": "7.758",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 26,
         "hasMore": true
       },
-      "at": 1784829218452
+      "at": 1784843666517
     },
     "partner:animeplay|todos|26||48": {
       "data": {
@@ -70728,7 +70711,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784814865876
+      "at": 1784843666667
     },
     "partner:animesdrive|todos|26||48": {
       "data": {
@@ -131609,5 +131592,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784843663652
+  "updatedAt": 1784843666667
 }
