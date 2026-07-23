@@ -80285,15 +80285,6 @@
             ]
           },
           {
-            "title": "Super no Ura de Yani Suu Futari",
-            "slug": "super-no-ura-de-yani-suu-futari",
-            "url": "https://animesonline.cloud/anime/super-no-ura-de-yani-suu-futari",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/nSdgX507jBlonGFC91Ve0TfcLjJ-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Super no Ura de Yani Suu Futari Mini",
             "slug": "smoking-behind-the-supermarket-with-you-mini",
             "url": "https://animesonline.cloud/anime/smoking-behind-the-supermarket-with-you-mini",
@@ -80318,7 +80309,7 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/08/htNohqrYEwuz4fCa9ATVF90s58S-185x278.jpg",
             "rating": "8.2",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -80446,7 +80437,7 @@
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/Synduality-Noir-2-Todos-os-Episodios-animesonline.cloud_-185x278.jpg",
             "rating": "4.2",
             "kind": "anime",
-            "provider": "animeplay",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -80547,13 +80538,21 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "7.2"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animeplay.cloud/anime/one-piece",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animeplay"
           }
         ],
         "category": "todos",
         "page": 31,
         "hasMore": true,
         "total": 1680,
-        "cachedAt": 1784800421762,
+        "cachedAt": 1784814883855,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -80600,7 +80599,7 @@
           "fixHint": null
         }
       },
-      "at": 1784800421852
+      "at": 1784814887349
     },
     "partner:anitube|todos|32||48": {
       "data": {
@@ -80755,7 +80754,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784786089413
+      "at": 1784814887694
     },
     "todos|32||48": {
       "data": {
@@ -81026,7 +81025,7 @@
         "page": 32,
         "hasMore": true
       },
-      "at": 1784800422755
+      "at": 1784814888246
     },
     "partner:animeplay|todos|32||48": {
       "data": {
@@ -81269,7 +81268,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784786089906
+      "at": 1784814888580
     },
     "todos|32||120": {
       "data": {
@@ -131875,5 +131874,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784814884215
+  "updatedAt": 1784814888580
 }
