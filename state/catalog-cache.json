@@ -90167,7 +90167,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784814910545
+      "at": 1784843711067
     },
     "todos|37||120": {
       "data": {
@@ -90325,6 +90325,27 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              }
+            ]
+          },
+          {
+            "title": "Vinland Saga",
+            "slug": "vinland-saga",
+            "url": "https://animesonline.cloud/anime/vinland-saga",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/ySPYLN1sHmgRdqdfLOE092JlNTp-185x278.jpg.webp",
+            "rating": "8.5",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "vinland-saga"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "vinland-saga"
               }
             ]
           },
@@ -90924,11 +90945,10 @@
           {
             "title": "Shikanoko Nokonoko Koshitantan – Todos os Episodios",
             "slug": "shikanoko-nokonoko-koshitantan",
-            "url": "https://animesonline.cloud/anime/shikanoko-nokonoko-koshitantan-todos-os-episodios",
+            "url": "https://animesdrive.online/anime/shikanoko-nokonoko-koshitantan-todos-os-episodios",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/06/9yfMi1XzTFnRUVjrGNMZPqmtXpx-185x278.jpg",
-            "rating": "0",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -90961,14 +90981,6 @@
                 "slug": "suicide-squad-isekai"
               }
             ]
-          },
-          {
-            "title": "Vinland Saga",
-            "slug": "vinland-saga",
-            "url": "https://animeplay.cloud/anime/vinland-saga",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2024/07/ySPYLN1sHmgRdqdfLOE092JlNTp-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           },
           {
             "title": "D.C Da Capo – (Legendado)",
@@ -91102,8 +91114,8 @@
         "category": "todos",
         "page": 37,
         "hasMore": true,
-        "total": 1680,
-        "cachedAt": 1784814908599,
+        "total": 1681,
+        "cachedAt": 1784843709018,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -91150,7 +91162,7 @@
           "fixHint": null
         }
       },
-      "at": 1784814910624
+      "at": 1784843711168
     },
     "partner:anitube|todos|38||48": {
       "data": {
@@ -91305,7 +91317,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784814910968
+      "at": 1784843711526
     },
     "todos|38||48": {
       "data": {
@@ -91361,6 +91373,15 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Shikanoko Nokonoko Koshitantan – Todos os Episodios",
+            "slug": "shikanoko-nokonoko-koshitantan",
+            "url": "https://animesonline.cloud/anime/shikanoko-nokonoko-koshitantan-todos-os-episodios",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/06/9yfMi1XzTFnRUVjrGNMZPqmtXpx-185x278.jpg",
+            "rating": "0",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -91570,22 +91591,13 @@
             "rating": "5.4",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Katekyou Hitman Reborn! – Todos os Episódios",
-            "slug": "katekyou-hitman-reborn",
-            "url": "https://animesonline.cloud/anime/katekyou-hitman-reborn",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/05/6x7mx9f3ufHCC3pNgMoMnzVo3jw-185x278.jpg",
-            "rating": "8.1",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 38,
         "hasMore": true
       },
-      "at": 1784814911418
+      "at": 1784843712116
     },
     "partner:animeplay|todos|38||48": {
       "data": {
@@ -91836,7 +91848,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784814911991
+      "at": 1784843712415
     },
     "partner:animesdrive|todos|38||48": {
       "data": {
@@ -131536,5 +131548,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784843709270
+  "updatedAt": 1784843712415
 }
