@@ -6874,6 +6874,31 @@
         "poster": "https://image.tmdb.org/t/p/w780/nIHp6fz2MX33blJKYa9BSbhct7W.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/jujutsu-kaisen-dublado-episodio-06"
       }
+    },
+    "anime:one-piece:1": {
+      "at": 1784817464183,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-O/OnePiece/01.mp4",
+            "label": "Legendado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-O%2FOnePiece%2F01.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-O/One Piece Dublado/001.mp4",
+            "label": "Dublado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-O%2FOne%20Piece%20Dublado%2F001.mp4&ref=aoc"
+          }
+        ],
+        "episode": 1,
+        "slug": "one-piece",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/one-piece-episodio-01"
+      }
     }
   }
 }
