@@ -1582,6 +1582,92 @@
         "provider": "anitube"
       }
     },
+    "63448": {
+      "at": 1784791796514,
+      "data": {
+        "slug": "63448",
+        "title": "Bihada Ichizoku",
+        "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL0JpaGFkYS1JY2hpem9rdS5qcGc",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Bihada Ichizoku – Episodio 01",
+            "url": "https://www.anitube.zip/video/63465/",
+            "videoId": "63465"
+          },
+          {
+            "number": 2,
+            "title": "Bihada Ichizoku – Episodio 02",
+            "url": "https://www.anitube.zip/video/63466/",
+            "videoId": "63466"
+          },
+          {
+            "number": 3,
+            "title": "Bihada Ichizoku – Episodio 03",
+            "url": "https://www.anitube.zip/video/63469/",
+            "videoId": "63469"
+          },
+          {
+            "number": 4,
+            "title": "Bihada Ichizoku – Episodio 04",
+            "url": "https://www.anitube.zip/video/63467/",
+            "videoId": "63467"
+          },
+          {
+            "number": 5,
+            "title": "Bihada Ichizoku – Episodio 05",
+            "url": "https://www.anitube.zip/video/63468/",
+            "videoId": "63468"
+          },
+          {
+            "number": 6,
+            "title": "Bihada Ichizoku – Episodio 06",
+            "url": "https://www.anitube.zip/video/63471/",
+            "videoId": "63471"
+          },
+          {
+            "number": 7,
+            "title": "Bihada Ichizoku – Episodio 07",
+            "url": "https://www.anitube.zip/video/63470/",
+            "videoId": "63470"
+          },
+          {
+            "number": 8,
+            "title": "Bihada Ichizoku – Episodio 08",
+            "url": "https://www.anitube.zip/video/63473/",
+            "videoId": "63473"
+          },
+          {
+            "number": 9,
+            "title": "Bihada Ichizoku – Episodio 09",
+            "url": "https://www.anitube.zip/video/63477/",
+            "videoId": "63477"
+          },
+          {
+            "number": 10,
+            "title": "Bihada Ichizoku – Episodio 10",
+            "url": "https://www.anitube.zip/video/63476/",
+            "videoId": "63476"
+          },
+          {
+            "number": 11,
+            "title": "Bihada Ichizoku – Episodio 11",
+            "url": "https://www.anitube.zip/video/63474/",
+            "videoId": "63474"
+          },
+          {
+            "number": 12,
+            "title": "Bihada Ichizoku – Episodio 12",
+            "url": "https://www.anitube.zip/video/63475/",
+            "videoId": "63475"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "anitube"
+      }
+    },
     "63511": {
       "at": 1784663431787,
       "data": {
@@ -31495,7 +31581,30 @@
           "Ação",
           "Animação",
           "Aventura"
-        ]
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "dragon-ball-daima",
+              "title": "Dragon Ball Daima – Todos os Episódios",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "994231",
+              "title": "Dragon Ball Daima (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "dragon-ball-daima-dublado",
+              "title": "Dragon Ball Daima Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "solo-leveling-dublado": {
