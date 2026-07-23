@@ -13070,8 +13070,8 @@
         "category": "todos",
         "page": 9,
         "hasMore": true,
-        "total": 1680,
-        "cachedAt": 1784829200845,
+        "total": 1681,
+        "cachedAt": 1784843616987,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -13118,7 +13118,7 @@
           "fixHint": null
         }
       },
-      "at": 1784829200936
+      "at": 1784843619300
     },
     "todos|10||120": {
       "data": {
@@ -35380,6 +35380,15 @@
             "provider": "aoc"
           },
           {
+            "title": "Medalist 2",
+            "slug": "medalist-2",
+            "url": "https://animesonline.cloud/anime/medalist-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/01/AvD6M2gJa9HSZK3XZM0qar14jnT-185x278.jpg",
+            "rating": "8.1",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "MF Ghost 3 Dublado",
             "slug": "mf-ghost-3-dublado",
             "url": "https://animesonline.cloud/anime/mf-ghost-3-dublado",
@@ -35585,22 +35594,13 @@
             "rating": "5",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Champignon no Majo",
-            "slug": "champignon-no-majo",
-            "url": "https://animesonline.cloud/anime/champignon-no-majo",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/01/gC4ZBJ4MsVNbhU595kyKGVwdNgP-185x278.jpg",
-            "rating": "7.2",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 10,
         "hasMore": true
       },
-      "at": 1784829201843
+      "at": 1784843620182
     },
     "todos|11||48": {
       "data": {
@@ -46482,7 +46482,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784814817436
+      "at": 1784843619162
     },
     "partner:anitube|todos|10||48": {
       "data": {
@@ -46637,7 +46637,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784814817911
+      "at": 1784843619639
     },
     "partner:animesdigital|todos|10||48": {
       "data": {
@@ -47032,7 +47032,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1784814818813
+      "at": 1784843619322
     },
     "partner:animeplay|todos|10||48": {
       "data": {
@@ -47283,7 +47283,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784814818893
+      "at": 1784843620449
     },
     "partner:animesdrive|todos|10||48": {
       "data": {
@@ -131642,5 +131642,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784843617345
+  "updatedAt": 1784843620449
 }
