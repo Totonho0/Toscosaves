@@ -9406,7 +9406,7 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/04/xoqmJpO3jGxEldDCItXuGj2MVTV-185x278.jpg",
             "rating": "8.507",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -9468,15 +9468,6 @@
             "slug": "1003557",
             "url": "https://www.anitube.zip/video/1003557/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-black-clover-2-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Black Clover Dublado",
-            "slug": "black-clover-dublado",
-            "url": "https://animesonline.cloud/anime/black-clover-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/91z5IHcqGWmh8odTnKcMzWDrsZK-185x278.jpg",
-            "rating": "8.507",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -9683,15 +9674,6 @@
             "slug": "881501",
             "url": "https://www.anitube.zip/video/881501/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-bleach-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Bleach Dublado",
-            "slug": "bleach-dublado",
-            "url": "https://animesonline.cloud/anime/bleach-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/cACXGL4PBgKslAF5W8aaxWdriW7-185x278.jpg",
-            "rating": "8.383",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -9929,13 +9911,53 @@
             "rating": "8.045",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesdrive.online/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 4,
         "hasMore": true,
-        "total": 1680,
-        "cachedAt": 1784829195728,
+        "total": 1681,
+        "cachedAt": 1784843601840,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -9982,7 +10004,7 @@
           "fixHint": null
         }
       },
-      "at": 1784829195814
+      "at": 1784843603952
     },
     "todos|5||120": {
       "data": {
@@ -10619,8 +10641,8 @@
         "category": "todos",
         "page": 5,
         "hasMore": true,
-        "total": 1680,
-        "cachedAt": 1784829196718,
+        "total": 1681,
+        "cachedAt": 1784843604789,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -10667,7 +10689,7 @@
           "fixHint": null
         }
       },
-      "at": 1784829196807
+      "at": 1784843606934
     },
     "todos|6||120": {
       "data": {
@@ -33976,6 +33998,15 @@
             "provider": "aoc"
           },
           {
+            "title": "Yani Neko",
+            "slug": "chainsmoker-cat",
+            "url": "https://animesonline.cloud/anime/chainsmoker-cat",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/mVaXYoSvcMWwbbJXKvkZTPdWRkR-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Bocchi the Rock! Season 2",
             "slug": "bocchi-the-rock-season-2",
             "url": "https://animesonline.cloud/anime/bocchi-the-rock-season-2",
@@ -34172,22 +34203,13 @@
             "rating": "8.5",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Tsue to Tsurugi no Wistoria 2",
-            "slug": "tsue-to-tsurugi-no-wistoria-2",
-            "url": "https://animesonline.cloud/anime/tsue-to-tsurugi-no-wistoria-2",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/cZnMdvNioymJxGM9DUISkjwKtwa-185x278.jpg",
-            "rating": "7.77",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 5,
         "hasMore": true
       },
-      "at": 1784829196718
+      "at": 1784843604789
     },
     "todos|6||48": {
       "data": {
@@ -41232,7 +41254,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784814802864
+      "at": 1784843603742
     },
     "partner:anitube|todos|5||48": {
       "data": {
@@ -41387,7 +41409,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784814803426
+      "at": 1784843604290
     },
     "partner:animesdigital|todos|5||48": {
       "data": {
@@ -41782,7 +41804,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1784814803099
+      "at": 1784843603976
     },
     "partner:animeplay|todos|5||48": {
       "data": {
@@ -42025,7 +42047,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784814804382
+      "at": 1784843605073
     },
     "partner:animesdrive|todos|5||48": {
       "data": {
@@ -42268,7 +42290,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784814805859
+      "at": 1784843606828
     },
     "partner:anitube|todos|6||48": {
       "data": {
@@ -42818,7 +42840,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1784814807764
+      "at": 1784843606956
     },
     "partner:animeplay|todos|6||48": {
       "data": {
@@ -131620,5 +131642,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784843601963
+  "updatedAt": 1784843606956
 }
