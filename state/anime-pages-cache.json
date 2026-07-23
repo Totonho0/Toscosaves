@@ -11188,7 +11188,7 @@
       }
     },
     "945206": {
-      "at": 1784755024366,
+      "at": 1784819882846,
       "data": {
         "slug": "945206",
         "title": "Tensura Nikki: Tensei shitara Slime Datta Ken",
@@ -61297,7 +61297,24 @@
         ],
         "totalEpisodes": 24,
         "kind": "anime",
-        "provider": "animesdigital"
+        "provider": "animesdigital",
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "jujutsu-kaisen",
+              "title": "Jujutsu Kaisen",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "jujutsu-kaisen-dublado",
+              "title": "Jujutsu Kaisen Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "fairy-tail-2": {
