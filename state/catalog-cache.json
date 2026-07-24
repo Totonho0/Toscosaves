@@ -79930,15 +79930,6 @@
             ]
           },
           {
-            "title": "Super no Ura de Yani Suu Futari",
-            "slug": "super-no-ura-de-yani-suu-futari",
-            "url": "https://animesonline.cloud/anime/super-no-ura-de-yani-suu-futari",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/nSdgX507jBlonGFC91Ve0TfcLjJ-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Super no Ura de Yani Suu Futari Mini",
             "slug": "smoking-behind-the-supermarket-with-you-mini",
             "url": "https://animesonline.cloud/anime/smoking-behind-the-supermarket-with-you-mini",
@@ -79963,7 +79954,7 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/08/htNohqrYEwuz4fCa9ATVF90s58S-185x278.jpg",
             "rating": "8.2",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -80179,13 +80170,21 @@
                 "slug": "taisho-otome-fairy-tale"
               }
             ]
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animeplay.cloud/anime/one-piece",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animeplay"
           }
         ],
         "category": "todos",
         "page": 31,
         "hasMore": true,
         "total": 1682,
-        "cachedAt": 1784858018525,
+        "cachedAt": 1784872477898,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -80232,7 +80231,7 @@
           "fixHint": null
         }
       },
-      "at": 1784858018605
+      "at": 1784872481420
     },
     "partner:anitube|todos|32||48": {
       "data": {
@@ -80387,7 +80386,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784843687366
+      "at": 1784872481772
     },
     "todos|32||48": {
       "data": {
@@ -80658,7 +80657,7 @@
         "page": 32,
         "hasMore": true
       },
-      "at": 1784858019311
+      "at": 1784872482282
     },
     "partner:animeplay|todos|32||48": {
       "data": {
@@ -80708,6 +80707,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Mignon – Todos os Episódios",
+            "slug": "mignon",
+            "url": "https://animeplay.cloud/anime/mignon-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/pk3uFK02s6EeAvcAmMcb12OrdYZ.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -80886,14 +80893,6 @@
             "poster": "https://image.tmdb.org/t/p/w185/y7FSPLQueRIT70i6SEtNKQsevYf.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Tsuma, Shougakusei ni Naru – Todos os Episódios",
-            "slug": "tsuma-shougakusei-ni-naru",
-            "url": "https://animeplay.cloud/anime/tsuma-shougakusei-ni-naru",
-            "poster": "https://image.tmdb.org/t/p/w185/wroDJ1ksf0bVanmx1MwkU4zIhI9.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -80901,7 +80900,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784843688181
+      "at": 1784872482608
     },
     "todos|32||120": {
       "data": {
@@ -130884,5 +130883,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784872478225
+  "updatedAt": 1784872482608
 }
