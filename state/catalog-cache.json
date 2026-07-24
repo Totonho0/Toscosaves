@@ -10151,7 +10151,19 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/hwwmH8NINlcC1nq6obL3atz2HDY-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "rating": "8.363"
+            "rating": "8.363",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "bocchi-the-rock-season-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "bocchi-the-rock-season-2"
+              }
+            ]
           },
           {
             "title": "Boku Dake ga Inai Machi (Legendado)",
@@ -10652,7 +10664,7 @@
         "page": 5,
         "hasMore": true,
         "total": 1682,
-        "cachedAt": 1784857995622,
+        "cachedAt": 1784872403168,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -10699,7 +10711,7 @@
           "fixHint": null
         }
       },
-      "at": 1784857995715
+      "at": 1784872405360
     },
     "todos|6||120": {
       "data": {
@@ -11234,7 +11246,7 @@
         "page": 6,
         "hasMore": true,
         "total": 1682,
-        "cachedAt": 1784857996531,
+        "cachedAt": 1784872406235,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -11281,7 +11293,7 @@
           "fixHint": null
         }
       },
-      "at": 1784857996622
+      "at": 1784872407734
     },
     "todos|7||120": {
       "data": {
@@ -34328,7 +34340,7 @@
         "page": 6,
         "hasMore": true
       },
-      "at": 1784857996531
+      "at": 1784872406235
     },
     "todos|7||48": {
       "data": {
@@ -34608,7 +34620,7 @@
         "page": 7,
         "hasMore": true
       },
-      "at": 1784857997582
+      "at": 1784872408606
     },
     "todos|8||48": {
       "data": {
@@ -41949,6 +41961,14 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Kagurabachi",
+            "slug": "kagurabachi",
+            "url": "https://animesdrive.online/anime/kagurabachi",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/vYE38d5dcyD0oAGgbtC5slERvM3-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Haikyuu!! Second Season Dublado",
             "slug": "haikyuu-second-season-dublado",
             "url": "https://animesdrive.online/anime/haikyuu-second-season-dublado",
@@ -42123,14 +42143,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2026/04/3SE2zjysB2gssErhW2QJ6Lenq5V-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Kuroneko to Majo no Kyoushitsu",
-            "slug": "kuroneko-to-majo-no-kyoushitsu",
-            "url": "https://animesdrive.online/anime/kuroneko-to-majo-no-kyoushitsu",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/pcXzTpEwnIkAU9QcJ6UzaAeUzx3-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -42138,7 +42150,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784843606828
+      "at": 1784872405241
     },
     "partner:anitube|todos|6||48": {
       "data": {
@@ -42293,7 +42305,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784843607275
+      "at": 1784872405711
     },
     "partner:animesdigital|todos|6||48": {
       "data": {
@@ -42688,7 +42700,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1784843606956
+      "at": 1784872405385
     },
     "partner:animeplay|todos|6||48": {
       "data": {
@@ -42738,6 +42750,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Yozakura-san Chi no Daisakusen 2",
+            "slug": "yozakura-san-chi-no-daisakusen-2",
+            "url": "https://animeplay.cloud/anime/yozakura-san-chi-no-daisakusen-2",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/3SE2zjysB2gssErhW2QJ6Lenq5V-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -42916,14 +42936,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/l7EMuIU0xpqlV4NEYMgrvZDRHQq-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "LIAR GAME",
-            "slug": "liar-game",
-            "url": "https://animeplay.cloud/anime/liar-game",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/tGNeNhXzjNFJ6zaBqV3TKHtZpWy-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -42931,7 +42943,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784843608093
+      "at": 1784872406642
     },
     "partner:animesdrive|todos|6||48": {
       "data": {
@@ -42981,6 +42993,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animesdrive.online/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Kuroneko to Majo no Kyoushitsu",
+            "slug": "kuroneko-to-majo-no-kyoushitsu",
+            "url": "https://animesdrive.online/anime/kuroneko-to-majo-no-kyoushitsu",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/pcXzTpEwnIkAU9QcJ6UzaAeUzx3-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -43159,14 +43179,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2026/04/tGNeNhXzjNFJ6zaBqV3TKHtZpWy-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "NIPPON SANGOKU Dublado",
-            "slug": "nippon-sangoku-dublado",
-            "url": "https://animesdrive.online/anime/nippon-sangoku-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/hjihUw4UPndUxklecJxz1qCbcjT-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -43174,7 +43186,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784843609754
+      "at": 1784872407592
     },
     "partner:anitube|todos|7||48": {
       "data": {
@@ -43329,7 +43341,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784843610200
+      "at": 1784872408102
     },
     "partner:animesdigital|todos|7||48": {
       "data": {
@@ -43724,7 +43736,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1784843609879
+      "at": 1784872407777
     },
     "partner:animeplay|todos|7||48": {
       "data": {
@@ -43774,6 +43786,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "LIAR GAME",
+            "slug": "liar-game",
+            "url": "https://animeplay.cloud/anime/liar-game",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/tGNeNhXzjNFJ6zaBqV3TKHtZpWy-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -43960,14 +43980,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/dQNQqAT1rRYs2jri1FUUPrhLS8Z-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Dorohedoro 2 Dublado",
-            "slug": "dorohedoro-2-dublado",
-            "url": "https://animeplay.cloud/anime/dorohedoro-2-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/c8mcd1TbVN4f4fAyEQzygv2IHWI-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -43975,7 +43987,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784843611050
+      "at": 1784872408952
     },
     "partner:animesdrive|todos|7||48": {
       "data": {
@@ -130873,5 +130885,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784872403653
+  "updatedAt": 1784872408952
 }
