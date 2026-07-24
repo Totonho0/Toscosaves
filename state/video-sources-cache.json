@@ -7313,6 +7313,26 @@
         "poster": "https://image.tmdb.org/t/p/w780/c0oFoz7PttzMLsQOQn54Lcu8V9d.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-episodio-02"
       }
+    },
+    "anime:tensei-shitara-slime-datta-ken:1": {
+      "at": 1784926378157,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/t/tensei-shitara-slime-datta-ken/01.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/37877b001",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Ft%2Ftensei-shitara-slime-datta-ken%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "tensei-shitara-slime-datta-ken",
+        "kind": "anime",
+        "provider": "animesdigital",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci10ZW5zZWktc2hpdGFyYS1zbGltZS1kYXR0YS1rZW4tdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbmltZXNkaWdpdGFsLmpwZw",
+        "episodeUrl": "https://animesdigital.org/video/a/37877b001"
+      }
     }
   }
 }
