@@ -20062,25 +20062,6 @@
       "viewingDetail": "Episódio 01 - Ryomen Sukuna",
       "viewingUpdatedAt": 1784791882084
     },
-    "v:d01c7354-471f-419b-acdf-3fc5151045d2": {
-      "userKey": "v:d01c7354-471f-419b-acdf-3fc5151045d2",
-      "messageId": "1529598037855309947",
-      "channelId": "1522313133513904161",
-      "ip": "177.55.231.100",
-      "discordId": "",
-      "username": "",
-      "displayName": "Visitante #D01C7354",
-      "visitorShortId": "D01C7354",
-      "lastSeenAt": 1784926201728,
-      "lastAlertAt": 1784926059689,
-      "viaBot": true,
-      "componentsOk": true,
-      "embedOnlineStatus": true,
-      "viewingKind": "filme",
-      "viewingTitle": "A Odisseia",
-      "viewingDetail": "Filme completo",
-      "viewingUpdatedAt": 1784817420700
-    },
     "v:79eabc93-380c-4ca8-9802-1353a8f1fde4": {
       "userKey": "v:79eabc93-380c-4ca8-9802-1353a8f1fde4",
       "messageId": "1529600085544014077",
@@ -26052,6 +26033,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "d:945087573418709054": {
+      "userKey": "d:945087573418709054",
+      "messageId": "1530316203128651900",
+      "channelId": "1522313132574244918",
+      "ip": "177.55.231.100",
+      "discordId": "945087573418709054",
+      "username": "Paulinho",
+      "lastSeenAt": 1784926214859,
+      "lastAlertAt": 1784926214319,
+      "componentsOk": true,
+      "viaBot": false,
+      "embedOnlineStatus": true,
+      "displayName": "Visitante #D01C7354",
+      "visitorShortId": "D01C7354"
     }
   },
   "links": {
@@ -26093,6 +26089,9 @@
     "ip:e1fe850e63248c19": "d:1474466223709487367",
     "ip:583cb26b62fcfe1d": "d:995408617308164107",
     "ip:9f53a0c11fd68483": "d:995408617308164107",
-    "ip:d33bd907a9ff4d01": "d:995408617308164107"
+    "ip:d33bd907a9ff4d01": "d:995408617308164107",
+    "v:d01c7354-471f-419b-acdf-3fc5151045d2": "d:945087573418709054",
+    "d:945087573418709054": "ip:89d42559ae427727",
+    "ip:89d42559ae427727": "d:945087573418709054"
   }
 }
