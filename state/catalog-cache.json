@@ -97696,6 +97696,14 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Hikari no Ou 2 – Todos os Episódios",
+            "slug": "hikari-no-ou-2",
+            "url": "https://animesdrive.online/anime/hikari-no-ou-2",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/01/Hikari-no-Ou-2nd-Season-animesonline.cloud_-185x278.jpg.webp",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Chiyu Mahou no Machigatta Tsukaikata",
             "slug": "chiyu-mahou-no-machigatta-tsukaikata",
             "url": "https://animesdrive.online/anime/chiyu-mahou-no-machigatta-tsukaikata",
@@ -97870,14 +97878,6 @@
             "poster": "https://image.tmdb.org/t/p/w185/1ttxQPgX6HJqUsXuC2HgnQRv7wZ.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "A Sign of Affection",
-            "slug": "a-sign-of-affection",
-            "url": "https://animesdrive.online/anime/a-sign-of-affection",
-            "poster": "https://image.tmdb.org/t/p/w185/6WJZiR1lRoa80tkWrR2U2IQm9rO.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -97885,7 +97885,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784843723271
+      "at": 1784872517518
     },
     "todos|41||120": {
       "data": {
@@ -98047,6 +98047,32 @@
             ]
           },
           {
+            "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen – Todos os Episódios",
+            "slug": "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen",
+            "url": "https://animesonline.cloud/anime/akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/Akuyaku-Reijou-Level-99-Watashi-wa-Ura-Boss-desu-ga-Maou-dewa-Arimasen-animesonline.cloud_-185x278.jpg",
+            "rating": "8.2",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen"
+              }
+            ]
+          },
+          {
             "title": "Synduality: Noir 2 – Todos os Episódios",
             "slug": "synduality-noir-2",
             "url": "https://animesonline.cloud/anime/synduality-noir-2",
@@ -98084,6 +98110,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "hikari-no-ou-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "hikari-no-ou-2"
               },
               {
@@ -98616,11 +98647,10 @@
           {
             "title": "Fluffy Paradise",
             "slug": "fluffy-paradise",
-            "url": "https://animesonline.cloud/anime/fluffy-paradise",
+            "url": "https://animesdrive.online/anime/fluffy-paradise",
             "poster": "https://image.tmdb.org/t/p/w185/tDvb4SRltQLs1hkKe5WYQmpi6gJ.jpg",
-            "rating": "6",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -98656,26 +98686,11 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy"
-              }
-            ]
-          },
-          {
-            "title": "A Sign of Affection",
-            "slug": "a-sign-of-affection",
-            "url": "https://animesdrive.online/anime/a-sign-of-affection",
-            "poster": "https://image.tmdb.org/t/p/w185/6WJZiR1lRoa80tkWrR2U2IQm9rO.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "a-sign-of-affection"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "a-sign-of-affection"
+                "slug": "7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy"
               }
             ]
           },
@@ -98862,8 +98877,8 @@
         "category": "todos",
         "page": 41,
         "hasMore": true,
-        "total": 1681,
-        "cachedAt": 1784843720700,
+        "total": 1682,
+        "cachedAt": 1784872515195,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -98910,7 +98925,7 @@
           "fixHint": null
         }
       },
-      "at": 1784843723422
+      "at": 1784872517723
     },
     "partner:anitube|todos|42||48": {
       "data": {
@@ -99065,7 +99080,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784843723765
+      "at": 1784872518067
     },
     "todos|42||48": {
       "data": {
@@ -99121,6 +99136,15 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Fluffy Paradise",
+            "slug": "fluffy-paradise",
+            "url": "https://animesonline.cloud/anime/fluffy-paradise",
+            "poster": "https://image.tmdb.org/t/p/w185/tDvb4SRltQLs1hkKe5WYQmpi6gJ.jpg",
+            "rating": "6",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -99303,22 +99327,13 @@
             "rating": "6.8",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Watashi no Shiawase na Kekkon 2",
-            "slug": "watashi-no-shiawase-na-kekkon-2",
-            "url": "https://animesonline.cloud/anime/watashi-no-shiawase-na-kekkon-2",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/vdqm3CXgwdKij3NMwPJBV3ooOHz-185x278.jpg",
-            "rating": "8.4",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 42,
         "hasMore": true
       },
-      "at": 1784843724297
+      "at": 1784872518573
     },
     "partner:animeplay|todos|42||48": {
       "data": {
@@ -99368,6 +99383,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Fluffy Paradise",
+            "slug": "fluffy-paradise",
+            "url": "https://animeplay.cloud/anime/fluffy-paradise",
+            "poster": "https://image.tmdb.org/t/p/w185/tDvb4SRltQLs1hkKe5WYQmpi6gJ.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -99530,14 +99553,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/3Z7T9LxxCC6AhhWUxJsShtV3dXM-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Watashi no Shiawase na Kekkon 2",
-            "slug": "watashi-no-shiawase-na-kekkon-2",
-            "url": "https://animeplay.cloud/anime/watashi-no-shiawase-na-kekkon-2",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/01/vdqm3CXgwdKij3NMwPJBV3ooOHz-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -99545,7 +99560,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784843724618
+      "at": 1784872518934
     },
     "partner:animesdrive|todos|42||48": {
       "data": {
@@ -131794,5 +131809,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784872515436
+  "updatedAt": 1784872518934
 }
