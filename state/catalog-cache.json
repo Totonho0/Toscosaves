@@ -9426,7 +9426,7 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/04/xoqmJpO3jGxEldDCItXuGj2MVTV-185x278.jpg",
             "rating": "8.507",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -9488,15 +9488,6 @@
             "slug": "1003557",
             "url": "https://www.anitube.zip/video/1003557/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-black-clover-2-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Black Clover Dublado",
-            "slug": "black-clover-dublado",
-            "url": "https://animesonline.cloud/anime/black-clover-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/91z5IHcqGWmh8odTnKcMzWDrsZK-185x278.jpg",
-            "rating": "8.507",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -9703,15 +9694,6 @@
             "slug": "881501",
             "url": "https://www.anitube.zip/video/881501/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-bleach-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Bleach Dublado",
-            "slug": "bleach-dublado",
-            "url": "https://animesonline.cloud/anime/bleach-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/cACXGL4PBgKslAF5W8aaxWdriW7-185x278.jpg",
-            "rating": "8.383",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -9949,13 +9931,53 @@
             "rating": "8.045",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesdrive.online/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 4,
         "hasMore": true,
         "total": 1682,
-        "cachedAt": 1784915595225,
+        "cachedAt": 1784930001783,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -10002,7 +10024,7 @@
           "fixHint": null
         }
       },
-      "at": 1784915595320
+      "at": 1784930004257
     },
     "todos|5||120": {
       "data": {
@@ -34230,7 +34252,7 @@
         "page": 5,
         "hasMore": true
       },
-      "at": 1784915596177
+      "at": 1784930005134
     },
     "todos|6||48": {
       "data": {
@@ -41275,7 +41297,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784901201823
+      "at": 1784930003999
     },
     "partner:anitube|todos|5||48": {
       "data": {
@@ -41430,7 +41452,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784901202376
+      "at": 1784930004624
     },
     "partner:animesdigital|todos|5||48": {
       "data": {
@@ -41496,6 +41518,54 @@
             "slug": "spy-x-family-season-ll",
             "url": "https://animesdigital.org/anime/a/spy-x-family-season-ll",
             "poster": "https://animesdigital.org/wp-content/uploads/2023/09/Spy-x-Family-2Ep.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "shunkashuutou daikousha haru no mai",
+            "slug": "shunkashuutou-daikousha-haru-no-mai",
+            "url": "https://animesdigital.org/anime/a/shunkashuutou-daikousha-haru-no-mai",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/03/assistir-shunkashuutou-daikousha-haru-no-mai-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "star wars a guerra dos clones 3a temporada",
+            "slug": "star-wars-a-guerra-dos-clones-3a-temporada",
+            "url": "https://animesdigital.org/anime/a/star-wars-a-guerra-dos-clones-3a-temporada",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/11/Star-Wars-A-Guerra-dos-Clones-3-Dublado.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "star wars a guerra dos clones",
+            "slug": "star-wars-a-guerra-dos-clones",
+            "url": "https://animesdigital.org/anime/a/star-wars-a-guerra-dos-clones",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/11/Star-Wars-A-Guerra-dos-Clones-1-Dublado.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "invencivel 4a temporada dublado",
+            "slug": "invencivel-4a-temporada-dublado",
+            "url": "https://animesdigital.org/anime/a/invencivel-4a-temporada-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/03/invencivel-4-temporada-dublado.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "kimi no na wa",
+            "slug": "kimi-no-na-wa",
+            "url": "https://animesdigital.org/anime/a/kimi-no-na-wa",
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/07/Kimi-no-Na-wa-categoria.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bob esponja 6a temporada",
+            "slug": "bob-esponja-6a-temporada",
+            "url": "https://animesdigital.org/anime/a/bob-esponja-6a-temporada",
+            "poster": "https://animesdigital.org/wp-content/uploads/2024/04/Bob-Esponja-6-categoria.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -41770,54 +41840,6 @@
             "poster": "https://animesdigital.org/wp-content/uploads/2023/07/Dragon-Ball-Super-Super-Hero-filme.jpg",
             "kind": "anime",
             "provider": "animesdigital"
-          },
-          {
-            "title": "dr stone science future part 2 dublado",
-            "slug": "dr-stone-science-future-part-2-dublado",
-            "url": "https://animesdigital.org/anime/a/dr-stone-science-future-part-2-dublado",
-            "poster": "https://animesdigital.org/wp-content/uploads/2025/07/Dr-Stone-Science-Future-Part-2-Dublado.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "dragon ball z 2",
-            "slug": "dragon-ball-z-2",
-            "url": "https://animesdigital.org/anime/a/dragon-ball-z-2",
-            "poster": "https://animesdigital.org/wp-content/uploads/2021/11/assistir-dragon-ball-z-todos-os-episodios-online-animes-online.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "dragon ball gt",
-            "slug": "dragon-ball-gt",
-            "url": "https://animesdigital.org/anime/a/dragon-ball-gt",
-            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-dragon-ball-gt-dublado-todos-os-episodios-online-animesdigital.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "dragon ball daima",
-            "slug": "dragon-ball-daima",
-            "url": "https://animesdigital.org/anime/a/dragon-ball-daima",
-            "poster": "https://animesdigital.org/wp-content/uploads/2024/10/Dragon-Ball-DaimaEp.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "boku no hero academia dublado",
-            "slug": "boku-no-hero-academia-dublado",
-            "url": "https://animesdigital.org/anime/a/boku-no-hero-academia-dublado",
-            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-boku-no-hero-academia-dublado-dublado-todos-os-episodios-online-animesdigital.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "boku no hero academia 2 dublado",
-            "slug": "boku-no-hero-academia-2-dublado",
-            "url": "https://animesdigital.org/anime/a/boku-no-hero-academia-2-dublado",
-            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-boku-no-hero-academia-2-dublado-dublado-todos-os-episodios-online-animesdigital.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
           }
         ],
         "category": "todos",
@@ -41825,7 +41847,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1784901202062
+      "at": 1784930004287
     },
     "partner:animeplay|todos|5||48": {
       "data": {
@@ -42068,7 +42090,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784901203333
+      "at": 1784930005546
     },
     "partner:animesdrive|todos|5||48": {
       "data": {
@@ -131290,5 +131312,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784930002162
+  "updatedAt": 1784930005546
 }
