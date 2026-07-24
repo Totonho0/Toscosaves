@@ -83346,7 +83346,19 @@
             "poster": "https://image.tmdb.org/t/p/w185/wroDJ1ksf0bVanmx1MwkU4zIhI9.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tsuma-shougakusei-ni-naru"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tsuma-shougakusei-ni-naru"
+              }
+            ]
           },
           {
             "title": "Tsuyokute New Saga",
@@ -83476,7 +83488,7 @@
         "page": 33,
         "hasMore": true,
         "total": 1682,
-        "cachedAt": 1784858020178,
+        "cachedAt": 1784872487005,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -83523,7 +83535,7 @@
           "fixHint": null
         }
       },
-      "at": 1784858020270
+      "at": 1784872490913
     },
     "todos|34||48": {
       "data": {
@@ -83785,7 +83797,7 @@
         "page": 34,
         "hasMore": true
       },
-      "at": 1784858021020
+      "at": 1784872491985
     },
     "partner:anitube|todos|34||48": {
       "data": {
@@ -83940,7 +83952,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784843696907
+      "at": 1784872491307
     },
     "partner:animeplay|todos|34||48": {
       "data": {
@@ -83990,6 +84002,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2",
+            "slug": "rezero-kara-hajimeru-isekai-seikatsu-2",
+            "url": "https://animeplay.cloud/anime/rezero-kara-hajimeru-isekai-seikatsu-2",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/Re-Zero-kara-Hajimeru-Isekai-Seikatsu-2-Dublado-185x272.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -84160,14 +84180,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/08/plv79G8KMsN4U8keajQKva3aSCy-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "NegaPosi Angler – Todos os Episódios",
-            "slug": "negaposi-angler",
-            "url": "https://animeplay.cloud/anime/negaposi-angler",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2024/08/qRzjoFxvYMm2boZY3vJrLS3vDft-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -84175,7 +84187,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784843697746
+      "at": 1784872492101
     },
     "todos|34||120": {
       "data": {
@@ -130883,5 +130895,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784872487399
+  "updatedAt": 1784872492101
 }
