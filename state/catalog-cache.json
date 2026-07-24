@@ -95761,6 +95761,14 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Vampire Dormitory – Todos os Episódios",
+            "slug": "vampire-dormitory",
+            "url": "https://animesdrive.online/anime/vampire-dormitory",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/22c8lGyJv5fph12Wk518spTjPFo-185x278.jpg.webp",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Sentai Daishikkaku – Todos os Episódios",
             "slug": "sentai-daishikkaku",
             "url": "https://animesdrive.online/anime/sentai-daishikkaku",
@@ -95943,14 +95951,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/01/Synduality-Noir-2-Todos-os-Episodios-animesonline.cloud_-185x278.jpg.webp",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Hikari no Ou 2 – Todos os Episódios",
-            "slug": "hikari-no-ou-2",
-            "url": "https://animesdrive.online/anime/hikari-no-ou-2",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/01/Hikari-no-Ou-2nd-Season-animesonline.cloud_-185x278.jpg.webp",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -95958,7 +95958,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784843719719
+      "at": 1784872514157
     },
     "todos|40||120": {
       "data": {
@@ -96120,6 +96120,32 @@
             ]
           },
           {
+            "title": "Blue Archive the Animation – Todos os Episódios",
+            "slug": "blue-archive-the-animation",
+            "url": "https://animesonline.cloud/anime/blue-archive-the-animation",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/mQUHs5srrBG3VtQkMFjMHnje2TI-185x278.jpg.webp",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "blue-archive-the-animation"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "blue-archive-the-animation"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "blue-archive-the-animation"
+              }
+            ]
+          },
+          {
             "title": "Jiisan Baasan Wakagaeru – Todos os Episódios",
             "slug": "jiisan-baasan-wakagaeru",
             "url": "https://animesonline.cloud/anime/jiisan-baasan-wakagaeru",
@@ -96157,6 +96183,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "vampire-dormitory"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "vampire-dormitory"
               },
               {
@@ -96715,11 +96746,10 @@
           {
             "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen – Todos os Episódios",
             "slug": "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen",
-            "url": "https://animesonline.cloud/anime/akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/Akuyaku-Reijou-Level-99-Watashi-wa-Ura-Boss-desu-ga-Maou-dewa-Arimasen-animesonline.cloud_-185x278.jpg",
-            "rating": "8.2",
+            "url": "https://animesdrive.online/anime/akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/01/Akuyaku-Reijou-Level-99-Watashi-wa-Ura-Boss-desu-ga-Maou-dewa-Arimasen-animesonline.cloud_-185x278.jpg.webp",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -96755,26 +96785,11 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "synduality-noir-2"
-              }
-            ]
-          },
-          {
-            "title": "Hikari no Ou 2 – Todos os Episódios",
-            "slug": "hikari-no-ou-2",
-            "url": "https://animesdrive.online/anime/hikari-no-ou-2",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/01/Hikari-no-Ou-2nd-Season-animesonline.cloud_-185x278.jpg.webp",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "hikari-no-ou-2"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "hikari-no-ou-2"
+                "slug": "synduality-noir-2"
               }
             ]
           },
@@ -96910,8 +96925,8 @@
         "category": "todos",
         "page": 40,
         "hasMore": true,
-        "total": 1681,
-        "cachedAt": 1784843718102,
+        "total": 1682,
+        "cachedAt": 1784872512283,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -96958,7 +96973,7 @@
           "fixHint": null
         }
       },
-      "at": 1784843719803
+      "at": 1784872514255
     },
     "partner:anitube|todos|41||48": {
       "data": {
@@ -97113,7 +97128,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784843720134
+      "at": 1784872514606
     },
     "todos|41||48": {
       "data": {
@@ -97169,6 +97184,15 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen – Todos os Episódios",
+            "slug": "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen",
+            "url": "https://animesonline.cloud/anime/akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/Akuyaku-Reijou-Level-99-Watashi-wa-Ura-Boss-desu-ga-Maou-dewa-Arimasen-animesonline.cloud_-185x278.jpg",
+            "rating": "8.2",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -97369,22 +97393,13 @@
             "rating": "4.25",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Fluffy Paradise",
-            "slug": "fluffy-paradise",
-            "url": "https://animesonline.cloud/anime/fluffy-paradise",
-            "poster": "https://image.tmdb.org/t/p/w185/tDvb4SRltQLs1hkKe5WYQmpi6gJ.jpg",
-            "rating": "6",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 41,
         "hasMore": true
       },
-      "at": 1784843720700
+      "at": 1784872515195
     },
     "partner:animeplay|todos|41||48": {
       "data": {
@@ -97434,6 +97449,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen – Todos os Episódios",
+            "slug": "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen",
+            "url": "https://animeplay.cloud/anime/akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/Akuyaku-Reijou-Level-99-Watashi-wa-Ura-Boss-desu-ga-Maou-dewa-Arimasen-animesonline.cloud_-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -97612,14 +97635,6 @@
             "poster": "https://image.tmdb.org/t/p/w185/lOyFi5mNkUIELYrB1TvoIf9IPT6.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Fluffy Paradise",
-            "slug": "fluffy-paradise",
-            "url": "https://animeplay.cloud/anime/fluffy-paradise",
-            "poster": "https://image.tmdb.org/t/p/w185/tDvb4SRltQLs1hkKe5WYQmpi6gJ.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -97627,7 +97642,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784843720988
+      "at": 1784872515436
     },
     "partner:animesdrive|todos|41||48": {
       "data": {
@@ -131779,5 +131794,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784872512575
+  "updatedAt": 1784872515436
 }
