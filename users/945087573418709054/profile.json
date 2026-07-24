@@ -14,6 +14,13 @@
       "title": "Tensei shitara Slime Datta Ken 4th Season",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94empaRHlxVW9idUp0a0JsamhnTEg0RmRueWUuanBn",
       "kind": "anime"
+    },
+    "tensei-shitara-slime-datta-ken": {
+      "slug": "tensei-shitara-slime-datta-ken",
+      "title": "That Time I Got Reincarnated as a Slime",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci10ZW5zZWktc2hpdGFyYS1zbGltZS1kYXR0YS1rZW4tdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbmltZXNkaWdpdGFsLmpwZw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -33,9 +40,17 @@
     "one-piece": [
       1,
       1170
+    ],
+    "tensei-shitara-slime-datta-ken": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "tensei-shitara-slime-datta-ken",
+      "ep": 1,
+      "at": 1784926346451
+    },
     {
       "slug": "tensei-shitara-slime-datta-ken-4th-season",
       "ep": 15,
@@ -58,5 +73,5 @@
   },
   "filmePlayback": {},
   "customLists": {},
-  "updatedAt": 1784926306587
+  "updatedAt": 1784926344723
 }
