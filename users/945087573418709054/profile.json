@@ -8,13 +8,42 @@
   "favorites": [],
   "watchLater": [],
   "mangaFavorites": [],
-  "library": {},
-  "watched": {},
+  "library": {
+    "tensei-shitara-slime-datta-ken-4th-season": {
+      "slug": "tensei-shitara-slime-datta-ken-4th-season",
+      "title": "Tensei shitara Slime Datta Ken 4th Season",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94empaRHlxVW9idUp0a0JsamhnTEg0RmRueWUuanBn",
+      "kind": "anime"
+    }
+  },
+  "watched": {
+    "tensei-shitara-slime-datta-ken-4th-season": [
+      15
+    ]
+  },
   "started": {},
-  "watchHistoryLog": [],
+  "watchHistoryLog": [
+    {
+      "slug": "tensei-shitara-slime-datta-ken-4th-season",
+      "ep": 15,
+      "at": 1784926221288
+    }
+  ],
   "watchHistoryHidden": [],
-  "animePlayback": {},
+  "animePlayback": {
+    "tensei-shitara-slime-datta-ken-4th-season": {
+      "ep": 15,
+      "time": 10.621333,
+      "at": 1784755072326,
+      "title": "Tensei shitara Slime Datta Ken 4th Season",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94empaRHlxVW9idUp0a0JsamhnTEg0RmRueWUuanBn",
+      "kind": "anime",
+      "provider": "aoc",
+      "adult": false,
+      "duration": 1440.856083
+    }
+  },
   "filmePlayback": {},
   "customLists": {},
-  "updatedAt": 1784926213299
+  "updatedAt": 1784926216955
 }
