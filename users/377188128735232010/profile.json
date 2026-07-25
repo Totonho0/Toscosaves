@@ -99,6 +99,13 @@
       "kind": "anime",
       "adult": false
     },
+    "1050763": {
+      "slug": "1050763",
+      "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLXlvdWtvc28taml0c3VyeW9rdS1zaGlqb3Utc2h1Z2ktbm8ta3lvdXNoaXRzdS1lLTQtdG9kb3Mtb3MtZXBpc29kaW9zLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pdHViZS5qcGc",
+      "kind": "anime",
+      "adult": false
+    },
     "1061279": {
       "slug": "1061279",
       "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
@@ -748,6 +755,9 @@
     "1034362": [
       1
     ],
+    "1050763": [
+      1
+    ],
     "1061279": [
       1
     ],
@@ -1018,6 +1028,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "1050763",
+      "ep": 1,
+      "at": 1785004603695
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -1825,5 +1840,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785004489935
+  "updatedAt": 1785004605196
 }
