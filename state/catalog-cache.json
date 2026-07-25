@@ -83937,7 +83937,7 @@
         "page": 33,
         "hasMore": true,
         "total": 1682,
-        "cachedAt": 1784973224148,
+        "cachedAt": 1784987701395,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -83984,7 +83984,7 @@
           "fixHint": null
         }
       },
-      "at": 1784973224238
+      "at": 1784987704676
     },
     "todos|34||48": {
       "data": {
@@ -84040,6 +84040,15 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3",
+            "slug": "rezero-kara-hajimeru-isekai-seikatsu-3",
+            "url": "https://animesonline.cloud/anime/rezero-kara-hajimeru-isekai-seikatsu-3",
+            "poster": "https://image.tmdb.org/t/p/original/kZv5XLbAjhSD1UiHnYH9g69JTPF.jpg",
+            "rating": "7.738",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -84231,22 +84240,13 @@
             "rating": "6.2",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "The Idolmaster: Shiny Colors – Todos os Episódios",
-            "slug": "the-idolmster-shiny-colors",
-            "url": "https://animesonline.cloud/anime/the-idolmster-shiny-colors",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/08/plv79G8KMsN4U8keajQKva3aSCy-185x278.jpg",
-            "rating": "7.333",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 34,
         "hasMore": true
       },
-      "at": 1784973225172
+      "at": 1784987706595
     },
     "partner:anitube|todos|34||48": {
       "data": {
@@ -84401,7 +84401,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784958897827
+      "at": 1784987705566
     },
     "partner:animeplay|todos|34||48": {
       "data": {
@@ -84451,6 +84451,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3",
+            "slug": "rezero-kara-hajimeru-isekai-seikatsu-3",
+            "url": "https://animeplay.cloud/anime/rezero-kara-hajimeru-isekai-seikatsu-3",
+            "poster": "https://image.tmdb.org/t/p/original/kZv5XLbAjhSD1UiHnYH9g69JTPF.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -84621,14 +84629,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/08/tK9uDDtuqI2ydM63vMj80psbLSD-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "The Idolmaster: Shiny Colors – Todos os Episódios",
-            "slug": "the-idolmster-shiny-colors",
-            "url": "https://animeplay.cloud/anime/the-idolmster-shiny-colors",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2024/08/plv79G8KMsN4U8keajQKva3aSCy-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -84636,7 +84636,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784958898874
+      "at": 1784987705971
     },
     "todos|34||120": {
       "data": {
@@ -131478,5 +131478,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784987701395
+  "updatedAt": 1784987706595
 }
