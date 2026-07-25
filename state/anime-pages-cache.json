@@ -74585,6 +74585,134 @@
           }
         }
       }
+    },
+    "boku-no-hero-academia": {
+      "at": 1785004508541,
+      "data": {
+        "slug": "boku-no-hero-academia",
+        "title": "Boku no Hero Academia",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9jSDM5YUpnOVZsRWFZbzZ5WTM3SWFoOFJBYXouanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Izuku Midoriya: A Origem",
+            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - O que é Preciso Para ser um Herói",
+            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Músculos que Rugem",
+            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Ponto de Partida",
+            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Tudo o que Posso Fazer por Ora",
+            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Reaja, Fracote Maldito!",
+            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Deku vs. Kazinho",
+            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - O Ponto de Partida de Bakugo!",
+            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Isso, Dê o Melhor de Si, Iida!",
+            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Encontro com o Desconhecido",
+            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Game Over",
+            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - All Might",
+            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Episódio 13 - No Coração de Cada Um de Nós",
+            "url": "https://animesonline.cloud/episodio/boku-no-hero-academia-episodio-13"
+          }
+        ],
+        "totalEpisodes": 13,
+        "kind": "anime",
+        "provider": "aoc",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Ação",
+          "Animação",
+          "Aventura",
+          "Fantasia",
+          "Sci-Fi"
+        ],
+        "animeSources": [
+          {
+            "server": 1,
+            "provider": "aoc",
+            "slug": "boku-no-hero-academia"
+          },
+          {
+            "server": 2,
+            "provider": "animesdrive",
+            "slug": "boku-no-hero-academia"
+          },
+          {
+            "server": 3,
+            "provider": "animeplay",
+            "slug": "boku-no-hero-academia"
+          }
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "boku-no-hero-academia",
+              "title": "Boku no Hero Academia",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "879950b",
+              "title": "Boku no Hero Academia (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "boku-no-hero-academia-dublado",
+              "title": "boku no hero academia dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
     }
   }
 }
