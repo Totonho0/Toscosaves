@@ -7370,6 +7370,26 @@
         "poster": "https://image.tmdb.org/t/p/w780/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/solo-leveling-dublado-episodio-06"
       }
+    },
+    "anime:kimetsu-no-yaiba-movie-mugen-jou-hen:1": {
+      "at": 1784953574727,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-movie-mugen-jou-hen-dublado/01cam.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/132281z",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fk%2Fkimetsu-no-yaiba-movie-mugen-jou-hen-dublado%2F01cam.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "kimetsu-no-yaiba-movie-mugen-jou-hen",
+        "kind": "anime",
+        "provider": "animesdigital",
+        "poster": "https://animesdigital.org/wp-content/uploads/2025/09/Kimetsu-no-Yaiba-Movie-Mugen-Jou-hen-01.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/132281z"
+      }
     }
   }
 }
