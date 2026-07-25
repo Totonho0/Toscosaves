@@ -633,6 +633,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8wNy9NdXNob2t1LVRlbnNlaS1JSS1Jc2VrYWktSXR0YXJhLUhvbmtpLURhc3UtY2F0ZWdvcmlhLmpwZw",
       "kind": "anime",
       "adult": false
+    },
+    "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3": {
+      "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3",
+      "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9kM3lObjM3OWVtR1A4eHp0cWVPc0I5b0xORzIuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1025,9 +1032,17 @@
     ],
     "mushoku-tensei-ii-isekai-ittara-honki-dasu": [
       1
+    ],
+    "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3",
+      "ep": 1,
+      "at": 1785004649049
+    },
     {
       "slug": "1050763",
       "ep": 1,
@@ -1840,5 +1855,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785004605196
+  "updatedAt": 1785004648666
 }
