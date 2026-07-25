@@ -18349,7 +18349,19 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/ymUm25ipczUKswRRMe8DuEs1MXh-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "rating": "7.9"
+            "rating": "7.9",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fruits-basket-the-final-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "fruits-basket-the-final-dublado"
+              }
+            ]
           },
           {
             "title": "Fuguushoku Kanteishi ga Jitsu wa Saikyou Datta",
@@ -19164,7 +19176,7 @@
         "page": 18,
         "hasMore": true,
         "total": 1682,
-        "cachedAt": 1784973209498,
+        "cachedAt": 1784987650478,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -19211,7 +19223,7 @@
           "fixHint": null
         }
       },
-      "at": 1784973209585
+      "at": 1784987652267
     },
     "todos|19||120": {
       "data": {
@@ -20051,7 +20063,7 @@
         "page": 19,
         "hasMore": true,
         "total": 1682,
-        "cachedAt": 1784973210508,
+        "cachedAt": 1784987653967,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -20098,7 +20110,7 @@
           "fixHint": null
         }
       },
-      "at": 1784973210589
+      "at": 1784987655483
     },
     "todos|20||120": {
       "data": {
@@ -20351,42 +20363,6 @@
             ]
           },
           {
-            "title": "Hunter x Hunter (2011)",
-            "slug": "hunter-x-hunter-2011",
-            "url": "https://animesonline.cloud/anime/hunter-x-hunter-2011",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/9WxfAQquTun9ATkV6iAeFHMkqxv-185x278.jpg",
-            "rating": "8.626",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "hunter-x-hunter-2011"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "hunter-x-hunter"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "hunter-x-hunter-2011"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "hunter-x-hunter-2011"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "hunter-x-hunter"
-              }
-            ]
-          },
-          {
             "title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
             "slug": "i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too",
             "url": "https://animesonline.cloud/anime/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too",
@@ -20433,11 +20409,11 @@
           {
             "title": "Ijiranaide, Nagatoro-san – Todos os Episodios",
             "slug": "dont-toy-with-me-miss-nagatoro",
-            "url": "https://animesdrive.online/anime/dont-toy-with-me-miss-nagatoro",
+            "url": "https://animesonline.cloud/anime/dont-toy-with-me-miss-nagatoro",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/dgupUCYlN1vxDYEcQkOKXecJv86-185x278.jpg.webp",
             "rating": "8.281",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -20839,10 +20815,10 @@
           {
             "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu – Todos os Episódios",
             "slug": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
-            "url": "https://animesdrive.online/anime/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
+            "url": "https://animesonline.cloud/anime/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/Isekai-Yururi-Kikou-Kosodateshinagara-Boukensha-Shimasu-AnimeDrive-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "rating": "0",
             "animeSources": [
               {
@@ -21012,13 +20988,33 @@
                 "slug": "itai-no-wa-iya-nanode-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu"
               }
             ]
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 20,
         "hasMore": true,
         "total": 1682,
-        "cachedAt": 1784973211515,
+        "cachedAt": 1784987657180,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -21065,7 +21061,7 @@
           "fixHint": null
         }
       },
-      "at": 1784973211606
+      "at": 1784987658700
     },
     "legendado|1||120": {
       "data": {
@@ -59165,6 +59161,14 @@
             "provider": "animesdrive"
           },
           {
+            "title": "The Super Cube Dublado",
+            "slug": "the-super-cube-dublado",
+            "url": "https://animesdrive.online/anime/the-super-cube-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/09/a48TPZkyyEfAjSxkw5EeCSKq4gU-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Fruits Basket 2",
             "slug": "fruits-basket-2",
             "url": "https://animesdrive.online/anime/fruits-basket-2",
@@ -59339,14 +59343,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/07/nVOeDMugEuIzGAeOfVU386bWFKm-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2 Dublado",
-            "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2-dublado",
-            "url": "https://animesdrive.online/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/07/3Z7T9LxxCC6AhhWUxJsShtV3dXM-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -59354,7 +59350,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784958845448
+      "at": 1784987652208
     },
     "partner:anitube|todos|19||48": {
       "data": {
@@ -59509,7 +59505,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784958845858
+      "at": 1784987652631
     },
     "todos|19||48": {
       "data": {
@@ -59565,6 +59561,15 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3 Dublado",
+            "slug": "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3-dublado",
+            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/lo6vw7VbIX1ScZPAquXvX9RDNE7-185x278.jpg",
+            "rating": "8.569",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -59774,22 +59779,13 @@
             "rating": "6.727",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Sakamoto Days 2",
-            "slug": "sakamoto-days-2",
-            "url": "https://animesonline.cloud/anime/sakamoto-days-2",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/4RV1Icg4NPoUEjue57m3hlnqRmM-185x278.jpg",
-            "rating": "8,03",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 19,
         "hasMore": true
       },
-      "at": 1784973210508
+      "at": 1784987653967
     },
     "partner:animeplay|todos|19||48": {
       "data": {
@@ -59839,6 +59835,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3 Dublado",
+            "slug": "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3-dublado",
+            "url": "https://animeplay.cloud/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/lo6vw7VbIX1ScZPAquXvX9RDNE7-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -60025,14 +60029,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/5x8NfllHVTpEFe2ZCAIXXlefvl1-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Sakamoto Days 2",
-            "slug": "sakamoto-days-2",
-            "url": "https://animeplay.cloud/anime/sakamoto-days-2",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/4RV1Icg4NPoUEjue57m3hlnqRmM-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -60040,7 +60036,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784958846746
+      "at": 1784987653458
     },
     "partner:animesdrive|todos|19||48": {
       "data": {
@@ -60090,6 +60086,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animesdrive.online/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2 Dublado",
+            "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2-dublado",
+            "url": "https://animesdrive.online/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/07/3Z7T9LxxCC6AhhWUxJsShtV3dXM-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -60276,14 +60280,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/07/Au8kFYRagmxw4DtpzsOKjCVUBWJ-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Tougen Anki Dublado",
-            "slug": "tougen-anki-dublado",
-            "url": "https://animesdrive.online/anime/tougen-anki-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/07/aVG8MTcg6MdTPlbs3S5w5L2enSI-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -60291,7 +60287,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784958848325
+      "at": 1784987655425
     },
     "partner:anitube|todos|20||48": {
       "data": {
@@ -60446,7 +60442,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784958848734
+      "at": 1784987655847
     },
     "todos|20||48": {
       "data": {
@@ -60502,6 +60498,15 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sakamoto Days 2",
+            "slug": "sakamoto-days-2",
+            "url": "https://animesonline.cloud/anime/sakamoto-days-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/4RV1Icg4NPoUEjue57m3hlnqRmM-185x278.jpg",
+            "rating": "8,03",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -60711,22 +60716,13 @@
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Busamen Gachi Fighter",
-            "slug": "busamen-gachi-fighter",
-            "url": "https://animesonline.cloud/anime/busamen-gachi-fighter",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/tuOXsK63UNldWDNiWXZrajWRcyL-185x278.jpg",
-            "rating": "6.64",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 20,
         "hasMore": true
       },
-      "at": 1784973211515
+      "at": 1784987657180
     },
     "partner:animeplay|todos|20||48": {
       "data": {
@@ -60776,6 +60772,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Sakamoto Days 2",
+            "slug": "sakamoto-days-2",
+            "url": "https://animeplay.cloud/anime/sakamoto-days-2",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/4RV1Icg4NPoUEjue57m3hlnqRmM-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -60962,14 +60966,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/xaiHM6xiEAcjuBSww2rUZ3ZaQM-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Busamen Gachi Fighter",
-            "slug": "busamen-gachi-fighter",
-            "url": "https://animeplay.cloud/anime/busamen-gachi-fighter",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/tuOXsK63UNldWDNiWXZrajWRcyL-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -60977,7 +60973,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784958849586
+      "at": 1784987656652
     },
     "partner:animesdrive|todos|20||48": {
       "data": {
@@ -61027,6 +61023,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animesdrive.online/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Tougen Anki Dublado",
+            "slug": "tougen-anki-dublado",
+            "url": "https://animesdrive.online/anime/tougen-anki-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/07/aVG8MTcg6MdTPlbs3S5w5L2enSI-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -61213,14 +61217,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/07/nrd2DMbn39Usv9Lp5LpHh67yVAN-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Ruri no Houseki",
-            "slug": "ruri-no-houseki",
-            "url": "https://animesdrive.online/anime/ruri-no-houseki",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/07/6uOEjCO4Zl4up30zWGjsO2nXeWV-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -61228,7 +61224,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1784958851020
+      "at": 1784987658640
     },
     "partner:anitube|todos|21||48": {
       "data": {
@@ -61383,7 +61379,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784958851430
+      "at": 1784987659053
     },
     "todos|21||48": {
       "data": {
@@ -61439,6 +61435,15 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Busamen Gachi Fighter",
+            "slug": "busamen-gachi-fighter",
+            "url": "https://animesonline.cloud/anime/busamen-gachi-fighter",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/tuOXsK63UNldWDNiWXZrajWRcyL-185x278.jpg",
+            "rating": "6.64",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -61648,22 +61653,13 @@
             "rating": "6.67",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
-            "slug": "clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha",
-            "url": "https://animesonline.cloud/anime/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/tJCR0g2EvVQ8V0laox1HB7Up9DS-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 21,
         "hasMore": true
       },
-      "at": 1784973212486
+      "at": 1784987660199
     },
     "partner:animeplay|todos|21||48": {
       "data": {
@@ -61713,6 +61709,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Busamen Gachi Fighter",
+            "slug": "busamen-gachi-fighter",
+            "url": "https://animeplay.cloud/anime/busamen-gachi-fighter",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/tuOXsK63UNldWDNiWXZrajWRcyL-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -61899,14 +61903,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/grfNZ1Sx5lGl4UVtXFT8amk6A3M-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
-            "slug": "clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha",
-            "url": "https://animeplay.cloud/anime/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/tJCR0g2EvVQ8V0laox1HB7Up9DS-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -61914,7 +61910,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784958852286
+      "at": 1784987659889
     },
     "partner:animesdrive|todos|21||48": {
       "data": {
@@ -131483,5 +131479,5 @@
       "at": 1784791890793
     }
   },
-  "updatedAt": 1784987650478
+  "updatedAt": 1784987660199
 }
