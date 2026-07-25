@@ -131,6 +131,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL0JsYWNrLVRvcmNoLWR1YmxhZG8uanBn",
       "kind": "anime"
     },
+    "1062417": {
+      "slug": "1062417",
+      "title": "Bleach Final Season – Episódio 01",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL0JsZWFjaC1GaW5hbC1TZWFzb25FcC5qcGc",
+      "kind": "anime",
+      "adult": false
+    },
     "chainsmoker-cat": {
       "slug": "chainsmoker-cat",
       "title": "Yani Neko",
@@ -751,6 +758,9 @@
     "1062098": [
       2
     ],
+    "1062417": [
+      1
+    ],
     "chainsmoker-cat": [
       1
     ],
@@ -1003,6 +1013,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "1062417",
+      "ep": 1,
+      "at": 1785004057809
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -1794,5 +1809,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785004037822
+  "updatedAt": 1785004057387
 }
