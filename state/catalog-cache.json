@@ -80443,15 +80443,6 @@
             ]
           },
           {
-            "title": "Super no Ura de Yani Suu Futari",
-            "slug": "super-no-ura-de-yani-suu-futari",
-            "url": "https://animesonline.cloud/anime/super-no-ura-de-yani-suu-futari",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/nSdgX507jBlonGFC91Ve0TfcLjJ-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Super no Ura de Yani Suu Futari Mini",
             "slug": "smoking-behind-the-supermarket-with-you-mini",
             "url": "https://animesonline.cloud/anime/smoking-behind-the-supermarket-with-you-mini",
@@ -80476,7 +80467,7 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/08/htNohqrYEwuz4fCa9ATVF90s58S-185x278.jpg",
             "rating": "8.2",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -80692,13 +80683,21 @@
                 "slug": "taisho-otome-fairy-tale"
               }
             ]
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animeplay.cloud/anime/one-piece",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animeplay"
           }
         ],
         "category": "todos",
         "page": 31,
         "hasMore": true,
         "total": 1682,
-        "cachedAt": 1785002038827,
+        "cachedAt": 1785016481965,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -80745,7 +80744,7 @@
           "fixHint": null
         }
       },
-      "at": 1785002038914
+      "at": 1785016485793
     },
     "partner:anitube|todos|32||48": {
       "data": {
@@ -80900,7 +80899,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1784987695550
+      "at": 1785016486182
     },
     "todos|32||48": {
       "data": {
@@ -81171,7 +81170,7 @@
         "page": 32,
         "hasMore": true
       },
-      "at": 1785002040408
+      "at": 1785016486741
     },
     "partner:animeplay|todos|32||48": {
       "data": {
@@ -81414,7 +81413,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1784987696552
+      "at": 1785016487045
     },
     "todos|32||120": {
       "data": {
@@ -133410,5 +133409,5 @@
       "at": 1785004517013
     }
   },
-  "updatedAt": 1785016482490
+  "updatedAt": 1785016487045
 }
