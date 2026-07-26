@@ -75158,7 +75158,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785075039448
+      "at": 1785103781845
     },
     "todos|48||120": {
       "data": {
@@ -75169,8 +75169,13 @@
             "url": "https://animesdrive.online/anime/one-piece",
             "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "one-piece"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75189,8 +75194,13 @@
             "url": "https://animesdrive.online/anime/nageki-no-bourei-wa-intai-shitai",
             "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75209,8 +75219,13 @@
             "url": "https://animesdrive.online/anime/uzumaki",
             "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "uzumaki"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75229,8 +75244,13 @@
             "url": "https://animesdrive.online/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75249,8 +75269,13 @@
             "url": "https://animesdrive.online/anime/maou-sama-retry-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "maou-sama-retry"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75269,8 +75294,13 @@
             "url": "https://animesdrive.online/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75289,8 +75319,13 @@
             "url": "https://animesdrive.online/anime/fairy-tail",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/05/hO4GNzpmBftX4DcLFm2rkIZq2Rr-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fairy-tail"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75309,8 +75344,13 @@
             "url": "https://animesdrive.online/anime/monogatari-nisemonogatari",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/12/7YCwUUXyMvuLyPcZDe2KIu4qXLo-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "monogatari-nisemonogatari"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75329,8 +75369,13 @@
             "url": "https://animesdrive.online/anime/saint-seiya-the-lost-canvas",
             "poster": "https://animeplay.cloud/wp-content/uploads/2009/06/Saint-Seiya-The-Lost-Canvas-animesonline.cloud_-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "saint-seiya-the-lost-canvas"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75349,8 +75394,13 @@
             "url": "https://animesdrive.online/anime/fullmetal-alchemist-brotherhood",
             "poster": "https://animeplay.cloud/wp-content/uploads/2009/04/Fullmetal-Alchemist-Brotherhood-animesonline.cloud_-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fullmetal-alchemist-brotherhood"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75369,8 +75419,13 @@
             "url": "https://animesdrive.online/anime/dragon-ball-kai-todos-os-episodios",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/03/yh11eNQyZOgZLMEW7llKYQ0oGcJ-185x278.jpg.webp",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-kai"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75389,8 +75444,13 @@
             "url": "https://animesdrive.online/anime/kuroshitsuji-kishuku-gakkou-hen",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/04/tfjvfipG4FoKOeG3rpDuGWIvx4k-185x278.jpg.webp",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kuroshitsuji-kishuku-gakkou-hen"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75409,8 +75469,13 @@
             "url": "https://animesdrive.online/anime/naisho-no-tsubomi",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/04/kNCrMLeFJNXvR0wiGialvSpVITQ-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "naisho-no-tsubomi"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75429,8 +75494,13 @@
             "url": "https://animesdrive.online/anime/persona-trinity-soul",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/10/hREYXGPAijGwAAhw5pd5kOOGybW-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "persona-trinity-soul"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75449,8 +75519,13 @@
             "url": "https://animesdrive.online/anime/claymore",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/12/aIdsCf6XAzR2AmylK8PF22RUw1D-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "claymore"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75469,8 +75544,13 @@
             "url": "https://animesdrive.online/anime/death-note",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/05/chnG4pYo89weaBjXHJWvW68E35B-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "death-note"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75489,8 +75569,13 @@
             "url": "https://animesdrive.online/anime/gintama",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/12/vgJtWittouxDVU2KnYa2U4IAAns-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "gintama"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75509,8 +75594,13 @@
             "url": "https://animesdrive.online/anime/digimon-savers",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/09/kf0ByV62axMjsVPH24TqIokQkgF-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "digimon-savers"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75529,8 +75619,13 @@
             "url": "https://animesdrive.online/anime/ueki-no-housoku",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/03/A1400E3gPJWo9aC7ouaOC1jH45e-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ueki-no-housoku"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75549,8 +75644,13 @@
             "url": "https://animesdrive.online/anime/bleach",
             "poster": "https://animesdrive.online/wp-content/uploads/2004/10/rtrtgfrew56t6tyiuj-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "bleach"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75569,8 +75669,13 @@
             "url": "https://animesdrive.online/anime/hit-wo-nerae",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/04/yXyKMfZkgShQTTToGoOP5QjtYea-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hit-wo-nerae"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75589,8 +75694,13 @@
             "url": "https://animesdrive.online/anime/fullmetal-alchemist",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/05/7qVSNBKsrER8P77DfsSQfrPK04L-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fullmetal-alchemist"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75609,8 +75719,13 @@
             "url": "https://animesdrive.online/anime/neon-genesis-evangelion",
             "poster": "https://animesdrive.online/wp-content/uploads/2003/03/Anime-Neon-Genesis-Evangelion-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "neon-genesis-evangelion"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75629,8 +75744,13 @@
             "url": "https://animesdrive.online/anime/mouse",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/04/gkpmWxp8svFFBiJ1Wenwe6ZBk24-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "mouse"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75649,8 +75769,13 @@
             "url": "https://animesdrive.online/anime/azumanga-daioh",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/04/7QTvOTafhP9IraqxzHi4trgPgjd-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "azumanga-daioh"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75669,10 +75794,10 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1013,
+        "total": 1061,
         "aocCircuitOpen": false,
         "aocDegraded": false,
-        "catalogFromCache": false,
+        "catalogFromCache": true,
         "aocReachable": false,
         "aocCircuit": {
           "open": false,
@@ -75689,7 +75814,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785075013040,
+          "lastProbeAt": 1785103726191,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -75714,9 +75839,10 @@
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
-        }
+        },
+        "cachedAt": 1785075039795
       },
-      "at": 1785075039795
+      "at": 1785103782151
     },
     "partner:animeplay|todos|49||48": {
       "data": {
@@ -75967,7 +76093,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785075040846
+      "at": 1785103783481
     },
     "partner:animesdrive|todos|49||48": {
       "data": {
@@ -76218,7 +76344,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785075042740
+      "at": 1785103785001
     },
     "todos|49||120": {
       "data": {
@@ -76229,8 +76355,13 @@
             "url": "https://animesdrive.online/anime/one-piece",
             "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "one-piece"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76249,8 +76380,13 @@
             "url": "https://animesdrive.online/anime/nageki-no-bourei-wa-intai-shitai",
             "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76269,8 +76405,13 @@
             "url": "https://animesdrive.online/anime/uzumaki",
             "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "uzumaki"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76289,8 +76430,13 @@
             "url": "https://animesdrive.online/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76309,8 +76455,13 @@
             "url": "https://animesdrive.online/anime/maou-sama-retry-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "maou-sama-retry"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76329,8 +76480,13 @@
             "url": "https://animesdrive.online/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76349,8 +76505,13 @@
             "url": "https://animesdrive.online/anime/kenpuu-denki-berserk",
             "poster": "https://animeplay.cloud/wp-content/uploads/1997/10/Berserk-1997-animesonline.cloud_-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kenpuu-denki-berserk"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76369,8 +76530,13 @@
             "url": "https://animesdrive.online/anime/dragon-ball-gt",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/03/kmO4AHj1xx8wiaBMgwGjXhOQfNt-185x278.jpg.webp",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-gt"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76389,8 +76555,13 @@
             "url": "https://animesdrive.online/anime/street-fighter-ii-victory-dublado",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "street-fighter-ii-victory-dublado"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76409,8 +76580,13 @@
             "url": "https://animesdrive.online/anime/os-cavaleiros-do-zodiaco",
             "poster": "https://animesdrive.online/wp-content/uploads/1994/09/e4cC6W5sSAKE8lQYRBTqU9jfdya-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "os-cavaleiros-do-zodiaco"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76429,8 +76605,13 @@
             "url": "https://animesdrive.online/anime/jojos-bizarre-adventure-1993",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/07/nCzHRwKNrm5MiTjTGoQcJqvVdVh-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "jojos-bizarre-adventure-1993"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76449,8 +76630,13 @@
             "url": "https://animesdrive.online/anime/yu-yu-hakusho",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "yu-yu-hakusho"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76469,8 +76655,13 @@
             "url": "https://animesdrive.online/anime/super-equipe-de-resgate-solbrain",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/07/u1rlZgp8Tti7mdXPHNIZ5w7o06I-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "super-equipe-de-resgate-solbrain"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76489,8 +76680,13 @@
             "url": "https://animesdrive.online/anime/esquadrao-especial-winspector",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/07/cjATkbcmt9dM8LmrwK1u5tFQCRi-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "esquadrao-especial-winspector"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76509,8 +76705,13 @@
             "url": "https://animesdrive.online/anime/samurai-pizza-cats",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/05/dItdgGzcPP2KiDJ13qHVcCaXjLr-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "samurai-pizza-cats"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76529,8 +76730,13 @@
             "url": "https://animesdrive.online/anime/dragon-ball-z",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/03/f2zhRLqwRLrKhEMeIM7Z5buJFo3-185x278.jpg.webp",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-z"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76549,8 +76755,13 @@
             "url": "https://animesdrive.online/anime/tenkuu-senki-shurato",
             "poster": "https://animeplay.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-185x278.png",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tenkuu-senki-shurato"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76569,8 +76780,13 @@
             "url": "https://animesdrive.online/anime/jiban",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/07/oxEsZ5MNqOYE0ZWjznKS6Gisqoc-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "jiban"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76589,8 +76805,13 @@
             "url": "https://animesdrive.online/anime/kamen-rider-black-rx",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/06/muiqNsf0d6b07frbqsKqEUWs0fi-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kamen-rider-black-rx"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76609,8 +76830,13 @@
             "url": "https://animesdrive.online/anime/os-policiais-do-futuro-cybercops",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/07/pnhkUmTCHTl7dlAp9gC94o4phLY-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "os-policiais-do-futuro-cybercops"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76629,8 +76855,13 @@
             "url": "https://animesdrive.online/anime/yoroiden-samurai-troopers",
             "poster": "https://animeplay.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "yoroiden-samurai-troopers"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76649,8 +76880,13 @@
             "url": "https://animesdrive.online/anime/jiraiya-o-incrivel-ninja",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/06/nsIrMt5bNLGTJb4RO4DSmMOPkmk-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "jiraiya-o-incrivel-ninja"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76669,8 +76905,13 @@
             "url": "https://animesdrive.online/anime/black-kamen-rider",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/07/bFP1SdtYtJNmWRie89BV77T7UFw-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "black-kamen-rider"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76689,8 +76930,13 @@
             "url": "https://animesdrive.online/anime/zillion",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/08/2KBxzns3npPP4Vu9ujGIUe3IyMW-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "zillion"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76709,8 +76955,13 @@
             "url": "https://animesdrive.online/anime/metalder-o-homem-maquina",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/07/A1hSmsKxmHiw7z8V12Hv3zYHKC-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "metalder-o-homem-maquina"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76729,8 +76980,13 @@
             "url": "https://animesdrive.online/anime/defensores-da-luz-maskman",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/07/dupV2Bm1W20yypWsMoEAx6AohSR-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "defensores-da-luz-maskman"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76749,8 +77005,13 @@
             "url": "https://animesdrive.online/anime/guerreiro-dimensional-spielvan",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/07/nwXD7wnRsPQN3E7f5Qt1FuFyGOo-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "guerreiro-dimensional-spielvan"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76769,8 +77030,13 @@
             "url": "https://animesdrive.online/anime/dragon-ball",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/03/8PlYGvGUb1A9EZtbBN4mbgpqr2E-185x278.jpg.webp",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76789,8 +77055,13 @@
             "url": "https://animesdrive.online/anime/esquadrao-relampago-changeman",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/06/aoEJ1pWjFlLRPuwhww9uRJnc9QD-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "esquadrao-relampago-changeman"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76809,8 +77080,13 @@
             "url": "https://animesdrive.online/anime/bicrossers",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/06/xUqk8bDcDdDlE7UDMeKflw7u56L-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "bicrossers"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -76829,10 +77105,10 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 1032,
+        "total": 1061,
         "aocCircuitOpen": false,
         "aocDegraded": false,
-        "catalogFromCache": false,
+        "catalogFromCache": true,
         "aocReachable": false,
         "aocCircuit": {
           "open": false,
@@ -76849,7 +77125,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785075013040,
+          "lastProbeAt": 1785103726191,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -76874,9 +77150,10 @@
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
-        }
+        },
+        "cachedAt": 1785075042815
       },
-      "at": 1785075042815
+      "at": 1785103785045
     },
     "partner:animeplay|todos|50||48": {
       "data": {
@@ -76975,7 +77252,7 @@
         "hasMore": false,
         "partnerId": "animeplay"
       },
-      "at": 1785075043807
+      "at": 1785103786028
     },
     "partner:animesdrive|todos|50||48": {
       "data": {
@@ -79088,5 +79365,5 @@
       "at": 1785103759924
     }
   },
-  "updatedAt": 1785103780150
+  "updatedAt": 1785103786028
 }
