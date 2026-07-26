@@ -58081,7 +58081,19 @@
             "url": "https://animeplay.cloud/anime/one-piece",
             "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           },
           {
             "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
@@ -58089,7 +58101,19 @@
             "url": "https://animeplay.cloud/anime/nageki-no-bourei-wa-intai-shitai",
             "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              }
+            ]
           },
           {
             "title": "Uzumaki – Todos os Episódios",
@@ -58097,7 +58121,19 @@
             "url": "https://animeplay.cloud/anime/uzumaki",
             "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "uzumaki"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "uzumaki"
+              }
+            ]
           },
           {
             "title": "Hitoribocchi no Isekai Kouryaku",
@@ -58105,7 +58141,19 @@
             "url": "https://animeplay.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              }
+            ]
           },
           {
             "title": "Maou-sama, Retry! 2 – Todos os Episódios",
@@ -58113,7 +58161,19 @@
             "url": "https://animeplay.cloud/anime/maou-sama-retry-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "maou-sama-retry"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "maou-sama-retry"
+              }
+            ]
           },
           {
             "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
@@ -58121,7 +58181,19 @@
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              }
+            ]
           },
           {
             "title": "Yeosin Gangnim Dublado – Todos os Episódios",
@@ -58129,7 +58201,19 @@
             "url": "https://animeplay.cloud/anime/yeosin-gangnim-dublado-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/2lH6I22B17ZeAhk0fjqFz2CyhKG.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "yeosin-gangnim-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "yeosin-gangnim-dublado"
+              }
+            ]
           },
           {
             "title": "Mignon – Todos os Episódios",
@@ -58137,7 +58221,19 @@
             "url": "https://animeplay.cloud/anime/mignon-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/pk3uFK02s6EeAvcAmMcb12OrdYZ.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "mignon"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mignon"
+              }
+            ]
           },
           {
             "title": "Garo: Hagane o Tsugu Mono – Todos os Episódios",
@@ -58145,7 +58241,19 @@
             "url": "https://animeplay.cloud/anime/garo-hagane-o-tsugu-mono-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/w185/oqjraYBocSMkyj7UY5SnuoFUDAv.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "garo-hagane-o-tsugu-mono"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "garo-hagane-o-tsugu-mono"
+              }
+            ]
           },
           {
             "title": "Kimi wa Meido-sama Dublado",
@@ -58153,7 +58261,19 @@
             "url": "https://animeplay.cloud/anime/kimi-wa-meido-sama-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/10/Kimi-wa-Meido-sama.-Dublado-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kimi-wa-meido-sama-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kimi-wa-meido-sama-dublado"
+              }
+            ]
           },
           {
             "title": "Amagami-san Chi no Enmusubi Dublado – Todos os Episódios",
@@ -58161,7 +58281,19 @@
             "url": "https://animeplay.cloud/anime/amagami-san-chi-no-enmusubi-dublado-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/10/Amagami-san-Chi-no-Enmusubi-Dublado-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "amagami-san-chi-no-enmusubi-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "amagami-san-chi-no-enmusubi-dublado"
+              }
+            ]
           },
           {
             "title": "MF Ghost 2 Dublado – Todos os Episódios",
@@ -58169,7 +58301,19 @@
             "url": "https://animeplay.cloud/anime/mf-ghost-2-dublado-todos-os-episodios",
             "poster": "https://animeflix.blog/IMGS/capas/MF%20Ghost%202%20Dublado.webp",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "mf-ghost-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mf-ghost-2-dublado"
+              }
+            ]
           },
           {
             "title": "Houkago Shounen Hanako-kun – Todos os Episódios",
@@ -58177,7 +58321,19 @@
             "url": "https://animeplay.cloud/anime/houkago-shounen-hanako-kun-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/uCV6S1Z6l40dqX7xL8Jx3dAa5U0.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "houkago-shounen-hanako-kun"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "houkago-shounen-hanako-kun"
+              }
+            ]
           },
           {
             "title": "Jaspion",
@@ -58185,7 +58341,19 @@
             "url": "https://animeplay.cloud/anime/o-fantastico-jaspion",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/06/jffw2ejFwxcfsrvRvg5IK28Sm1M-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "o-fantastico-jaspion"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "o-fantastico-jaspion"
+              }
+            ]
           },
           {
             "title": "Dandadan Dublado – Todos os Episódios",
@@ -58193,7 +58361,19 @@
             "url": "https://animeplay.cloud/anime/dandadan-dublado-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/vtQug1eOyeU2VXIpNoDF1lTlcH4.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dandadan-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dandadan-dublado"
+              }
+            ]
           },
           {
             "title": "Ao no Miburo – Todos os Episódios",
@@ -58201,7 +58381,19 @@
             "url": "https://animeplay.cloud/anime/ao-no-miburo",
             "poster": "https://image.tmdb.org/t/p/w185/jztaf4JuF8FJ5pNXnEqodHuETFY.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ao-no-miburo"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ao-no-miburo"
+              }
+            ]
           },
           {
             "title": "Arifureta Shokugyou de Sekai Saikyou 3 – Todos os Episódios",
@@ -58209,7 +58401,19 @@
             "url": "https://animeplay.cloud/anime/arifureta-shokugyou-de-sekai-saikyou-3",
             "poster": "https://image.tmdb.org/t/p/original/qhML8g1WzSQLEckY2KSQI9c0OMD.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "arifureta-shokugyou-de-sekai-saikyou-3"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "arifureta-shokugyou-de-sekai-saikyou-3"
+              }
+            ]
           },
           {
             "title": "The Idolmaster Shiny Colors 2 – Todos os Episódios",
@@ -58217,7 +58421,19 @@
             "url": "https://animeplay.cloud/anime/the-idolmaster-shiny-colors-2-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/bynJr3uiSuWrT72Db3XcguOgAG.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "the-idolmaster-shiny-colors-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "the-idolmaster-shiny-colors-2"
+              }
+            ]
           },
           {
             "title": "Another Journey to the West – Todos os Episódios",
@@ -58225,7 +58441,19 @@
             "url": "https://animeplay.cloud/anime/another-journey-to-the-west",
             "poster": "https://image.tmdb.org/t/p/w185/6HI0ouLggqgeCACv6Y2BnxY8XwQ.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "another-journey-to-the-west"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "another-journey-to-the-west"
+              }
+            ]
           },
           {
             "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2",
@@ -58233,7 +58461,19 @@
             "url": "https://animeplay.cloud/anime/nanatsu-no-taizai-mokushiroku-no-yonkishi-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/lwyfcKafURTUpnJ5vRXHGJfv7Ne-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "nanatsu-no-taizai-mokushiroku-no-yonkishi-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nanatsu-no-taizai-mokushiroku-no-yonkishi-2"
+              }
+            ]
           },
           {
             "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu – Todos os Episódios",
@@ -58241,7 +58481,19 @@
             "url": "https://animeplay.cloud/anime/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu",
             "poster": "https://image.tmdb.org/t/p/original/w4NHQXOhfPuXsH8DqUAZCfr1kfS.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu"
+              }
+            ]
           },
           {
             "title": "Houkago Shounen Hanako-kun 2 – Todos os Episódios",
@@ -58249,7 +58501,19 @@
             "url": "https://animeplay.cloud/anime/houkago-shounen-hanako-kun-2-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/6qtqmilWKwgbcz7l31aTvj7Edmu.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "houkago-shounen-hanako-kun-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "houkago-shounen-hanako-kun-2"
+              }
+            ]
           },
           {
             "title": "Love Live! Superstar!! 3 – Todos os Episódios",
@@ -58257,7 +58521,19 @@
             "url": "https://animeplay.cloud/anime/love-live-superstar-3",
             "poster": "https://image.tmdb.org/t/p/w185/4KoXFWudJb389qH0EoAdRq8xtvs.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "love-live-superstar-3"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "love-live-superstar-3"
+              }
+            ]
           },
           {
             "title": "Youkai Gakkou no Sensei Hajimemashita! – Todos os Episódios",
@@ -58265,7 +58541,19 @@
             "url": "https://animeplay.cloud/anime/youkai-gakkou-no-sensei-hajimemashita-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/iJUgPs4hjyeDL3zfEjHTETTm7jc.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "youkai-gakkou-no-sensei-hajimemashita"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "youkai-gakkou-no-sensei-hajimemashita"
+              }
+            ]
           },
           {
             "title": "Raise wa Tanin ga Ii – Todos os Episódios",
@@ -58273,7 +58561,19 @@
             "url": "https://animeplay.cloud/anime/raise-wa-tanin-ga-ii",
             "poster": "https://image.tmdb.org/t/p/w185/9xztd5hoq0OstNRru024aAxSNWd.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "raise-wa-tanin-ga-ii"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "raise-wa-tanin-ga-ii"
+              }
+            ]
           },
           {
             "title": "Kamonohashi Ron no Kindan Suiri 2 – Todos os Episódios",
@@ -58281,7 +58581,19 @@
             "url": "https://animeplay.cloud/anime/kamonohashi-ron-no-kindan-suiri-2",
             "poster": "https://image.tmdb.org/t/p/w185/iMidG4GQACdDmSJSfLAXZrqVVcA.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kamonohashi-ron-no-kindan-suiri-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kamonohashi-ron-no-kindan-suiri-2"
+              }
+            ]
           },
           {
             "title": "Seirei Gensouki 2 – Todos os Episódios",
@@ -58289,7 +58601,19 @@
             "url": "https://animeplay.cloud/anime/seirei-gensouki-spirit-chronicles",
             "poster": "https://image.tmdb.org/t/p/original/jyWRXOBmctLalXE2uFCf1O5OrEI.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "seirei-gensouki-spirit-chronicles"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "seirei-gensouki-spirit-chronicles"
+              }
+            ]
           },
           {
             "title": "Hoshifuru Oukoku no Nina – Todos os Episódios",
@@ -58297,7 +58621,19 @@
             "url": "https://animeplay.cloud/anime/hoshifuru-oukoku-no-nina",
             "poster": "https://image.tmdb.org/t/p/w185/dCO0ihJjo7y7ptzbdHuJ3UEA8MI.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hoshifuru-oukoku-no-nina"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hoshifuru-oukoku-no-nina"
+              }
+            ]
           },
           {
             "title": "Natsume Yuujinchou Shichi 7 – Todos os Episódios",
@@ -58305,7 +58641,19 @@
             "url": "https://animeplay.cloud/anime/natsume-yuujinchou-shichi-7-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/73SgwVqG9XeZwo7pNMZyj1gr6Y9.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "natsume-yuujinchou-shichi-7"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "natsume-yuujinchou-shichi-7"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -58313,10 +58661,10 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 661,
+        "total": 1061,
         "aocCircuitOpen": false,
         "aocDegraded": false,
-        "catalogFromCache": false,
+        "catalogFromCache": true,
         "aocReachable": false,
         "aocCircuit": {
           "open": false,
@@ -58333,7 +58681,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785074923040,
+          "lastProbeAt": 1785103636189,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -58358,9 +58706,10 @@
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
-        }
+        },
+        "cachedAt": 1785074975486
       },
-      "at": 1785074975486
+      "at": 1785103729412
     },
     "partner:animeplay|todos|33||48": {
       "data": {
@@ -58579,7 +58928,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785074976727
+      "at": 1785103730706
     },
     "todos|33||120": {
       "data": {
@@ -71844,5 +72193,5 @@
       "at": 1785075045606
     }
   },
-  "updatedAt": 1785103726269
+  "updatedAt": 1785103730706
 }
