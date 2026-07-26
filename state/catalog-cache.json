@@ -60623,7 +60623,24 @@
             "url": "https://animeplay.cloud/anime/one-piece",
             "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "one-piece"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           },
           {
             "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
@@ -60631,7 +60648,24 @@
             "url": "https://animeplay.cloud/anime/nageki-no-bourei-wa-intai-shitai",
             "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              }
+            ]
           },
           {
             "title": "Uzumaki – Todos os Episódios",
@@ -60639,7 +60673,24 @@
             "url": "https://animeplay.cloud/anime/uzumaki",
             "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "uzumaki"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "uzumaki"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "uzumaki"
+              }
+            ]
           },
           {
             "title": "Hitoribocchi no Isekai Kouryaku",
@@ -60647,7 +60698,24 @@
             "url": "https://animeplay.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              }
+            ]
           },
           {
             "title": "Maou-sama, Retry! 2 – Todos os Episódios",
@@ -60655,7 +60723,24 @@
             "url": "https://animeplay.cloud/anime/maou-sama-retry-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "maou-sama-retry"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "maou-sama-retry"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "maou-sama-retry"
+              }
+            ]
           },
           {
             "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
@@ -60663,7 +60748,24 @@
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              }
+            ]
           },
           {
             "title": "The Idolmaster: Shiny Colors – Todos os Episódios",
@@ -60671,7 +60773,19 @@
             "url": "https://animeplay.cloud/anime/the-idolmster-shiny-colors",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/08/plv79G8KMsN4U8keajQKva3aSCy-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "the-idolmster-shiny-colors"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "the-idolmster-shiny-colors"
+              }
+            ]
           },
           {
             "title": "NegaPosi Angler – Todos os Episódios",
@@ -60679,7 +60793,19 @@
             "url": "https://animeplay.cloud/anime/negaposi-angler",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/08/qRzjoFxvYMm2boZY3vJrLS3vDft-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "negaposi-angler"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "negaposi-angler"
+              }
+            ]
           },
           {
             "title": "Puniru wa Kawaii Slime – Todos os Episódios",
@@ -60687,7 +60813,24 @@
             "url": "https://animeplay.cloud/anime/puniru-wa-kawaii-slime",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/08/fgQTJa7R5fYE12BL5BtJNAVsYtX-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "puniru-wa-kawaii-slime"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "puniru-wa-kawaii-slime"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "puniru-wa-kawaii-slime"
+              }
+            ]
           },
           {
             "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
@@ -60695,7 +60838,24 @@
             "url": "https://animeplay.cloud/anime/rezero-kara-hajimeru-isekai-seikatsu",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/08/aBArXqZA6zuNV1mwBH5UP8aiQoP-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "rezero-kara-hajimeru-isekai-seikatsu"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "rezero-kara-hajimeru-isekai-seikatsu"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "rezero-kara-hajimeru-isekai-seikatsu"
+              }
+            ]
           },
           {
             "title": "Soul Eater – Todos os Episódios",
@@ -60703,7 +60863,24 @@
             "url": "https://animeplay.cloud/anime/soul-eater",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/08/qAHpIPbbnrso2ngfjHpVoKdwUQI-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "soul-eater"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "soul-eater"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "soul-eater"
+              }
+            ]
           },
           {
             "title": "Rick e Morty: O Anime – Todos os Episódios",
@@ -60711,7 +60888,24 @@
             "url": "https://animeplay.cloud/anime/rick-e-morty-o-anime",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/08/kQFPw9W3EO6ZLhg3TI782edq9Fr-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "rick-e-morty-o-anime"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "rick-e-morty-o-anime"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "rick-e-morty-o-anime"
+              }
+            ]
           },
           {
             "title": "Gamera: Rebirth – Todos os Episódios",
@@ -60719,7 +60913,24 @@
             "url": "https://animeplay.cloud/anime/gamera-rebirth",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/08/b9P5nzohEuclhqOkiS2kgG67n3n-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "gamera-rebirth"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "gamera-rebirth"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "gamera-rebirth"
+              }
+            ]
           },
           {
             "title": "Yu-Gi-Oh! Duel Monsters – Todos os Episódios",
@@ -60727,7 +60938,24 @@
             "url": "https://animeplay.cloud/anime/yu-gi-oh-duel-monsters",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/08/ra8CKkCHjSok8L9meEP4WuOukNK-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "yu-gi-oh-duel-monsters"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "yu-gi-oh-duel-monsters"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "yu-gi-oh-duel-monsters"
+              }
+            ]
           },
           {
             "title": "Yeosin Gangnim – Todos os Episódios",
@@ -60735,7 +60963,24 @@
             "url": "https://animeplay.cloud/anime/yeosin-gangnim-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/9gpc8kIhNEG7r0VTkyI9aVBxdO3.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "yeosin-gangnim"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "yeosin-gangnim"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "yeosin-gangnim"
+              }
+            ]
           },
           {
             "title": "Delico’s Nursery – Todos os Episódios",
@@ -60743,7 +60988,24 @@
             "url": "https://animeplay.cloud/anime/delicos-nursery",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/08/gtJ7jnoRE0a7SUvqB8vakdqKZuN-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "delicos-nursery"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "delicos-nursery"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "delicos-nursery"
+              }
+            ]
           },
           {
             "title": "Kimi ni Todoke – Todos os Episódios",
@@ -60751,7 +61013,24 @@
             "url": "https://animeplay.cloud/anime/kimi-ni-todoke",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/08/2XZ0Ofg1ZUZMFrbyWJuakSJAKZz-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kimi-ni-todoke"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kimi-ni-todoke"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kimi-ni-todoke"
+              }
+            ]
           },
           {
             "title": "Horimiya: Piece – Todos os Episódios",
@@ -60759,7 +61038,24 @@
             "url": "https://animeplay.cloud/anime/horimiya-the-missing-pieces",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/08/nnGb4NYOyRfCl5DKYPIK9A0Cgww-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "horimiya-the-missing-pieces"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "horimiya-the-missing-pieces"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "horimiya-the-missing-pieces"
+              }
+            ]
           },
           {
             "title": "Inazuma Eleven – Todos os Episódios",
@@ -60767,7 +61063,24 @@
             "url": "https://animeplay.cloud/anime/inazuma-eleven",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/07/p0UiQl050IxYOZJ5u8tc7arG7kA-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "inazuma-eleven"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "inazuma-eleven"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "inazuma-eleven"
+              }
+            ]
           },
           {
             "title": "Yamishibai Japanese Ghost Stories – Todos os Episódios",
@@ -60775,7 +61088,24 @@
             "url": "https://animeplay.cloud/anime/yamishibai-japanese-ghost-stories",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/07/zQJiBekYYqFhYwDnpJPrtYaoo27-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "yamishibai-japanese-ghost-stories"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "yamishibai-japanese-ghost-stories"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "yamishibai-japanese-ghost-stories"
+              }
+            ]
           },
           {
             "title": "Monogatari Bakemonogatari – Todos os Episodios",
@@ -60783,7 +61113,24 @@
             "url": "https://animeplay.cloud/anime/bakemonogatari-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/07/Bakemonogatari-AnimeQ-185x272.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "bakemonogatari"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "bakemonogatari"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "bakemonogatari"
+              }
+            ]
           },
           {
             "title": "0-saiji Start Dash Monogatari",
@@ -60791,7 +61138,24 @@
             "url": "https://animeplay.cloud/anime/0-saiji-start-dash-monogatari",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/07/qtYsZKmZejpaaOHJDSI6SOOThLs-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "0-saiji-start-dash-monogatari"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "0-saiji-start-dash-monogatari"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "0-saiji-start-dash-monogatari"
+              }
+            ]
           },
           {
             "title": "Egumi Legacy – Todos os Episódios",
@@ -60799,7 +61163,24 @@
             "url": "https://animeplay.cloud/anime/egumi-legacy",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/07/6r7vA4WMBYwqqKo1ny7Teh1bYNO-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "egumi-legacy"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "egumi-legacy"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "egumi-legacy"
+              }
+            ]
           },
           {
             "title": "Make Heroine ga Oosugiru!",
@@ -60807,7 +61188,24 @@
             "url": "https://animeplay.cloud/anime/make-heroine-ga-oosugiru",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/2dN2KY7cGtyzvA51zgxQ5Q8hXit-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "make-heroine-ga-oosugiru"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "make-heroine-ga-oosugiru"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "make-heroine-ga-oosugiru"
+              }
+            ]
           },
           {
             "title": "ATRI My Dear Moments – Todos Os Episódios",
@@ -60815,7 +61213,24 @@
             "url": "https://animeplay.cloud/anime/atri-my-dear-moments",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/07/l6lVxakyK3NcTe7g6K0xm5ZLmZH-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "atri-my-dear-moments"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "atri-my-dear-moments"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "atri-my-dear-moments"
+              }
+            ]
           },
           {
             "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
@@ -60823,7 +61238,24 @@
             "url": "https://animeplay.cloud/anime/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/07/6U4SotIXAsqOAhsB3gk3m8ushye-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka"
+              }
+            ]
           },
           {
             "title": "Tomo-chan wa Onnanoko! – Todos os Episodios",
@@ -60831,7 +61263,24 @@
             "url": "https://animeplay.cloud/anime/tomo-chan-is-a-girl",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/07/554QpBr323KeYYYKQ3S9zKb3JnF-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tomo-chan-is-a-girl"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tomo-chan-is-a-girl"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tomo-chan-is-a-girl"
+              }
+            ]
           },
           {
             "title": "Grendizer U – Todos os Episodios",
@@ -60839,7 +61288,24 @@
             "url": "https://animeplay.cloud/anime/grendizer-u",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/07/uWaJrNKRSXSiEDuF0uK5PKOJdTd-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "grendizer-u"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "grendizer-u"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "grendizer-u"
+              }
+            ]
           },
           {
             "title": "Koi wa Futago de Warikirenai – Todos os Episódios",
@@ -60847,7 +61313,24 @@
             "url": "https://animeplay.cloud/anime/koi-wa-futago-de-warikirenai",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/07/rWW09ALeJVe3qerVejgp0e1Gbxm-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "koi-wa-futago-de-warikirenai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "koi-wa-futago-de-warikirenai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "koi-wa-futago-de-warikirenai"
+              }
+            ]
           },
           {
             "title": "Kinnikuman: Kanpeki Chоujin Shiso-hen",
@@ -60855,7 +61338,40 @@
             "url": "https://animeplay.cloud/anime/kinnikuman-kanpeki-ch%d0%beujin-shiso-hen",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/07/8kXDyWBKwXlZjTP4EVueZYzhBPc-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kinnikuman-kanpeki-chоujin-shiso-hen"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kinnikuman-kanpeki-chоujin-shiso-hen"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kinnikuman-kanpeki-chоujin-shiso-hen"
+              }
+            ]
+          },
+          {
+            "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita – Todos os Episódios",
+            "slug": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
+            "url": "https://animesdrive.online/anime/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/9NivXf13bsUsL5ipeZwByuwJLcB-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Mayonaka Punch – Todos os Episódios",
+            "slug": "mayonaka-punch",
+            "url": "https://animesdrive.online/anime/mayonaka-punch",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/uEJP8bv6meVPfJeoOlMdCnIy84S-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -60863,10 +61379,10 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 726,
+        "total": 1061,
         "aocCircuitOpen": false,
         "aocDegraded": false,
-        "catalogFromCache": false,
+        "catalogFromCache": true,
         "aocReachable": false,
         "aocCircuit": {
           "open": false,
@@ -60883,7 +61399,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785074923040,
+          "lastProbeAt": 1785103726191,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -60908,9 +61424,10 @@
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
-        }
+        },
+        "cachedAt": 1785074989213
       },
-      "at": 1785074989213
+      "at": 1785103741797
     },
     "partner:animeplay|todos|36||48": {
       "data": {
@@ -61153,7 +61670,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785074990469
+      "at": 1785103742982
     },
     "todos|36||120": {
       "data": {
@@ -72841,7 +73358,258 @@
         }
       },
       "at": 1785075045606
+    },
+    "partner:animesdrive|todos|35||48": {
+      "data": {
+        "items": [
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesdrive.online/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Uzumaki – Todos os Episódios",
+            "slug": "uzumaki",
+            "url": "https://animesdrive.online/anime/uzumaki",
+            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Hitoribocchi no Isekai Kouryaku",
+            "slug": "hitoribocchi-no-isekai-kouryaku",
+            "url": "https://animesdrive.online/anime/hitoribocchi-no-isekai-kouryaku",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Maou-sama, Retry! 2 – Todos os Episódios",
+            "slug": "maou-sama-retry",
+            "url": "https://animesdrive.online/anime/maou-sama-retry-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
+            "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+            "url": "https://animesdrive.online/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Puniru wa Kawaii Slime – Todos os Episódios",
+            "slug": "puniru-wa-kawaii-slime",
+            "url": "https://animesdrive.online/anime/puniru-wa-kawaii-slime",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/08/fgQTJa7R5fYE12BL5BtJNAVsYtX-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "slug": "rezero-kara-hajimeru-isekai-seikatsu",
+            "url": "https://animesdrive.online/anime/rezero-kara-hajimeru-isekai-seikatsu",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/08/aBArXqZA6zuNV1mwBH5UP8aiQoP-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Soul Eater – Todos os Episódios",
+            "slug": "soul-eater",
+            "url": "https://animesdrive.online/anime/soul-eater",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/08/qAHpIPbbnrso2ngfjHpVoKdwUQI-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Rick e Morty: O Anime – Todos os Episódios",
+            "slug": "rick-e-morty-o-anime",
+            "url": "https://animesdrive.online/anime/rick-e-morty-o-anime",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/08/kQFPw9W3EO6ZLhg3TI782edq9Fr-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Gamera: Rebirth – Todos os Episódios",
+            "slug": "gamera-rebirth",
+            "url": "https://animesdrive.online/anime/gamera-rebirth",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/08/b9P5nzohEuclhqOkiS2kgG67n3n-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Yu-Gi-Oh! Duel Monsters – Todos os Episódios",
+            "slug": "yu-gi-oh-duel-monsters",
+            "url": "https://animesdrive.online/anime/yu-gi-oh-duel-monsters",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/08/ra8CKkCHjSok8L9meEP4WuOukNK-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Yeosin Gangnim – Todos os Episódios",
+            "slug": "yeosin-gangnim",
+            "url": "https://animesdrive.online/anime/yeosin-gangnim-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/9gpc8kIhNEG7r0VTkyI9aVBxdO3.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Delico’s Nursery – Todos os Episódios",
+            "slug": "delicos-nursery",
+            "url": "https://animesdrive.online/anime/delicos-nursery",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/08/gtJ7jnoRE0a7SUvqB8vakdqKZuN-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Kimi ni Todoke – Todos os Episódios",
+            "slug": "kimi-ni-todoke",
+            "url": "https://animesdrive.online/anime/kimi-ni-todoke",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/08/2XZ0Ofg1ZUZMFrbyWJuakSJAKZz-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Horimiya: Piece – Todos os Episódios",
+            "slug": "horimiya-the-missing-pieces",
+            "url": "https://animesdrive.online/anime/horimiya-the-missing-pieces",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/08/nnGb4NYOyRfCl5DKYPIK9A0Cgww-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Inazuma Eleven – Todos os Episódios",
+            "slug": "inazuma-eleven",
+            "url": "https://animesdrive.online/anime/inazuma-eleven",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/p0UiQl050IxYOZJ5u8tc7arG7kA-185x278.jpg.webp",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Yamishibai Japanese Ghost Stories – Todos os Episódios",
+            "slug": "yamishibai-japanese-ghost-stories",
+            "url": "https://animesdrive.online/anime/yamishibai-japanese-ghost-stories",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/zQJiBekYYqFhYwDnpJPrtYaoo27-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Monogatari Bakemonogatari – Todos os Episodios",
+            "slug": "bakemonogatari",
+            "url": "https://animesdrive.online/anime/bakemonogatari-todos-os-episodios",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/Bakemonogatari-AnimeQ-185x272.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "0-saiji Start Dash Monogatari",
+            "slug": "0-saiji-start-dash-monogatari",
+            "url": "https://animesdrive.online/anime/0-saiji-start-dash-monogatari",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/qtYsZKmZejpaaOHJDSI6SOOThLs-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Egumi Legacy – Todos os Episódios",
+            "slug": "egumi-legacy",
+            "url": "https://animesdrive.online/anime/egumi-legacy",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/6r7vA4WMBYwqqKo1ny7Teh1bYNO-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Make Heroine ga Oosugiru!",
+            "slug": "make-heroine-ga-oosugiru",
+            "url": "https://animesdrive.online/anime/make-heroine-ga-oosugiru",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/2dN2KY7cGtyzvA51zgxQ5Q8hXit-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "ATRI My Dear Moments – Todos Os Episódios",
+            "slug": "atri-my-dear-moments",
+            "url": "https://animesdrive.online/anime/atri-my-dear-moments",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/l6lVxakyK3NcTe7g6K0xm5ZLmZH-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
+            "slug": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
+            "url": "https://animesdrive.online/anime/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/6U4SotIXAsqOAhsB3gk3m8ushye-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Tomo-chan wa Onnanoko! – Todos os Episodios",
+            "slug": "tomo-chan-is-a-girl",
+            "url": "https://animesdrive.online/anime/tomo-chan-is-a-girl",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/554QpBr323KeYYYKQ3S9zKb3JnF-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Grendizer U – Todos os Episodios",
+            "slug": "grendizer-u",
+            "url": "https://animesdrive.online/anime/grendizer-u",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/uWaJrNKRSXSiEDuF0uK5PKOJdTd-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Koi wa Futago de Warikirenai – Todos os Episódios",
+            "slug": "koi-wa-futago-de-warikirenai",
+            "url": "https://animesdrive.online/anime/koi-wa-futago-de-warikirenai",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/rWW09ALeJVe3qerVejgp0e1Gbxm-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Kinnikuman: Kanpeki Chоujin Shiso-hen",
+            "slug": "kinnikuman-kanpeki-chоujin-shiso-hen",
+            "url": "https://animesdrive.online/anime/kinnikuman-kanpeki-ch%d0%beujin-shiso-hen",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/8kXDyWBKwXlZjTP4EVueZYzhBPc-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita – Todos os Episódios",
+            "slug": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
+            "url": "https://animesdrive.online/anime/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/9NivXf13bsUsL5ipeZwByuwJLcB-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Mayonaka Punch – Todos os Episódios",
+            "slug": "mayonaka-punch",
+            "url": "https://animesdrive.online/anime/mayonaka-punch",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/uEJP8bv6meVPfJeoOlMdCnIy84S-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          }
+        ],
+        "category": "todos",
+        "page": 35,
+        "hasMore": true,
+        "partnerId": "animesdrive"
+      },
+      "at": 1785103741763
     }
   },
-  "updatedAt": 1785103739800
+  "updatedAt": 1785103742982
 }
