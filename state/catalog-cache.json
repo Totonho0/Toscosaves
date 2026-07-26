@@ -21787,7 +21787,7 @@
         "page": 1,
         "hasMore": true,
         "total": 122,
-        "cachedAt": 1785016557443,
+        "cachedAt": 1785045350404,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -21834,7 +21834,7 @@
           "fixHint": null
         }
       },
-      "at": 1785016558751
+      "at": 1785045351722
     },
     "legendado|2||120": {
       "data": {
@@ -22660,7 +22660,7 @@
         "page": 2,
         "hasMore": true,
         "total": 122,
-        "cachedAt": 1785016559649,
+        "cachedAt": 1785045352511,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -22707,7 +22707,7 @@
           "fixHint": null
         }
       },
-      "at": 1785016560727
+      "at": 1785045353719
     },
     "legendado|3||120": {
       "data": {
@@ -24529,18 +24529,19 @@
             "audioHint": "leg"
           },
           {
+            "title": "Koukaku Kidouta",
+            "slug": "koukaku-kidouta",
+            "url": "https://animeplay.cloud/anime/koukaku-kidouta",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "audioHint": "leg"
+          },
+          {
             "title": "Aa! Megami-sama !: Chichaitte Koto wa Benri da ne (Legendado)",
             "slug": "882691",
             "url": "https://www.anitube.zip/video/882691/",
             "poster": "https://www.anitube.zip/wp-content/uploads/303-1.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Aa! Megami-sama! – (Legendado)",
-            "slug": "67422",
-            "url": "https://www.anitube.zip/video/67422/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Aa-Megami-sama.jpg",
             "kind": "anime",
             "provider": "anitube"
           }
@@ -24549,7 +24550,7 @@
         "page": 3,
         "hasMore": true,
         "total": 122,
-        "cachedAt": 1785016561633,
+        "cachedAt": 1785045354528,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -24596,7 +24597,7 @@
           "fixHint": null
         }
       },
-      "at": 1785016562790
+      "at": 1785045355841
     },
     "dublado|1||120": {
       "data": {
@@ -25450,7 +25451,7 @@
         "page": 1,
         "hasMore": true,
         "total": 181,
-        "cachedAt": 1785016563179,
+        "cachedAt": 1785045356235,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -25497,7 +25498,7 @@
           "fixHint": null
         }
       },
-      "at": 1785016564897
+      "at": 1785045357769
     },
     "dublado|2||120": {
       "data": {
@@ -26273,7 +26274,7 @@
         "page": 2,
         "hasMore": true,
         "total": 181,
-        "cachedAt": 1785016565751,
+        "cachedAt": 1785045358657,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -26320,7 +26321,7 @@
           "fixHint": null
         }
       },
-      "at": 1785016567060
+      "at": 1785045359671
     },
     "dublado|3||120": {
       "data": {
@@ -26933,7 +26934,7 @@
         "page": 3,
         "hasMore": true,
         "total": 181,
-        "cachedAt": 1785016567911,
+        "cachedAt": 1785045360539,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -26980,7 +26981,7 @@
           "fixHint": null
         }
       },
-      "at": 1785016569187
+      "at": 1785045361876
     },
     "partner:animesdigital|lancamentos|1||24": {
       "data": {
@@ -28270,8 +28271,33 @@
             "isRelease": true
           },
           {
+            "title": "Bleach Final Season",
+            "slug": "assistir-bleach-final-season",
+            "url": "https://animesdigital.org/video/a/137384/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Bleach-Final-SeasonEp.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "assistir-bleach-final-season"
+              },
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "assistir-bleach-final-season"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1062417"
+              }
+            ]
+          },
+          {
             "title": "Bleach Final Season – Prévia",
-            "epTitle": "Bleach Final Season – Prévia",
+            "epTitle": "Episódio 1",
             "slug": "1062417",
             "episode": 1,
             "url": "https://www.anitube.zip/video/1062417/",
@@ -28520,6 +28546,11 @@
                 "server": 1,
                 "provider": "aoc",
                 "slug": "ichijouma-mankitsugurashi"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "crowned-in-a-hundred-days"
               },
               {
                 "server": 2,
@@ -28800,9 +28831,19 @@
                 "slug": "marriagetoxin-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "marriagetoxin-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado"
               }
             ]
           },
@@ -28878,16 +28919,6 @@
                 "slug": "uchi-no-otouto-domo-ga-sumimasen"
               },
               {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "ryoumin-0-nin-start-no-henkyou-ryoushu-sama"
-              },
-              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "oni-no-hanayome"
@@ -28941,16 +28972,52 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "uchi-no-otouto-domo-ga-sumimasen"
+              }
+            ]
+          },
+          {
+            "title": "Episódio 4",
+            "epTitle": "Episódio 4",
+            "slug": "black-torch-dublado",
+            "episode": 4,
+            "url": "https://animesdrive.online/episodio/black-torch-dublado-episodio-04",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/ib4rN6DP5AI2hXpnJAHnHwl3aO4-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "black-torch-dublado"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita"
+                "slug": "black-torch-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Episódio 17",
+            "epTitle": "Episódio 17",
+            "slug": "mairimashita-iruma-kun-4-dublado",
+            "episode": 17,
+            "url": "https://animesdrive.online/episodio/mairimashita-iruma-kun-4-dublado-episodio-17",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/8wxPMte9rrPb1hKFgZZyoA8olgG-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "mairimashita-iruma-kun-4-dublado"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "ryoumin-0-nin-start-no-henkyou-ryoushu-sama"
+                "slug": "mairimashita-iruma-kun-4-dublado"
               }
             ]
           },
@@ -29042,11 +29109,6 @@
                 "slug": "tensei-shitara-slime-datta-ken-4th-season"
               },
               {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "kami-no-shizuku"
-              },
-              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "yomi-no-tsugai"
@@ -29055,11 +29117,6 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "tensei-shitara-slime-datta-ken-4th-season"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kami-no-shizuku"
               }
             ]
           },
@@ -29129,6 +29186,26 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "nige-jouzu-no-wakagimi-2nd"
+              }
+            ]
+          },
+          {
+            "title": "Saijo no Osewa",
+            "slug": "assistir-saijo-no-osewa",
+            "url": "https://animesdigital.org/video/a/137369/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-saijo-no-osewa-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital",
+            "animeSources": [
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "assistir-saijo-no-osewa"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1062435"
               }
             ]
           },
@@ -29278,25 +29355,17 @@
             "url": "https://animesdigital.org/video/a/137376/",
             "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Yomi-no-TsugaiEp.jpg",
             "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "Bleach Final Season",
-            "slug": "assistir-bleach-final-season",
-            "url": "https://animesdigital.org/video/a/137384/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Bleach-Final-SeasonEp.jpg",
-            "kind": "anime",
             "provider": "animesdigital",
             "animeSources": [
               {
                 "server": 4,
                 "provider": "animesdigital",
-                "slug": "assistir-bleach-final-season"
+                "slug": "assistir-yomi-no-tsugai"
               },
               {
                 "server": 6,
                 "provider": "anitube",
-                "slug": "1062417"
+                "slug": "1062449"
               }
             ]
           },
@@ -29402,11 +29471,14 @@
           },
           {
             "title": "Nige Jouzu no Wakagimi 2",
-            "slug": "assistir-nige-jouzu-no-wakagimi-2",
-            "url": "https://animesdigital.org/video/a/137366/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Nige-Jouzu-no-Wakagimi-2.jpg",
+            "epTitle": "Episódio 2",
+            "slug": "1062432",
+            "episode": 2,
+            "url": "https://www.anitube.zip/video/1062432/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Nige-Jouzu-no-Wakagimi-2.jpg",
             "kind": "anime",
-            "provider": "animesdigital",
+            "provider": "anitube",
+            "isRelease": true,
             "animeSources": [
               {
                 "server": 4,
@@ -29470,59 +29542,13 @@
                 "slug": "1062410"
               }
             ]
-          },
-          {
-            "title": "Kami no Shizuku",
-            "epTitle": "Episódio 16",
-            "slug": "1062407",
-            "episode": 16,
-            "url": "https://www.anitube.zip/video/1062407/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Kami-no-ShizukuEp.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-kami-no-shizuku"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1062407"
-              }
-            ]
-          },
-          {
-            "title": "Tensei Shitara Slime Datta Ken 4",
-            "epTitle": "Episódio 16",
-            "slug": "1062405",
-            "episode": 16,
-            "url": "https://www.anitube.zip/video/1062405/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Tensei-Shitara-Slime-Datta-Ken-4Ep.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-tensei-shitara-slime-datta-ken-4"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1062405"
-              }
-            ]
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": true,
-        "total": 132,
-        "cachedAt": 1785016553983,
+        "total": 137,
+        "cachedAt": 1785045347331,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -29569,7 +29595,7 @@
           "fixHint": null
         }
       },
-      "at": 1785016555003
+      "at": 1785045348055
     },
     "lancamentos|2||120": {
       "data": {
@@ -29577,38 +29603,21 @@
           {
             "title": "Episódio 13",
             "epTitle": "Episódio 13",
-            "slug": "ganbare-nakamura-kun-dublado",
-            "episode": 13,
-            "url": "https://animesonline.cloud/episodio/ganbare-nakamura-kun-dublado-episodio-13",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/e9z29nc3RnsEX8sgULaCAUxJUNH-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "ganbare-nakamura-kun-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "marriagetoxin-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "marriagetoxin-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Episódio 13",
-            "epTitle": "Episódio 13",
             "slug": "ganbare-nakamura-kun",
             "episode": 13,
             "url": "https://animesonline.cloud/episodio/ganbare-nakamura-kun-episodio-13",
             "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/gU5MNyDRj1SzD2aRa8R0lBZrNTX-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 13",
+            "epTitle": "Episódio 13",
+            "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado",
+            "episode": 13,
+            "url": "https://animesonline.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-13",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/15HXmYd8NkdlXqtCj4fd0CuSS1c-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
@@ -29786,12 +29795,12 @@
             ]
           },
           {
-            "title": "Episódio 16",
-            "epTitle": "Episódio 15",
+            "title": "Episódio 17",
+            "epTitle": "Episódio 17",
             "slug": "mairimashita-iruma-kun-4-dublado",
-            "episode": 15,
-            "url": "https://animesonline.cloud/episodio/mairimashita-iruma-kun-4-dublado-episodio-15",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/9OxuI3M3AzKKEfafjO9iqOOB0v0-300x170.jpg",
+            "episode": 17,
+            "url": "https://animesonline.cloud/episodio/mairimashita-iruma-kun-4-dublado-episodio-17",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/8wxPMte9rrPb1hKFgZZyoA8olgG-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true,
@@ -30471,6 +30480,34 @@
             ]
           },
           {
+            "title": "Episódio 4",
+            "epTitle": "Episódio 4",
+            "slug": "black-torch-dublado",
+            "episode": 4,
+            "url": "https://animesonline.cloud/episodio/black-torch-dublado-episodio-04",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/ib4rN6DP5AI2hXpnJAHnHwl3aO4-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "black-torch-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "black-torch-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "black-torch-dublado"
+              }
+            ]
+          },
+          {
             "title": "Episódio 5",
             "epTitle": "Episódio 5",
             "slug": "tenmaku-no-jaadugar",
@@ -30490,6 +30527,16 @@
                 "server": 1,
                 "provider": "aoc",
                 "slug": "lv999-no-murabito"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "neko-to-ryuu"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hanazakari-no-kimitachi-e-2nd"
               },
               {
                 "server": 2,
@@ -30647,6 +30694,29 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "x-men-97-season-2-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Saijo no Osewa",
+            "epTitle": "Episódio 4",
+            "slug": "1062435",
+            "episode": 4,
+            "url": "https://www.anitube.zip/video/1062435/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/saijo-no-osewa-thumbpadra1.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "assistir-saijo-no-osewa"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1062435"
               }
             ]
           },
@@ -30812,6 +30882,29 @@
             ]
           },
           {
+            "title": "Yomi no Tsugai",
+            "epTitle": "Episódio 16",
+            "slug": "1062449",
+            "episode": 16,
+            "url": "https://www.anitube.zip/video/1062449/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Yomi-no-TsugaiEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "assistir-yomi-no-tsugai"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1062449"
+              }
+            ]
+          },
+          {
             "title": "Bleach Final Season",
             "epTitle": "Episódio 1",
             "slug": "1062417",
@@ -30825,7 +30918,12 @@
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "1062417"
+                "slug": "assistir-bleach-final-season"
+              },
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "assistir-bleach-final-season"
               },
               {
                 "server": 6,
@@ -31055,59 +31153,13 @@
                 "slug": "1062410"
               }
             ]
-          },
-          {
-            "title": "Kami no Shizuku",
-            "epTitle": "Episódio 16",
-            "slug": "1062407",
-            "episode": 16,
-            "url": "https://www.anitube.zip/video/1062407/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Kami-no-ShizukuEp.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-kami-no-shizuku"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1062407"
-              }
-            ]
-          },
-          {
-            "title": "Tensei Shitara Slime Datta Ken 4",
-            "epTitle": "Episódio 16",
-            "slug": "1062405",
-            "episode": 16,
-            "url": "https://www.anitube.zip/video/1062405/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Tensei-Shitara-Slime-Datta-Ken-4Ep.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-tensei-shitara-slime-datta-ken-4"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1062405"
-              }
-            ]
           }
         ],
         "category": "lancamentos",
         "page": 2,
         "hasMore": true,
-        "total": 138,
-        "cachedAt": 1785016555956,
+        "total": 137,
+        "cachedAt": 1785045348985,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -31154,7 +31206,7 @@
           "fixHint": null
         }
       },
-      "at": 1785016557031
+      "at": 1785045350031
     },
     "todos|1||48": {
       "data": {
@@ -32024,6 +32076,39 @@
           {
             "title": "Episódio 4",
             "epTitle": "Episódio 4",
+            "slug": "black-torch-dublado",
+            "episode": 4,
+            "url": "https://animesonline.cloud/episodio/black-torch-dublado-episodio-04",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/ib4rN6DP5AI2hXpnJAHnHwl3aO4-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 17",
+            "epTitle": "Episódio 17",
+            "slug": "mairimashita-iruma-kun-4-dublado",
+            "episode": 17,
+            "url": "https://animesonline.cloud/episodio/mairimashita-iruma-kun-4-dublado-episodio-17",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/8wxPMte9rrPb1hKFgZZyoA8olgG-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 13",
+            "epTitle": "Episódio 13",
+            "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado",
+            "episode": 13,
+            "url": "https://animesonline.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-13",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/15HXmYd8NkdlXqtCj4fd0CuSS1c-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 4",
+            "epTitle": "Episódio 4",
             "slug": "kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu",
             "episode": 4,
             "url": "https://animesonline.cloud/episodio/kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu-episodio-04",
@@ -32229,46 +32314,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 4",
-            "epTitle": "Episódio 4",
-            "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita",
-            "episode": 4,
-            "url": "https://animesonline.cloud/episodio/koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita-episodio-04",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/lQBOH2wsPZBTjQcr8u496Ze2ac4-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 16",
-            "epTitle": "Episódio 16",
-            "slug": "kami-no-shizuku",
-            "episode": 16,
-            "url": "https://animesonline.cloud/episodio/kami-no-shizuku-episodio-16",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/mh41rsaOuqWHbFZWDxSxK813r6U-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 4",
-            "epTitle": "Episódio 4",
-            "slug": "ryoumin-0-nin-start-no-henkyou-ryoushu-sama",
-            "episode": 4,
-            "url": "https://animesonline.cloud/episodio/ryoumin-0-nin-start-no-henkyou-ryoushu-sama-episodio-04",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/aEjVPOk7V2awTZcVUxRNegNVfZ7-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1785016553983
+      "at": 1785045347331
     },
     "partner:anitube|todos|1||24": {
       "data": {
@@ -114499,7 +114551,7 @@
         "hasMore": false,
         "partnerId": "animesdrive"
       },
-      "at": 1785016552911
+      "at": 1785045346473
     },
     "todos|50||120": {
       "data": {
@@ -114965,7 +115017,7 @@
         "page": 50,
         "hasMore": true,
         "total": 1682,
-        "cachedAt": 1785016550843,
+        "cachedAt": 1785045344657,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -115012,11 +115064,22 @@
           "fixHint": null
         }
       },
-      "at": 1785016552964
+      "at": 1785045346519
     },
     "partner:anitube|lancamentos|1||48": {
       "data": {
         "items": [
+          {
+            "title": "Saijo no Osewa",
+            "epTitle": "Episódio 4",
+            "slug": "1062435",
+            "episode": 4,
+            "url": "https://www.anitube.zip/video/1062435/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/saijo-no-osewa-thumbpadra1.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
           {
             "title": "Kabushikigaisha Magi-Lumière Season 2",
             "epTitle": "Episódio 4",
@@ -115090,6 +115153,17 @@
             "episode": 5,
             "url": "https://www.anitube.zip/video/1062447/",
             "poster": "https://www.anitube.zip/wp-content/uploads/tenmaku-no-jaadugar-thumbpadra1.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Yomi no Tsugai",
+            "epTitle": "Episódio 16",
+            "slug": "1062449",
+            "episode": 16,
+            "url": "https://www.anitube.zip/video/1062449/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Yomi-no-TsugaiEp.jpg",
             "kind": "anime",
             "provider": "anitube",
             "isRelease": true
@@ -115214,28 +115288,6 @@
             "kind": "anime",
             "provider": "anitube",
             "isRelease": true
-          },
-          {
-            "title": "Kami no Shizuku",
-            "epTitle": "Episódio 16",
-            "slug": "1062407",
-            "episode": 16,
-            "url": "https://www.anitube.zip/video/1062407/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Kami-no-ShizukuEp.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Tensei Shitara Slime Datta Ken 4",
-            "epTitle": "Episódio 16",
-            "slug": "1062405",
-            "episode": 16,
-            "url": "https://www.anitube.zip/video/1062405/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Tensei-Shitara-Slime-Datta-Ken-4Ep.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -115243,11 +115295,19 @@
         "hasMore": false,
         "partnerId": "anitube"
       },
-      "at": 1785016553320
+      "at": 1785045346877
     },
     "partner:animesdigital|lancamentos|1||48": {
       "data": {
         "items": [
+          {
+            "title": "Saijo no Osewa",
+            "slug": "assistir-saijo-no-osewa",
+            "url": "https://animesdigital.org/video/a/137369/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-saijo-no-osewa-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
           {
             "title": "Kabushikigaisha Magi-Lumière Season 2",
             "slug": "assistir-kabushikigaisha-magi-lumière-season-2",
@@ -115367,14 +115427,6 @@
             "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Hell-Mode-2Ep.jpg",
             "kind": "anime",
             "provider": "animesdigital"
-          },
-          {
-            "title": "Nige Jouzu no Wakagimi 2",
-            "slug": "assistir-nige-jouzu-no-wakagimi-2",
-            "url": "https://animesdigital.org/video/a/137366/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Nige-Jouzu-no-Wakagimi-2.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
           }
         ],
         "category": "lancamentos",
@@ -115382,7 +115434,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1785016553421
+      "at": 1785045347484
     },
     "partner:animeplay|lancamentos|1||48": {
       "data": {
@@ -115405,6 +115457,39 @@
             "episode": 4,
             "url": "https://animeplay.cloud/episodio/oni-no-hanayome-episodio-04",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/b1T9dNM6YHl69UbJV8uINV4ym94-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 4",
+            "epTitle": "Episódio 4",
+            "slug": "black-torch-dublado",
+            "episode": 4,
+            "url": "https://animeplay.cloud/episodio/black-torch-dublado-episodio-04",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/ib4rN6DP5AI2hXpnJAHnHwl3aO4-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 17",
+            "epTitle": "Episódio 17",
+            "slug": "mairimashita-iruma-kun-4-dublado",
+            "episode": 17,
+            "url": "https://animeplay.cloud/episodio/mairimashita-iruma-kun-4-dublado-episodio-17",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/8wxPMte9rrPb1hKFgZZyoA8olgG-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 13",
+            "epTitle": "Episódio 13",
+            "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado",
+            "episode": 13,
+            "url": "https://animeplay.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-13",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/15HXmYd8NkdlXqtCj4fd0CuSS1c-300x170.jpg",
             "kind": "anime",
             "provider": "animeplay",
             "isRelease": true
@@ -115617,39 +115702,6 @@
             "kind": "anime",
             "provider": "animeplay",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 4",
-            "epTitle": "Episódio 4",
-            "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita",
-            "episode": 4,
-            "url": "https://animeplay.cloud/episodio/koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita-episodio-04",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/lQBOH2wsPZBTjQcr8u496Ze2ac4-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 16",
-            "epTitle": "Episódio 16",
-            "slug": "kami-no-shizuku",
-            "episode": 16,
-            "url": "https://animeplay.cloud/episodio/kami-no-shizuku-episodio-16",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/mh41rsaOuqWHbFZWDxSxK813r6U-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 4",
-            "epTitle": "Episódio 4",
-            "slug": "ryoumin-0-nin-start-no-henkyou-ryoushu-sama",
-            "episode": 4,
-            "url": "https://animeplay.cloud/episodio/ryoumin-0-nin-start-no-henkyou-ryoushu-sama-episodio-04",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/aEjVPOk7V2awTZcVUxRNegNVfZ7-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -115657,7 +115709,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785016554031
+      "at": 1785045347518
     },
     "partner:animesdrive|lancamentos|1||48": {
       "data": {
@@ -115680,6 +115732,39 @@
             "episode": 4,
             "url": "https://animesdrive.online/episodio/oni-no-hanayome-episodio-04",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/07/b1T9dNM6YHl69UbJV8uINV4ym94-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 4",
+            "epTitle": "Episódio 4",
+            "slug": "black-torch-dublado",
+            "episode": 4,
+            "url": "https://animesdrive.online/episodio/black-torch-dublado-episodio-04",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/ib4rN6DP5AI2hXpnJAHnHwl3aO4-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 17",
+            "epTitle": "Episódio 17",
+            "slug": "mairimashita-iruma-kun-4-dublado",
+            "episode": 17,
+            "url": "https://animesdrive.online/episodio/mairimashita-iruma-kun-4-dublado-episodio-17",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/8wxPMte9rrPb1hKFgZZyoA8olgG-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 13",
+            "epTitle": "Episódio 13",
+            "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado",
+            "episode": 13,
+            "url": "https://animesdrive.online/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-13",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/15HXmYd8NkdlXqtCj4fd0CuSS1c-300x170.jpg",
             "kind": "anime",
             "provider": "animesdrive",
             "isRelease": true
@@ -115892,39 +115977,6 @@
             "kind": "anime",
             "provider": "animesdrive",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 4",
-            "epTitle": "Episódio 4",
-            "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita",
-            "episode": 4,
-            "url": "https://animesdrive.online/episodio/koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita-episodio-04",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/lQBOH2wsPZBTjQcr8u496Ze2ac4-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 16",
-            "epTitle": "Episódio 16",
-            "slug": "kami-no-shizuku",
-            "episode": 16,
-            "url": "https://animesdrive.online/episodio/kami-no-shizuku-episodio-16",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/mh41rsaOuqWHbFZWDxSxK813r6U-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 4",
-            "epTitle": "Episódio 4",
-            "slug": "ryoumin-0-nin-start-no-henkyou-ryoushu-sama",
-            "episode": 4,
-            "url": "https://animesdrive.online/episodio/ryoumin-0-nin-start-no-henkyou-ryoushu-sama-episodio-04",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/aEjVPOk7V2awTZcVUxRNegNVfZ7-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -115932,11 +115984,44 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785016554907
+      "at": 1785045347995
     },
     "lancamentos|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 4",
+            "epTitle": "Episódio 4",
+            "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita",
+            "episode": 4,
+            "url": "https://animesonline.cloud/episodio/koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita-episodio-04",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/lQBOH2wsPZBTjQcr8u496Ze2ac4-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 16",
+            "epTitle": "Episódio 16",
+            "slug": "kami-no-shizuku",
+            "episode": 16,
+            "url": "https://animesonline.cloud/episodio/kami-no-shizuku-episodio-16",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/mh41rsaOuqWHbFZWDxSxK813r6U-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 4",
+            "epTitle": "Episódio 4",
+            "slug": "ryoumin-0-nin-start-no-henkyou-ryoushu-sama",
+            "episode": 4,
+            "url": "https://animesonline.cloud/episodio/ryoumin-0-nin-start-no-henkyou-ryoushu-sama-episodio-04",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/aEjVPOk7V2awTZcVUxRNegNVfZ7-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
           {
             "title": "Episódio 10",
             "epTitle": "Episódio 10",
@@ -116167,50 +116252,28 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 3",
-            "epTitle": "Episódio 3",
-            "slug": "youjo-senki-ii",
-            "episode": 3,
-            "url": "https://animesonline.cloud/episodio/youjo-senki-ii-episodio-03",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/iXnZuqYLfC91mfNifWx62ULsgHq-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 3",
-            "epTitle": "Episódio 3",
-            "slug": "honoo-no-toukyuujo-dodge-danko",
-            "episode": 3,
-            "url": "https://animesonline.cloud/episodio/honoo-no-toukyuujo-dodge-danko-episodio-03",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/xjDKg2sVGJ8gjmp7dIIqWL2iM8I-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 3",
-            "epTitle": "Episódio 3",
-            "slug": "koukaku-kidoutai-tv-dublado",
-            "episode": 3,
-            "url": "https://animesonline.cloud/episodio/koukaku-kidoutai-tv-dublado-episodio-03",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/gbjvYovjmw1Wlq16sgFeaVHOBHm-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 2,
         "hasMore": true
       },
-      "at": 1785016555956
+      "at": 1785045348985
     },
     "partner:anitube|lancamentos|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Saijo no Osewa",
+            "epTitle": "Episódio 4",
+            "slug": "1062435",
+            "episode": 4,
+            "url": "https://www.anitube.zip/video/1062435/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/saijo-no-osewa-thumbpadra1.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
           {
             "title": "Kabushikigaisha Magi-Lumière Season 2",
             "epTitle": "Episódio 4",
@@ -116284,6 +116347,17 @@
             "episode": 5,
             "url": "https://www.anitube.zip/video/1062447/",
             "poster": "https://www.anitube.zip/wp-content/uploads/tenmaku-no-jaadugar-thumbpadra1.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Yomi no Tsugai",
+            "epTitle": "Episódio 16",
+            "slug": "1062449",
+            "episode": 16,
+            "url": "https://www.anitube.zip/video/1062449/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Yomi-no-TsugaiEp.jpg",
             "kind": "anime",
             "provider": "anitube",
             "isRelease": true
@@ -116408,28 +116482,6 @@
             "kind": "anime",
             "provider": "anitube",
             "isRelease": true
-          },
-          {
-            "title": "Kami no Shizuku",
-            "epTitle": "Episódio 16",
-            "slug": "1062407",
-            "episode": 16,
-            "url": "https://www.anitube.zip/video/1062407/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Kami-no-ShizukuEp.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Tensei Shitara Slime Datta Ken 4",
-            "epTitle": "Episódio 16",
-            "slug": "1062405",
-            "episode": 16,
-            "url": "https://www.anitube.zip/video/1062405/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Tensei-Shitara-Slime-Datta-Ken-4Ep.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -116437,11 +116489,44 @@
         "hasMore": false,
         "partnerId": "anitube"
       },
-      "at": 1785016555348
+      "at": 1785045348401
     },
     "partner:animeplay|lancamentos|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 4",
+            "epTitle": "Episódio 4",
+            "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita",
+            "episode": 4,
+            "url": "https://animeplay.cloud/episodio/koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita-episodio-04",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/lQBOH2wsPZBTjQcr8u496Ze2ac4-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 16",
+            "epTitle": "Episódio 16",
+            "slug": "kami-no-shizuku",
+            "episode": 16,
+            "url": "https://animeplay.cloud/episodio/kami-no-shizuku-episodio-16",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/mh41rsaOuqWHbFZWDxSxK813r6U-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 4",
+            "epTitle": "Episódio 4",
+            "slug": "ryoumin-0-nin-start-no-henkyou-ryoushu-sama",
+            "episode": 4,
+            "url": "https://animeplay.cloud/episodio/ryoumin-0-nin-start-no-henkyou-ryoushu-sama-episodio-04",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/aEjVPOk7V2awTZcVUxRNegNVfZ7-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
           {
             "title": "Episódio 10",
             "epTitle": "Episódio 10",
@@ -116672,39 +116757,6 @@
             "kind": "anime",
             "provider": "animeplay",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 5",
-            "epTitle": "Episódio 5",
-            "slug": "heroine-seijo-iie-all-works-maid-desu-hokori",
-            "episode": 5,
-            "url": "https://animeplay.cloud/episodio/heroine-seijo-iie-all-works-maid-desu-hokori-episodio-05",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/yyMVO9XhbrLSQtHZ2y9yVwuSYyF-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 3",
-            "epTitle": "Episódio 3",
-            "slug": "youjo-senki-ii",
-            "episode": 3,
-            "url": "https://animeplay.cloud/episodio/youjo-senki-ii-episodio-03",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/iXnZuqYLfC91mfNifWx62ULsgHq-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 3",
-            "epTitle": "Episódio 3",
-            "slug": "honoo-no-toukyuujo-dodge-danko",
-            "episode": 3,
-            "url": "https://animeplay.cloud/episodio/honoo-no-toukyuujo-dodge-danko-episodio-03",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/xjDKg2sVGJ8gjmp7dIIqWL2iM8I-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -116712,11 +116764,44 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785016556022
+      "at": 1785045349216
     },
     "partner:animesdrive|lancamentos|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 4",
+            "epTitle": "Episódio 4",
+            "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita",
+            "episode": 4,
+            "url": "https://animesdrive.online/episodio/koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita-episodio-04",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/lQBOH2wsPZBTjQcr8u496Ze2ac4-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 16",
+            "epTitle": "Episódio 16",
+            "slug": "kami-no-shizuku",
+            "episode": 16,
+            "url": "https://animesdrive.online/episodio/kami-no-shizuku-episodio-16",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/mh41rsaOuqWHbFZWDxSxK813r6U-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 4",
+            "epTitle": "Episódio 4",
+            "slug": "ryoumin-0-nin-start-no-henkyou-ryoushu-sama",
+            "episode": 4,
+            "url": "https://animesdrive.online/episodio/ryoumin-0-nin-start-no-henkyou-ryoushu-sama-episodio-04",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/aEjVPOk7V2awTZcVUxRNegNVfZ7-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
           {
             "title": "Episódio 10",
             "epTitle": "Episódio 10",
@@ -116947,39 +117032,6 @@
             "kind": "anime",
             "provider": "animesdrive",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 3",
-            "epTitle": "Episódio 3",
-            "slug": "youjo-senki-ii",
-            "episode": 3,
-            "url": "https://animesdrive.online/episodio/youjo-senki-ii-episodio-03",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/iXnZuqYLfC91mfNifWx62ULsgHq-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 3",
-            "epTitle": "Episódio 3",
-            "slug": "honoo-no-toukyuujo-dodge-danko",
-            "episode": 3,
-            "url": "https://animesdrive.online/episodio/honoo-no-toukyuujo-dodge-danko-episodio-03",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/xjDKg2sVGJ8gjmp7dIIqWL2iM8I-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 3",
-            "epTitle": "Episódio 3",
-            "slug": "koukaku-kidoutai-tv-dublado",
-            "episode": 3,
-            "url": "https://animesdrive.online/episodio/koukaku-kidoutai-tv-dublado-episodio-03",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/gbjvYovjmw1Wlq16sgFeaVHOBHm-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -116987,7 +117039,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785016556974
+      "at": 1785045349984
     },
     "legendado|1||48": {
       "data": {
@@ -117213,7 +117265,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1785016557443
+      "at": 1785045350404
     },
     "partner:anitube|legendado|1||48": {
       "data": {
@@ -117368,7 +117420,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1785016557369
+      "at": 1785045350369
     },
     "partner:animeplay|legendado|1||48": {
       "data": {
@@ -117438,6 +117490,14 @@
             "provider": "animeplay"
           },
           {
+            "title": "Ibitte Konai Gibo to Gishi",
+            "slug": "ibitte-konai-gibo-to-gishi",
+            "url": "https://animeplay.cloud/anime/ibitte-konai-gibo-to-gishi",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/1i67CAfM8JsUvVOA6K6OC05L7X0-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
             "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
             "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2",
             "url": "https://animeplay.cloud/anime/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2",
@@ -117450,14 +117510,6 @@
             "slug": "thunder-3",
             "url": "https://animeplay.cloud/anime/thunder-3",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/EwgegTmDUuf71tjZCswhJGo79F-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Ibitte Konai Gibo to Gishi",
-            "slug": "ibitte-konai-gibo-to-gishi",
-            "url": "https://animeplay.cloud/anime/ibitte-konai-gibo-to-gishi",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/1i67CAfM8JsUvVOA6K6OC05L7X0-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -117571,7 +117623,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785016557708
+      "at": 1785045350729
     },
     "partner:animesdrive|legendado|1||48": {
       "data": {
@@ -117721,6 +117773,14 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
+            "slug": "the-insipid-princes-furtive-grab-for-the-throne",
+            "url": "https://animesdrive.online/anime/the-insipid-princes-furtive-grab-for-the-throne",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/etpSosywRvOO8mds61uv3aSjhDF-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
             "slug": "tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken",
             "url": "https://animesdrive.online/anime/tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken",
@@ -117741,14 +117801,6 @@
             "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
             "url": "https://animesdrive.online/anime/buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/07/61TfKgUhwJLpsEOsWQXu3ClKPNI-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
-            "slug": "the-insipid-princes-furtive-grab-for-the-throne",
-            "url": "https://animesdrive.online/anime/the-insipid-princes-furtive-grab-for-the-throne",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/etpSosywRvOO8mds61uv3aSjhDF-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -117774,7 +117826,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785016558692
+      "at": 1785045351668
     },
     "partner:anitube|legendado|2||48": {
       "data": {
@@ -117929,7 +117981,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1785016559089
+      "at": 1785045352054
     },
     "legendado|2||48": {
       "data": {
@@ -118155,7 +118207,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1785016559649
+      "at": 1785045352511
     },
     "partner:animeplay|legendado|2||48": {
       "data": {
@@ -118173,6 +118225,14 @@
             "slug": "sayonara-lara",
             "url": "https://animeplay.cloud/anime/sayonara-lara",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/1s7wuO2nrL20hD10Y83OpTx3vII-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "AI no Idenshi",
+            "slug": "ai-no-idenshi",
+            "url": "https://animeplay.cloud/anime/ai-no-idenshi",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/wSAD5RS0LRvx7rqvCKEJlXbDOv1-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -118197,14 +118257,6 @@
             "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha",
             "url": "https://animeplay.cloud/anime/sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/oYVBc1fUzPNrBSrfOLSCSd9BYjL-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "AI no Idenshi",
-            "slug": "ai-no-idenshi",
-            "url": "https://animeplay.cloud/anime/ai-no-idenshi",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/wSAD5RS0LRvx7rqvCKEJlXbDOv1-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -118265,6 +118317,14 @@
             "provider": "animeplay"
           },
           {
+            "title": "Iwamoto-senpai no Suisen",
+            "slug": "iwamoto-senpai-no-suisen",
+            "url": "https://animeplay.cloud/anime/iwamoto-senpai-no-suisen",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/4Yc6I7jwpu3ThgElYESVMaRuPvd-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
             "title": "Ushiro no Shoumen Kamui-san",
             "slug": "ushiro-no-shoumen-kamui-san",
             "url": "https://animeplay.cloud/anime/ushiro-no-shoumen-kamui-san",
@@ -118277,14 +118337,6 @@
             "slug": "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita",
             "url": "https://animeplay.cloud/anime/saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/o6k2eVEowtfwTKnKvbKUn87LGzX-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Iwamoto-senpai no Suisen",
-            "slug": "iwamoto-senpai-no-suisen",
-            "url": "https://animeplay.cloud/anime/iwamoto-senpai-no-suisen",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/4Yc6I7jwpu3ThgElYESVMaRuPvd-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -118305,18 +118357,18 @@
             "provider": "animeplay"
           },
           {
-            "title": "Yani Neko",
-            "slug": "yani-neko",
-            "url": "https://animeplay.cloud/anime/yani-neko",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
             "title": "Kore Kaite Shine",
             "slug": "kore-kaite-shine",
             "url": "https://animeplay.cloud/anime/kore-kaite-shine",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/wyNF7ZhfyOihNwLponoegKK7xQQ-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Yani Neko",
+            "slug": "yani-neko",
+            "url": "https://animeplay.cloud/anime/yani-neko",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -118358,7 +118410,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785016559826
+      "at": 1785045352719
     },
     "partner:animesdrive|legendado|2||48": {
       "data": {
@@ -118380,22 +118432,6 @@
             "provider": "animesdrive"
           },
           {
-            "title": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
-            "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha",
-            "url": "https://animesdrive.online/anime/sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/oYVBc1fUzPNrBSrfOLSCSd9BYjL-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "AI no Idenshi",
-            "slug": "ai-no-idenshi",
-            "url": "https://animesdrive.online/anime/ai-no-idenshi",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/wSAD5RS0LRvx7rqvCKEJlXbDOv1-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
             "title": "Let’s Go Kaiki-gumi",
             "slug": "lets-go-kaikigumi",
             "url": "https://animesdrive.online/anime/lets-go-kaikigumi",
@@ -118408,6 +118444,22 @@
             "slug": "nijuuseiki-denki-mokuroku-eureka-evrika",
             "url": "https://animesdrive.online/anime/nijuuseiki-denki-mokuroku-eureka-evrika",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/07/plIdrypzsCXRGE3xF6A0UH742LY-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
+            "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha",
+            "url": "https://animesdrive.online/anime/sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/oYVBc1fUzPNrBSrfOLSCSd9BYjL-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "AI no Idenshi",
+            "slug": "ai-no-idenshi",
+            "url": "https://animesdrive.online/anime/ai-no-idenshi",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/wSAD5RS0LRvx7rqvCKEJlXbDOv1-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -118508,18 +118560,18 @@
             "provider": "animesdrive"
           },
           {
-            "title": "Kore Kaite Shine",
-            "slug": "kore-kaite-shine",
-            "url": "https://animesdrive.online/anime/kore-kaite-shine",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/wyNF7ZhfyOihNwLponoegKK7xQQ-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
             "title": "Yani Neko",
             "slug": "yani-neko",
             "url": "https://animesdrive.online/anime/yani-neko",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Kore Kaite Shine",
+            "slug": "kore-kaite-shine",
+            "url": "https://animesdrive.online/anime/kore-kaite-shine",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/wyNF7ZhfyOihNwLponoegKK7xQQ-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -118561,7 +118613,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785016560657
+      "at": 1785045353663
     },
     "partner:anitube|legendado|3||48": {
       "data": {
@@ -118716,7 +118768,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1785016561060
+      "at": 1785045354048
     },
     "legendado|3||48": {
       "data": {
@@ -118906,7 +118958,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1785016561633
+      "at": 1785045354528
     },
     "partner:animeplay|legendado|3||48": {
       "data": {
@@ -119048,6 +119100,14 @@
             "provider": "animeplay"
           },
           {
+            "title": "Koukaku Kidouta",
+            "slug": "koukaku-kidouta",
+            "url": "https://animeplay.cloud/anime/koukaku-kidouta",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
             "title": "Super no Ura de Yani Suu Futari Mini",
             "slug": "smoking-behind-the-supermarket-with-you-mini",
             "url": "https://animeplay.cloud/anime/smoking-behind-the-supermarket-with-you-mini",
@@ -119069,7 +119129,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785016561787
+      "at": 1785045354801
     },
     "partner:animesdrive|legendado|3||48": {
       "data": {
@@ -119171,14 +119231,6 @@
             "provider": "animesdrive"
           },
           {
-            "title": "Otome Kaijuu Caraméliser",
-            "slug": "otome-kaijuu-carameliser",
-            "url": "https://animesdrive.online/anime/otome-kaijuu-carameliser",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/1JW6hx7sAU1qRpYSxXpYb9B2xaG-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
             "title": "World Is Dancing",
             "slug": "the-world-is-dancing",
             "url": "https://animesdrive.online/anime/the-world-is-dancing",
@@ -119191,6 +119243,14 @@
             "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
             "url": "https://animesdrive.online/anime/the-exiled-heavy-knight-knows-how-to-game-the-system",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/06/oulMDIOJBoFqMvM5Fku5XKazYGX-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Otome Kaijuu Caraméliser",
+            "slug": "otome-kaijuu-carameliser",
+            "url": "https://animesdrive.online/anime/otome-kaijuu-carameliser",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/1JW6hx7sAU1qRpYSxXpYb9B2xaG-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -119216,7 +119276,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785016562651
+      "at": 1785045355686
     },
     "dublado|1||48": {
       "data": {
@@ -119442,7 +119502,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1785016563179
+      "at": 1785045356235
     },
     "partner:anitube|dublado|1||48": {
       "data": {
@@ -119597,7 +119657,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1785016563122
+      "at": 1785045356171
     },
     "partner:animeplay|dublado|1||48": {
       "data": {
@@ -119800,7 +119860,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785016563501
+      "at": 1785045356529
     },
     "partner:animesdrive|dublado|1||48": {
       "data": {
@@ -120003,7 +120063,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785016564606
+      "at": 1785045357469
     },
     "partner:animesdigital|dublado|1||48": {
       "data": {
@@ -120390,7 +120450,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1785016564215
+      "at": 1785045357165
     },
     "partner:anitube|dublado|2||48": {
       "data": {
@@ -120545,7 +120605,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1785016565225
+      "at": 1785045358097
     },
     "dublado|2||48": {
       "data": {
@@ -120771,7 +120831,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1785016565751
+      "at": 1785045358657
     },
     "partner:animeplay|dublado|2||48": {
       "data": {
@@ -120881,17 +120941,17 @@
             "provider": "animeplay"
           },
           {
-            "title": "Star Wars: Maul – Lorde das Sombras Dublado",
-            "slug": "star-wars-maul-lorde-das-sombras-dublado",
-            "url": "https://animeplay.cloud/anime/star-wars-maul-lorde-das-sombras-dublado",
+            "title": "Star Wars: Maul – Lorde das Sombras",
+            "slug": "star-wars-maul-lorde-das-sombras",
+            "url": "https://animeplay.cloud/anime/star-wars-maul-lorde-das-sombras",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
           {
-            "title": "Star Wars: Maul – Lorde das Sombras",
-            "slug": "star-wars-maul-lorde-das-sombras",
-            "url": "https://animeplay.cloud/anime/star-wars-maul-lorde-das-sombras",
+            "title": "Star Wars: Maul – Lorde das Sombras Dublado",
+            "slug": "star-wars-maul-lorde-das-sombras-dublado",
+            "url": "https://animeplay.cloud/anime/star-wars-maul-lorde-das-sombras-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
@@ -120974,7 +121034,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785016565970
+      "at": 1785045358858
     },
     "partner:animesdigital|dublado|2||48": {
       "data": {
@@ -121369,7 +121429,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1785016566167
+      "at": 1785045359058
     },
     "partner:animesdrive|dublado|2||48": {
       "data": {
@@ -121572,7 +121632,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785016566869
+      "at": 1785045359515
     },
     "partner:anitube|dublado|3||48": {
       "data": {
@@ -121727,7 +121787,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1785016567402
+      "at": 1785045360008
     },
     "dublado|3||48": {
       "data": {
@@ -121953,7 +122013,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1785016567911
+      "at": 1785045360539
     },
     "partner:animeplay|dublado|3||48": {
       "data": {
@@ -122156,7 +122216,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785016568031
+      "at": 1785045360715
     },
     "partner:animesdigital|dublado|3||48": {
       "data": {
@@ -122551,7 +122611,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1785016568299
+      "at": 1785045360965
     },
     "partner:animesdrive|dublado|3||48": {
       "data": {
@@ -122754,7 +122814,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785016569032
+      "at": 1785045361716
     },
     "partner:anitube|todos|14||48": {
       "data": {
@@ -134343,5 +134403,5 @@
       "at": 1785004517013
     }
   },
-  "updatedAt": 1785045344751
+  "updatedAt": 1785045361876
 }
