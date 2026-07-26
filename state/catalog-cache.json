@@ -56332,7 +56332,19 @@
             "url": "https://animeplay.cloud/anime/one-piece",
             "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           },
           {
             "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
@@ -56340,7 +56352,19 @@
             "url": "https://animeplay.cloud/anime/nageki-no-bourei-wa-intai-shitai",
             "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              }
+            ]
           },
           {
             "title": "Uzumaki – Todos os Episódios",
@@ -56348,7 +56372,19 @@
             "url": "https://animeplay.cloud/anime/uzumaki",
             "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "uzumaki"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "uzumaki"
+              }
+            ]
           },
           {
             "title": "Hitoribocchi no Isekai Kouryaku",
@@ -56356,7 +56392,19 @@
             "url": "https://animeplay.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              }
+            ]
           },
           {
             "title": "Maou-sama, Retry! 2 – Todos os Episódios",
@@ -56364,7 +56412,19 @@
             "url": "https://animeplay.cloud/anime/maou-sama-retry-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "maou-sama-retry"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "maou-sama-retry"
+              }
+            ]
           },
           {
             "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
@@ -56372,7 +56432,19 @@
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              }
+            ]
           },
           {
             "title": "Ansatsu Kyoushitsu 2",
@@ -56380,7 +56452,19 @@
             "url": "https://animeplay.cloud/anime/ansatsu-kyoushitsu-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/iXHhgrursLHHNAyBJh5AGsrT2CX-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ansatsu-kyoushitsu-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ansatsu-kyoushitsu-2"
+              }
+            ]
           },
           {
             "title": "Ansatsu Kyoushitsu Dublado",
@@ -56388,7 +56472,19 @@
             "url": "https://animeplay.cloud/anime/ansatsu-kyoushitsu-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/wOd98jDHkoWy2LZ4gSy67X1ihv1-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ansatsu-kyoushitsu-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ansatsu-kyoushitsu-dublado"
+              }
+            ]
           },
           {
             "title": "Shangri-La Frontier: Kusoge Hunter Kamige ni Idoman to su 2 Dublado",
@@ -56396,7 +56492,19 @@
             "url": "https://animeplay.cloud/anime/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/7Oz6HQSKZ1e8yxpbuPxnVG4Krn1-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2-dublado"
+              }
+            ]
           },
           {
             "title": "Hunter x Hunter",
@@ -56404,7 +56512,24 @@
             "url": "https://animeplay.cloud/anime/hunter-x-hunter",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/eobAuhCJA8oRp814V67WhezVXtQ-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hunter-x-hunter"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hunter-x-hunter-2011"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hunter-x-hunter"
+              }
+            ]
           },
           {
             "title": "Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su 2",
@@ -56412,7 +56537,19 @@
             "url": "https://animeplay.cloud/anime/shangri-la-frontier-kusogee-hunter-kamige-ni-idoman-to-su-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/cs1locqOIKRO7oe4pZQfpkKejh4-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "shangri-la-frontier-kusogee-hunter-kamige-ni-idoman-to-su-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "shangri-la-frontier-kusogee-hunter-kamige-ni-idoman-to-su-2"
+              }
+            ]
           },
           {
             "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai – Todos os Episódios",
@@ -56420,7 +56557,19 @@
             "url": "https://animeplay.cloud/anime/seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai",
             "poster": "https://image.tmdb.org/t/p/original/sRNBuK9pIgag4tcw312XlqKLD6O.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai"
+              }
+            ]
           },
           {
             "title": "Zenonzard The Animation – Todos os Episódios",
@@ -56428,7 +56577,19 @@
             "url": "https://animeplay.cloud/anime/zenonzard-the-animation-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/bZwzWJ3JWhTsSkpCeTQ0JiEabxZ.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "zenonzard-the-animation"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "zenonzard-the-animation"
+              }
+            ]
           },
           {
             "title": "Zero kara Hajimeru Mahou no Sho – Todos os Episódios",
@@ -56436,7 +56597,19 @@
             "url": "https://animeplay.cloud/anime/zero-kara-hajimeru-mahou-no-sho",
             "poster": "https://image.tmdb.org/t/p/original/gacVbdDHrt49bNaMyfNrLzlrU6s.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "zero-kara-hajimeru-mahou-no-sho"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "zero-kara-hajimeru-mahou-no-sho"
+              }
+            ]
           },
           {
             "title": "Zero no Tsukaima F – Todos os Episódios",
@@ -56444,7 +56617,19 @@
             "url": "https://animeplay.cloud/anime/zero-no-tsukaima-f-todos-os-episodios-zero-no-tsukaima",
             "poster": "https://image.tmdb.org/t/p/original/4ZnSRAdtpNkp1iQMYXG4WTIPYwF.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "zero-no-tsukaima-f-todos-os-episodios-zero-no-tsukaima"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "zero-no-tsukaima-f-todos-os-episodios-zero-no-tsukaima"
+              }
+            ]
           },
           {
             "title": "Zero no Tsukaima: Princesses no Rondo – Todos os Episódios",
@@ -56452,7 +56637,19 @@
             "url": "https://animeplay.cloud/anime/zero-no-tsukaima-princesses-no-rondo-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/we7TXqImueNbE5k1op9S5HDkNoh.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "zero-no-tsukaima-princesses-no-rondo"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "zero-no-tsukaima-princesses-no-rondo"
+              }
+            ]
           },
           {
             "title": "Zero no Tsukaima Futatsuki No Kishi – Todos os Episódios",
@@ -56460,7 +56657,19 @@
             "url": "https://animeplay.cloud/anime/zero-no-tsukaima-futatsuki-no-kishi-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/bJ0av1DjitHoDaCqQNlEiaUfvDW.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "zero-no-tsukaima-futatsuki-no-kishi"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "zero-no-tsukaima-futatsuki-no-kishi"
+              }
+            ]
           },
           {
             "title": "2.5-jigen no Ririsa Dublado – Todos os Episódios",
@@ -56468,7 +56677,19 @@
             "url": "https://animeplay.cloud/anime/2-5-jigen-no-ririsa-dublado-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/3abErAlHyQso1DLfWRFhJbEjNOh.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "2-5-jigen-no-ririsa-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "2-5-jigen-no-ririsa-dublado"
+              }
+            ]
           },
           {
             "title": "Kamen Rider Gavv – Todos os Episódios",
@@ -56476,7 +56697,19 @@
             "url": "https://animeplay.cloud/anime/kamen-rider-gavv",
             "poster": "https://image.tmdb.org/t/p/original/3iHHmX7txgjptGkdqY3Q6V0r0Fk.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kamen-rider-gavv"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kamen-rider-gavv"
+              }
+            ]
           },
           {
             "title": "Yume Senshi Wingman – Todos os Episódios",
@@ -56484,7 +56717,19 @@
             "url": "https://animeplay.cloud/anime/yume-senshi-wingman",
             "poster": "https://image.tmdb.org/t/p/w185/bbiFE2zLW6H390Jf6lzend7Ffb1.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "yume-senshi-wingman"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "yume-senshi-wingman"
+              }
+            ]
           },
           {
             "title": "Ishuzoku Reviewers – Todos os Episódios",
@@ -56492,7 +56737,19 @@
             "url": "https://animeplay.cloud/anime/ishuzoku-reviewers-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/n106gwCb0C4hICWAlEPMJBKXkLj.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ishuzoku-reviewers"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ishuzoku-reviewers"
+              }
+            ]
           },
           {
             "title": "Zero no Tsukaima – Todos os Episódios",
@@ -56500,7 +56757,19 @@
             "url": "https://animeplay.cloud/anime/zero-no-tsukaima-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/5Iqh7AYk57cqulrJocvyQdufMyx.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "zero-no-tsukaima"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "zero-no-tsukaima"
+              }
+            ]
           },
           {
             "title": "Zetman",
@@ -56508,7 +56777,19 @@
             "url": "https://animeplay.cloud/anime/zetman",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/4okKvxSog0DPYb61AbXBdojLJfv-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "zetman"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "zetman"
+              }
+            ]
           },
           {
             "title": "Zombieland Saga Revenge – Todos os Episódios",
@@ -56516,7 +56797,19 @@
             "url": "https://animeplay.cloud/anime/zombieland-saga-revenge-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/6Padg3esY4DGxBG0QZQP7BZs3kK.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "zombieland-saga-revenge"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "zombieland-saga-revenge"
+              }
+            ]
           },
           {
             "title": "Zombieland Saga – Todos os Episódios",
@@ -56524,7 +56817,19 @@
             "url": "https://animeplay.cloud/anime/zombieland-saga-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/e4rzeUloRTHGovb46Zobk3TimhL.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "zombieland-saga"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "zombieland-saga"
+              }
+            ]
           },
           {
             "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3 Dublado",
@@ -56532,7 +56837,19 @@
             "url": "https://animeplay.cloud/anime/rezero-kara-hajimeru-isekai-seikatsu-3-dublado",
             "poster": "https://image.tmdb.org/t/p/original/nPVXHDZRV3XBxI0vtuSIw9Mvxe5.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "rezero-kara-hajimeru-isekai-seikatsu-3-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "rezero-kara-hajimeru-isekai-seikatsu-3-dublado"
+              }
+            ]
           },
           {
             "title": "Wu Liuqi: Zui Qiang Fa Xing Shi – Todos os Episodios",
@@ -56540,7 +56857,19 @@
             "url": "https://animeplay.cloud/anime/wu-liuqi-zui-qiang-fa-xing-shi-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/3ZdNnxjbT6vUgfAeLizQKIRcw5L.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "wu-liuqi-zui-qiang-fa-xing-shi"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "wu-liuqi-zui-qiang-fa-xing-shi"
+              }
+            ]
           },
           {
             "title": "Cike Wu Liuqi – Todos os Episodios",
@@ -56548,7 +56877,19 @@
             "url": "https://animeplay.cloud/anime/cike-wu-liuqi-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/jz9ii5sft8l6zP3lzu51xNWmgiO.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "cike-wu-liuqi"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "cike-wu-liuqi"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -56556,10 +56897,10 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 618,
+        "total": 1061,
         "aocCircuitOpen": false,
         "aocDegraded": false,
-        "catalogFromCache": false,
+        "catalogFromCache": true,
         "aocReachable": false,
         "aocCircuit": {
           "open": false,
@@ -56576,7 +56917,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785074923040,
+          "lastProbeAt": 1785103636189,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -56601,9 +56942,10 @@
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
-        }
+        },
+        "cachedAt": 1785074966265
       },
-      "at": 1785074966265
+      "at": 1785103720160
     },
     "partner:animeplay|todos|31||48": {
       "data": {
@@ -56846,7 +57188,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785074967628
+      "at": 1785103721634
     },
     "todos|31||120": {
       "data": {
@@ -71153,5 +71495,5 @@
       "at": 1785075045606
     }
   },
-  "updatedAt": 1785103716727
+  "updatedAt": 1785103721634
 }
