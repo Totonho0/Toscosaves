@@ -57199,7 +57199,19 @@
             "url": "https://animeplay.cloud/anime/one-piece",
             "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           },
           {
             "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
@@ -57207,7 +57219,19 @@
             "url": "https://animeplay.cloud/anime/nageki-no-bourei-wa-intai-shitai",
             "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              }
+            ]
           },
           {
             "title": "Uzumaki – Todos os Episódios",
@@ -57215,7 +57239,19 @@
             "url": "https://animeplay.cloud/anime/uzumaki",
             "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "uzumaki"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "uzumaki"
+              }
+            ]
           },
           {
             "title": "Hitoribocchi no Isekai Kouryaku",
@@ -57223,7 +57259,19 @@
             "url": "https://animeplay.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              }
+            ]
           },
           {
             "title": "Maou-sama, Retry! 2 – Todos os Episódios",
@@ -57231,7 +57279,19 @@
             "url": "https://animeplay.cloud/anime/maou-sama-retry-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "maou-sama-retry"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "maou-sama-retry"
+              }
+            ]
           },
           {
             "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
@@ -57239,7 +57299,19 @@
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              }
+            ]
           },
           {
             "title": "One Piece Dublado – Todos os Episodios",
@@ -57247,7 +57319,19 @@
             "url": "https://animeplay.cloud/anime/one-piece-dublado-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/nlnbRpC8hycdcIsHWXwkNokFTA1.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "one-piece-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece-dublado"
+              }
+            ]
           },
           {
             "title": "Seirei Gensouki 2 Dublado",
@@ -57255,7 +57339,19 @@
             "url": "https://animeplay.cloud/anime/seirei-gensouki-2-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/423IHRx1cgkWrv1yqyhtq6pPBnq-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "seirei-gensouki-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "seirei-gensouki-2-dublado"
+              }
+            ]
           },
           {
             "title": "Medaka Box – Todos os Episódios",
@@ -57263,7 +57359,19 @@
             "url": "https://animeplay.cloud/anime/medaka-box-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/1GdlIGYSiIh4Kl4g3TvSGoPN3Wl.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "medaka-box"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "medaka-box"
+              }
+            ]
           },
           {
             "title": "Arifureta Shokugyou de Sekai Saikyou 3 Dublado – Todos os Episódios",
@@ -57271,7 +57379,19 @@
             "url": "https://animeplay.cloud/anime/arifureta-shokugyou-de-sekai-saikyou-3-dublado-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/3QX7Mwl71NomXujvjN4vjQeDYW0.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "arifureta-shokugyou-de-sekai-saikyou-3-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "arifureta-shokugyou-de-sekai-saikyou-3-dublado"
+              }
+            ]
           },
           {
             "title": "Keijo!!!!!!!! – Todos os Episódios",
@@ -57279,7 +57399,19 @@
             "url": "https://animeplay.cloud/anime/keijo-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/mcq7AHs0F7EEiCG9O7bFt5bdGrD.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "keijo"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "keijo"
+              }
+            ]
           },
           {
             "title": "Mashiro no Oto – Todos os Episódios",
@@ -57287,7 +57419,19 @@
             "url": "https://animeplay.cloud/anime/mashiro-no-oto-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/366hpKrPZfQv7kvpXomoNXcmd00.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "mashiro-no-oto"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mashiro-no-oto"
+              }
+            ]
           },
           {
             "title": "Undead Girl Murder Farce – Todos os Episódios",
@@ -57295,7 +57439,19 @@
             "url": "https://animeplay.cloud/anime/undead-girl-murder-farce-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/jzXRdGbVHNlcBbVThINpfDShHzS.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "undead-girl-murder-farce"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "undead-girl-murder-farce"
+              }
+            ]
           },
           {
             "title": "Amaama to Inazuma – Todos os Episódios",
@@ -57303,7 +57459,19 @@
             "url": "https://animeplay.cloud/anime/amaama-to-inazuma-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/i6LM0hTNGcFY5IJGa3R4MUgKFbj.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "amaama-to-inazuma"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "amaama-to-inazuma"
+              }
+            ]
           },
           {
             "title": "Uzumaki Dublado – Todos os Episódios",
@@ -57311,7 +57479,19 @@
             "url": "https://animeplay.cloud/anime/uzumaki-dublado",
             "poster": "https://image.tmdb.org/t/p/original/yTzzTT36XXOqkxY2fwT0kOPAie1.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "uzumaki-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "uzumaki-dublado"
+              }
+            ]
           },
           {
             "title": "Arcane 2 Dublado – Todos os Episódios",
@@ -57319,7 +57499,19 @@
             "url": "https://animeplay.cloud/anime/arcane-2-dublado-todos-os-episodios",
             "poster": "https://animeflix.blog/IMGS/capas/Arcane%202%20Dublado.webp",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "arcane-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "arcane-2-dublado"
+              }
+            ]
           },
           {
             "title": "Arcane 2 – Todos os Episódios",
@@ -57327,7 +57519,19 @@
             "url": "https://animeplay.cloud/anime/arcane-2-todos-os-episodios",
             "poster": "https://animeflix.blog/IMGS/capas/Arcane%202%20Legendado.webp",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "arcane-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "arcane-2"
+              }
+            ]
           },
           {
             "title": "Arcane Dublado – Todos os Episódios",
@@ -57335,7 +57539,19 @@
             "url": "https://animeplay.cloud/anime/arcane-dublado-todos-os-episodios",
             "poster": "https://animeflix.blog/IMGS/capas/Arcane%20Dublado.webp",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "arcane-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "arcane-dublado"
+              }
+            ]
           },
           {
             "title": "Ranma 1/2 (2024) Dublado – Todos os Episódios",
@@ -57343,7 +57559,19 @@
             "url": "https://animeplay.cloud/anime/ranma-1-2-2024-dublado",
             "poster": "https://animeflix.blog/IMGS/capas/Ranma1-2%202024%20Dublado.webp",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ranma-1-2-2024-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ranma-1-2-2024-dublado"
+              }
+            ]
           },
           {
             "title": "Fuufu Ijou, Koibito Miman Dublado – Todos os Episódios",
@@ -57351,7 +57579,19 @@
             "url": "https://animeplay.cloud/anime/fuufu-ijou-koibito-miman-dublado-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/blGP300ByaQEtZ5r8V5bF75rxso.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fuufu-ijou-koibito-miman-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "fuufu-ijou-koibito-miman-dublado"
+              }
+            ]
           },
           {
             "title": "Arcane – Todos os Episódios",
@@ -57359,7 +57599,19 @@
             "url": "https://animeplay.cloud/anime/arcane",
             "poster": "https://animeflix.blog/IMGS/capas/Arcane.webp",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "arcane"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "arcane"
+              }
+            ]
           },
           {
             "title": "Maou 2099 Dublado – Todos os Episódios",
@@ -57367,7 +57619,19 @@
             "url": "https://animeplay.cloud/anime/maou-2099-dublado-todos-os-episodios",
             "poster": "https://animeflix.blog/IMGS/capas/Maou%202099%20Dublado.webp",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "maou-2099-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "maou-2099-dublado"
+              }
+            ]
           },
           {
             "title": "One Piece: Gyojin Tou-hen – Todos os Episódios",
@@ -57375,7 +57639,19 @@
             "url": "https://animeplay.cloud/anime/one-piece-gyojin-tou-hen-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/6gWRM4kJDnD0xhY3aqcG6LxiBcE.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "one-piece-gyojin-tou-hen"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece-gyojin-tou-hen"
+              }
+            ]
           },
           {
             "title": "Hanma Baki: Son of Ogre Dublado – Todos os Episódios",
@@ -57383,7 +57659,19 @@
             "url": "https://animeplay.cloud/anime/hanma-baki-son-of-ogre-dublado-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/w185/m6qcOPFIkqUOo87g6sP2371lolB.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hanma-baki-son-of-ogre-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hanma-baki-son-of-ogre-dublado"
+              }
+            ]
           },
           {
             "title": "Tower of God 2 Dublado- Todos os Episódios",
@@ -57391,7 +57679,19 @@
             "url": "https://animeplay.cloud/anime/tower-of-god-2-dublado-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/7khzDTwE4Ng5UvXi43Dbndoioab.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tower-of-god-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tower-of-god-2-dublado"
+              }
+            ]
           },
           {
             "title": "Tower of God 2 – Todos os Episódios",
@@ -57399,7 +57699,19 @@
             "url": "https://animeplay.cloud/anime/tower-of-god-2-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/dfP98hCmvirEj83yeheqpkL5xdL.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tower-of-god-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tower-of-god-2"
+              }
+            ]
           },
           {
             "title": "Tower of God Dublado – Todos os Episódios",
@@ -57407,7 +57719,19 @@
             "url": "https://animeplay.cloud/anime/tower-of-god-dublado-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/fbrMr4xRUALei4aF1II5JrcWmOc.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tower-of-god-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tower-of-god-dublado"
+              }
+            ]
           },
           {
             "title": "Pokemon: Houkago no Breath Dublado – Todos os Episódios",
@@ -57415,7 +57739,19 @@
             "url": "https://animeplay.cloud/anime/pokemon-houkago-no-breath-dublado-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/bTsBjQEzg5YMXq6ALZnLJL3BlBw.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "pokemon-houkago-no-breath-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "pokemon-houkago-no-breath-dublado"
+              }
+            ]
           },
           {
             "title": "4 Cut Hero – Todos os Episódios",
@@ -57423,7 +57759,19 @@
             "url": "https://animeplay.cloud/anime/4-cut-hero-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/8Fjqbv0KWcm1yUhsqWAkkDCUVXm.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "4-cut-hero"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "4-cut-hero"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -57431,10 +57779,10 @@
         "hasMore": true,
         "warning": "Catálogo temporariamente indisponível. Tente novamente em instantes.",
         "unavailable": true,
-        "total": 638,
+        "total": 1061,
         "aocCircuitOpen": false,
         "aocDegraded": false,
-        "catalogFromCache": false,
+        "catalogFromCache": true,
         "aocReachable": false,
         "aocCircuit": {
           "open": false,
@@ -57451,7 +57799,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785074923040,
+          "lastProbeAt": 1785103636189,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -57476,9 +57824,10 @@
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
-        }
+        },
+        "cachedAt": 1785074970865
       },
-      "at": 1785074970865
+      "at": 1785103724771
     },
     "partner:animeplay|todos|32||48": {
       "data": {
@@ -57721,7 +58070,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785074972107
+      "at": 1785103726269
     },
     "todos|32||120": {
       "data": {
@@ -71495,5 +71844,5 @@
       "at": 1785075045606
     }
   },
-  "updatedAt": 1785103721634
+  "updatedAt": 1785103726269
 }
