@@ -7944,6 +7944,26 @@
         "poster": "https://image.tmdb.org/t/p/w780/r5xkqlEBhzfffQjxHRMuXBrwKiv.jpg",
         "episodeUrl": "https://animeplay.cloud/episodio/inuyasha-2000-dublado-episodio-01"
       }
+    },
+    "anime:tensei-shitara-slime-datta-ken-4-todos-episodios:16": {
+      "at": 1785161815314,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn-s01.mywallpaper-4k-image.net/stream/t/tensei-shitara-slime-datta-ken-4/16.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/137312/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn-s01.mywallpaper-4k-image.net%2Fstream%2Ft%2Ftensei-shitara-slime-datta-ken-4%2F16.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 16,
+        "slug": "tensei-shitara-slime-datta-ken-4-todos-episodios",
+        "kind": "anime",
+        "provider": "animesdigital",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wNC9UZW5zZWktU2hpdGFyYS1TbGltZS1EYXR0YS1LZW4tNEVwLmpwZw",
+        "episodeUrl": "https://animesdigital.org/video/a/137312/"
+      }
     }
   }
 }
