@@ -7894,6 +7894,31 @@
         "poster": "https://www.anitube.zip/wp-content/uploads/Boku-no-Imouto-wa-Osaka-Okan.jpg",
         "episodeUrl": "https://www.anitube.zip/video/62673/"
       }
+    },
+    "anime:inuyasha-2000:1": {
+      "at": 1785159407175,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://eos.feralhosting.com/inazu/Letra-I/Inuyasha/01.mp4",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Feos.feralhosting.com%2Finazu%2FLetra-I%2FInuyasha%2F01.mp4&ref=animeplay"
+          },
+          {
+            "type": "mp4",
+            "src": "https://animeflix.blog/Animes/Letra-I/Inuyasha/01.mp4",
+            "label": "FHD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fanimeflix.blog%2FAnimes%2FLetra-I%2FInuyasha%2F01.mp4&ref=animeplay"
+          }
+        ],
+        "episode": 1,
+        "slug": "inuyasha-2000",
+        "kind": "anime",
+        "provider": "animeplay",
+        "poster": "https://image.tmdb.org/t/p/w780/r5xkqlEBhzfffQjxHRMuXBrwKiv.jpg",
+        "episodeUrl": "https://animeplay.cloud/episodio/inuyasha-2000-episodio-01"
+      }
     }
   }
 }
