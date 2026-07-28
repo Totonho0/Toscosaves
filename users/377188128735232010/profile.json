@@ -668,6 +668,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94bUZKZ3o1TnlLb2lNc2R0aTR0UmJiR3lQT1EuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "busu-ni-hanataba-wo": {
+      "slug": "busu-ni-hanataba-wo",
+      "title": "Busu ni Hanataba wo.",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9mdG5wTWpxdjRpOGppT0xZSVlycGVBY3J4QlQuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1085,9 +1092,17 @@
     ],
     "dead-account": [
       1
+    ],
+    "busu-ni-hanataba-wo": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "busu-ni-hanataba-wo",
+      "ep": 1,
+      "at": 1785274774559
+    },
     {
       "slug": "dead-account",
       "ep": 1,
@@ -1962,5 +1977,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785274577827
+  "updatedAt": 1785274774188
 }
