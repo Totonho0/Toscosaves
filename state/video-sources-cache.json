@@ -7964,6 +7964,33 @@
         "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wNC9UZW5zZWktU2hpdGFyYS1TbGltZS1EYXR0YS1LZW4tNEVwLmpwZw",
         "episodeUrl": "https://animesdigital.org/video/a/137312/"
       }
+    },
+    "anime:1062515:4": {
+      "at": 1785201840646,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn-s01.mywallpaper-4k-image.net/stream/sv/b/black-torch-dublado/04.mp4/index.m3u8",
+            "label": "AniTube",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn-s01.mywallpaper-4k-image.net%2Fstream%2Fsv%2Fb%2Fblack-torch-dublado%2F04.mp4%2Findex.m3u8&ref=anitube",
+            "referer": "https://www.anitube.zip/video/1062515/"
+          },
+          {
+            "type": "embed",
+            "src": "https://www.anitube.zip/nUE0pUZ6Yl9vqJkvo3MuYzWfo2qmpT90YzAioF8lZQV2YmN3Y2WfLJAeYKEipzZgMUHhnUEgoN==/0/3/bg.mp4?p=1&q=QmxhY2sgVG9yY2ggKER1YmxhZG8pIOKAkyBFcGlzw7NkaW8gMDQ=&nocache1785172475",
+            "label": "AniTube",
+            "playUrl": "https://www.anitube.zip/nUE0pUZ6Yl9vqJkvo3MuYzWfo2qmpT90YzAioF8lZQV2YmN3Y2WfLJAeYKEipzZgMUHhnUEgoN==/0/3/bg.mp4?p=1&q=QmxhY2sgVG9yY2ggKER1YmxhZG8pIOKAkyBFcGlzw7NkaW8gMDQ=&nocache1785172475",
+            "referer": "https://www.anitube.zip/video/1062515/"
+          }
+        ],
+        "episode": 4,
+        "slug": "1062515",
+        "kind": "anime",
+        "provider": "anitube",
+        "poster": "https://www.anitube.zip/wp-content/uploads/assistir-black-torch-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+        "episodeUrl": "https://www.anitube.zip/video/1062515/"
+      }
     }
   }
 }
