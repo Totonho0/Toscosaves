@@ -14,6 +14,13 @@
       "title": "Ishuzoku Reviewers",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8xaHlwaUZjMXVXR2h4MlRzVTJENWZaNEV2N1kuanBn",
       "kind": "anime"
+    },
+    "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season": {
+      "slug": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season",
+      "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9qaWJjSDBHbmM3bUNYRDV2b29WcVUzZTZXdXkuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -21,8 +28,17 @@
       6
     ]
   },
-  "started": {},
+  "started": {
+    "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season": [
+      1
+    ]
+  },
   "watchHistoryLog": [
+    {
+      "slug": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season",
+      "ep": 1,
+      "at": 1785211187000
+    },
     {
       "slug": "ishuzoku-reviewers",
       "ep": 6,
@@ -45,5 +61,5 @@
   },
   "filmePlayback": {},
   "customLists": {},
-  "updatedAt": 1785211168204
+  "updatedAt": 1785211187596
 }
