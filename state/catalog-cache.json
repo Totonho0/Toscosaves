@@ -31721,7 +31721,7 @@
         "hasMore": false,
         "genreId": "romance"
       },
-      "at": 1785228931518
+      "at": 1785231783159
     },
     "genre-row:acao": {
       "data": {
@@ -31876,7 +31876,7 @@
         "hasMore": false,
         "genreId": "acao"
       },
-      "at": 1785228931188
+      "at": 1785231782718
     },
     "genre-row:comedia": {
       "data": {
@@ -32031,7 +32031,7 @@
         "hasMore": false,
         "genreId": "comedia"
       },
-      "at": 1785228931367
+      "at": 1785231783002
     },
     "lancamentos|1||120": {
       "data": {
@@ -36260,6 +36260,17 @@
       "data": {
         "items": [
           {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "crowned-in-a-hundred-days",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/crowned-in-a-hundred-days-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/6znuFwkyyJiKiFzCSIxGRDJbbyO-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
             "title": "Episódio 5",
             "epTitle": "Episódio 5",
             "slug": "rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku",
@@ -36511,24 +36522,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 13",
-            "epTitle": "Episódio 13",
-            "slug": "needy-girl-overdose-dublado",
-            "episode": 13,
-            "url": "https://animesonline.cloud/episodio/needy-girl-overdose-dublado-episodio-13",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/bxslfusKrNkjU4D0CW0LtwP02it-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1785228071606
+      "at": 1785231786095
     },
     "partner:animesdrive|lancamentos|1||24": {
       "data": {
@@ -39397,7 +39397,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1785228993067
+      "at": 1785231783609
     },
     "todos|1||24": {
       "data": {
@@ -39623,7 +39623,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1785228070660
+      "at": 1785231785200
     },
     "partner:animeplay|todos|1||24": {
       "data": {
@@ -39826,16 +39826,56 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785228993013
+      "at": 1785231783744
     },
     "partner:animesdrive|todos|1||24": {
       "data": {
         "items": [
           {
-            "title": "Seihantai na Kimi to Boku 2nd Season Dublado",
-            "slug": "seihantai-na-kimi-to-boku-2nd-season-dublado",
-            "url": "https://animesdrive.online/anime/seihantai-na-kimi-to-boku-2nd-season-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/nifCGS3g1lj5qiLbSxg1KBtt4bi-185x278.jpg",
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesdrive.online/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Uzumaki – Todos os Episódios",
+            "slug": "uzumaki",
+            "url": "https://animesdrive.online/anime/uzumaki",
+            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Hitoribocchi no Isekai Kouryaku",
+            "slug": "hitoribocchi-no-isekai-kouryaku",
+            "url": "https://animesdrive.online/anime/hitoribocchi-no-isekai-kouryaku",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Maou-sama, Retry! 2 – Todos os Episódios",
+            "slug": "maou-sama-retry",
+            "url": "https://animesdrive.online/anime/maou-sama-retry-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
+            "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+            "url": "https://animesdrive.online/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -39852,6 +39892,14 @@
             "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu-dublado",
             "url": "https://animesdrive.online/anime/mushoku-tensei-iii-isekai-ittara-honki-dasu-dublado",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/07/gLKOYIMyKlUHW0SVdskhgf9C0yy-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Seihantai na Kimi to Boku 2nd Season Dublado",
+            "slug": "seihantai-na-kimi-to-boku-2nd-season-dublado",
+            "url": "https://animesdrive.online/anime/seihantai-na-kimi-to-boku-2nd-season-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/nifCGS3g1lj5qiLbSxg1KBtt4bi-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -39880,60 +39928,108 @@
             "provider": "animesdrive"
           },
           {
-            "title": "Shiboyugi: Playing Death Games to Put Food on the Table 44: Cloudy Beach",
-            "slug": "shiboyugi-playing-death-games-to-put-food-on-the-table-44-cloudy-beach",
-            "url": "https://animesdrive.online/filme/shiboyugi-playing-death-games-to-put-food-on-the-table-44-cloudy-beach",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/ze0GjDGEbpq83LDmGyar358lbcT-185x278.jpg",
-            "kind": "filme",
+            "title": "Super no Ura de Yani Suu Futari",
+            "slug": "super-no-ura-de-yani-suu-futari",
+            "url": "https://animesdrive.online/anime/super-no-ura-de-yani-suu-futari",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/nSdgX507jBlonGFC91Ve0TfcLjJ-185x278.jpg",
+            "kind": "anime",
             "provider": "animesdrive"
           },
           {
-            "title": "Undead Unluck: Winter-hen Dublado",
-            "slug": "undead-unluck-winter-hen-dublado",
-            "url": "https://animesdrive.online/filme/undead-unluck-winter-hen-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/citUJc4AUj9eqzJB7pQXfVBASMU-185x278.jpg",
-            "kind": "filme",
+            "title": "Yani Neko Dublado",
+            "slug": "yani-neko-dublado",
+            "url": "https://animesdrive.online/anime/yani-neko-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/8z5BnilO0k786id9woYTmF2OWj4-185x278.jpg",
+            "kind": "anime",
             "provider": "animesdrive"
           },
           {
-            "title": "Saint Seiya: Tenkai-hen Josou – Overture Dublado",
-            "slug": "saint-seiya-tenkai-hen-josou-overture-dublado",
-            "url": "https://animesdrive.online/filme/saint-seiya-tenkai-hen-josou-overture-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/05/rftJUGtWWxXYYOHqgBazIwOYCDV-185x278.jpg",
-            "kind": "filme",
+            "title": "Oshi no Ko Dublado",
+            "slug": "oshi-no-ko-dublado",
+            "url": "https://animesdrive.online/anime/oshi-no-ko-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/06/ozJvrtYnLDz0wpOTx61Qs5t3ZEJ-185x278.jpg",
+            "kind": "anime",
             "provider": "animesdrive"
           },
           {
-            "title": "Saint Seiya: Saishuu Seisen no Senshi-tachi Dublado",
-            "slug": "saint-seiya-saishuu-seisen-no-senshi-tachi-dublado",
-            "url": "https://animesdrive.online/filme/saint-seiya-saishuu-seisen-no-senshi-tachi-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/05/cXCWqtb7oRtkQfpxjdPS4G2c3RR-185x278.jpg",
-            "kind": "filme",
+            "title": "Bleach Dublado",
+            "slug": "bleach-dublado",
+            "url": "https://animesdrive.online/anime/bleach-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/cACXGL4PBgKslAF5W8aaxWdriW7-185x278.jpg",
+            "kind": "anime",
             "provider": "animesdrive"
           },
           {
-            "title": "Saint Seiya: Shinku no Shonen Densetsu Dublado",
-            "slug": "saint-seiya-shinku-no-shonen-densetsu-dublado",
-            "url": "https://animesdrive.online/filme/saint-seiya-shinku-no-shonen-densetsu-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/05/724kXHDFaSJw1WdYX2qi5XkYMLb-185x278.jpg",
-            "kind": "filme",
+            "title": "Black Clover Dublado",
+            "slug": "black-clover-dublado",
+            "url": "https://animesdrive.online/anime/black-clover-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/91z5IHcqGWmh8odTnKcMzWDrsZK-185x278.jpg",
+            "kind": "anime",
             "provider": "animesdrive"
           },
           {
-            "title": "Saint Seiya Kamigami no Atsuki Tatakai Dublado",
-            "slug": "saint-seiya-kamigami-no-atsuki-tatakai-dublado",
-            "url": "https://animesdrive.online/filme/saint-seiya-kamigami-no-atsuki-tatakai-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/05/sspzm0g4CAPntl0B0kiAJJwQ1O4-185x278.jpg",
-            "kind": "filme",
+            "title": "Black Clover",
+            "slug": "black-clover",
+            "url": "https://animesdrive.online/anime/black-clover",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/xoqmJpO3jGxEldDCItXuGj2MVTV-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai Dublado",
+            "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado",
+            "url": "https://animesdrive.online/anime/hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/eFT7WIEKFqDBUkkTbEd0YRWrT8b-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+            "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai",
+            "url": "https://animesdrive.online/anime/hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/MtHcMTVjuIPta3pQJtCc9LqYdT-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Zhan Shen: Fanchen Shenyu II",
+            "slug": "zhan-shen-fanchen-shenyu-ii",
+            "url": "https://animesdrive.online/anime/zhan-shen-fanchen-shenyu-ii",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/cJ0r3xcVHDn5om8dugt5iEaS83d-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Thunder 3 Dublado",
+            "slug": "thunder-3-dublado",
+            "url": "https://animesdrive.online/anime/thunder-3-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/uVGuFiXA1PocSxpQbMVCHXgGPwr-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Mebius Dust",
+            "slug": "mebius-dust",
+            "url": "https://animesdrive.online/anime/mebius-dust",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/2wvrWWiOzLstupoRkSgNdvShPGn-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Tomb Raider King",
+            "slug": "tomb-raider-king",
+            "url": "https://animesdrive.online/anime/tomb-raider-king",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/07/arohqBQaGUFnqNqwERlIVQNmLFv-185x278.jpg",
+            "kind": "anime",
             "provider": "animesdrive"
           }
         ],
         "category": "todos",
         "page": 1,
-        "hasMore": false,
+        "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785228992979
+      "at": 1785231783933
     },
     "partner:animesdigital|todos|1||24": {
       "data": {
@@ -40136,7 +40232,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1785228993041
+      "at": 1785231782526
     },
     "partner:anitube|todos|2||24": {
       "data": {
@@ -40291,7 +40387,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1785228993568
+      "at": 1785231783894
     },
     "todos|2||24": {
       "data": {
@@ -40517,7 +40613,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1785228072466
+      "at": 1785231786989
     },
     "partner:animesdrive|todos|2||24": {
       "data": {
@@ -40720,7 +40816,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785228993499
+      "at": 1785231784241
     },
     "partner:animeplay|todos|2||24": {
       "data": {
@@ -40923,7 +41019,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785228993522
+      "at": 1785231784502
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -41126,7 +41222,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1785228993544
+      "at": 1785231782914
     },
     "todos|3||24": {
       "data": {
@@ -132023,5 +132119,5 @@
       "at": 1785216932352
     }
   },
-  "updatedAt": 1785231345598
+  "updatedAt": 1785231786989
 }
