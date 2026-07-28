@@ -21,6 +21,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9qaWJjSDBHbmM3bUNYRDV2b29WcVUzZTZXdXkuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "dragon-ball-daima-dublado": {
+      "slug": "dragon-ball-daima-dublado",
+      "title": "Dragon Ball Daima Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9qc2xrM0k0VExEVGI5QlRLVXFqTUhwc0NzbWwuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -39,9 +46,17 @@
       9,
       10,
       11
+    ],
+    "dragon-ball-daima-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "dragon-ball-daima-dublado",
+      "ep": 1,
+      "at": 1785262229511
+    },
     {
       "slug": "ishuzoku-reviewers",
       "ep": 11,
@@ -89,5 +104,5 @@
   },
   "filmePlayback": {},
   "customLists": {},
-  "updatedAt": 1785262191830
+  "updatedAt": 1785262230215
 }
