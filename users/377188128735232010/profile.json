@@ -128,10 +128,9 @@
     },
     "1062030": {
       "slug": "1062030",
-      "title": "Black Torch",
-      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWJsYWNrLXRvcmNoLXRvZG9zLW9zLWVwaXNvZGlvcy10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaXR1YmUuanBn",
-      "kind": "anime",
-      "adult": false
+      "title": "Black Torch – Episódio 03",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2JsYWNrLXRvcmNoLXRodW1icGFkcmExLmpwZw",
+      "kind": "anime"
     },
     "1062098": {
       "slug": "1062098",
@@ -666,8 +665,7 @@
       "slug": "dead-account",
       "title": "Dead Account",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94bUZKZ3o1TnlLb2lNc2R0aTR0UmJiR3lQT1EuanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "busu-ni-hanataba-wo": {
       "slug": "busu-ni-hanataba-wo",
@@ -751,6 +749,9 @@
       1,
       2,
       3
+    ],
+    "dead-account": [
+      1
     ]
   },
   "started": {
@@ -1099,99 +1100,99 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "maou-sama-retry",
+      "ep": 1,
+      "at": 1785274805958
+    },
+    {
+      "slug": "tongari-boushi-no-atelier-dublado",
+      "ep": 3,
+      "at": 1785274805958
+    },
+    {
+      "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
+      "ep": 1,
+      "at": 1785274805957
+    },
+    {
+      "slug": "darwin-jihen-dublado",
+      "ep": 1,
+      "at": 1785274805957
+    },
+    {
+      "slug": "chainsmoker-cat",
+      "ep": 1,
+      "at": 1785274805957
+    },
+    {
+      "slug": "sword-art-online-2-dublado",
+      "ep": 1,
+      "at": 1785274805957
+    },
+    {
+      "slug": "azumanga-daioh",
+      "ep": 1,
+      "at": 1785274805957
+    },
+    {
+      "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season",
+      "ep": 3,
+      "at": 1785274805957
+    },
+    {
+      "slug": "black-clover",
+      "ep": 1,
+      "at": 1785274805957
+    },
+    {
+      "slug": "black-clover-dublado",
+      "ep": 8,
+      "at": 1785274805957
+    },
+    {
+      "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
+      "ep": 3,
+      "at": 1785274805957
+    },
+    {
+      "slug": "dead-account",
+      "ep": 1,
+      "at": 1785274805957
+    },
+    {
+      "slug": "1062417",
+      "ep": 1,
+      "at": 1785274805957
+    },
+    {
+      "slug": "1062098",
+      "ep": 2,
+      "at": 1785274805957
+    },
+    {
+      "slug": "1062030",
+      "ep": 2,
+      "at": 1785274805957
+    },
+    {
+      "slug": "67043",
+      "ep": 1,
+      "at": 1785274805957
+    },
+    {
+      "slug": "8029",
+      "ep": 1,
+      "at": 1785274805957
+    },
+    {
       "slug": "busu-ni-hanataba-wo",
       "ep": 1,
       "at": 1785274774559
     },
     {
-      "slug": "dead-account",
-      "ep": 1,
-      "at": 1785274555693
-    },
-    {
       "slug": "chainsaw-man-movie-reze-hen",
       "ep": 2,
       "at": 1785274519124
-    },
-    {
-      "slug": "maou-sama-retry",
-      "ep": 1,
-      "at": 1785274446843
-    },
-    {
-      "slug": "tongari-boushi-no-atelier-dublado",
-      "ep": 3,
-      "at": 1785274446843
-    },
-    {
-      "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
-      "ep": 1,
-      "at": 1785274446843
-    },
-    {
-      "slug": "darwin-jihen-dublado",
-      "ep": 1,
-      "at": 1785274446843
-    },
-    {
-      "slug": "chainsmoker-cat",
-      "ep": 1,
-      "at": 1785274446843
-    },
-    {
-      "slug": "sword-art-online-2-dublado",
-      "ep": 1,
-      "at": 1785274446843
-    },
-    {
-      "slug": "azumanga-daioh",
-      "ep": 1,
-      "at": 1785274446842
-    },
-    {
-      "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season",
-      "ep": 3,
-      "at": 1785274446842
-    },
-    {
-      "slug": "black-clover",
-      "ep": 1,
-      "at": 1785274446842
-    },
-    {
-      "slug": "black-clover-dublado",
-      "ep": 8,
-      "at": 1785274446842
-    },
-    {
-      "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
-      "ep": 3,
-      "at": 1785274446842
-    },
-    {
-      "slug": "1062417",
-      "ep": 1,
-      "at": 1785274446842
-    },
-    {
-      "slug": "1062098",
-      "ep": 2,
-      "at": 1785274446842
-    },
-    {
-      "slug": "1062030",
-      "ep": 2,
-      "at": 1785274446842
-    },
-    {
-      "slug": "67043",
-      "ep": 1,
-      "at": 1785274446842
-    },
-    {
-      "slug": "8029",
-      "ep": 1,
-      "at": 1785274446842
     },
     {
       "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
@@ -1977,5 +1978,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785274774188
+  "updatedAt": 1785274805653
 }
