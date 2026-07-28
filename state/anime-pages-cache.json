@@ -39392,7 +39392,7 @@
       }
     },
     "ishuzoku-reviewers": {
-      "at": 1785262164150,
+      "at": 1785262228978,
       "data": {
         "slug": "ishuzoku-reviewers",
         "title": "Ishuzoku Reviewers - Todos os Episódios",
@@ -39594,6 +39594,120 @@
             "leg": {
               "slug": "998196",
               "title": "Akuyaku Reijou Tensei Ojisan (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            }
+          }
+        }
+      }
+    },
+    "amaama-to-inazuma": {
+      "at": 1785262227559,
+      "data": {
+        "slug": "amaama-to-inazuma",
+        "title": "Amaama to Inazuma - Todos os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8ydTltWGM5eDlVQ0NKRXBOMk5KdER5WU5DVmguanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Uniformes e Arroz de Panela",
+            "url": "https://animesonline.cloud/episodio/amaama-to-inazuma-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Sopa de Porco e Luzes de Restaurante",
+            "url": "https://animesonline.cloud/episodio/amaama-to-inazuma-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Tsumugi e o tão esperado bife de hambúrguer",
+            "url": "https://animesonline.cloud/episodio/amaama-to-inazuma-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Legumes e Pedaços Odiados Gratinados",
+            "url": "https://animesonline.cloud/episodio/amaama-to-inazuma-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Um dia de folga e donuts especiais",
+            "url": "https://animesonline.cloud/episodio/amaama-to-inazuma-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Uma festa de Gyoza com amigos",
+            "url": "https://animesonline.cloud/episodio/amaama-to-inazuma-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Gohei Mochi e uma Grande Aventura",
+            "url": "https://animesonline.cloud/episodio/amaama-to-inazuma-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Ensopado de Lula e Taro que ainda é gostoso amanhã",
+            "url": "https://animesonline.cloud/episodio/amaama-to-inazuma-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - O curry caseiro da nossa família",
+            "url": "https://animesonline.cloud/episodio/amaama-to-inazuma-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Férias de verão, Kitty e Aji",
+            "url": "https://animesonline.cloud/episodio/amaama-to-inazuma-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Uma peça e crepes de batata-doce",
+            "url": "https://animesonline.cloud/episodio/amaama-to-inazuma-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Okonomiyaki Cheio de Afeição",
+            "url": "https://animesonline.cloud/episodio/amaama-to-inazuma-episodio-12"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "aoc",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Animação",
+          "Comédia"
+        ],
+        "animeSources": [
+          {
+            "server": 1,
+            "provider": "aoc",
+            "slug": "amaama-to-inazuma"
+          },
+          {
+            "server": 2,
+            "provider": "animesdrive",
+            "slug": "amaama-to-inazuma"
+          },
+          {
+            "server": 3,
+            "provider": "animeplay",
+            "slug": "amaama-to-inazuma"
+          }
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "amaama-to-inazuma",
+              "title": "Amaama to Inazuma – Todos os Episódios",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "64047",
+              "title": "Amaama to Inazuma – (Legendado)",
               "audio": "leg",
               "label": "Legendado"
             }
