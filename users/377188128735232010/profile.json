@@ -653,6 +653,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS81b1dCM2hqenlFQ1JCQWpnV2ttWmlueGw5cUEuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "chainsaw-man-movie-reze-hen": {
+      "slug": "chainsaw-man-movie-reze-hen",
+      "title": "Chainsaw Man Movie: Reze-hen",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC92c041MkdEV0lFbzR5YkVsYUdpU2hzcWVKWTcuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1064,9 +1071,17 @@
     ],
     "filmes/harry-potter-e-o-calice-de-fogo": [
       1
+    ],
+    "chainsaw-man-movie-reze-hen": [
+      2
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "chainsaw-man-movie-reze-hen",
+      "ep": 2,
+      "at": 1785274519124
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -1920,5 +1935,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785274475836
+  "updatedAt": 1785274518755
 }
