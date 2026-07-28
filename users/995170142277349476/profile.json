@@ -13,7 +13,8 @@
       "slug": "ishuzoku-reviewers",
       "title": "Ishuzoku Reviewers",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8xaHlwaUZjMXVXR2h4MlRzVTJENWZaNEV2N1kuanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season": {
       "slug": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season",
@@ -31,13 +32,16 @@
   "started": {
     "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season": [
       1
+    ],
+    "ishuzoku-reviewers": [
+      6
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "ishuzoku-reviewers",
       "ep": 6,
-      "at": 1785261772617
+      "at": 1785261781803
     },
     {
       "slug": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season",
@@ -61,5 +65,5 @@
   },
   "filmePlayback": {},
   "customLists": {},
-  "updatedAt": 1785261773038
+  "updatedAt": 1785261783044
 }
