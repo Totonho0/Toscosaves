@@ -661,6 +661,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC92c041MkdEV0lFbzR5YkVsYUdpU2hzcWVKWTcuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "dead-account": {
+      "slug": "dead-account",
+      "title": "Dead Account",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94bUZKZ3o1TnlLb2lNc2R0aTR0UmJiR3lQT1EuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1075,9 +1082,17 @@
     ],
     "chainsaw-man-movie-reze-hen": [
       2
+    ],
+    "dead-account": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "dead-account",
+      "ep": 1,
+      "at": 1785274555693
+    },
     {
       "slug": "chainsaw-man-movie-reze-hen",
       "ep": 2,
@@ -1936,5 +1951,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785274539784
+  "updatedAt": 1785274555332
 }
