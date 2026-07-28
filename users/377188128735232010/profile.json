@@ -672,6 +672,13 @@
       "title": "Busu ni Hanataba wo.",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9mdG5wTWpxdjRpOGppT0xZSVlycGVBY3J4QlQuanBn",
       "kind": "anime"
+    },
+    "durararax2-ten": {
+      "slug": "durararax2-ten",
+      "title": "Durarara!!x2 Ten",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9rSDlpSzZrcnQwVkJ3QXY1eGJzWXlobjhBVzUuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1103,9 +1110,17 @@
     ],
     "busu-ni-hanataba-wo": [
       1
+    ],
+    "durararax2-ten": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "durararax2-ten",
+      "ep": 1,
+      "at": 1785275807233
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2016,5 +2031,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785275765242
+  "updatedAt": 1785275807636
 }
