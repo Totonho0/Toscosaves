@@ -735,6 +735,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci8xNy81MmJmMzVmYmVlNTIwNWQyMjI2ZWFjYzM4NTE0MDEuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "11918-play-dirty": {
+      "slug": "11918-play-dirty",
+      "title": "Jogo Sujo Play Dirty",
+      "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci9kNC8wN2FkYjIyNDY2MjQ0MWIxODcxMzc2NzBmNDBmOTguanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1196,9 +1203,17 @@
     ],
     "20107-homem-aranha-um-novo-dia": [
       1
+    ],
+    "11918-play-dirty": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "11918-play-dirty",
+      "ep": 1,
+      "at": 1785368780075
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2159,5 +2174,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785368725962
+  "updatedAt": 1785368780124
 }
