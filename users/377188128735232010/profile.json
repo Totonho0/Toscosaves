@@ -721,6 +721,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci85MS80MDVjNzhhNDdiOGUzN2NlY2YxOWU2Mzg1MjBjMzMuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "filme/assistir-perfekta-uma-aventura-da-escola-de-genios-online": {
+      "slug": "filme/assistir-perfekta-uma-aventura-da-escola-de-genios-online",
+      "title": "Perfekta - Uma Aventura da Escola de Gênios",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS95eUZqWXJqRjJWYlA0RjRQcmNwcjVFaVphV2QuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1173,9 +1180,17 @@
     ],
     "11675-the-uninvited": [
       1
+    ],
+    "filme/assistir-perfekta-uma-aventura-da-escola-de-genios-online": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "filme/assistir-perfekta-uma-aventura-da-escola-de-genios-online",
+      "ep": 1,
+      "at": 1785368133171
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2121,5 +2136,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785368122105
+  "updatedAt": 1785368133221
 }
