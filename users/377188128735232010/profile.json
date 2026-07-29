@@ -742,6 +742,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci9kNC8wN2FkYjIyNDY2MjQ0MWIxODcxMzc2NzBmNDBmOTguanBn",
       "kind": "filme",
       "adult": false
+    },
+    "filmes/supergirl": {
+      "slug": "filmes/supergirl",
+      "title": "Supergirl",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC9sSlZ1ZzF6NFZGSUVBRW9wZ2lDeFp5MnlPelguanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1206,9 +1213,17 @@
     ],
     "11918-play-dirty": [
       1
+    ],
+    "filmes/supergirl": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "filmes/supergirl",
+      "ep": 1,
+      "at": 1785368874820
+    },
     {
       "slug": "11918-play-dirty",
       "ep": 1,
@@ -2174,5 +2189,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785368831587
+  "updatedAt": 1785368874853
 }
