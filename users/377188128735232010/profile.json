@@ -700,6 +700,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci8yZC9jMzdmNzM4MzQ0NmNmMmQ0OTJmMTE5YWI2ODk0MTMuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "filme/assistir-kill-the-jockey-online": {
+      "slug": "filme/assistir-kill-the-jockey-online",
+      "title": "Kill the Jockey",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9sRFFZRGhvU2NYNHR4c1hhY0U0bkc2MnBZZGQuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1143,9 +1150,17 @@
     ],
     "17771-undertone": [
       1
+    ],
+    "filme/assistir-kill-the-jockey-online": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "filme/assistir-kill-the-jockey-online",
+      "ep": 1,
+      "at": 1785326510087
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2076,5 +2091,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785326501208
+  "updatedAt": 1785326509964
 }
