@@ -728,6 +728,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS95eUZqWXJqRjJWYlA0RjRQcmNwcjVFaVphV2QuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "20107-homem-aranha-um-novo-dia": {
+      "slug": "20107-homem-aranha-um-novo-dia",
+      "title": "Homem-Aranha: Um Novo Dia",
+      "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci8xNy81MmJmMzVmYmVlNTIwNWQyMjI2ZWFjYzM4NTE0MDEuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1186,9 +1193,17 @@
     ],
     "filmes/perfekta-uma-aventura-da-escola-de-genios": [
       1
+    ],
+    "20107-homem-aranha-um-novo-dia": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "20107-homem-aranha-um-novo-dia",
+      "ep": 1,
+      "at": 1785368213973
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2144,5 +2159,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785368195665
+  "updatedAt": 1785368214028
 }
