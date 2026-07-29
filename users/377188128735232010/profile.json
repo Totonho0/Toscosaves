@@ -693,6 +693,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC9uTHRza1ptSFBMUlZSYXpMR1hTN0RXWTV3dE4uanBn",
       "kind": "filme",
       "adult": false
+    },
+    "17771-undertone": {
+      "slug": "17771-undertone",
+      "title": "undertone",
+      "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci8yZC9jMzdmNzM4MzQ0NmNmMmQ0OTJmMTE5YWI2ODk0MTMuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1133,9 +1140,17 @@
     ],
     "filmes/deixe-me-entrar": [
       1
+    ],
+    "17771-undertone": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "17771-undertone",
+      "ep": 1,
+      "at": 1785324473808
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2061,5 +2076,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785324464157
+  "updatedAt": 1785324473742
 }
