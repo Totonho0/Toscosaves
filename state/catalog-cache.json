@@ -11846,7 +11846,24 @@
             "url": "https://animeplay.cloud/anime/our-last-crusade-or-the-rise-of-a-new-world",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/06/wCL3MkW9QNnBKpeFC9O3i0mpiIb-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "our-last-crusade-or-the-rise-of-a-new-world"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "our-last-crusade-or-the-rise-of-a-new-world"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "our-last-crusade-or-the-rise-of-a-new-world"
+              }
+            ]
           },
           {
             "title": "Kimi to Koete Koi ni Naru",
@@ -12087,12 +12104,29 @@
             "url": "https://animeplay.cloud/anime/kisaki-kyouiku-kara-nigetai-watashi",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/01/ww9XOy0RU9vsLiertBgofbj3g0C-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kisaki-kyouiku-kara-nigetai-watashi"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kisaki-kyouiku-kara-nigetai-watashi"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kisaki-kyouiku-kara-nigetai-watashi"
+              }
+            ]
           },
           {
             "title": "Kizetsu Yuusha to Ansatsu Hime",
             "slug": "the-shy-hero-and-the-assassin-princesses",
-            "url": "https://animesdrive.online/anime/the-shy-hero-and-the-assassin-princesses",
+            "url": "https://animeplay.cloud/anime/the-shy-hero-and-the-assassin-princesses",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/qdQBSwOUD99BvnBiOJ0RvnR5Oz8-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
@@ -12145,7 +12179,24 @@
             "url": "https://animeplay.cloud/anime/koi-wa-futago-de-warikirenai",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/rWW09ALeJVe3qerVejgp0e1Gbxm-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "koi-wa-futago-de-warikirenai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "koi-wa-futago-de-warikirenai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "koi-wa-futago-de-warikirenai"
+              }
+            ]
           },
           {
             "title": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
@@ -12249,7 +12300,7 @@
           {
             "title": "Koujo Denka no Kateikyoushi",
             "slug": "koujo-denka-no-kateikyoushi",
-            "url": "https://animesdrive.online/anime/koujo-denka-no-kateikyoushi",
+            "url": "https://animeplay.cloud/anime/koujo-denka-no-kateikyoushi",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/06/kRtR5jUcKHeTM0JzaF9SbwI5FD-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
@@ -12647,7 +12698,24 @@
             "url": "https://animeplay.cloud/anime/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/04/uU8JO4PsbgpuZmbkUMPjdpxEjBO-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life"
+              }
+            ]
           },
           {
             "title": "Lv999 no Murabito",
@@ -12686,7 +12754,7 @@
         "category": "todos",
         "page": 11,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~42d) — em modo cache; tentando reconectar.",
+        "warning": "Catálogo salvo (há ~43d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 1061,
@@ -12708,7 +12776,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785397511149,
+          "lastProbeAt": 1785426315420,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -12735,7 +12803,7 @@
           "fixHint": null
         }
       },
-      "at": 1785397524660
+      "at": 1785426331913
     },
     "todos|12||120": {
       "data": {
@@ -40059,7 +40127,7 @@
             "title": "dungeon ni deai wo motomeru no wa machigatteiru darou ka gaiden sword oratoria",
             "slug": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-gaiden-sword-oratoria",
             "url": "https://animesdigital.org/anime/a/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-gaiden-sword-oratoria",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/Dungeon-ni-Deai-Sword-Oratoria-categoria.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -40067,7 +40135,7 @@
             "title": "elfen lied",
             "slug": "elfen-lied",
             "url": "https://animesdigital.org/anime/a/elfen-lied",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-elfen-lied-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -40075,7 +40143,7 @@
             "title": "flip flappers",
             "slug": "flip-flappers",
             "url": "https://animesdigital.org/anime/a/flip-flappers",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-flip-flappers-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -40083,7 +40151,7 @@
             "title": "flying witch",
             "slug": "flying-witch",
             "url": "https://animesdigital.org/anime/a/flying-witch",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-flying-witch-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -40091,7 +40159,7 @@
             "title": "hamatora the animation",
             "slug": "hamatora-the-animation",
             "url": "https://animesdigital.org/anime/a/hamatora-the-animation",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-hamatora-the-animation-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -40099,7 +40167,7 @@
             "title": "hanayamata",
             "slug": "hanayamata",
             "url": "https://animesdigital.org/anime/a/hanayamata",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-hanayamata-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -40107,7 +40175,7 @@
             "title": "is infinite stratos 2",
             "slug": "is-infinite-stratos-2",
             "url": "https://animesdigital.org/anime/a/is-infinite-stratos-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-is-infinite-stratos-2-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -40115,7 +40183,7 @@
             "title": "kakegurui 2",
             "slug": "kakegurui-2",
             "url": "https://animesdigital.org/anime/a/kakegurui-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/assistir-kakegurui-2-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -40123,7 +40191,7 @@
             "title": "kampfer",
             "slug": "kampfer",
             "url": "https://animesdigital.org/anime/a/kampfer",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/06/assistir-kampfer-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -40131,7 +40199,7 @@
             "title": "kokkoku",
             "slug": "kokkoku",
             "url": "https://animesdigital.org/anime/a/kokkoku",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-kokkoku-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -40139,7 +40207,7 @@
             "title": "kokoro connect",
             "slug": "kokoro-connect",
             "url": "https://animesdigital.org/anime/a/kokoro-connect",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-kokoro-connect-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -40147,7 +40215,7 @@
             "title": "little busters",
             "slug": "little-busters",
             "url": "https://animesdigital.org/anime/a/little-busters",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/05/assistir-little-busters-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -40253,7 +40321,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1785397524480
+      "at": 1785426331790
     },
     "partner:animesdrive|todos|11||48": {
       "data": {
@@ -41150,7 +41218,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785397525852
+      "at": 1785426333043
     },
     "partner:animesdrive|todos|12||48": {
       "data": {
@@ -41401,7 +41469,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785397525649
+      "at": 1785426333732
     },
     "partner:animeplay|todos|13||48": {
       "data": {
@@ -84821,5 +84889,5 @@
       "at": 1785397574217
     }
   },
-  "updatedAt": 1785426329053
+  "updatedAt": 1785426333732
 }
