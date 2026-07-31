@@ -83452,6 +83452,22 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Toriko Dublado",
+            "slug": "toriko-dublado",
+            "url": "https://animesdrive.online/anime/toriko-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/03/8NyEmf5xB1HSYM0MzADv8mjUnc4-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Nichijou – My Ordinary Life",
+            "slug": "nichijou-my-ordinary-life",
+            "url": "https://animesdrive.online/anime/nichijou-my-ordinary-life",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/4M1bjkXS3yZ5MVSTQ2tv2mCHAzJ-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Digimon Xros Wars",
             "slug": "digimon-xros-wars",
             "url": "https://animesdrive.online/anime/digimon-xros-wars",
@@ -83511,7 +83527,7 @@
             "title": "Dragon Ball Kai",
             "slug": "dragon-ball-kai",
             "url": "https://animesdrive.online/anime/dragon-ball-kai-todos-os-episodios",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/03/yh11eNQyZOgZLMEW7llKYQ0oGcJ-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/03/yh11eNQyZOgZLMEW7llKYQ0oGcJ-185x278.jpg.webp",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -83519,7 +83535,7 @@
             "title": "Kuroshitsuji: Kishuku Gakkou-hen",
             "slug": "kuroshitsuji-kishuku-gakkou-hen",
             "url": "https://animesdrive.online/anime/kuroshitsuji-kishuku-gakkou-hen",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/tfjvfipG4FoKOeG3rpDuGWIvx4k-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/tfjvfipG4FoKOeG3rpDuGWIvx4k-185x278.jpg.webp",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -83602,14 +83618,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/05/7qVSNBKsrER8P77DfsSQfrPK04L-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Neon Genesis Evangelion",
-            "slug": "neon-genesis-evangelion",
-            "url": "https://animesdrive.online/anime/neon-genesis-evangelion",
-            "poster": "https://animesdrive.online/wp-content/uploads/2003/03/Anime-Neon-Genesis-Evangelion-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -83617,7 +83625,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785483967812
+      "at": 1785512866745
     },
     "todos|48||120": {
       "data": {
@@ -84289,6 +84297,61 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "digimon-xros-wars"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "digimon-xros-wars"
+              }
+            ]
+          },
+          {
+            "title": "Toriko Dublado",
+            "slug": "toriko-dublado",
+            "url": "https://animesdrive.online/anime/toriko-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/03/8NyEmf5xB1HSYM0MzADv8mjUnc4-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "toriko-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "toriko-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "toriko-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Nichijou – My Ordinary Life",
+            "slug": "nichijou-my-ordinary-life",
+            "url": "https://animesdrive.online/anime/nichijou-my-ordinary-life",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/4M1bjkXS3yZ5MVSTQ2tv2mCHAzJ-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "nichijou-my-ordinary-life"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nichijou-my-ordinary-life"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nichijou-my-ordinary-life"
               }
             ]
           }
@@ -84318,7 +84381,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785483924391,
+          "lastProbeAt": 1785512818880,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -84344,9 +84407,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1785455190999
+        "cachedAt": 1785483968431
       },
-      "at": 1785483968431
+      "at": 1785512867066
     },
     "partner:animeplay|todos|49||48": {
       "data": {
@@ -84396,6 +84459,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Mouse",
+            "slug": "mouse",
+            "url": "https://animeplay.cloud/anime/mouse",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/04/gkpmWxp8svFFBiJ1Wenwe6ZBk24-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -84566,14 +84637,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/dupV2Bm1W20yypWsMoEAx6AohSR-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Guerreiro Dimensional Spielvan",
-            "slug": "guerreiro-dimensional-spielvan",
-            "url": "https://animeplay.cloud/anime/guerreiro-dimensional-spielvan",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/nwXD7wnRsPQN3E7f5Qt1FuFyGOo-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -84581,7 +84644,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785483969561
+      "at": 1785512868241
     },
     "partner:animesdrive|todos|49||48": {
       "data": {
@@ -86286,5 +86349,5 @@
       "at": 1785483970850
     }
   },
-  "updatedAt": 1785512864788
+  "updatedAt": 1785512868241
 }
