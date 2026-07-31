@@ -62482,6 +62482,31 @@
                 "slug": "wu-liuqi-zui-qiang-fa-xing-shi"
               }
             ]
+          },
+          {
+            "title": "Zombieland Saga – Todos os Episódios",
+            "slug": "zombieland-saga",
+            "url": "https://animeplay.cloud/anime/zombieland-saga-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/e4rzeUloRTHGovb46Zobk3TimhL.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "zombieland-saga"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "zombieland-saga"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "zombieland-saga"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -62509,7 +62534,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785483924391,
+          "lastProbeAt": 1785512728900,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -62535,9 +62560,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1785455161243
+        "cachedAt": 1785483945916
       },
-      "at": 1785483945916
+      "at": 1785512804070
     },
     "partner:animeplay|todos|32||48": {
       "data": {
@@ -62587,6 +62612,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Tower of God 2 – Todos os Episódios",
+            "slug": "tower-of-god-2",
+            "url": "https://animeplay.cloud/anime/tower-of-god-2-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/dfP98hCmvirEj83yeheqpkL5xdL.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -62765,14 +62798,6 @@
             "poster": "https://image.tmdb.org/t/p/w185/9xztd5hoq0OstNRru024aAxSNWd.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Kamonohashi Ron no Kindan Suiri 2 – Todos os Episódios",
-            "slug": "kamonohashi-ron-no-kindan-suiri-2",
-            "url": "https://animeplay.cloud/anime/kamonohashi-ron-no-kindan-suiri-2",
-            "poster": "https://image.tmdb.org/t/p/w185/iMidG4GQACdDmSJSfLAXZrqVVcA.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -62780,7 +62805,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785483946890
+      "at": 1785512805463
     },
     "partner:animesdrive|todos|32||48": {
       "data": {
@@ -85827,5 +85852,5 @@
       "at": 1785483970850
     }
   },
-  "updatedAt": 1785512800686
+  "updatedAt": 1785512805463
 }
