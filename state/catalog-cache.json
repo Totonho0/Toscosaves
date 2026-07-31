@@ -17430,6 +17430,11 @@
                 "slug": "replica-datte-koi-wo-suru"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "replica-datte-koi-wo-suru"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "replica-datte-koi-wo-suru"
@@ -18055,7 +18060,7 @@
         "category": "todos",
         "page": 16,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~43d) — em modo cache; tentando reconectar.",
+        "warning": "Catálogo salvo (há ~44d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 1061,
@@ -18077,7 +18082,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785483924391,
+          "lastProbeAt": 1785512728900,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -18104,7 +18109,7 @@
           "fixHint": null
         }
       },
-      "at": 1785483927835
+      "at": 1785512754838
     },
     "todos|17||120": {
       "data": {
@@ -45132,6 +45137,22 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Kekkon Yubiwa Monogatari II",
+            "slug": "kekkon-yubiwa-monogatari-ii",
+            "url": "https://animesdrive.online/anime/kekkon-yubiwa-monogatari-ii",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/10/dd17YkjAmyycnIYuVBhqgN2ZipP-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Shuumatsu Touring",
+            "slug": "shuumatsu-touring",
+            "url": "https://animesdrive.online/anime/shuumatsu-touring",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/10/mWDdOyCkVCOWeIrANf89tQRfYYE-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Spy x Family 3",
             "slug": "spy-x-family-3",
             "url": "https://animesdrive.online/anime/spy-x-family-3",
@@ -45306,22 +45327,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/09/n67C9Tp8ZSgyAk9NQSDrvRriKml-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Souzai Saishuka no Isekai Ryokouki",
-            "slug": "souzai-saishuka-no-isekai-ryokouki",
-            "url": "https://animesdrive.online/anime/souzai-saishuka-no-isekai-ryokouki",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/09/7uW8DjN1ukRd3GKIswzMVMpDDMh-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "Mofa Gongzhu de Xiao Fannao",
-            "slug": "mofa-gongzhu-de-xiao-fannao",
-            "url": "https://animesdrive.online/anime/mofa-gongzhu-de-xiao-fannao",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/09/jluxQcZqyQ8kRQYoEX2brheNMnV-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -45329,7 +45334,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785483927509
+      "at": 1785512754693
     },
     "partner:animesdigital|todos|17||48": {
       "data": {
@@ -45596,7 +45601,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1785483927854
+      "at": 1785512754861
     },
     "partner:animeplay|todos|17||48": {
       "data": {
@@ -45646,6 +45651,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Souzai Saishuka no Isekai Ryokouki",
+            "slug": "souzai-saishuka-no-isekai-ryokouki",
+            "url": "https://animeplay.cloud/anime/souzai-saishuka-no-isekai-ryokouki",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/7uW8DjN1ukRd3GKIswzMVMpDDMh-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -45832,14 +45845,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/sItvsjmuyely3E0fzftzvb2H3Zy-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Boku no Hero Academia 2",
-            "slug": "boku-no-hero-academia-2",
-            "url": "https://animeplay.cloud/anime/boku-no-hero-academia-2",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/7X2NadMlPtDP5kUMUrPKolcJkjf-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -45847,7 +45852,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785483928959
+      "at": 1785512755949
     },
     "partner:animesdrive|todos|17||48": {
       "data": {
@@ -85601,5 +85606,5 @@
       "at": 1785483970850
     }
   },
-  "updatedAt": 1785512752829
+  "updatedAt": 1785512755949
 }
