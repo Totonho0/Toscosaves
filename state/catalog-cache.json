@@ -66644,6 +66644,22 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Murai no Koi",
+            "slug": "murai-no-koi",
+            "url": "https://animesdrive.online/anime/murai-no-koi",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/sK9rMzFpOJHhKjtqccGnWLWjbV-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Haigakura – Todos os Episódios",
+            "slug": "haigakura",
+            "url": "https://animesdrive.online/anime/haigakura",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/08/8qKJs4PeCBscnb76eYg1unl153v-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Shin Tennis no Oujisama: U-17 World Cup – Todos os Episódios",
             "slug": "the-prince-of-tennis-ii-u-17-world-cup",
             "url": "https://animesdrive.online/anime/the-prince-of-tennis-ii-u-17-world-cup",
@@ -66759,7 +66775,7 @@
             "title": "Inazuma Eleven – Todos os Episódios",
             "slug": "inazuma-eleven",
             "url": "https://animesdrive.online/anime/inazuma-eleven",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/p0UiQl050IxYOZJ5u8tc7arG7kA-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/p0UiQl050IxYOZJ5u8tc7arG7kA-185x278.jpg.webp",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -66818,22 +66834,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/6U4SotIXAsqOAhsB3gk3m8ushye-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Tomo-chan wa Onnanoko! – Todos os Episodios",
-            "slug": "tomo-chan-is-a-girl",
-            "url": "https://animesdrive.online/anime/tomo-chan-is-a-girl",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/554QpBr323KeYYYKQ3S9zKb3JnF-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "Grendizer U – Todos os Episodios",
-            "slug": "grendizer-u",
-            "url": "https://animesdrive.online/anime/grendizer-u",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/uWaJrNKRSXSiEDuF0uK5PKOJdTd-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -66841,7 +66841,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785483950265
+      "at": 1785512821668
     },
     "todos|35||120": {
       "data": {
@@ -67605,6 +67605,11 @@
                 "slug": "haigakura"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "haigakura"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "haigakura"
@@ -67635,6 +67640,31 @@
                 "slug": "the-prince-of-tennis-ii-u-17-world-cup"
               }
             ]
+          },
+          {
+            "title": "Murai no Koi",
+            "slug": "murai-no-koi",
+            "url": "https://animesdrive.online/anime/murai-no-koi",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/sK9rMzFpOJHhKjtqccGnWLWjbV-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "murai-no-koi"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "murai-no-koi"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "murai-no-koi"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -67662,7 +67692,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785483924391,
+          "lastProbeAt": 1785512728900,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -67688,9 +67718,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1785455167802
+        "cachedAt": 1785483950496
       },
-      "at": 1785483950496
+      "at": 1785512821731
     },
     "partner:animeplay|todos|36||48": {
       "data": {
@@ -67740,6 +67770,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Tomo-chan wa Onnanoko! – Todos os Episodios",
+            "slug": "tomo-chan-is-a-girl",
+            "url": "https://animeplay.cloud/anime/tomo-chan-is-a-girl",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/07/554QpBr323KeYYYKQ3S9zKb3JnF-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -67918,14 +67956,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/07/oI7OrbdEcrTCz9BUOMT75lJRPmt-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Ramen Akaneko – Todos os Episodios",
-            "slug": "ramen-akaneko",
-            "url": "https://animeplay.cloud/anime/ramen-akaneko",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2024/07/zCEWPkobGh1mDUzq4vyqLbvhH1v-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -67933,7 +67963,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785483951577
+      "at": 1785512822973
     },
     "partner:animesdrive|todos|36||48": {
       "data": {
@@ -85893,5 +85923,5 @@
       "at": 1785483970850
     }
   },
-  "updatedAt": 1785512819343
+  "updatedAt": 1785512822973
 }
