@@ -66305,7 +66305,19 @@
             "url": "https://animeplay.cloud/anime/chi-chikyuu-no-undou-ni-tsuite",
             "poster": "https://image.tmdb.org/t/p/w185/aX0fNcf0WtRzDWw7Y83KIHfhDkX.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "chi-chikyuu-no-undou-ni-tsuite"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "chi-chikyuu-no-undou-ni-tsuite"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -66333,7 +66345,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785512728900,
+          "lastProbeAt": 1785541623551,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -66359,9 +66371,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1785483949353
+        "cachedAt": 1785512817892
       },
-      "at": 1785512817892
+      "at": 1785541648134
     },
     "partner:animeplay|todos|35||48": {
       "data": {
@@ -66612,7 +66624,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785512819343
+      "at": 1785541649536
     },
     "partner:animesdrive|todos|35||48": {
       "data": {
@@ -86450,5 +86462,5 @@
       "at": 1785512873381
     }
   },
-  "updatedAt": 1785541644991
+  "updatedAt": 1785541649536
 }
