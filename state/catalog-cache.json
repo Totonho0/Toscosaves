@@ -65126,7 +65126,19 @@
             "url": "https://animeplay.cloud/anime/kamonohashi-ron-no-kindan-suiri-2",
             "poster": "https://image.tmdb.org/t/p/w185/iMidG4GQACdDmSJSfLAXZrqVVcA.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kamonohashi-ron-no-kindan-suiri-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kamonohashi-ron-no-kindan-suiri-2"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -65154,7 +65166,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785512728900,
+          "lastProbeAt": 1785541623551,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -65180,9 +65192,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1785483948196
+        "cachedAt": 1785512813325
       },
-      "at": 1785512813325
+      "at": 1785541643571
     },
     "partner:animeplay|todos|34||48": {
       "data": {
@@ -65393,7 +65405,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785512814579
+      "at": 1785541644991
     },
     "partner:animesdrive|todos|34||48": {
       "data": {
@@ -86438,5 +86450,5 @@
       "at": 1785512873381
     }
   },
-  "updatedAt": 1785541640261
+  "updatedAt": 1785541644991
 }
