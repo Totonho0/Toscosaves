@@ -12735,7 +12735,7 @@
         "category": "todos",
         "page": 11,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~43d) — em modo cache; tentando reconectar.",
+        "warning": "Catálogo salvo (há ~44d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 1061,
@@ -12757,7 +12757,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785483834370,
+          "lastProbeAt": 1785512728900,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -12784,7 +12784,7 @@
           "fixHint": null
         }
       },
-      "at": 1785483921506
+      "at": 1785512739882
     },
     "todos|12||120": {
       "data": {
@@ -40647,6 +40647,22 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Enen no Shouboutai: San no Shou Part 2",
+            "slug": "enen-no-shouboutai-san-no-shou-part-2",
+            "url": "https://animesdrive.online/anime/enen-no-shouboutai-san-no-shou-part-2",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/01/nCPxskiSfcr2UYBv0TgSAUW4YPJ-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Dark Moon: The Blood Altar Dublado",
+            "slug": "dark-moon-the-blood-altar-dublado",
+            "url": "https://animesdrive.online/anime/dark-moon-the-blood-altar-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/01/68HcRvCpiajsPhKn1MnV4hqeCAN-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "High School! Kimengumi",
             "slug": "high-school-kimengumi",
             "url": "https://animesdrive.online/anime/high-school-kimengumi",
@@ -40821,22 +40837,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2026/01/5To7gr0PmuAvo31YLwb3EQpMlVy-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Golden Kamuy: Saishuushou",
-            "slug": "golden-kamuy-saishuushou",
-            "url": "https://animesdrive.online/anime/golden-kamuy-saishuushou",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/01/i0h6sx1Fg76nqISx2pfmS22GdCp-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "Kirei ni Shitemoraemasu ka.",
-            "slug": "kirei-ni-shitemoraemasu-ka",
-            "url": "https://animesdrive.online/anime/kirei-ni-shitemoraemasu-ka",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/01/u3FoBE3Vw0tTHFV6djpSv5HHBU5-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -40844,7 +40844,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785483921243
+      "at": 1785512739762
     },
     "partner:animesdigital|todos|12||48": {
       "data": {
@@ -41239,7 +41239,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1785483921524
+      "at": 1785512739901
     },
     "partner:animeplay|todos|12||48": {
       "data": {
@@ -41289,6 +41289,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Hanazakari no Kimitachi e Dublado",
+            "slug": "hanazakari-no-kimitachi-e-dublado",
+            "url": "https://animeplay.cloud/anime/hanazakari-no-kimitachi-e-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/wCZn0Is62Tx4HC9WuFGYysjeHCx-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -41475,14 +41483,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/G93qDwQc8qL9IKK5RnummB0D9I-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Ao no Miburo 2",
-            "slug": "ao-no-miburo-2",
-            "url": "https://animeplay.cloud/anime/ao-no-miburo-2",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/2Xl8LDp17ugW9yjWrhZ0nSE6HRj-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -41490,7 +41490,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785483922626
+      "at": 1785512741053
     },
     "partner:animesdrive|todos|12||48": {
       "data": {
@@ -85601,5 +85601,5 @@
       "at": 1785483970850
     }
   },
-  "updatedAt": 1785512738095
+  "updatedAt": 1785512741053
 }
