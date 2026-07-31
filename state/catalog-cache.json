@@ -52144,6 +52144,22 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Mitsudomoe Zouryouchuu!",
+            "slug": "mitsudomo-zouryouchuu",
+            "url": "https://animesdrive.online/anime/mitsudomo-zouryouchuu",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/jghg96Q1eRIyPi1aRpsGGtP0AQd-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Moonrise",
+            "slug": "moonrise",
+            "url": "https://animesdrive.online/anime/moonrise",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/oq0dUN7WJCuzI111CsfzDieMkku-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Ninja to Koroshiya no Futarigurashi",
             "slug": "ninja-to-koroshiya-no-futarigurashi",
             "url": "https://animesdrive.online/anime/ninja-to-koroshiya-no-futarigurashi",
@@ -52310,22 +52326,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/04/1jltcsz17CkfyhpcsSlmVC6pQGh-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Kowloon Generic Romance",
-            "slug": "kowloon-generic-romance",
-            "url": "https://animesdrive.online/anime/kowloon-generic-romance",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/mgVWVE1bbwdhaYKeDW7WsumGvFd-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "Katainaka no Ossan, Kensei ni Naru",
-            "slug": "katainaka-no-ossan-kensei-ni-naru",
-            "url": "https://animesdrive.online/anime/katainaka-no-ossan-kensei-ni-naru",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/uNnCR2pJFgcmxfSIu8OgzJeO5hB-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -52333,7 +52333,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785483937124
+      "at": 1785512778942
     },
     "todos|24||120": {
       "data": {
@@ -53067,6 +53067,11 @@
                 "slug": "moonrise"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "moonrise"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "moonrise"
@@ -53097,6 +53102,26 @@
                 "slug": "ninja-to-koroshiya-no-futarigurashi"
               }
             ]
+          },
+          {
+            "title": "Mitsudomoe Zouryouchuu!",
+            "slug": "mitsudomo-zouryouchuu",
+            "url": "https://animesdrive.online/anime/mitsudomo-zouryouchuu",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/jghg96Q1eRIyPi1aRpsGGtP0AQd-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "mitsudomo-zouryouchuu"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mitsudomo-zouryouchuu"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -53124,7 +53149,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785483924391,
+          "lastProbeAt": 1785512728900,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -53150,9 +53175,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1785455149254
+        "cachedAt": 1785483937334
       },
-      "at": 1785483937334
+      "at": 1785512779070
     },
     "partner:animeplay|todos|25||48": {
       "data": {
@@ -53202,6 +53227,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Kowloon Generic Romance",
+            "slug": "kowloon-generic-romance",
+            "url": "https://animeplay.cloud/anime/kowloon-generic-romance",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/04/mgVWVE1bbwdhaYKeDW7WsumGvFd-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -53388,14 +53421,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/03/uyQggtFjfCYyekrxxoQ92YoO1nu-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Enen no Shouboutai: San no Shou",
-            "slug": "enen-no-shouboutai-san-no-shou",
-            "url": "https://animeplay.cloud/anime/enen-no-shouboutai-san-no-shou",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/03/7aDse3zmcg0RGlYnFz01uSFvAj9-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -53403,7 +53428,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785483938453
+      "at": 1785512780288
     },
     "partner:animesdrive|todos|25||48": {
       "data": {
@@ -85632,5 +85657,5 @@
       "at": 1785483970850
     }
   },
-  "updatedAt": 1785512777246
+  "updatedAt": 1785512780288
 }
