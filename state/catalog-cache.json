@@ -72142,6 +72142,22 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Castlevania – Todos os Episódios",
+            "slug": "castlevania",
+            "url": "https://animesdrive.online/anime/castlevania",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/05/ubDtIBwdS9b29sBofAkqWz3PqkT-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Pokémon – Todos os Episódios",
+            "slug": "pokemon",
+            "url": "https://animesdrive.online/anime/pokemon",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/05/ck1nfqYxMkiGvBVztIuM6b7fHoC-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "X-Men – Todos os Episódios",
             "slug": "x-men",
             "url": "https://animesdrive.online/anime/x-men",
@@ -72289,7 +72305,7 @@
             "title": "Kaiju No. 8",
             "slug": "kaiju-no-8",
             "url": "https://animesdrive.online/anime/kaiju-no-8",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/A6JOsCdFFTxtbDnKAfE0iY6jOiE-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/A6JOsCdFFTxtbDnKAfE0iY6jOiE-185x278.jpg.webp",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -72316,22 +72332,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/06/2h67cW61TtPdl6R41TkbTJv4Xiz-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Tadaima Okaeri – Todos os Episódios",
-            "slug": "tadaima-okaeri",
-            "url": "https://animesdrive.online/anime/tadaima-okaeri",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/mFLNrSczrzZjAMebEcuk1RttCs9-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life – Todos os Episódios",
-            "slug": "lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life",
-            "url": "https://animesdrive.online/anime/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/uU8JO4PsbgpuZmbkUMPjdpxEjBO-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -72339,7 +72339,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785483955090
+      "at": 1785512834867
     },
     "todos|39||120": {
       "data": {
@@ -73138,6 +73138,31 @@
                 "slug": "x-men"
               }
             ]
+          },
+          {
+            "title": "Castlevania – Todos os Episódios",
+            "slug": "castlevania",
+            "url": "https://animesdrive.online/anime/castlevania",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/05/ubDtIBwdS9b29sBofAkqWz3PqkT-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "castlevania"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "castlevania"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "castlevania"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -73165,7 +73190,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785483924391,
+          "lastProbeAt": 1785512818880,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -73191,9 +73216,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1785455173546
+        "cachedAt": 1785483955309
       },
-      "at": 1785483955309
+      "at": 1785512834945
     },
     "partner:animeplay|todos|40||48": {
       "data": {
@@ -73243,6 +73268,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Tadaima Okaeri – Todos os Episódios",
+            "slug": "tadaima-okaeri",
+            "url": "https://animeplay.cloud/anime/tadaima-okaeri",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/04/mFLNrSczrzZjAMebEcuk1RttCs9-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -73421,14 +73454,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/03/pqwlso6rI0fHNgINnvvdaCDRe7m-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Dragon Ball Daima – Todos os Episódios",
-            "slug": "dragon-ball-daima",
-            "url": "https://animeplay.cloud/anime/dragon-ball-daima",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2024/03/mcMnRw8Ejvb3KQiKuoAsXvNeKaS-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -73436,7 +73461,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785483956455
+      "at": 1785512836230
     },
     "partner:animesdrive|todos|40||48": {
       "data": {
@@ -86003,5 +86028,5 @@
       "at": 1785483970850
     }
   },
-  "updatedAt": 1785512833022
+  "updatedAt": 1785512836230
 }
