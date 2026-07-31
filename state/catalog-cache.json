@@ -63839,7 +63839,7 @@
             "url": "https://animeplay.cloud/anime/tower-of-god-2-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/dfP98hCmvirEj83yeheqpkL5xdL.jpg",
             "kind": "anime",
-            "provider": "animeplay",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -63884,7 +63884,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785512728900,
+          "lastProbeAt": 1785541623551,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -63910,9 +63910,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1785483947009
+        "cachedAt": 1785512808699
       },
-      "at": 1785512808699
+      "at": 1785541638934
     },
     "partner:animeplay|todos|33||48": {
       "data": {
@@ -64155,7 +64155,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785512809937
+      "at": 1785541640261
     },
     "partner:animesdrive|todos|33||48": {
       "data": {
@@ -86438,5 +86438,5 @@
       "at": 1785512873381
     }
   },
-  "updatedAt": 1785541635928
+  "updatedAt": 1785541640261
 }
