@@ -63822,6 +63822,31 @@
                 "slug": "pokemon-houkago-no-breath-dublado"
               }
             ]
+          },
+          {
+            "title": "Tower of God 2 – Todos os Episódios",
+            "slug": "tower-of-god-2",
+            "url": "https://animeplay.cloud/anime/tower-of-god-2-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/dfP98hCmvirEj83yeheqpkL5xdL.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tower-of-god-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tower-of-god-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tower-of-god-2"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -63849,7 +63874,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785483924391,
+          "lastProbeAt": 1785512728900,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -63875,9 +63900,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1785455162995
+        "cachedAt": 1785483947009
       },
-      "at": 1785483947009
+      "at": 1785512808699
     },
     "partner:animeplay|todos|33||48": {
       "data": {
@@ -63927,6 +63952,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Kamonohashi Ron no Kindan Suiri 2 – Todos os Episódios",
+            "slug": "kamonohashi-ron-no-kindan-suiri-2",
+            "url": "https://animeplay.cloud/anime/kamonohashi-ron-no-kindan-suiri-2",
+            "poster": "https://image.tmdb.org/t/p/w185/iMidG4GQACdDmSJSfLAXZrqVVcA.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -64105,14 +64138,6 @@
             "poster": "https://image.tmdb.org/t/p/original/50YOJIJvCnTrohnMi1flWZIiGNt.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Chi.: Chikyuu no Undou ni Tsuite – Todos os Episódios",
-            "slug": "chi-chikyuu-no-undou-ni-tsuite",
-            "url": "https://animeplay.cloud/anime/chi-chikyuu-no-undou-ni-tsuite",
-            "poster": "https://image.tmdb.org/t/p/w185/aX0fNcf0WtRzDWw7Y83KIHfhDkX.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -64120,7 +64145,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785483948092
+      "at": 1785512809937
     },
     "partner:animesdrive|todos|33||48": {
       "data": {
@@ -85852,5 +85877,5 @@
       "at": 1785483970850
     }
   },
-  "updatedAt": 1785512805463
+  "updatedAt": 1785512809937
 }
