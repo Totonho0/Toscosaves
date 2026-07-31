@@ -80027,6 +80027,22 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Kyojinzoku no Hanayome",
+            "slug": "kyojinzoku-no-hanayome",
+            "url": "https://animesdrive.online/anime/kyojinzoku-no-hanayome",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/03/lapaHCSPKgTef9fFuDfsTK3PL51-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Bai Yao Pu 2",
+            "slug": "bai-yao-pu-2",
+            "url": "https://animesdrive.online/anime/bai-yao-pu-2",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/gQHuyKNkQaqpINqupQ28JVTC3Iz-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Smiling Friends Season 3 Dublado",
             "slug": "smiling-friends-season-3-dublado",
             "url": "https://animesdrive.online/anime/smiling-friends-season-3-dublado",
@@ -80126,7 +80142,7 @@
             "title": "Super Dragon Ball Heroes – Todos os Episódios",
             "slug": "super-dragon-ball-heroes",
             "url": "https://animesdrive.online/anime/super-dragon-ball-heroes",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/03/mieaZy4iPjnhOlE6sw7dBK3hCbt-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/03/mieaZy4iPjnhOlE6sw7dBK3hCbt-185x278.jpg.webp",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -80153,14 +80169,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/10/rR8HgnD9tqFaSiJ69FpruHo9Gm9-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Black Clover – Todos os Episódios",
-            "slug": "black-clover",
-            "url": "https://animesdrive.online/anime/black-clover-todos-os-episodios",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/xoqmJpO3jGxEldDCItXuGj2MVTV-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -80168,7 +80176,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785483963168
+      "at": 1785512855959
     },
     "todos|45||120": {
       "data": {
@@ -80767,6 +80775,56 @@
                 "slug": "smiling-friends-season-3-dublado"
               }
             ]
+          },
+          {
+            "title": "Kyojinzoku no Hanayome",
+            "slug": "kyojinzoku-no-hanayome",
+            "url": "https://animesdrive.online/anime/kyojinzoku-no-hanayome",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/03/lapaHCSPKgTef9fFuDfsTK3PL51-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kyojinzoku-no-hanayome"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kyojinzoku-no-hanayome"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kyojinzoku-no-hanayome"
+              }
+            ]
+          },
+          {
+            "title": "Bai Yao Pu 2",
+            "slug": "bai-yao-pu-2",
+            "url": "https://animesdrive.online/anime/bai-yao-pu-2",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/gQHuyKNkQaqpINqupQ28JVTC3Iz-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "bai-yao-pu-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "bai-yao-pu-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "bai-yao-pu-2"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -80794,7 +80852,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785483924391,
+          "lastProbeAt": 1785512818880,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -80820,9 +80878,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1785455184743
+        "cachedAt": 1785483963721
       },
-      "at": 1785483963721
+      "at": 1785512856472
     },
     "partner:animeplay|todos|46||48": {
       "data": {
@@ -81026,14 +81084,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/hXBpon3AlsaEW9yp74eNM8qZ36t-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Persona 4: The Golden Animation",
-            "slug": "persona-4-the-golden-animation",
-            "url": "https://animeplay.cloud/anime/persona-4-the-golden-animation",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/bLXHhl520rvw4uIJXAfZW7KQZ5U-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -81041,7 +81091,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785483964947
+      "at": 1785512857635
     },
     "partner:animesdrive|todos|46||48": {
       "data": {
@@ -86186,5 +86236,5 @@
       "at": 1785483970850
     }
   },
-  "updatedAt": 1785512854050
+  "updatedAt": 1785512857635
 }
