@@ -21086,7 +21086,7 @@
         "category": "todos",
         "page": 19,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~43d) — em modo cache; tentando reconectar.",
+        "warning": "Catálogo salvo (há ~44d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 1061,
@@ -21108,7 +21108,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785483924391,
+          "lastProbeAt": 1785512728900,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -21135,7 +21135,7 @@
           "fixHint": null
         }
       },
-      "at": 1785483931419
+      "at": 1785512764194
     },
     "todos|20||120": {
       "data": {
@@ -46911,6 +46911,22 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Vinland Saga Dublado",
+            "slug": "vinland-saga-dublado",
+            "url": "https://animesdrive.online/anime/vinland-saga-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/8Sih4LoQucb7ActfTcA5BkIS9Ua-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Akame ga Kill! Dublado",
+            "slug": "akame-ga-kill-dublado",
+            "url": "https://animesdrive.online/anime/akame-ga-kill-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/o4SxTlar1YGsKNhBzCxKYDeAPhb-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Ao Ashi Dublado",
             "slug": "ao-ashi-dublado",
             "url": "https://animesdrive.online/anime/ao-ashi-dublado",
@@ -47085,22 +47101,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/07/okoCuLlbLBUwj4BBWYat3XErP75-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Nukitashi the Animation",
-            "slug": "nukitashi-the-animation",
-            "url": "https://animesdrive.online/anime/nukitashi-the-animation",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/07/zlybZJXfu4IpPnWXhnRtobl9BgZ-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "JoJo’s Bizarre Adventure: Adventure (2000)",
-            "slug": "jojos-bizarre-adventure-adventure-2000",
-            "url": "https://animesdrive.online/anime/jojos-bizarre-adventure-adventure-2000",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/07/mzoZz5PuffeacFDGABDUgt9vkHk-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -47108,7 +47108,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785483931162
+      "at": 1785512764145
     },
     "partner:animeplay|todos|20||48": {
       "data": {
@@ -47158,6 +47158,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Nukitashi the Animation",
+            "slug": "nukitashi-the-animation",
+            "url": "https://animeplay.cloud/anime/nukitashi-the-animation",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/zlybZJXfu4IpPnWXhnRtobl9BgZ-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -47344,14 +47352,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/bcmZblOannHR42RQAfbqhMOW4Q3-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Jibaku Shounen Hanako-kun 2 Part 2",
-            "slug": "jibaku-shounen-hanako-kun-2-part-2",
-            "url": "https://animeplay.cloud/anime/jibaku-shounen-hanako-kun-2-part-2",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/g7arUubV7fNq38SPjmzQkv2hf9s-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -47359,7 +47359,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785483932550
+      "at": 1785512765317
     },
     "partner:animesdrive|todos|20||48": {
       "data": {
@@ -85623,5 +85623,5 @@
       "at": 1785483970850
     }
   },
-  "updatedAt": 1785512762372
+  "updatedAt": 1785512765317
 }
