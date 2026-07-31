@@ -61102,6 +61102,11 @@
                 "slug": "beastars-3"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "beastars-3"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "beastars-3"
@@ -61132,6 +61137,31 @@
                 "slug": "kaiju-no-8-dublado"
               }
             ]
+          },
+          {
+            "title": "Solo Leveling Dublado",
+            "slug": "solo-leveling-dublado",
+            "url": "https://animeplay.cloud/anime/solo-leveling-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/g8nUqCgQETHP3zAxFUNCWpF5imM-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "solo-leveling-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "solo-leveling-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "solo-leveling-dublado"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -61159,7 +61189,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785483924391,
+          "lastProbeAt": 1785512728900,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -61185,9 +61215,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1785455159240
+        "cachedAt": 1785483944686
       },
-      "at": 1785483944686
+      "at": 1785512799432
     },
     "partner:animeplay|todos|31||48": {
       "data": {
@@ -61237,6 +61267,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Zombieland Saga – Todos os Episódios",
+            "slug": "zombieland-saga",
+            "url": "https://animeplay.cloud/anime/zombieland-saga-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/e4rzeUloRTHGovb46Zobk3TimhL.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -61415,14 +61453,6 @@
             "poster": "https://image.tmdb.org/t/p/original/7khzDTwE4Ng5UvXi43Dbndoioab.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Tower of God 2 – Todos os Episódios",
-            "slug": "tower-of-god-2",
-            "url": "https://animeplay.cloud/anime/tower-of-god-2-todos-os-episodios",
-            "poster": "https://image.tmdb.org/t/p/original/dfP98hCmvirEj83yeheqpkL5xdL.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -61430,7 +61460,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785483945797
+      "at": 1785512800686
     },
     "partner:animesdrive|todos|31||48": {
       "data": {
@@ -85797,5 +85827,5 @@
       "at": 1785483970850
     }
   },
-  "updatedAt": 1785512796449
+  "updatedAt": 1785512800686
 }
