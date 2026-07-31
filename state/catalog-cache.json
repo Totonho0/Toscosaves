@@ -58875,6 +58875,22 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Ao no Exorcist: Yosuga-hen",
+            "slug": "ao-no-exorcist-yosuga-hen",
+            "url": "https://animesdrive.online/anime/ao-no-exorcist-yosuga-hen",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/01/5O5GkCJ4UBZi5Y2nei1oDTJd9jR-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Kisaki Kyouiku kara Nigetai Watashi",
+            "slug": "kisaki-kyouiku-kara-nigetai-watashi",
+            "url": "https://animesdrive.online/anime/kisaki-kyouiku-kara-nigetai-watashi",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/01/ww9XOy0RU9vsLiertBgofbj3g0C-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Zenshuu.",
             "slug": "zenshuu",
             "url": "https://animesdrive.online/anime/zenshuu",
@@ -59041,22 +59057,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/12/tCfXFWUVFGVkL8dUW4MSoVatcNi-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Solo Leveling Dublado",
-            "slug": "solo-leveling-dublado",
-            "url": "https://animesdrive.online/anime/solo-leveling-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/g8nUqCgQETHP3zAxFUNCWpF5imM-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "Beastars 3",
-            "slug": "beastars-3",
-            "url": "https://animesdrive.online/anime/beastars-3",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/td7vuqjfr5wv6RUKqcFKNw3azDq-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -59064,7 +59064,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785483943025
+      "at": 1785512794597
     },
     "todos|29||120": {
       "data": {
@@ -59833,6 +59833,31 @@
                 "slug": "zenshuu"
               }
             ]
+          },
+          {
+            "title": "Ao no Exorcist: Yosuga-hen",
+            "slug": "ao-no-exorcist-yosuga-hen",
+            "url": "https://animesdrive.online/anime/ao-no-exorcist-yosuga-hen",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/01/5O5GkCJ4UBZi5Y2nei1oDTJd9jR-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ao-no-exorcist-yosuga-hen"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "ao-no-exorcist-yosuga-hen"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ao-no-exorcist-yosuga-hen"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -59860,7 +59885,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785483924391,
+          "lastProbeAt": 1785512728900,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -59886,9 +59911,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1785455157312
+        "cachedAt": 1785483943411
       },
-      "at": 1785483943411
+      "at": 1785512794731
     },
     "partner:animeplay|todos|30||48": {
       "data": {
@@ -85772,5 +85797,5 @@
       "at": 1785483970850
     }
   },
-  "updatedAt": 1785512792911
+  "updatedAt": 1785512794731
 }
