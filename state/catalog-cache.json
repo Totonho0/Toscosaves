@@ -68017,6 +68017,22 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Tomo-chan wa Onnanoko! – Todos os Episodios",
+            "slug": "tomo-chan-is-a-girl",
+            "url": "https://animesdrive.online/anime/tomo-chan-is-a-girl",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/554QpBr323KeYYYKQ3S9zKb3JnF-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Grendizer U – Todos os Episodios",
+            "slug": "grendizer-u",
+            "url": "https://animesdrive.online/anime/grendizer-u",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/uWaJrNKRSXSiEDuF0uK5PKOJdTd-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Koi wa Futago de Warikirenai – Todos os Episódios",
             "slug": "koi-wa-futago-de-warikirenai",
             "url": "https://animesdrive.online/anime/koi-wa-futago-de-warikirenai",
@@ -68183,22 +68199,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/oI7OrbdEcrTCz9BUOMT75lJRPmt-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Ramen Akaneko – Todos os Episodios",
-            "slug": "ramen-akaneko",
-            "url": "https://animesdrive.online/anime/ramen-akaneko",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/zCEWPkobGh1mDUzq4vyqLbvhH1v-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "Tasogare Out Focus – Todos os Episodios",
-            "slug": "tasogare-out-focus",
-            "url": "https://animesdrive.online/anime/tasogare-out-focus",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/5qgdbIbgG6cA7xDpFyTRoFhMZFH-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -68206,7 +68206,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785483951410
+      "at": 1785512824742
     },
     "todos|36||120": {
       "data": {
@@ -68950,6 +68950,11 @@
                 "slug": "grendizer-u"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "grendizer-u"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "grendizer-u"
@@ -68980,6 +68985,31 @@
                 "slug": "koi-wa-futago-de-warikirenai"
               }
             ]
+          },
+          {
+            "title": "Tomo-chan wa Onnanoko! – Todos os Episodios",
+            "slug": "tomo-chan-is-a-girl",
+            "url": "https://animesdrive.online/anime/tomo-chan-is-a-girl",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/554QpBr323KeYYYKQ3S9zKb3JnF-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tomo-chan-is-a-girl"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tomo-chan-is-a-girl"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tomo-chan-is-a-girl"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -69007,7 +69037,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785483924391,
+          "lastProbeAt": 1785512818880,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -69033,9 +69063,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1785455169278
+        "cachedAt": 1785483951679
       },
-      "at": 1785483951679
+      "at": 1785512824867
     },
     "partner:animeplay|todos|37||48": {
       "data": {
@@ -69085,6 +69115,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Ramen Akaneko – Todos os Episodios",
+            "slug": "ramen-akaneko",
+            "url": "https://animeplay.cloud/anime/ramen-akaneko",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/07/zCEWPkobGh1mDUzq4vyqLbvhH1v-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -69271,14 +69309,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/06/1bOVzxyHALVrC93EDkiF2LESSTg-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Oi! Tonbo – Todos os Episodios",
-            "slug": "oi-tonbo",
-            "url": "https://animeplay.cloud/anime/oi-tonbo",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2024/06/Z53qdls6kfGTihy8BvvfOe4We9-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -69286,7 +69316,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785483952861
+      "at": 1785512826140
     },
     "partner:animesdrive|todos|37||48": {
       "data": {
@@ -85923,5 +85953,5 @@
       "at": 1785483970850
     }
   },
-  "updatedAt": 1785512822973
+  "updatedAt": 1785512826140
 }
