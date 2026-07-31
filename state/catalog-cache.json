@@ -52338,7 +52338,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785512778942
+      "at": 1785541603561
     },
     "todos|24||120": {
       "data": {
@@ -53114,8 +53114,13 @@
             "url": "https://animesdrive.online/anime/mitsudomo-zouryouchuu",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/04/jghg96Q1eRIyPi1aRpsGGtP0AQd-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "mitsudomo-zouryouchuu"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -53154,7 +53159,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785512728900,
+          "lastProbeAt": 1785541533556,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -53180,9 +53185,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1785483937334
+        "cachedAt": 1785512779070
       },
-      "at": 1785512779070
+      "at": 1785541603695
     },
     "partner:animeplay|todos|25||48": {
       "data": {
@@ -53433,7 +53438,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785512780288
+      "at": 1785541604891
     },
     "partner:animesdrive|todos|25||48": {
       "data": {
@@ -86433,5 +86438,5 @@
       "at": 1785512873381
     }
   },
-  "updatedAt": 1785541600822
+  "updatedAt": 1785541604891
 }
