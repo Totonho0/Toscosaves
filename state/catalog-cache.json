@@ -14266,6 +14266,11 @@
                 "slug": "moonrise"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "moonrise"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "moonrise"
@@ -14913,7 +14918,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785512728900,
+          "lastProbeAt": 1785541533556,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -14940,7 +14945,7 @@
           "fixHint": null
         }
       },
-      "at": 1785512745435
+      "at": 1785541561167
     },
     "todos|14||120": {
       "data": {
@@ -42660,7 +42665,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785512745316
+      "at": 1785541561024
     },
     "partner:animeplay|todos|14||48": {
       "data": {
@@ -42911,7 +42916,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785512746560
+      "at": 1785541562553
     },
     "partner:animesdigital|todos|14||48": {
       "data": {
@@ -43306,7 +43311,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1785512745453
+      "at": 1785541561189
     },
     "partner:animesdrive|todos|14||48": {
       "data": {
@@ -86428,5 +86433,5 @@
       "at": 1785512873381
     }
   },
-  "updatedAt": 1785541558437
+  "updatedAt": 1785541562553
 }
