@@ -70756,6 +70756,22 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Oi! Tonbo – Todos os Episodios",
+            "slug": "oi-tonbo",
+            "url": "https://animesdrive.online/anime/oi-tonbo",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/06/Z53qdls6kfGTihy8BvvfOe4We9-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Rising Impact – Todos os Episódios",
+            "slug": "rising-impact",
+            "url": "https://animesdrive.online/anime/rising-impact",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/06/zGxp7t9fvxIxEDqB7V48bFgplP7-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen – Todos os Episódios",
             "slug": "our-last-crusade-or-the-rise-of-a-new-world",
             "url": "https://animesdrive.online/anime/our-last-crusade-or-the-rise-of-a-new-world",
@@ -70871,7 +70887,7 @@
             "title": "Comando Estelar Flashman",
             "slug": "comando-estelar-flashman",
             "url": "https://animesdrive.online/anime/comando-estelar-flashman",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/06/4gZL7ICQyElnepqbuZ91YHu89au-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/06/4gZL7ICQyElnepqbuZ91YHu89au-185x278.jpg.webp",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -70879,7 +70895,7 @@
             "title": "Fate/Stay Night: Unlimited Blade Works – Todos os Episódios",
             "slug": "fate-stay-night-unlimited-blade-works",
             "url": "https://animesdrive.online/anime/fate-stay-night-unlimited-blade-works",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/06/tCKka3NkjF3AmMCVPKL4QQMfun-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/06/tCKka3NkjF3AmMCVPKL4QQMfun-185x278.jpg.webp",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -70887,7 +70903,7 @@
             "title": "Fate/Stay Night – Todos os Episódios",
             "slug": "fate-stay-night",
             "url": "https://animesdrive.online/anime/fate-stay-night",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/06/7lRjtl3ZsMwLsp72Cou1TfR7B8Z-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/06/7lRjtl3ZsMwLsp72Cou1TfR7B8Z-185x278.jpg.webp",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -70895,7 +70911,7 @@
             "title": "Fate/Apocrypha – Todos os Episódios",
             "slug": "fate-apocrypha",
             "url": "https://animesdrive.online/anime/fate-apocrypha",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/06/aQvABf8fwwHSdYbMk1Ir3NnvcSp-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/06/aQvABf8fwwHSdYbMk1Ir3NnvcSp-185x278.jpg.webp",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -70930,22 +70946,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/05/nUiT0whRDuUJKkk74L1pn8xUE2z-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Castlevania – Todos os Episódios",
-            "slug": "castlevania",
-            "url": "https://animesdrive.online/anime/castlevania",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/05/ubDtIBwdS9b29sBofAkqWz3PqkT-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "Pokémon – Todos os Episódios",
-            "slug": "pokemon",
-            "url": "https://animesdrive.online/anime/pokemon",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/05/ck1nfqYxMkiGvBVztIuM6b7fHoC-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -70953,7 +70953,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785483953981
+      "at": 1785512831672
     },
     "todos|38||120": {
       "data": {
@@ -71757,6 +71757,31 @@
                 "slug": "our-last-crusade-or-the-rise-of-a-new-world"
               }
             ]
+          },
+          {
+            "title": "Oi! Tonbo – Todos os Episodios",
+            "slug": "oi-tonbo",
+            "url": "https://animesdrive.online/anime/oi-tonbo",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/06/Z53qdls6kfGTihy8BvvfOe4We9-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "oi-tonbo"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "oi-tonbo"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "oi-tonbo"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -71784,7 +71809,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785483924391,
+          "lastProbeAt": 1785512818880,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -71810,9 +71835,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1785455172115
+        "cachedAt": 1785483954135
       },
-      "at": 1785483954135
+      "at": 1785512831748
     },
     "partner:animeplay|todos|39||48": {
       "data": {
@@ -71862,6 +71887,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Castlevania – Todos os Episódios",
+            "slug": "castlevania",
+            "url": "https://animeplay.cloud/anime/castlevania",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/05/ubDtIBwdS9b29sBofAkqWz3PqkT-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -72048,14 +72081,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/06/2h67cW61TtPdl6R41TkbTJv4Xiz-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Tadaima Okaeri – Todos os Episódios",
-            "slug": "tadaima-okaeri",
-            "url": "https://animeplay.cloud/anime/tadaima-okaeri",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2024/04/mFLNrSczrzZjAMebEcuk1RttCs9-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -72063,7 +72088,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785483955248
+      "at": 1785512833022
     },
     "partner:animesdrive|todos|39||48": {
       "data": {
@@ -85978,5 +86003,5 @@
       "at": 1785483970850
     }
   },
-  "updatedAt": 1785512829509
+  "updatedAt": 1785512833022
 }
