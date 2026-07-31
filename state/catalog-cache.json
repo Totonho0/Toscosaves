@@ -75094,7 +75094,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785512841364
+      "at": 1785541678861
     },
     "todos|41||120": {
       "data": {
@@ -75900,8 +75900,13 @@
             "url": "https://animesdrive.online/anime/dragon-ball-daima",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/05/pc9jW4KdhGfJ7go74VTOq3qWxk5-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-daima"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -75940,7 +75945,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785512818880,
+          "lastProbeAt": 1785541623551,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -75966,9 +75971,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1785483957880
+        "cachedAt": 1785512841446
       },
-      "at": 1785512841446
+      "at": 1785541678934
     },
     "partner:animeplay|todos|42||48": {
       "data": {
@@ -76195,7 +76200,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785512842669
+      "at": 1785541680183
     },
     "partner:animesdrive|todos|42||48": {
       "data": {
@@ -86462,5 +86467,5 @@
       "at": 1785512873381
     }
   },
-  "updatedAt": 1785541675632
+  "updatedAt": 1785541680183
 }
