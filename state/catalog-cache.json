@@ -19474,7 +19474,24 @@
             "url": "https://animeplay.cloud/anime/snowball-earth-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/61E9aXjYUGPfrO5CW2cTutu0jX3-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "snowball-earth-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "snowball-earth-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "snowball-earth-dublado"
+              }
+            ]
           },
           {
             "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga. – Todos os Episódios",
@@ -20168,7 +20185,7 @@
         "category": "todos",
         "page": 18,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~43d) — em modo cache; tentando reconectar.",
+        "warning": "Catálogo salvo (há ~44d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 1061,
@@ -20190,7 +20207,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785483924391,
+          "lastProbeAt": 1785512728900,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -20217,7 +20234,7 @@
           "fixHint": null
         }
       },
-      "at": 1785483930164
+      "at": 1785512761121
     },
     "todos|19||120": {
       "data": {
@@ -46400,6 +46417,22 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Sakugan Dublado",
+            "slug": "sakugan-dublado",
+            "url": "https://animesdrive.online/anime/sakugan-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/09/oeYcVIheU4qnHFzvRyTARNSllg5-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Non Non Biyori Nonstop",
+            "slug": "non-non-biyori-nonstop",
+            "url": "https://animesdrive.online/anime/non-non-biyori-nonstop",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/09/9fMoxL8kkKJGjBqHwzeEJsn9UmM-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Non Non Biyori Repeat",
             "slug": "non-non-biyori-repeat",
             "url": "https://animesdrive.online/anime/non-non-biyori-repeat",
@@ -46566,22 +46599,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/08/7BwBilp19GklJGUy6IBFnuoQ12B-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Vinland Saga Dublado",
-            "slug": "vinland-saga-dublado",
-            "url": "https://animesdrive.online/anime/vinland-saga-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/8Sih4LoQucb7ActfTcA5BkIS9Ua-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "Akame ga Kill! Dublado",
-            "slug": "akame-ga-kill-dublado",
-            "url": "https://animesdrive.online/anime/akame-ga-kill-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/o4SxTlar1YGsKNhBzCxKYDeAPhb-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -46589,7 +46606,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785483929943
+      "at": 1785512761064
     },
     "partner:animeplay|todos|19||48": {
       "data": {
@@ -46639,6 +46656,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Vinland Saga Dublado",
+            "slug": "vinland-saga-dublado",
+            "url": "https://animeplay.cloud/anime/vinland-saga-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/8Sih4LoQucb7ActfTcA5BkIS9Ua-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -46825,14 +46850,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/okoCuLlbLBUwj4BBWYat3XErP75-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Nukitashi the Animation",
-            "slug": "nukitashi-the-animation",
-            "url": "https://animeplay.cloud/anime/nukitashi-the-animation",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/zlybZJXfu4IpPnWXhnRtobl9BgZ-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -46840,7 +46857,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785483931365
+      "at": 1785512762372
     },
     "partner:animesdrive|todos|19||48": {
       "data": {
@@ -85606,5 +85623,5 @@
       "at": 1785483970850
     }
   },
-  "updatedAt": 1785512759111
+  "updatedAt": 1785512762372
 }
