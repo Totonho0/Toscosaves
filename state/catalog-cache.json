@@ -82296,6 +82296,22 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Terra Formars",
+            "slug": "terraformars",
+            "url": "https://animesdrive.online/anime/terraformars",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/10/4EUYrzfIibhyqZG0FxXmd6xSqK2-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Nozo x Kimi",
+            "slug": "nozo-x-kimi",
+            "url": "https://animesdrive.online/anime/nozo-x-kimi",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/10/hXBpon3AlsaEW9yp74eNM8qZ36t-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Persona 4: The Golden Animation",
             "slug": "persona-4-the-golden-animation",
             "url": "https://animesdrive.online/anime/persona-4-the-golden-animation",
@@ -82315,7 +82331,7 @@
             "title": "Mahouka Koukou no Rettousei 3",
             "slug": "mahouka-koukou-no-rettousei-3",
             "url": "https://animesdrive.online/anime/mahouka-koukou-no-rettousei-3",
-            "poster": "https://animesdrive.online/wp-content/uploads/2014/04/Mahouka-Koukou-no-Rettousei-3-animesonline.cloud_-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2014/04/Mahouka-Koukou-no-Rettousei-3-animesonline.cloud_-185x278.jpg.webp",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -82422,22 +82438,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/09/gKoea05HfKVd2VJ7PRVCkiUnA2Z-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Toriko Dublado",
-            "slug": "toriko-dublado",
-            "url": "https://animesdrive.online/anime/toriko-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/03/8NyEmf5xB1HSYM0MzADv8mjUnc4-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "Nichijou – My Ordinary Life",
-            "slug": "nichijou-my-ordinary-life",
-            "url": "https://animesdrive.online/anime/nichijou-my-ordinary-life",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/4M1bjkXS3yZ5MVSTQ2tv2mCHAzJ-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -82445,7 +82445,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785483966118
+      "at": 1785512863151
     },
     "todos|47||120": {
       "data": {
@@ -83074,6 +83074,56 @@
                 "slug": "persona-4-the-golden-animation"
               }
             ]
+          },
+          {
+            "title": "Terra Formars",
+            "slug": "terraformars",
+            "url": "https://animesdrive.online/anime/terraformars",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/10/4EUYrzfIibhyqZG0FxXmd6xSqK2-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "terraformars"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "terraformars"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "terraformars"
+              }
+            ]
+          },
+          {
+            "title": "Nozo x Kimi",
+            "slug": "nozo-x-kimi",
+            "url": "https://animesdrive.online/anime/nozo-x-kimi",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/10/hXBpon3AlsaEW9yp74eNM8qZ36t-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "nozo-x-kimi"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nozo-x-kimi"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nozo-x-kimi"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -83101,7 +83151,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785483924391,
+          "lastProbeAt": 1785512818880,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -83127,9 +83177,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1785455189012
+        "cachedAt": 1785483966870
       },
-      "at": 1785483966870
+      "at": 1785512863635
     },
     "partner:animeplay|todos|48||48": {
       "data": {
@@ -83179,6 +83229,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Digimon Xros Wars",
+            "slug": "digimon-xros-wars",
+            "url": "https://animeplay.cloud/anime/digimon-xros-wars",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/v2y0eYhTepOG5gD2qfl4T5CycnH-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -83333,14 +83391,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2003/03/Anime-Neon-Genesis-Evangelion-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Mouse",
-            "slug": "mouse",
-            "url": "https://animeplay.cloud/anime/mouse",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/04/gkpmWxp8svFFBiJ1Wenwe6ZBk24-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -83348,7 +83398,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785483968085
+      "at": 1785512864788
     },
     "partner:animesdrive|todos|48||48": {
       "data": {
@@ -86236,5 +86286,5 @@
       "at": 1785483970850
     }
   },
-  "updatedAt": 1785512861303
+  "updatedAt": 1785512864788
 }
