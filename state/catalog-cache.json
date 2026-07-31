@@ -86009,7 +86009,7 @@
         "hasMore": false,
         "partnerId": "animesdrive"
       },
-      "at": 1785512873317
+      "at": 1785541720036
     },
     "todos|50||120": {
       "data": {
@@ -86395,7 +86395,7 @@
             "url": "https://animesdrive.online/anime/metalder-o-homem-maquina",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/07/A1hSmsKxmHiw7z8V12Hv3zYHKC-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -86420,7 +86420,19 @@
             "url": "https://animesdrive.online/anime/defensores-da-luz-maskman",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/07/dupV2Bm1W20yypWsMoEAx6AohSR-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "defensores-da-luz-maskman"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "defensores-da-luz-maskman"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -86448,7 +86460,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785512818880,
+          "lastProbeAt": 1785541713554,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -86474,10 +86486,10 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1785483970850
+        "cachedAt": 1785512873381
       },
-      "at": 1785512873381
+      "at": 1785541720085
     }
   },
-  "updatedAt": 1785541717255
+  "updatedAt": 1785541720085
 }
