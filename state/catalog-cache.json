@@ -62499,7 +62499,7 @@
             "url": "https://animeplay.cloud/anime/zombieland-saga-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/e4rzeUloRTHGovb46Zobk3TimhL.jpg",
             "kind": "anime",
-            "provider": "animeplay",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -62544,7 +62544,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785512728900,
+          "lastProbeAt": 1785541623551,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -62570,9 +62570,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1785483945916
+        "cachedAt": 1785512804070
       },
-      "at": 1785512804070
+      "at": 1785541634291
     },
     "partner:animeplay|todos|32||48": {
       "data": {
@@ -86438,5 +86438,5 @@
       "at": 1785512873381
     }
   },
-  "updatedAt": 1785541630973
+  "updatedAt": 1785541634291
 }
