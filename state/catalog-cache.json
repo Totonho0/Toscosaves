@@ -53482,6 +53482,22 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Kowloon Generic Romance",
+            "slug": "kowloon-generic-romance",
+            "url": "https://animesdrive.online/anime/kowloon-generic-romance",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/mgVWVE1bbwdhaYKeDW7WsumGvFd-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Katainaka no Ossan, Kensei ni Naru",
+            "slug": "katainaka-no-ossan-kensei-ni-naru",
+            "url": "https://animesdrive.online/anime/katainaka-no-ossan-kensei-ni-naru",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/uNnCR2pJFgcmxfSIu8OgzJeO5hB-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Bye Bye, Earth 2",
             "slug": "bye-bye-earth-2",
             "url": "https://animesdrive.online/anime/bye-bye-earth-2",
@@ -53656,22 +53672,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/03/uyQggtFjfCYyekrxxoQ92YoO1nu-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Enen no Shouboutai: San no Shou",
-            "slug": "enen-no-shouboutai-san-no-shou",
-            "url": "https://animesdrive.online/anime/enen-no-shouboutai-san-no-shou",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/03/7aDse3zmcg0RGlYnFz01uSFvAj9-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "My Hero Academia: Vigilantes",
-            "slug": "my-hero-academia-vigilantes",
-            "url": "https://animesdrive.online/anime/my-hero-academia-vigilantes",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/03/bFstXrVHgubLjoTdL3RAVFQDJdO-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -53679,7 +53679,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785483938371
+      "at": 1785512782050
     },
     "todos|25||120": {
       "data": {
@@ -54443,6 +54443,11 @@
                 "slug": "katainaka-no-ossan-kensei-ni-naru"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "katainaka-no-ossan-kensei-ni-naru"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "katainaka-no-ossan-kensei-ni-naru"
@@ -54473,6 +54478,31 @@
                 "slug": "bye-bye-earth-2"
               }
             ]
+          },
+          {
+            "title": "Kowloon Generic Romance",
+            "slug": "kowloon-generic-romance",
+            "url": "https://animesdrive.online/anime/kowloon-generic-romance",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/mgVWVE1bbwdhaYKeDW7WsumGvFd-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kowloon-generic-romance"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kowloon-generic-romance"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kowloon-generic-romance"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -54500,7 +54530,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785483924391,
+          "lastProbeAt": 1785512728900,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -54526,9 +54556,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1785455150705
+        "cachedAt": 1785483938520
       },
-      "at": 1785483938520
+      "at": 1785512782119
     },
     "partner:animeplay|todos|26||48": {
       "data": {
@@ -54578,6 +54608,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Enen no Shouboutai: San no Shou",
+            "slug": "enen-no-shouboutai-san-no-shou",
+            "url": "https://animeplay.cloud/anime/enen-no-shouboutai-san-no-shou",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/03/7aDse3zmcg0RGlYnFz01uSFvAj9-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -54764,14 +54802,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/02/jBn4LWlgdsf6xIUYhYBwpctBVsj-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Jibaku Shounen Hanako-kun 2 Dublado",
-            "slug": "jibaku-shounen-hanako-kun-2-dublado",
-            "url": "https://animeplay.cloud/anime/jibaku-shounen-hanako-kun-2-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/02/gyNwB3jRunvzwaRO9XwVeva9GSj-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -54779,7 +54809,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785483939580
+      "at": 1785512783328
     },
     "partner:animesdrive|todos|26||48": {
       "data": {
@@ -85657,5 +85687,5 @@
       "at": 1785483970850
     }
   },
-  "updatedAt": 1785512780288
+  "updatedAt": 1785512783328
 }
