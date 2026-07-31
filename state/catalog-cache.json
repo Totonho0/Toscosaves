@@ -84698,6 +84698,14 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Neon Genesis Evangelion",
+            "slug": "neon-genesis-evangelion",
+            "url": "https://animesdrive.online/anime/neon-genesis-evangelion",
+            "poster": "https://animesdrive.online/wp-content/uploads/2003/03/Anime-Neon-Genesis-Evangelion-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Mouse",
             "slug": "mouse",
             "url": "https://animesdrive.online/anime/mouse",
@@ -84725,7 +84733,7 @@
             "title": "Dragon Ball GT",
             "slug": "dragon-ball-gt",
             "url": "https://animesdrive.online/anime/dragon-ball-gt",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/03/kmO4AHj1xx8wiaBMgwGjXhOQfNt-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/03/kmO4AHj1xx8wiaBMgwGjXhOQfNt-185x278.jpg.webp",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -84789,7 +84797,7 @@
             "title": "Dragon Ball Z",
             "slug": "dragon-ball-z",
             "url": "https://animesdrive.online/anime/dragon-ball-z",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/03/f2zhRLqwRLrKhEMeIM7Z5buJFo3-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/03/f2zhRLqwRLrKhEMeIM7Z5buJFo3-185x278.jpg.webp",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -84856,22 +84864,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/08/2KBxzns3npPP4Vu9ujGIUe3IyMW-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Metalder O Homem Máquina",
-            "slug": "metalder-o-homem-maquina",
-            "url": "https://animesdrive.online/anime/metalder-o-homem-maquina",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/07/A1hSmsKxmHiw7z8V12Hv3zYHKC-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "Defensores da Luz Maskman",
-            "slug": "defensores-da-luz-maskman",
-            "url": "https://animesdrive.online/anime/defensores-da-luz-maskman",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/07/dupV2Bm1W20yypWsMoEAx6AohSR-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -84879,7 +84871,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785483969380
+      "at": 1785512870129
     },
     "todos|49||120": {
       "data": {
@@ -85608,6 +85600,31 @@
                 "slug": "mouse"
               }
             ]
+          },
+          {
+            "title": "Neon Genesis Evangelion",
+            "slug": "neon-genesis-evangelion",
+            "url": "https://animesdrive.online/anime/neon-genesis-evangelion",
+            "poster": "https://animesdrive.online/wp-content/uploads/2003/03/Anime-Neon-Genesis-Evangelion-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "neon-genesis-evangelion"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "neon-genesis-evangelion"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "neon-genesis-evangelion"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -85635,7 +85652,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785483924391,
+          "lastProbeAt": 1785512818880,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -85661,9 +85678,9 @@
           "blocking": false,
           "fixHint": null
         },
-        "cachedAt": 1785455192947
+        "cachedAt": 1785483969750
       },
-      "at": 1785483969750
+      "at": 1785512870434
     },
     "partner:animeplay|todos|50||48": {
       "data": {
@@ -85713,6 +85730,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Guerreiro Dimensional Spielvan",
+            "slug": "guerreiro-dimensional-spielvan",
+            "url": "https://animeplay.cloud/anime/guerreiro-dimensional-spielvan",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/nwXD7wnRsPQN3E7f5Qt1FuFyGOo-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -85786,7 +85811,7 @@
         "hasMore": false,
         "partnerId": "animeplay"
       },
-      "at": 1785483970806
+      "at": 1785512871543
     },
     "partner:animesdrive|todos|50||48": {
       "data": {
@@ -86349,5 +86374,5 @@
       "at": 1785483970850
     }
   },
-  "updatedAt": 1785512868241
+  "updatedAt": 1785512871543
 }
