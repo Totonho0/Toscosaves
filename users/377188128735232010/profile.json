@@ -837,6 +837,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNoZW50YWkuYml6L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI2LzA3L3Bvc3Rlci0xLTEuanBn",
       "kind": "anime",
       "adult": true
+    },
+    "filme/assistir-o-clube-de-tiro-online": {
+      "slug": "filme/assistir-o-clube-de-tiro-online",
+      "title": "O Clube de Tiro",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9rMWN6eGdtbkg2M0E3b2xkN2hMNG9OenFZTXcuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1351,9 +1358,17 @@
     ],
     "asb-kare-no-shiranai-himitsu-o-irete": [
       1
+    ],
+    "filme/assistir-o-clube-de-tiro-online": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "filme/assistir-o-clube-de-tiro-online",
+      "ep": 1,
+      "at": 1785614620640
+    },
     {
       "slug": "asb-kare-no-shiranai-himitsu-o-irete",
       "ep": 1,
@@ -2469,5 +2484,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785614602907
+  "updatedAt": 1785614620395
 }
