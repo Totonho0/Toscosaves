@@ -879,6 +879,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS90VUxaZU5ObHdMdlhQZFFwRVJmcmZZeVpmVEMuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "ah-ai-doll": {
+      "slug": "ah-ai-doll",
+      "title": "Ai Doll",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzAyL2FpZG9sbC5qcGc",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -1414,9 +1421,17 @@
     ],
     "filme/assistir-oslo-online": [
       1
+    ],
+    "ah-ai-doll": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "ah-ai-doll",
+      "ep": 1,
+      "at": 1785616319609
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2567,5 +2582,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785616307331
+  "updatedAt": 1785616320921
 }
