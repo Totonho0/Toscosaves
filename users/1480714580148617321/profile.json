@@ -9,6 +9,13 @@
   "watchLater": [],
   "mangaFavorites": [],
   "library": {
+    "1034362": {
+      "slug": "1034362",
+      "title": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWFuZHJvaWQtd2Eta2Vpa2VuLW5pbnp1dS1uaS1oYWlyaW1hc3Uta2EtdG9kb3Mtb3MtZXBpc29kaW9zLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pdHViZS5qcGc",
+      "kind": "anime",
+      "adult": false
+    },
     "rezero-kara-hajimeru-isekai-seikatsu-4-dublado": {
       "slug": "rezero-kara-hajimeru-isekai-seikatsu-4-dublado",
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Dublado Todos Episódios",
@@ -22,11 +29,19 @@
     ]
   },
   "started": {
+    "1034362": [
+      1
+    ],
     "rezero-kara-hajimeru-isekai-seikatsu-4-dublado": [
       1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "1034362",
+      "ep": 1,
+      "at": 1785624715768
+    },
     {
       "slug": "rezero-kara-hajimeru-isekai-seikatsu-4-dublado",
       "ep": 1,
@@ -49,5 +64,5 @@
   },
   "filmePlayback": {},
   "customLists": {},
-  "updatedAt": 1785624650162
+  "updatedAt": 1785624710391
 }
