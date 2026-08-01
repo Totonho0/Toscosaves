@@ -844,6 +844,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9rMWN6eGdtbkg2M0E3b2xkN2hMNG9OenFZTXcuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "ah-kenki-virgo": {
+      "slug": "ah-kenki-virgo",
+      "title": "Kenki Virgo",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI2LzAzL0tlbmtpLVZpcmdvLXBvc3Rlci5qcGc",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -1361,9 +1368,17 @@
     ],
     "filme/assistir-o-clube-de-tiro-online": [
       1
+    ],
+    "ah-kenki-virgo": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "ah-kenki-virgo",
+      "ep": 1,
+      "at": 1785615243829
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2484,5 +2499,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785615227621
+  "updatedAt": 1785615243607
 }
