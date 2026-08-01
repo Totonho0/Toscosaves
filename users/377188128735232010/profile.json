@@ -900,6 +900,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cubXVpdG9oZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE3LzA3L0EtVGltZS10by1TY3Jldy1jYXBhLmpwZw",
       "kind": "anime",
       "adult": true
+    },
+    "mh-akiba-girls": {
+      "slug": "mh-akiba-girls",
+      "title": "Akiba Girls",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cubXVpdG9oZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE3LzA1L0FraWJhLUdpcmxzLWNhcGEucG5n",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -1444,9 +1451,17 @@
     ],
     "mh-a-time-to-screw": [
       1
+    ],
+    "mh-akiba-girls": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "mh-akiba-girls",
+      "ep": 1,
+      "at": 1785623449563
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2612,5 +2627,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785623413798
+  "updatedAt": 1785623449417
 }
