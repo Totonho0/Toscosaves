@@ -893,6 +893,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNoZW50YWkuYml6L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzEwL0tpa2VuLW5hLU1vcmktT25pZ29ra28uanBn",
       "kind": "anime",
       "adult": true
+    },
+    "mh-a-time-to-screw": {
+      "slug": "mh-a-time-to-screw",
+      "title": "A Time to Screw",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cubXVpdG9oZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE3LzA3L0EtVGltZS10by1TY3Jldy1jYXBhLmpwZw",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -1434,9 +1441,17 @@
     ],
     "asb-kiken-na-mori-onigokko": [
       1
+    ],
+    "mh-a-time-to-screw": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "mh-a-time-to-screw",
+      "ep": 1,
+      "at": 1785618876501
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2597,5 +2612,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785618692864
+  "updatedAt": 1785618876794
 }
