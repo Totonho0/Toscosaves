@@ -767,6 +767,13 @@
       "title": "0-saiji Start Dash Monogatari",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9jR0RDUm9XWklzd21xek1YWlJJNFR3WlhWR3UuanBn",
       "kind": "anime"
+    },
+    "asb-imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii": {
+      "slug": "asb-imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii",
+      "title": "Imaizumin-chi wa Douyara Gal no Tamariba ni Natteru Rashii",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNoZW50YWkuYml6L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIyLzAyLzRQT1NJSDJqTE8yTHpQYVBydWd1eFFiQXNydC5qcGc",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1245,9 +1252,17 @@
     ],
     "filmes/supergirl": [
       1
+    ],
+    "asb-imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "asb-imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii",
+      "ep": 1,
+      "at": 1785611989302
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2283,5 +2298,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785611971495
+  "updatedAt": 1785611989348
 }
