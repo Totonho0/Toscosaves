@@ -886,6 +886,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzAyL2FpZG9sbC5qcGc",
       "kind": "anime",
       "adult": true
+    },
+    "asb-kiken-na-mori-onigokko": {
+      "slug": "asb-kiken-na-mori-onigokko",
+      "title": "Kiken na Mori Onigokko",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNoZW50YWkuYml6L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzEwL0tpa2VuLW5hLU1vcmktT25pZ29ra28uanBn",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -1424,9 +1431,17 @@
     ],
     "ah-ai-doll": [
       1
+    ],
+    "asb-kiken-na-mori-onigokko": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "asb-kiken-na-mori-onigokko",
+      "ep": 1,
+      "at": 1785616350229
+    },
     {
       "slug": "ah-ai-doll",
       "ep": 1,
@@ -2582,5 +2597,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785616320921
+  "updatedAt": 1785616350337
 }
