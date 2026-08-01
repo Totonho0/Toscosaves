@@ -851,6 +851,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI2LzAzL0tlbmtpLVZpcmdvLXBvc3Rlci5qcGc",
       "kind": "anime",
       "adult": true
+    },
+    "11450-": {
+      "slug": "11450-",
+      "title": "Cazuza: Boas Novas",
+      "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci82Yy82YTMwODUyMjA0MjVhYjNiMTc2MGM0NWMwYzViY2UuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1371,9 +1378,17 @@
     ],
     "ah-kenki-virgo": [
       1
+    ],
+    "11450-": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "11450-",
+      "ep": 1,
+      "at": 1785615254254
+    },
     {
       "slug": "ah-kenki-virgo",
       "ep": 1,
@@ -2499,5 +2514,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785615243607
+  "updatedAt": 1785615253990
 }
