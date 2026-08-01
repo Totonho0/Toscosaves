@@ -788,6 +788,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNoZW50YWkuYml6L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIyLzA0L28zS3Nic0hhRmNEanVsRnpPMVp4QmR6S0plTC5qcGc",
       "kind": "anime",
       "adult": false
+    },
+    "ah-69-itsuwari-no-bishou": {
+      "slug": "ah-69-itsuwari-no-bishou",
+      "title": "69: Itsuwari no Bishou",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI0LzAzLzY5LUl0c3V3YXJpLW5vLUhvaG9lLmpwZw",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -1276,9 +1283,17 @@
     ],
     "asb-sakusei-byoutou-the-animation": [
       1
+    ],
+    "ah-69-itsuwari-no-bishou": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "ah-69-itsuwari-no-bishou",
+      "ep": 1,
+      "at": 1785612059720
+    },
     {
       "slug": "asb-sakusei-byoutou-the-animation",
       "ep": 1,
@@ -2334,5 +2349,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785612022807
+  "updatedAt": 1785612059665
 }
