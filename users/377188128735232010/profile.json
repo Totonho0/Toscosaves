@@ -781,6 +781,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNoZW50YWkuYml6L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIyLzA5L2Vyb2dlLWRlLXN1YmV0ZS13YS1rYWlrZXRzdS1kZWtpcnUtdGhlLWFuaW1hdGlvbi5qcGc",
       "kind": "anime",
       "adult": false
+    },
+    "asb-sakusei-byoutou-the-animation": {
+      "slug": "asb-sakusei-byoutou-the-animation",
+      "title": "Sakusei Byoutou The Animation",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNoZW50YWkuYml6L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIyLzA0L28zS3Nic0hhRmNEanVsRnpPMVp4QmR6S0plTC5qcGc",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1266,9 +1273,17 @@
     ],
     "asb-eroge-de-subete-wa-kaiketsu-dekiru": [
       1
+    ],
+    "asb-sakusei-byoutou-the-animation": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "asb-sakusei-byoutou-the-animation",
+      "ep": 1,
+      "at": 1785612022622
+    },
     {
       "slug": "asb-eroge-de-subete-wa-kaiketsu-dekiru",
       "ep": 1,
@@ -2319,5 +2334,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785612008651
+  "updatedAt": 1785612022807
 }
