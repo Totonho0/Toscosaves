@@ -816,6 +816,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNoZW50YWkuYml6L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI2LzA3L3Bvc3Rlci0xLmpwZw",
       "kind": "anime",
       "adult": true
+    },
+    "ah-aibeya-the-animation": {
+      "slug": "ah-aibeya-the-animation",
+      "title": "Aibeya The Animation",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzEyL2FpYmV5YS10aGUtYW5pbWF0aW9uLmpwZw",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -1318,9 +1325,17 @@
     ],
     "asb-cheat-item-kanrikyoku-no-oshigoto-ex-the-animation": [
       1
+    ],
+    "ah-aibeya-the-animation": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "ah-aibeya-the-animation",
+      "ep": 1,
+      "at": 1785613433570
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2406,5 +2421,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785613419743
+  "updatedAt": 1785613434033
 }
