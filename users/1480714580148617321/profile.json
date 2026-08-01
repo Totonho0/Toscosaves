@@ -13,8 +13,7 @@
       "slug": "1034362",
       "title": "Android wa Keiken Ninzuu ni Hairimasu ka??",
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWFuZHJvaWQtd2Eta2Vpa2VuLW5pbnp1dS1uaS1oYWlyaW1hc3Uta2EtdG9kb3Mtb3MtZXBpc29kaW9zLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pdHViZS5qcGc",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "rezero-kara-hajimeru-isekai-seikatsu-4-dublado": {
       "slug": "rezero-kara-hajimeru-isekai-seikatsu-4-dublado",
@@ -24,6 +23,9 @@
     }
   },
   "watched": {
+    "1034362": [
+      3
+    ],
     "rezero-kara-hajimeru-isekai-seikatsu-4-dublado": [
       1
     ]
@@ -41,12 +43,12 @@
     {
       "slug": "rezero-kara-hajimeru-isekai-seikatsu-4-dublado",
       "ep": 1,
-      "at": 1785624796874
+      "at": 1785624840231
     },
     {
       "slug": "1034362",
       "ep": 3,
-      "at": 1785624719560
+      "at": 1785624840231
     },
     {
       "slug": "1034362",
@@ -81,5 +83,5 @@
   },
   "filmePlayback": {},
   "customLists": {},
-  "updatedAt": 1785624821635
+  "updatedAt": 1785624834704
 }
