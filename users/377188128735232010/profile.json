@@ -39,8 +39,7 @@
       "slug": "946662",
       "title": "Black Clover (Dublado)",
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWJsYWNrLWNsb3Zlci1kdWJsYWRvLWR1YmxhZG8tdG9kb3Mtb3MtZXBpc29kaW9zLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pdHViZS5qcGc",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "993764": {
       "slug": "993764",
@@ -756,6 +755,18 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC81b1dCM2hqenlFQ1JCQWpnV2ttWmlueGw5cUEuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "bleach-sennen-kessen-hen-soukoku-tan-dublado": {
+      "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado",
+      "title": "Bleach: Sennen Kessen Hen – Soukoku Tan Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9rWlgwNWNkajhKcG9hMVpZMFpPTmkyMXZ2cTUuanBn",
+      "kind": "anime"
+    },
+    "0-saiji-start-dash-monogatari": {
+      "slug": "0-saiji-start-dash-monogatari",
+      "title": "0-saiji Start Dash Monogatari",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9jR0RDUm9XWklzd21xek1YWlJJNFR3WlhWR3UuanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -764,6 +775,9 @@
     ],
     "67043": [
       1
+    ],
+    "946662": [
+      95
     ],
     "1062030": [
       2
@@ -838,6 +852,12 @@
       1
     ],
     "busu-ni-hanataba-wo": [
+      1
+    ],
+    "bleach-sennen-kessen-hen-soukoku-tan-dublado": [
+      6
+    ],
+    "0-saiji-start-dash-monogatari": [
       1
     ]
   },
@@ -1227,94 +1247,109 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "0-saiji-start-dash-monogatari",
+      "ep": 1,
+      "at": 1785609830994
+    },
+    {
+      "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado",
+      "ep": 6,
+      "at": 1785609830994
+    },
+    {
       "slug": "maou-sama-retry",
       "ep": 1,
-      "at": 1785529898652
+      "at": 1785609830994
     },
     {
       "slug": "tongari-boushi-no-atelier-dublado",
       "ep": 3,
-      "at": 1785529898652
+      "at": 1785609830994
     },
     {
       "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
       "ep": 1,
-      "at": 1785529898652
+      "at": 1785609830994
     },
     {
       "slug": "darwin-jihen-dublado",
       "ep": 1,
-      "at": 1785529898652
+      "at": 1785609830994
     },
     {
       "slug": "chainsmoker-cat",
       "ep": 1,
-      "at": 1785529898652
+      "at": 1785609830994
     },
     {
       "slug": "sword-art-online-2-dublado",
       "ep": 1,
-      "at": 1785529898652
+      "at": 1785609830994
     },
     {
       "slug": "azumanga-daioh",
       "ep": 1,
-      "at": 1785529898652
+      "at": 1785609830994
     },
     {
       "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season",
       "ep": 3,
-      "at": 1785529898652
+      "at": 1785609830994
     },
     {
       "slug": "black-clover",
       "ep": 1,
-      "at": 1785529898652
+      "at": 1785609830994
     },
     {
       "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
       "ep": 3,
-      "at": 1785529898652
+      "at": 1785609830994
     },
     {
       "slug": "dead-account",
       "ep": 1,
-      "at": 1785529898652
+      "at": 1785609830994
     },
     {
       "slug": "busu-ni-hanataba-wo",
       "ep": 1,
-      "at": 1785529898652
+      "at": 1785609830994
     },
     {
       "slug": "black-clover-dublado",
       "ep": 119,
-      "at": 1785529898652
+      "at": 1785609830994
     },
     {
       "slug": "1062417",
       "ep": 1,
-      "at": 1785529898652
+      "at": 1785609830994
     },
     {
       "slug": "1062098",
       "ep": 2,
-      "at": 1785529898652
+      "at": 1785609830994
     },
     {
       "slug": "1062030",
       "ep": 2,
-      "at": 1785529898652
+      "at": 1785609830994
+    },
+    {
+      "slug": "946662",
+      "ep": 95,
+      "at": 1785609830994
     },
     {
       "slug": "67043",
       "ep": 1,
-      "at": 1785529898651
+      "at": 1785609830994
     },
     {
       "slug": "8029",
       "ep": 1,
-      "at": 1785529898651
+      "at": 1785609830994
     },
     {
       "slug": "filmes/supergirl",
@@ -2006,6 +2041,17 @@
       "adult": false,
       "duration": 1575.659683
     },
+    "946662": {
+      "ep": 95,
+      "time": 23.719184,
+      "at": 1784634826997,
+      "title": "Black Clover (Dublado)",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWJsYWNrLWNsb3Zlci1kdWJsYWRvLWR1YmxhZG8tdG9kb3Mtb3MtZXBpc29kaW9zLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pdHViZS5qcGc",
+      "kind": "anime",
+      "provider": "anitube",
+      "adult": false,
+      "duration": 1434.157279
+    },
     "1062030": {
       "ep": 2,
       "time": 152.897015,
@@ -2116,6 +2162,28 @@
       "adult": false,
       "duration": 1447.552
     },
+    "0-saiji-start-dash-monogatari": {
+      "ep": 1,
+      "time": 26.364847,
+      "at": 1784557926719,
+      "title": "0-saiji Start Dash Monogatari",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9jR0RDUm9XWklzd21xek1YWlJJNFR3WlhWR3UuanBn",
+      "kind": "anime",
+      "provider": "animeplay",
+      "adult": false,
+      "duration": 175.078458
+    },
+    "bleach-sennen-kessen-hen-soukoku-tan-dublado": {
+      "ep": 6,
+      "time": 364.096984,
+      "at": 1784557698984,
+      "title": "Bleach: Sennen Kessen Hen – Soukoku Tan Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9rWlgwNWNkajhKcG9hMVpZMFpPTmkyMXZ2cTUuanBn",
+      "kind": "anime",
+      "provider": "animesdrive",
+      "adult": false,
+      "duration": 1468.133
+    },
     "sword-art-online-2-dublado": {
       "ep": 1,
       "time": 40.771244,
@@ -2183,7 +2251,19 @@
       "duration": 1430.117007
     }
   },
-  "filmePlayback": {},
+  "filmePlayback": {
+    "filmes/juntos": {
+      "ep": 1,
+      "time": 2140.28983,
+      "at": 1785193999430,
+      "title": "Juntos",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC9nRml6V0FSa1VqN1NNdUdrbXNzeElWOVRrZ1QuanBn",
+      "kind": "filme",
+      "provider": "ultracine",
+      "adult": false,
+      "duration": 5532.040999999952
+    }
+  },
   "customLists": {
     "9km2jy09": {
       "id": "9km2jy09",
@@ -2196,5 +2276,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785609828368
+  "updatedAt": 1785609831090
 }
