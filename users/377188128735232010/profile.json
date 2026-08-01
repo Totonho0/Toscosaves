@@ -907,6 +907,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cubXVpdG9oZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE3LzA1L0FraWJhLUdpcmxzLWNhcGEucG5n",
       "kind": "anime",
       "adult": true
+    },
+    "baki-dou-part-2-dublado": {
+      "slug": "baki-dou-part-2-dublado",
+      "title": "Baki-dou Part 2 Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC85QTl3bjE0cHRlOTJjTlB0MTlyTUozcDNkZEcuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1454,9 +1461,17 @@
     ],
     "mh-akiba-girls": [
       1
+    ],
+    "baki-dou-part-2-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "baki-dou-part-2-dublado",
+      "ep": 1,
+      "at": 1785625403902
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2627,5 +2642,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785625369297
+  "updatedAt": 1785625403390
 }
