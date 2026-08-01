@@ -823,6 +823,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzEyL2FpYmV5YS10aGUtYW5pbWF0aW9uLmpwZw",
       "kind": "anime",
       "adult": true
+    },
+    "ah-accelerando-datenshi-tachi-no-sasayaki": {
+      "slug": "ah-accelerando-datenshi-tachi-no-sasayaki",
+      "title": "Accelerando: Datenshi-tachi No Sasayaki",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzAyL2FjY2VsZXJhbmRvLmpwZw",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -1329,9 +1336,17 @@
     ],
     "ah-aibeya-the-animation": [
       1
+    ],
+    "ah-accelerando-datenshi-tachi-no-sasayaki": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "ah-accelerando-datenshi-tachi-no-sasayaki",
+      "ep": 1,
+      "at": 1785613858131
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2427,5 +2442,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785613846333
+  "updatedAt": 1785613858941
 }
