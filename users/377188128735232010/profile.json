@@ -858,6 +858,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci82Yy82YTMwODUyMjA0MjVhYjNiMTc2MGM0NWMwYzViY2UuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "seihantai-na-kimi-to-boku-2nd-season-dublado": {
+      "slug": "seihantai-na-kimi-to-boku-2nd-season-dublado",
+      "title": "seihantai-na-kimi-to-boku-2nd-season-dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9zSG1mNGFNZFRwWUZDZjB3cUY4TFlaNDNrUncuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1384,9 +1391,17 @@
     ],
     "filme/assistir-11450--online": [
       1
+    ],
+    "seihantai-na-kimi-to-boku-2nd-season-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "seihantai-na-kimi-to-boku-2nd-season-dublado",
+      "ep": 1,
+      "at": 1785615333904
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2522,5 +2537,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785615318101
+  "updatedAt": 1785615333636
 }
