@@ -830,6 +830,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzAyL2FjY2VsZXJhbmRvLmpwZw",
       "kind": "anime",
       "adult": true
+    },
+    "asb-kare-no-shiranai-himitsu-o-irete": {
+      "slug": "asb-kare-no-shiranai-himitsu-o-irete",
+      "title": "Kare no Shiranai Himitsu o Irete",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNoZW50YWkuYml6L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI2LzA3L3Bvc3Rlci0xLTEuanBn",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -1341,9 +1348,17 @@
       1,
       2,
       3
+    ],
+    "asb-kare-no-shiranai-himitsu-o-irete": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "asb-kare-no-shiranai-himitsu-o-irete",
+      "ep": 1,
+      "at": 1785614589975
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2454,5 +2469,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785614571418
+  "updatedAt": 1785614602907
 }
