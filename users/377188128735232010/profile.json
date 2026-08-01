@@ -865,6 +865,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9zSG1mNGFNZFRwWUZDZjB3cUY4TFlaNDNrUncuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "ah-my-mother": {
+      "slug": "ah-my-mother",
+      "title": "My Mother",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIzLzA2L215LW1vdGhlci1jYXBhLmpwZw",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -1394,9 +1401,17 @@
     ],
     "seihantai-na-kimi-to-boku-2nd-season-dublado": [
       1
+    ],
+    "ah-my-mother": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "ah-my-mother",
+      "ep": 1,
+      "at": 1785615366894
+    },
     {
       "slug": "seihantai-na-kimi-to-boku-2nd-season-dublado",
       "ep": 1,
@@ -2537,5 +2552,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785615333636
+  "updatedAt": 1785615368171
 }
