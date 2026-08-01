@@ -599,7 +599,30 @@
           "Legendado",
           "Dublado",
           "Comédia"
-        ]
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "aishiteru-game-wo-owarasetai",
+              "title": "Aishiteru Game wo Owarasetai",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "1054107",
+              "title": "Aishiteru Game wo Owarasetai (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "aishiteru-game-wo-owarasetai-dublado",
+              "title": "Aishiteru Game wo Owarasetai Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "ace-of-the-diamond-act-ii-season-2": {
@@ -683,7 +706,24 @@
           "Legendado",
           "Dublado",
           "Animação"
-        ]
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "ace-of-the-diamond-act-ii-season-2",
+              "title": "Ace of the Diamond Act II Season 2",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "1052581",
+              "title": "Ace of the Diamond Act II Season 2 (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            }
+          }
+        }
       }
     },
     "ahiru-no-sora": {
@@ -1135,7 +1175,30 @@
           "Ação e Aventura",
           "Animação",
           "Drama"
-        ]
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "akame-ga-kill",
+              "title": "akame ga kill",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "64936",
+              "title": "Akame ga Kill! – (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "akame-ga-kill-dublado",
+              "title": "Akame ga Kill! Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "an-adventurers-daily-grind-at-age-29": {
@@ -1288,7 +1351,24 @@
           "Dublado",
           "Animação",
           "Drama"
-        ]
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "akane-banashi",
+              "title": "Akane-banashi",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "akane-banashi-dublado",
+              "title": "Akane-banashi Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "ah-1-funkan-dake-furete-mo-ii-yo": {
@@ -2059,7 +2139,24 @@
           "Dublado",
           "Animação",
           "Drama"
-        ]
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "akane-banashi",
+              "title": "Akane-banashi",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "akane-banashi-dublado",
+              "title": "Akane-banashi Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "ai-no-idenshi": {
@@ -19207,6 +19304,103 @@
             "leg": {
               "slug": "998196",
               "title": "Akuyaku Reijou Tensei Ojisan (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            }
+          }
+        }
+      }
+    },
+    "amaama-to-inazuma": {
+      "at": 1785625506993,
+      "data": {
+        "slug": "amaama-to-inazuma",
+        "title": "Amaama to Inazuma - Todos os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8ydTltWGM5eDlVQ0NKRXBOMk5KdER5WU5DVmguanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Uniformes e Arroz de Panela",
+            "url": "https://animesdrive.online/episodio/amaama-to-inazuma-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Sopa de Porco e Luzes de Restaurante",
+            "url": "https://animesdrive.online/episodio/amaama-to-inazuma-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Tsumugi e o tão esperado bife de hambúrguer",
+            "url": "https://animesdrive.online/episodio/amaama-to-inazuma-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Legumes e Pedaços Odiados Gratinados",
+            "url": "https://animesdrive.online/episodio/amaama-to-inazuma-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Um dia de folga e donuts especiais",
+            "url": "https://animesdrive.online/episodio/amaama-to-inazuma-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Uma festa de Gyoza com amigos",
+            "url": "https://animesdrive.online/episodio/amaama-to-inazuma-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Gohei Mochi e uma Grande Aventura",
+            "url": "https://animesdrive.online/episodio/amaama-to-inazuma-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Ensopado de Lula e Taro que ainda é gostoso amanhã",
+            "url": "https://animesdrive.online/episodio/amaama-to-inazuma-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - O curry caseiro da nossa família",
+            "url": "https://animesdrive.online/episodio/amaama-to-inazuma-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Férias de verão, Kitty e Aji",
+            "url": "https://animesdrive.online/episodio/amaama-to-inazuma-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Uma peça e crepes de batata-doce",
+            "url": "https://animesdrive.online/episodio/amaama-to-inazuma-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Okonomiyaki Cheio de Afeição",
+            "url": "https://animesdrive.online/episodio/amaama-to-inazuma-episodio-12"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "animesdrive",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Animação",
+          "Comédia"
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "amaama-to-inazuma",
+              "title": "Amaama to Inazuma – Todos os Episódios",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "64047",
+              "title": "Amaama to Inazuma – (Legendado)",
               "audio": "leg",
               "label": "Legendado"
             }
