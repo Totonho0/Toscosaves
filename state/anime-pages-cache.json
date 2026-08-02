@@ -4659,7 +4659,7 @@
       }
     },
     "a-serie-pokemon-horizontes": {
-      "at": 1785613793976,
+      "at": 1785689115215,
       "data": {
         "slug": "a-serie-pokemon-horizontes",
         "title": "a-serie-pokemon-horizontes",
@@ -4688,6 +4688,23 @@
           "Comédia",
           "Kids",
           "Sci-Fi & Fantasia"
+        ],
+        "animeSources": [
+          {
+            "server": 1,
+            "provider": "aoc",
+            "slug": "a-serie-pokemon-horizontes"
+          },
+          {
+            "server": 2,
+            "provider": "animesdrive",
+            "slug": "a-serie-pokemon-horizontes"
+          },
+          {
+            "server": 3,
+            "provider": "animeplay",
+            "slug": "a-serie-pokemon-horizontes"
+          }
         ]
       }
     },
@@ -14089,10 +14106,10 @@
       }
     },
     "acro-trip": {
-      "at": 1785624888296,
+      "at": 1785689117410,
       "data": {
         "slug": "acro-trip",
-        "title": "acro-trip",
+        "title": "Acro Trip",
         "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9lRTg1ZThSQzA3Q0xOeFg5aG9EaVRIMm1OMGIuanBn",
         "synopsis": "",
         "episodes": [
@@ -14169,23 +14186,23 @@
           "Fantasia",
           "Sci-Fi"
         ],
-        "audioVariants": {
-          "current": "default",
-          "variants": {
-            "default": {
-              "slug": "acro-trip",
-              "title": "Acro Trip",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "leg": {
-              "slug": "993781",
-              "title": "Acro Trip (Legendado)",
-              "audio": "leg",
-              "label": "Legendado"
-            }
+        "animeSources": [
+          {
+            "server": 1,
+            "provider": "aoc",
+            "slug": "acro-trip"
+          },
+          {
+            "server": 2,
+            "provider": "animesdrive",
+            "slug": "acro-trip"
+          },
+          {
+            "server": 3,
+            "provider": "animeplay",
+            "slug": "acro-trip"
           }
-        }
+        ]
       }
     },
     "azur-lane-bisoku-zenshin-ni": {
@@ -20499,7 +20516,7 @@
       }
     },
     "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen": {
-      "at": 1785688961123,
+      "at": 1785689115193,
       "data": {
         "slug": "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen",
         "title": "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen",
@@ -20592,28 +20609,11 @@
             "provider": "animeplay",
             "slug": "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen"
           }
-        ],
-        "audioVariants": {
-          "current": "default",
-          "variants": {
-            "default": {
-              "slug": "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen",
-              "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen – Todos os Episódios",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "leg": {
-              "slug": "970944",
-              "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen (Legendado)",
-              "audio": "leg",
-              "label": "Legendado"
-            }
-          }
-        }
+        ]
       }
     },
     "ameku-takao-no-suiri-karte": {
-      "at": 1785688966583,
+      "at": 1785689115829,
       "data": {
         "slug": "ameku-takao-no-suiri-karte",
         "title": "Ameku Takao no Suiri Karte",
@@ -20706,28 +20706,11 @@
             "provider": "animeplay",
             "slug": "ameku-takao-no-suiri-karte"
           }
-        ],
-        "audioVariants": {
-          "current": "default",
-          "variants": {
-            "default": {
-              "slug": "ameku-takao-no-suiri-karte",
-              "title": "Ameku Takao no Suiri Karte",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "leg": {
-              "slug": "997803",
-              "title": "Ameku Takao no Suiri Karte (Legendado)",
-              "audio": "leg",
-              "label": "Legendado"
-            }
-          }
-        }
+        ]
       }
     },
     "amagami-san-chi-no-enmusubi-dublado": {
-      "at": 1785688967968,
+      "at": 1785689115337,
       "data": {
         "slug": "amagami-san-chi-no-enmusubi-dublado",
         "title": "amagami-san-chi-no-enmusubi-dublado",
@@ -20880,34 +20863,11 @@
             "provider": "animeplay",
             "slug": "amagami-san-chi-no-enmusubi-dublado"
           }
-        ],
-        "audioVariants": {
-          "current": "dub",
-          "variants": {
-            "default": {
-              "slug": "amagami-san-chi-no-enmusubi",
-              "title": "Amagami-san Chi no Enmusubi – Todos os Episódios",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "leg": {
-              "slug": "993764",
-              "title": "Amagami-san Chi no Enmusubi (Legendado)",
-              "audio": "leg",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "amagami-san-chi-no-enmusubi-dublado",
-              "title": "Amagami-san Chi no Enmusubi Dublado – Todos os Episódios",
-              "audio": "dub",
-              "label": "Dublado"
-            }
-          }
-        }
+        ]
       }
     },
     "amagami-san-chi-no-enmusubi": {
-      "at": 1785688970108,
+      "at": 1785689115454,
       "data": {
         "slug": "amagami-san-chi-no-enmusubi",
         "title": "Amagami-san Chi no Enmusubi – Todos os Episódios",
@@ -21060,34 +21020,11 @@
             "provider": "animeplay",
             "slug": "amagami-san-chi-no-enmusubi"
           }
-        ],
-        "audioVariants": {
-          "current": "default",
-          "variants": {
-            "default": {
-              "slug": "amagami-san-chi-no-enmusubi",
-              "title": "Amagami-san Chi no Enmusubi – Todos os Episódios",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "leg": {
-              "slug": "993764",
-              "title": "Amagami-san Chi no Enmusubi (Legendado)",
-              "audio": "leg",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "amagami-san-chi-no-enmusubi-dublado",
-              "title": "Amagami-san Chi no Enmusubi Dublado – Todos os Episódios",
-              "audio": "dub",
-              "label": "Dublado"
-            }
-          }
-        }
+        ]
       }
     },
     "another-journey-to-the-west": {
-      "at": 1785688974244,
+      "at": 1785689117381,
       "data": {
         "slug": "another-journey-to-the-west",
         "title": "Another Journey to the West – Todos os Episódios",
@@ -21185,7 +21122,7 @@
       }
     },
     "assassination-classroom": {
-      "at": 1785688975792,
+      "at": 1785689116066,
       "data": {
         "slug": "assassination-classroom",
         "title": "Ansatsu Kyoushitsu",
@@ -21332,34 +21269,11 @@
             "provider": "animeplay",
             "slug": "assassination-classroom"
           }
-        ],
-        "audioVariants": {
-          "current": "default",
-          "variants": {
-            "default": {
-              "slug": "assassination-classroom",
-              "title": "Ansatsu Kyoushitsu",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "leg": {
-              "slug": "67399",
-              "title": "Ansatsu Kyoushitsu (Legendado)",
-              "audio": "leg",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "ansatsu-kyoushitsu-dublado",
-              "title": "Ansatsu Kyoushitsu Dublado",
-              "audio": "dub",
-              "label": "Dublado"
-            }
-          }
-        }
+        ]
       }
     },
     "ansatsu-kyoushitsu-2": {
-      "at": 1785688976767,
+      "at": 1785689118975,
       "data": {
         "slug": "ansatsu-kyoushitsu-2",
         "title": "Ansatsu Kyoushitsu 2",
@@ -21511,34 +21425,11 @@
             "provider": "animeplay",
             "slug": "ansatsu-kyoushitsu-2"
           }
-        ],
-        "audioVariants": {
-          "current": "default",
-          "variants": {
-            "default": {
-              "slug": "ansatsu-kyoushitsu-2",
-              "title": "Ansatsu Kyoushitsu 2",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "leg": {
-              "slug": "950506",
-              "title": "Ansatsu Kyoushitsu 2 (Legendado)",
-              "audio": "leg",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "ansatsu-kyoushitsu-2-dublado",
-              "title": "Ansatsu Kyoushitsu 2 Dublado",
-              "audio": "dub",
-              "label": "Dublado"
-            }
-          }
-        }
+        ]
       }
     },
     "ansatsu-kyoushitsu-2-dublado": {
-      "at": 1785688978138,
+      "at": 1785689118829,
       "data": {
         "slug": "ansatsu-kyoushitsu-2-dublado",
         "title": "Ansatsu Kyoushitsu 2 Dublado",
@@ -21690,34 +21581,11 @@
             "provider": "animeplay",
             "slug": "ansatsu-kyoushitsu-2-dublado"
           }
-        ],
-        "audioVariants": {
-          "current": "dub",
-          "variants": {
-            "default": {
-              "slug": "ansatsu-kyoushitsu-2",
-              "title": "Ansatsu Kyoushitsu 2",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "leg": {
-              "slug": "950506",
-              "title": "Ansatsu Kyoushitsu 2 (Legendado)",
-              "audio": "leg",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "ansatsu-kyoushitsu-2-dublado",
-              "title": "Ansatsu Kyoushitsu 2 Dublado",
-              "audio": "dub",
-              "label": "Dublado"
-            }
-          }
-        }
+        ]
       }
     },
     "ansatsu-kyoushitsu-dublado": {
-      "at": 1785688979025,
+      "at": 1785689118677,
       "data": {
         "slug": "ansatsu-kyoushitsu-dublado",
         "title": "Ansatsu Kyoushitsu Dublado",
@@ -21864,30 +21732,7 @@
             "provider": "animeplay",
             "slug": "ansatsu-kyoushitsu-dublado"
           }
-        ],
-        "audioVariants": {
-          "current": "dub",
-          "variants": {
-            "default": {
-              "slug": "assassination-classroom",
-              "title": "Ansatsu Kyoushitsu",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "leg": {
-              "slug": "67399",
-              "title": "Ansatsu Kyoushitsu (Legendado)",
-              "audio": "leg",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "ansatsu-kyoushitsu-dublado",
-              "title": "Ansatsu Kyoushitsu Dublado",
-              "audio": "dub",
-              "label": "Dublado"
-            }
-          }
-        }
+        ]
       }
     },
     "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season": {
