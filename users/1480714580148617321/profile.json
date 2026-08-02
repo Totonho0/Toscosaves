@@ -27,6 +27,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96SUx5TVpUWlJLbGVRdUUxR2Z1Q0U3b1pCSXYuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "super-no-ura-de-yani-suu-futari": {
+      "slug": "super-no-ura-de-yani-suu-futari",
+      "title": "Super no Ura de Yani Suu Futari",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9na21FNDFBNWV2NU0yOTloTGdYM0pyV0FNMTYuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -50,9 +57,17 @@
     "does-it-count-if-you-lose-your-virginity-to-an-android": [
       1,
       3
+    ],
+    "super-no-ura-de-yani-suu-futari": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "super-no-ura-de-yani-suu-futari",
+      "ep": 1,
+      "at": 1785708933667
+    },
     {
       "slug": "rezero-kara-hajimeru-isekai-seikatsu-4-dublado",
       "ep": 1,
@@ -111,5 +126,5 @@
   },
   "filmePlayback": {},
   "customLists": {},
-  "updatedAt": 1785708903195
+  "updatedAt": 1785708932645
 }
