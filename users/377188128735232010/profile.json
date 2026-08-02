@@ -921,6 +921,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cubXVpdG9oZW50YWkuY29tL2Nkbi9pbWFnZXMvcG9zdGVycy82OWRkN2Y3OWU1M2IzODVlOTU4YzFiOTI4MGU5YjI5NGJiYzNkYjQzNjUzZTUuanBn",
       "kind": "anime",
       "adult": true
+    },
+    "assistir-bleach-final-season": {
+      "slug": "assistir-bleach-final-season",
+      "title": "Bleach Final Season",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wNy9CbGVhY2gtRmluYWwtU2Vhc29uRXAuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1475,9 +1482,17 @@
     ],
     "mh-ookii-onnanoko-wa-suki-desuka": [
       1
+    ],
+    "assistir-bleach-final-season": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "assistir-bleach-final-season",
+      "ep": 1,
+      "at": 1785688980260
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2658,5 +2673,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785688942258
+  "updatedAt": 1785688979881
 }
