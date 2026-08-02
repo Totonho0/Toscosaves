@@ -13901,42 +13901,42 @@
       }
     },
     "does-it-count-if-you-lose-your-virginity-to-an-android": {
-      "at": 1785624852277,
+      "at": 1785689130864,
       "data": {
         "slug": "does-it-count-if-you-lose-your-virginity-to-an-android",
-        "title": "does-it-count-if-you-lose-your-virginity-to-an-android",
+        "title": "Does It Count If You Lose Your Virginity to an Android??",
         "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96SUx5TVpUWlJLbGVRdUUxR2Z1Q0U3b1pCSXYuanBn",
         "synopsis": "",
         "episodes": [
           {
             "number": 1,
             "title": "Episódio 01 - Minha vida pode ter acabado.",
-            "url": "https://animesonline.cloud/episodio/android-wa-keiken-ninzuu-ni-hairimasu-ka-episodio-01"
+            "url": "https://animesdrive.online/episodio/android-wa-keiken-ninzuu-ni-hairimasu-ka-episodio-01"
           },
           {
             "number": 2,
             "title": "Episódio 02 - Nada está bem...",
-            "url": "https://animesonline.cloud/episodio/android-wa-keiken-ninzuu-ni-hairimasu-ka-episodio-02"
+            "url": "https://animesdrive.online/episodio/android-wa-keiken-ninzuu-ni-hairimasu-ka-episodio-02"
           },
           {
             "number": 3,
             "title": "Episódio 03 - O interruptor de energia fica dentro da boca...!?",
-            "url": "https://animesonline.cloud/episodio/android-wa-keiken-ninzuu-ni-hairimasu-ka-episodio-03"
+            "url": "https://animesdrive.online/episodio/android-wa-keiken-ninzuu-ni-hairimasu-ka-episodio-03"
           },
           {
             "number": 4,
             "title": "Episódio 04 - Xingar faz mal ao coração!",
-            "url": "https://animesonline.cloud/episodio/android-wa-keiken-ninzuu-ni-hairimasu-ka-episodio-04"
+            "url": "https://animesdrive.online/episodio/android-wa-keiken-ninzuu-ni-hairimasu-ka-episodio-04"
           },
           {
             "number": 5,
             "title": "Episódio 05 - Sobre Nadeshiko ser excessivamente funcional",
-            "url": "https://animesonline.cloud/episodio/android-wa-keiken-ninzuu-ni-hairimasu-ka-episodio-05"
+            "url": "https://animesdrive.online/episodio/android-wa-keiken-ninzuu-ni-hairimasu-ka-episodio-05"
           }
         ],
         "totalEpisodes": 5,
         "kind": "anime",
-        "provider": "aoc",
+        "provider": "animesdrive",
         "genres": [
           "Legendado",
           "Dublado",
@@ -13948,10 +13948,10 @@
       }
     },
     "aharen-san-wa-hakarenai-2": {
-      "at": 1785624885368,
+      "at": 1785689130781,
       "data": {
         "slug": "aharen-san-wa-hakarenai-2",
-        "title": "aharen-san-wa-hakarenai-2",
+        "title": "Aharen-san wa Hakarenai 2",
         "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91bVNNbEVONVJJWXpsTHZTRkkybmZtZTFXMDIuanBn",
         "synopsis": "",
         "episodes": [
@@ -14025,23 +14025,23 @@
           "Animação",
           "Comédia"
         ],
-        "audioVariants": {
-          "current": "default",
-          "variants": {
-            "default": {
-              "slug": "aharen-san-wa-hakarenai-2",
-              "title": "Aharen-san wa Hakarenai 2",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "leg": {
-              "slug": "1001090",
-              "title": "Aharen-san wa Hakarenai 2 (Legendado)",
-              "audio": "leg",
-              "label": "Legendado"
-            }
+        "animeSources": [
+          {
+            "server": 1,
+            "provider": "aoc",
+            "slug": "aharen-san-wa-hakarenai-2"
+          },
+          {
+            "server": 2,
+            "provider": "animesdrive",
+            "slug": "aharen-san-wa-hakarenai-2"
+          },
+          {
+            "server": 3,
+            "provider": "animeplay",
+            "slug": "aharen-san-wa-hakarenai-2"
           }
-        }
+        ]
       }
     },
     "afro-samurai": {
@@ -19620,10 +19620,10 @@
       }
     },
     "akame-ga-kill": {
-      "at": 1785649637759,
+      "at": 1785689133105,
       "data": {
         "slug": "akame-ga-kill",
-        "title": "akame-ga-kill",
+        "title": "Akame ga Kill!",
         "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8zWEFHZ2tsS2tKaHY1TTltNU5rZmhCWWI3bDguanBn",
         "synopsis": "",
         "episodes": [
@@ -19774,30 +19774,7 @@
             "provider": "animeplay",
             "slug": "akame-ga-kill"
           }
-        ],
-        "audioVariants": {
-          "current": "default",
-          "variants": {
-            "default": {
-              "slug": "akame-ga-kill",
-              "title": "Akame ga Kill!",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "leg": {
-              "slug": "64936",
-              "title": "Akame ga Kill! – (Legendado)",
-              "audio": "leg",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "akame-ga-kill-dublado",
-              "title": "Akame ga Kill! Dublado",
-              "audio": "dub",
-              "label": "Dublado"
-            }
-          }
-        }
+        ]
       }
     },
     "mh-chimimonryou": {
@@ -24189,6 +24166,97 @@
               "title": "Bleach: Sennen Kessen Hen – Soukoku Tan Dublado",
               "audio": "dub",
               "label": "Dublado"
+            }
+          }
+        }
+      }
+    },
+    "arknights-rise-from-ember": {
+      "at": 1785689132466,
+      "data": {
+        "slug": "arknights-rise-from-ember",
+        "title": "Arknights: Rise from Ember - Todos Os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8wNy9BcmtuaWdodHMtUmlzZS1mcm9tLUVtYmVyLmpwZw",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Arknights: Rise from Ember Episódio 01 1 ano atrás",
+            "url": "https://animesdigital.org/video/a/130484/",
+            "videoId": "130484"
+          },
+          {
+            "number": 2,
+            "title": "Arknights: Rise from Ember Episódio 02 1 ano atrás",
+            "url": "https://animesdigital.org/video/a/130667/",
+            "videoId": "130667"
+          },
+          {
+            "number": 3,
+            "title": "Arknights: Rise from Ember Episódio 03 1 ano atrás",
+            "url": "https://animesdigital.org/video/a/130830/",
+            "videoId": "130830"
+          },
+          {
+            "number": 4,
+            "title": "Arknights: Rise from Ember Episódio 04 1 ano atrás",
+            "url": "https://animesdigital.org/video/a/131001/",
+            "videoId": "131001"
+          },
+          {
+            "number": 5,
+            "title": "Arknights: Rise from Ember Episódio 05 12 meses atrás",
+            "url": "https://animesdigital.org/video/a/131117/",
+            "videoId": "131117"
+          },
+          {
+            "number": 6,
+            "title": "Arknights: Rise from Ember Episódio 06 12 meses atrás",
+            "url": "https://animesdigital.org/video/a/131307/",
+            "videoId": "131307"
+          },
+          {
+            "number": 7,
+            "title": "Arknights: Rise from Ember Episódio 07 11 meses atrás",
+            "url": "https://animesdigital.org/video/a/131601/",
+            "videoId": "131601"
+          },
+          {
+            "number": 8,
+            "title": "Arknights: Rise from Ember Episódio 08 11 meses atrás",
+            "url": "https://animesdigital.org/video/a/131600/",
+            "videoId": "131600"
+          },
+          {
+            "number": 9,
+            "title": "Arknights: Rise from Ember Episódio 09 11 meses atrás",
+            "url": "https://animesdigital.org/video/a/131746/",
+            "videoId": "131746"
+          },
+          {
+            "number": 10,
+            "title": "Arknights: Rise from Ember Episódio 10 11 meses atrás",
+            "url": "https://animesdigital.org/video/a/131990/",
+            "videoId": "131990"
+          }
+        ],
+        "totalEpisodes": 10,
+        "kind": "anime",
+        "provider": "animesdigital",
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "arknights-rise-from-ember",
+              "title": "arknights rise from ember",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "1003401",
+              "title": "Arknights: Rise from Ember (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
             }
           }
         }
