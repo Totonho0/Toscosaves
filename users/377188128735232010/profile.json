@@ -914,6 +914,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC85QTl3bjE0cHRlOTJjTlB0MTlyTUozcDNkZEcuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "mh-ookii-onnanoko-wa-suki-desuka": {
+      "slug": "mh-ookii-onnanoko-wa-suki-desuka",
+      "title": "Ookii Onnanoko Wa Suki Desuka",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cubXVpdG9oZW50YWkuY29tL2Nkbi9pbWFnZXMvcG9zdGVycy82OWRkN2Y3OWU1M2IzODVlOTU4YzFiOTI4MGU5YjI5NGJiYzNkYjQzNjUzZTUuanBn",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -1465,9 +1472,17 @@
     ],
     "baki-dou-part-2-dublado": [
       1
+    ],
+    "mh-ookii-onnanoko-wa-suki-desuka": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "mh-ookii-onnanoko-wa-suki-desuka",
+      "ep": 1,
+      "at": 1785660537480
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2643,5 +2658,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785660505324
+  "updatedAt": 1785660537995
 }
