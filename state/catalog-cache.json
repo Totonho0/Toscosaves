@@ -27643,7 +27643,7 @@
         "hasMore": false,
         "genreId": "romance"
       },
-      "at": 1785649625206
+      "at": 1785686112532
     },
     "genre-row:acao": {
       "data": {
@@ -27798,11 +27798,20 @@
         "hasMore": false,
         "genreId": "acao"
       },
-      "at": 1785649624923
+      "at": 1785686112225
     },
     "genre-row:comedia": {
       "data": {
         "items": [
+          {
+            "title": "Clannad: After Story",
+            "slug": "clannad-after-story",
+            "url": "https://animesonline.cloud/anime/clannad-after-story",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/mi3MDH654cVwkjckdKisxnOpHQC-185x278.jpg",
+            "rating": "8.93",
+            "kind": "anime",
+            "provider": "aoc"
+          },
           {
             "title": "Super no Ura de Yani Suu Futari Dublado",
             "slug": "super-no-ura-de-yani-suu-futari-dublado",
@@ -27937,15 +27946,6 @@
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
-            "slug": "the-insipid-princes-furtive-grab-for-the-throne",
-            "url": "https://animesonline.cloud/anime/the-insipid-princes-furtive-grab-for-the-throne",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/etpSosywRvOO8mds61uv3aSjhDF-185x278.jpg",
-            "rating": "6.54",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "genre-row",
@@ -27953,7 +27953,7 @@
         "hasMore": false,
         "genreId": "comedia"
       },
-      "at": 1785649625071
+      "at": 1785686112372
     },
     "lancamentos|1||120": {
       "data": {
@@ -123794,5 +123794,5 @@
       "at": 1785660537298
     }
   },
-  "updatedAt": 1785683465247
+  "updatedAt": 1785686112532
 }
