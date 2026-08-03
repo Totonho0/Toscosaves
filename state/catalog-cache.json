@@ -80863,7 +80863,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785741008631
+      "at": 1785769870598
     },
     "todos|34||120": {
       "data": {
@@ -81277,15 +81277,6 @@
             ]
           },
           {
-            "title": "Yani Neko",
-            "slug": "yani-neko",
-            "url": "https://animesonline.cloud/anime/yani-neko",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
-            "rating": "5",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Yani Neko Dublado",
             "slug": "yani-neko-dublado",
             "url": "https://animesonline.cloud/anime/yani-neko-dublado",
@@ -81693,13 +81684,33 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "8.506"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 34,
         "hasMore": true,
         "total": 1666,
-        "cachedAt": 1785755395631,
+        "cachedAt": 1785769867982,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -81746,7 +81757,7 @@
           "fixHint": null
         }
       },
-      "at": 1785755395725
+      "at": 1785769870747
     },
     "partner:anitube|todos|35||48": {
       "data": {
@@ -81901,7 +81912,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1785741009097
+      "at": 1785769871097
     },
     "todos|35||48": {
       "data": {
@@ -82181,7 +82192,7 @@
         "page": 35,
         "hasMore": true
       },
-      "at": 1785755396602
+      "at": 1785769871685
     },
     "partner:animesdrive|todos|35||48": {
       "data": {
@@ -82432,7 +82443,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785741009668
+      "at": 1785769871651
     },
     "partner:animeplay|todos|35||48": {
       "data": {
@@ -131040,5 +131051,5 @@
       "at": 1785689400254
     }
   },
-  "updatedAt": 1785769868089
+  "updatedAt": 1785769871685
 }
