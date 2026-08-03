@@ -17862,7 +17862,7 @@
             "url": "https://www.anitube.zip/video/57645/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-ergo-proxy-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "anitube"
           },
           {
             "title": "Eris no Seihai",
@@ -17879,7 +17879,7 @@
             "url": "https://www.anitube.zip/video/1031714/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-eris-no-seihai-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "anitube"
           },
           {
             "title": "Eromanga Sensei (Legendado)",
@@ -17887,7 +17887,7 @@
             "url": "https://www.anitube.zip/video/57609/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Eromanga-Sensei.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "anitube"
           },
           {
             "title": "Esquadrão Especial Winspector",
@@ -17947,7 +17947,7 @@
             "url": "https://www.anitube.zip/video/57519/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Etotama-Eto-Tamashii.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "anitube"
           },
           {
             "title": "Eureka Seven (Legendado)",
@@ -17955,7 +17955,7 @@
             "url": "https://www.anitube.zip/video/57402/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-eureka-seven-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "anitube"
           },
           {
             "title": "Eureka Seven AO (Legendado)",
@@ -17963,7 +17963,7 @@
             "url": "https://www.anitube.zip/video/56669/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-eureka-seven-ao-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "anitube"
           },
           {
             "title": "Eve no Jikan (Legendado)",
@@ -17971,7 +17971,7 @@
             "url": "https://www.anitube.zip/video/56635/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Eve-no-Jikan.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "anitube"
           },
           {
             "title": "Evil or Live (Legendado)",
@@ -17979,7 +17979,7 @@
             "url": "https://www.anitube.zip/video/58081/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Evil-or-Live.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "anitube"
           },
           {
             "title": "Ex-Arm (Legendado)",
@@ -17987,7 +17987,7 @@
             "url": "https://www.anitube.zip/video/899707/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Ex-Arm-Todos-os-Episódios-AniTube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "anitube"
           },
           {
             "title": "Fairy Tail",
@@ -18281,6 +18281,47 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "fruits-basket-2001"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "fruits-basket-2001"
+              }
+            ]
+          },
+          {
+            "title": "Fruits Basket (2019)",
+            "slug": "fruits-basket-2019",
+            "url": "https://animesonline.cloud/anime/fruits-basket-2019",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/wVe8vcSqpJjLib5TWer6kgkGjjM-185x278.jpg",
+            "rating": "7.9",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fruits-basket-2019"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fruits-basket-2001"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "fruits-basket-2019"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "fruits-basket-2001"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "fruits-basket-2019"
               },
               {
                 "server": 3,
@@ -18733,33 +18774,13 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "0"
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 17,
         "hasMore": true,
         "total": 1666,
-        "cachedAt": 1785769818005,
+        "cachedAt": 1785784185550,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -18806,7 +18827,7 @@
           "fixHint": null
         }
       },
-      "at": 1785769819845
+      "at": 1785784185647
     },
     "todos|18||120": {
       "data": {
@@ -19437,11 +19458,11 @@
           {
             "title": "Haigakura – Todos os Episódios",
             "slug": "haigakura",
-            "url": "https://animesonline.cloud/anime/haigakura",
+            "url": "https://animesdrive.online/anime/haigakura",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/08/8qKJs4PeCBscnb76eYg1unl153v-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -19702,7 +19723,7 @@
         "page": 18,
         "hasMore": true,
         "total": 1666,
-        "cachedAt": 1785769820687,
+        "cachedAt": 1785784187280,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -19749,7 +19770,7 @@
           "fixHint": null
         }
       },
-      "at": 1785769822482
+      "at": 1785784187367
     },
     "todos|19||120": {
       "data": {
@@ -53128,6 +53149,24 @@
             "provider": "aoc"
           },
           {
+            "title": "Watashi wo Tabetai Hitodenashi",
+            "slug": "watashi-wo-tabetai-hitodenashi",
+            "url": "https://animesonline.cloud/anime/watashi-wo-tabetai-hitodenashi",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/2FPfswdvih5tnseWAzgbiWb0JuR-185x278.jpg",
+            "rating": "7.01",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kakuriyo no Yadomeshi Ni",
+            "slug": "kakuriyo-no-yadomeshi-ni",
+            "url": "https://animesonline.cloud/anime/kakuriyo-no-yadomeshi-ni",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/xjSVWgxK68F7eS46WQfUXLNpKkd-185x278.jpg",
+            "rating": "8.3",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Let’s Play",
             "slug": "lets-play",
             "url": "https://animesonline.cloud/anime/lets-play",
@@ -53324,31 +53363,13 @@
             "rating": "7.7",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Durarara!!x2 Shou",
-            "slug": "durararax2-shou",
-            "url": "https://animesonline.cloud/anime/durararax2-shou",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/09/5xbcQNI6f8y7jk42fXf3CiXcUdW-185x278.jpg",
-            "rating": "7.7",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Kamen Rider ZEZTZ",
-            "slug": "kamen-rider-zeztz",
-            "url": "https://animesonline.cloud/anime/kamen-rider-zeztz",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/3YybwLVxaGgzcTyMyB2vqB4H4EL-185x278.jpg",
-            "rating": "9.8",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 17,
         "hasMore": true
       },
-      "at": 1785769818005
+      "at": 1785784185550
     },
     "partner:animesdigital|todos|17||48": {
       "data": {
@@ -54332,6 +54353,24 @@
             "provider": "aoc"
           },
           {
+            "title": "Durarara!!x2 Shou",
+            "slug": "durararax2-shou",
+            "url": "https://animesonline.cloud/anime/durararax2-shou",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/09/5xbcQNI6f8y7jk42fXf3CiXcUdW-185x278.jpg",
+            "rating": "7.7",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kamen Rider ZEZTZ",
+            "slug": "kamen-rider-zeztz",
+            "url": "https://animesonline.cloud/anime/kamen-rider-zeztz",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/3YybwLVxaGgzcTyMyB2vqB4H4EL-185x278.jpg",
+            "rating": "9.8",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Durarara!! Specials",
             "slug": "durarara-specials",
             "url": "https://animesonline.cloud/anime/durarara-specials",
@@ -54519,31 +54558,13 @@
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Sword Art Online 2 Dublado",
-            "slug": "sword-art-online-2-dublado",
-            "url": "https://animesonline.cloud/anime/sword-art-online-2-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/kd4EtP4I143o8kTO1q5AY9nABBz-185x278.jpg",
-            "rating": "8.2",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Sword Art Online 2",
-            "slug": "sword-art-online-2",
-            "url": "https://animesonline.cloud/anime/sword-art-online-2",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/ycCgDrMbUVx0hmwLikCUfv1lETG-185x278.jpg",
-            "rating": "8.2",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 18,
         "hasMore": true
       },
-      "at": 1785769820687
+      "at": 1785784187280
     },
     "partner:animesdrive|todos|18||48": {
       "data": {
@@ -131310,5 +131331,5 @@
       "at": 1785689400254
     }
   },
-  "updatedAt": 1785784183877
+  "updatedAt": 1785784187367
 }
