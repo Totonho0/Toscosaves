@@ -9591,15 +9591,6 @@
             "provider": "aoc"
           },
           {
-            "title": "Black Clover Dublado",
-            "slug": "black-clover-dublado",
-            "url": "https://animesonline.cloud/anime/black-clover-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/91z5IHcqGWmh8odTnKcMzWDrsZK-185x278.jpg",
-            "rating": "8.507",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Black Clover Manga e Episódios (Legendado)",
             "slug": "879932",
             "url": "https://www.anitube.zip/video/879932/",
@@ -9802,15 +9793,6 @@
             "slug": "881501",
             "url": "https://www.anitube.zip/video/881501/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-bleach-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Bleach Dublado",
-            "slug": "bleach-dublado",
-            "url": "https://animesonline.cloud/anime/bleach-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/cACXGL4PBgKslAF5W8aaxWdriW7-185x278.jpg",
-            "rating": "8.383",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -10069,13 +10051,53 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-blue-lock-2nd-season-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesdrive.online/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 4,
         "hasMore": true,
         "total": 1666,
-        "cachedAt": 1785755365933,
+        "cachedAt": 1785769773933,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -10122,7 +10144,7 @@
           "fixHint": null
         }
       },
-      "at": 1785755366028
+      "at": 1785769776817
     },
     "todos|5||120": {
       "data": {
@@ -32775,7 +32797,7 @@
         "page": 5,
         "hasMore": true
       },
-      "at": 1785755366966
+      "at": 1785769777594
     },
     "todos|6||48": {
       "data": {
@@ -39423,7 +39445,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785740967569
+      "at": 1785769776694
     },
     "partner:anitube|todos|5||48": {
       "data": {
@@ -39578,7 +39600,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1785740968041
+      "at": 1785769777168
     },
     "partner:animesdigital|todos|5||48": {
       "data": {
@@ -39973,7 +39995,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1785740967727
+      "at": 1785769776839
     },
     "partner:animesdrive|todos|5||48": {
       "data": {
@@ -40168,7 +40190,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785740968667
+      "at": 1785769777736
     },
     "partner:animeplay|todos|5||48": {
       "data": {
@@ -131078,5 +131100,5 @@
       "at": 1785689400254
     }
   },
-  "updatedAt": 1785769774089
+  "updatedAt": 1785769777736
 }
