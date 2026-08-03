@@ -20502,47 +20502,6 @@
             ]
           },
           {
-            "title": "Hunter x Hunter (2011)",
-            "slug": "hunter-x-hunter-2011",
-            "url": "https://animesonline.cloud/anime/hunter-x-hunter-2011",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/9WxfAQquTun9ATkV6iAeFHMkqxv-185x278.jpg",
-            "rating": "8.626",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "hunter-x-hunter-2011"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "hunter-x-hunter"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "hunter-x-hunter-2011"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "hunter-x-hunter"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "hunter-x-hunter-2011"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "hunter-x-hunter"
-              }
-            ]
-          },
-          {
             "title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
             "slug": "i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too",
             "url": "https://animesonline.cloud/anime/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too",
@@ -20672,13 +20631,33 @@
                 "slug": "il-monologo-della-speziale"
               }
             ]
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 19,
         "hasMore": true,
         "total": 1666,
-        "cachedAt": 1785755381057,
+        "cachedAt": 1785769823310,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -20725,7 +20704,7 @@
           "fixHint": null
         }
       },
-      "at": 1785755381141
+      "at": 1785769825129
     },
     "todos|20||120": {
       "data": {
@@ -55821,7 +55800,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785740988749
+      "at": 1785769825065
     },
     "partner:animesdrive|todos|19||48": {
       "data": {
@@ -56227,7 +56206,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1785740989152
+      "at": 1785769825504
     },
     "todos|20||48": {
       "data": {
@@ -56507,7 +56486,7 @@
         "page": 20,
         "hasMore": true
       },
-      "at": 1785755381982
+      "at": 1785769826030
     },
     "partner:animesdrive|todos|20||48": {
       "data": {
@@ -56758,7 +56737,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785740989735
+      "at": 1785769826153
     },
     "partner:animeplay|todos|20||48": {
       "data": {
@@ -131050,5 +131029,5 @@
       "at": 1785689400254
     }
   },
-  "updatedAt": 1785769823431
+  "updatedAt": 1785769826153
 }
