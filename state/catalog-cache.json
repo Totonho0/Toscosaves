@@ -17853,7 +17853,7 @@
             "url": "https://www.anitube.zip/video/57645/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-ergo-proxy-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Eris no Seihai",
@@ -17870,7 +17870,7 @@
             "url": "https://www.anitube.zip/video/1031714/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-eris-no-seihai-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Eromanga Sensei (Legendado)",
@@ -17878,7 +17878,7 @@
             "url": "https://www.anitube.zip/video/57609/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Eromanga-Sensei.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Esquadrão Especial Winspector",
@@ -17938,7 +17938,7 @@
             "url": "https://www.anitube.zip/video/57519/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Etotama-Eto-Tamashii.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Eureka Seven (Legendado)",
@@ -17946,7 +17946,7 @@
             "url": "https://www.anitube.zip/video/57402/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-eureka-seven-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Eureka Seven AO (Legendado)",
@@ -17954,7 +17954,7 @@
             "url": "https://www.anitube.zip/video/56669/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-eureka-seven-ao-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Eve no Jikan (Legendado)",
@@ -17962,7 +17962,7 @@
             "url": "https://www.anitube.zip/video/56635/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Eve-no-Jikan.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Evil or Live (Legendado)",
@@ -17970,7 +17970,7 @@
             "url": "https://www.anitube.zip/video/58081/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Evil-or-Live.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Ex-Arm (Legendado)",
@@ -17978,7 +17978,7 @@
             "url": "https://www.anitube.zip/video/899707/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Ex-Arm-Todos-os-Episódios-AniTube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "aoc"
           },
           {
             "title": "Fairy Tail",
@@ -18272,47 +18272,6 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "fruits-basket-2001"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "fruits-basket-2001"
-              }
-            ]
-          },
-          {
-            "title": "Fruits Basket (2019)",
-            "slug": "fruits-basket-2019",
-            "url": "https://animesonline.cloud/anime/fruits-basket-2019",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/wVe8vcSqpJjLib5TWer6kgkGjjM-185x278.jpg",
-            "rating": "7.9",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "fruits-basket-2019"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "fruits-basket-2001"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "fruits-basket-2019"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "fruits-basket-2001"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "fruits-basket-2019"
               },
               {
                 "server": 3,
@@ -18765,13 +18724,33 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "0"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 17,
         "hasMore": true,
         "total": 1666,
-        "cachedAt": 1785755379099,
+        "cachedAt": 1785769818005,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -18818,7 +18797,7 @@
           "fixHint": null
         }
       },
-      "at": 1785755379202
+      "at": 1785769819845
     },
     "todos|18||120": {
       "data": {
@@ -53475,7 +53454,7 @@
         "page": 17,
         "hasMore": true
       },
-      "at": 1785755379099
+      "at": 1785769818005
     },
     "partner:animesdigital|todos|17||48": {
       "data": {
@@ -53993,7 +53972,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785740985766
+      "at": 1785769818129
     },
     "partner:animeplay|todos|17||48": {
       "data": {
@@ -54244,7 +54223,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785740985926
+      "at": 1785769819715
     },
     "partner:anitube|todos|18||48": {
       "data": {
@@ -54399,7 +54378,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1785740986400
+      "at": 1785769820197
     },
     "todos|18||48": {
       "data": {
@@ -54670,7 +54649,7 @@
         "page": 18,
         "hasMore": true
       },
-      "at": 1785755380127
+      "at": 1785769820687
     },
     "partner:animesdrive|todos|18||48": {
       "data": {
@@ -54913,7 +54892,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785740987021
+      "at": 1785769820800
     },
     "partner:animeplay|todos|18||48": {
       "data": {
@@ -131071,5 +131050,5 @@
       "at": 1785689400254
     }
   },
-  "updatedAt": 1785769817477
+  "updatedAt": 1785769820800
 }
