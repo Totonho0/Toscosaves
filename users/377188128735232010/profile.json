@@ -37,6 +37,13 @@
       "kind": "anime",
       "adult": false
     },
+    "879932": {
+      "slug": "879932",
+      "title": "Black Clover Manga e Episódios (Legendado)",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL0JsYWNrLUNsb3Zlci1NYW5nYS5qcGc",
+      "kind": "anime",
+      "adult": false
+    },
     "946662": {
       "slug": "946662",
       "title": "Black Clover (Dublado)",
@@ -1048,6 +1055,9 @@
       1,
       2
     ],
+    "879932": [
+      1
+    ],
     "946662": [
       8,
       81
@@ -1505,6 +1515,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "879932",
+      "ep": 1,
+      "at": 1785751993248
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2725,5 +2740,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1785751976027
+  "updatedAt": 1785751992869
 }
