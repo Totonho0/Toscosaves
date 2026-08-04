@@ -24474,6 +24474,11 @@
                 "slug": "dragon-ball-z"
               },
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-z-dublado"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "dragon-ball-z"
@@ -24721,19 +24726,31 @@
             ]
           },
           {
-            "title": "Gnosia Dublado",
-            "slug": "gnosia-dublado",
-            "url": "https://animeplay.cloud/anime/gnosia-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/zmQPDO6RdidMg7Y95s8I62SbKxK-185x278.jpg",
+            "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2 Dublado",
+            "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-dublado",
+            "url": "https://animesdrive.online/anime/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/j0GK2LuVIyvZzBlxjUmL4LN9V2p-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-dublado"
+              }
+            ]
           }
         ],
         "category": "dublado",
         "page": 1,
         "hasMore": true,
-        "total": 118,
-        "cachedAt": 1785856269605,
+        "total": 119,
+        "cachedAt": 1785885069299,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -24780,11 +24797,19 @@
           "fixHint": null
         }
       },
-      "at": 1785856271557
+      "at": 1785885073526
     },
     "dublado|2||120": {
       "data": {
         "items": [
+          {
+            "title": "Gnosia Dublado",
+            "slug": "gnosia-dublado",
+            "url": "https://animeplay.cloud/anime/gnosia-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/zmQPDO6RdidMg7Y95s8I62SbKxK-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc"
+          },
           {
             "title": "Haikyuu!! Dublado",
             "slug": "haikyuu-dublado",
@@ -25429,10 +25454,27 @@
             "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2 Dublado",
             "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-dublado",
             "url": "https://animesonline.cloud/anime/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/j0GK2LuVIyvZzBlxjUmL4LN9V2p-185x278.jpg",
-            "rating": "7.4",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/j0GK2LuVIyvZzBlxjUmL4LN9V2p-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-dublado"
+              }
+            ],
+            "rating": "7.4"
           },
           {
             "title": "Otome Kaijuu Caraméliser Dublado",
@@ -25639,39 +25681,13 @@
                 "slug": "snowball-earth-dublado"
               }
             ]
-          },
-          {
-            "title": "Sousou no Friere 2 Dublado",
-            "slug": "sousou-no-friere-2-dublado",
-            "url": "https://animesonline.cloud/anime/sousou-no-friere-2-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/mV2L9VUhWbrKZpFCpfHKBUw3C9u-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "8.921",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "sousou-no-friere-2-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "sousou-no-friere-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "sousou-no-friere-2-dublado"
-              }
-            ]
           }
         ],
         "category": "dublado",
         "page": 2,
         "hasMore": true,
-        "total": 118,
-        "cachedAt": 1785856272526,
+        "total": 119,
+        "cachedAt": 1785885074544,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -25718,11 +25734,37 @@
           "fixHint": null
         }
       },
-      "at": 1785856273383
+      "at": 1785885076884
     },
     "dublado|3||120": {
       "data": {
         "items": [
+          {
+            "title": "Sousou no Friere 2 Dublado",
+            "slug": "sousou-no-friere-2-dublado",
+            "url": "https://animesonline.cloud/anime/sousou-no-friere-2-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/mV2L9VUhWbrKZpFCpfHKBUw3C9u-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sousou-no-friere-2-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sousou-no-friere-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sousou-no-friere-2-dublado"
+              }
+            ],
+            "rating": "8.921"
+          },
           {
             "title": "Sousou no Friere Dublado",
             "slug": "sousou-no-friere-dublado",
@@ -26166,26 +26208,6 @@
             ]
           },
           {
-            "title": "Sousou no Friere 2 Dublado",
-            "slug": "sousou-no-friere-2-dublado",
-            "url": "https://animesdrive.online/anime/sousou-no-friere-2-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/12/mV2L9VUhWbrKZpFCpfHKBUw3C9u-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "sousou-no-friere-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "sousou-no-friere-2-dublado"
-              }
-            ]
-          },
-          {
             "title": "Jigokuraku 2 Dublado",
             "slug": "jigokuraku-2-dublado",
             "url": "https://animesdrive.online/anime/jigokuraku-2-dublado",
@@ -26492,8 +26514,8 @@
         "category": "dublado",
         "page": 3,
         "hasMore": true,
-        "total": 118,
-        "cachedAt": 1785856274332,
+        "total": 119,
+        "cachedAt": 1785885077849,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -26540,7 +26562,7 @@
           "fixHint": null
         }
       },
-      "at": 1785856275039
+      "at": 1785885078641
     },
     "partner:animesdigital|lancamentos|1||24": {
       "data": {
@@ -116449,11 +116471,20 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1785856271899
+      "at": 1785885074394
     },
     "dublado|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Haikyuu!! Second Season Dublado",
+            "slug": "haikyuu-second-season-dublado",
+            "url": "https://animesonline.cloud/anime/haikyuu-second-season-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/wkQX0xwqXTtOtMXfwCf1Ad1ZfCv-185x278.jpg",
+            "rating": "8.607",
+            "kind": "anime",
+            "provider": "aoc"
+          },
           {
             "title": "Akane-banashi Dublado",
             "slug": "akane-banashi-dublado",
@@ -116660,22 +116691,13 @@
             "rating": "8.2",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Yomi no Tsugai Dublado",
-            "slug": "yomi-no-tsugai-dublado",
-            "url": "https://animesonline.cloud/anime/yomi-no-tsugai-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/x9tqZfZLzu6T6q7wuySI8k7Qytf-185x278.jpg",
-            "rating": "8.6",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "dublado",
         "page": 2,
         "hasMore": true
       },
-      "at": 1785856272526
+      "at": 1785885074544
     },
     "partner:animesdigital|dublado|2||48": {
       "data": {
@@ -117070,7 +117092,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1785856272920
+      "at": 1785885076609
     },
     "partner:animesdrive|dublado|2||48": {
       "data": {
@@ -117273,7 +117295,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785856272480
+      "at": 1785885075178
     },
     "partner:animeplay|dublado|2||48": {
       "data": {
@@ -117476,7 +117498,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785856273183
+      "at": 1785885075222
     },
     "partner:anitube|dublado|3||48": {
       "data": {
@@ -117631,11 +117653,20 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1785856273721
+      "at": 1785885077235
     },
     "dublado|3||48": {
       "data": {
         "items": [
+          {
+            "title": "Yomi no Tsugai Dublado",
+            "slug": "yomi-no-tsugai-dublado",
+            "url": "https://animesonline.cloud/anime/yomi-no-tsugai-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/x9tqZfZLzu6T6q7wuySI8k7Qytf-185x278.jpg",
+            "rating": "8.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
           {
             "title": "Snowball Earth Dublado",
             "slug": "snowball-earth-dublado",
@@ -117842,22 +117873,13 @@
             "rating": "7.12",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku Dublado",
-            "slug": "yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku-dublado",
-            "url": "https://animesonline.cloud/anime/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/01/kzyNxTZFcWjkYJU9T9aJ8vXTAFN-185x278.jpg",
-            "rating": "6.13",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "dublado",
         "page": 3,
         "hasMore": true
       },
-      "at": 1785856274332
+      "at": 1785885077849
     },
     "partner:animesdigital|dublado|3||48": {
       "data": {
@@ -118252,7 +118274,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1785856274708
+      "at": 1785885078221
     },
     "partner:animesdrive|dublado|3||48": {
       "data": {
@@ -118455,7 +118477,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1785856274408
+      "at": 1785885078144
     },
     "partner:animeplay|dublado|3||48": {
       "data": {
@@ -118658,7 +118680,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1785856274859
+      "at": 1785885078496
     },
     "partner:anitube|todos|1||24": {
       "data": {
@@ -131641,5 +131663,5 @@
       "at": 1785689400254
     }
   },
-  "updatedAt": 1785885069787
+  "updatedAt": 1785885078641
 }
