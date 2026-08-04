@@ -57123,6 +57123,15 @@
             "provider": "aoc"
           },
           {
+            "title": "Osomatsu-san 4",
+            "slug": "osomatsu-san-4",
+            "url": "https://animesonline.cloud/anime/osomatsu-san-4",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/vceBokwUm62MXldhJ4d8w5FZYtp-185x278.jpg",
+            "rating": "6.938",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Osomatsu-san 2",
             "slug": "osomatsu-san-2",
             "url": "https://animesonline.cloud/anime/osomatsu-san-2",
@@ -57328,22 +57337,13 @@
             "rating": "7,07",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Kaoru Hana wa Rin to Saku",
-            "slug": "kaoru-hana-wa-rin-to-saku",
-            "url": "https://animesonline.cloud/anime/kaoru-hana-wa-rin-to-saku",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/06/khxkciCkPVG1c7R00vNZFxqgqFE-185x278.jpg",
-            "rating": "8.86",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 21,
         "hasMore": true
       },
-      "at": 1785856201550
+      "at": 1785870587640
     },
     "partner:animesdrive|todos|21||48": {
       "data": {
@@ -57850,6 +57850,50 @@
     "todos|21||120": {
       "data": {
         "items": [
+          {
+            "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season Dublado",
+            "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado",
+            "url": "https://animesonline.cloud/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/2F7zlgOtk9z0FGn2EjOFWDjGcBP-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "6.85"
+          },
+          {
+            "title": "Jigoku Sensei Nube",
+            "slug": "jigoku-sensei-nube",
+            "url": "https://animesonline.cloud/anime/jigoku-sensei-nube",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/grfNZ1Sx5lGl4UVtXFT8amk6A3M-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "6.67"
+          },
+          {
+            "title": "Jigokuraku 2",
+            "slug": "jigokuraku-2",
+            "url": "https://animesonline.cloud/anime/jigokuraku-2",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/01/nanYJccQsftI3fLNkNYJ5zv2QTD-185x278.jpg",
+            "rating": "8.1",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "jigokuraku-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "jigokuraku-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "jigokuraku-2"
+              }
+            ]
+          },
           {
             "title": "Jigokuraku 2 Dublado",
             "slug": "jigokuraku-2-dublado",
@@ -58521,74 +58565,13 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "8.1"
-          },
-          {
-            "title": "Kami wa Game ni Ueteiru – Todos os Episódios",
-            "slug": "kami-wa-game-ni-ueteiru",
-            "url": "https://animesonline.cloud/anime/kami-wa-game-ni-ueteiru",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/uBVxIofgBq2Tp36F1ggcNUfy6VG-185x278.jpg",
-            "rating": "6.3",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "kami-wa-game-ni-ueteiru"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "kami-wa-game-ni-ueteiru"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kami-wa-game-ni-ueteiru"
-              }
-            ]
-          },
-          {
-            "title": "Kamierabi 2 – Todos os Episódios",
-            "slug": "kamierabi-2",
-            "url": "https://animesonline.cloud/anime/kamierabi-2",
-            "poster": "https://image.tmdb.org/t/p/original/nj14OOLCAy2npiXwUhNJzmPEIbh.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "kamierabi-2"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "kamierabi-2"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kamierabi-2"
-              }
-            ],
-            "rating": "4.6"
-          },
-          {
-            "title": "Kamiina Botan Yoeru Sugata wa Yuri no Hana",
-            "slug": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
-            "url": "https://animesonline.cloud/anime/kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/6qIzYYAMgFdlcHYy4IfJG3VuVlq-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "7.0"
           }
         ],
         "category": "todos",
         "page": 21,
         "hasMore": true,
-        "total": 1674,
-        "cachedAt": 1785856201550,
+        "total": 1677,
+        "cachedAt": 1785870587640,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -58635,7 +58618,7 @@
           "fixHint": null
         }
       },
-      "at": 1785856201715
+      "at": 1785870587742
     },
     "partner:anitube|todos|22||48": {
       "data": {
@@ -58850,6 +58833,15 @@
             "provider": "aoc"
           },
           {
+            "title": "Kaoru Hana wa Rin to Saku",
+            "slug": "kaoru-hana-wa-rin-to-saku",
+            "url": "https://animesonline.cloud/anime/kaoru-hana-wa-rin-to-saku",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/06/khxkciCkPVG1c7R00vNZFxqgqFE-185x278.jpg",
+            "rating": "8.86",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru",
             "slug": "yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru",
             "url": "https://animesonline.cloud/anime/yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru",
@@ -59055,22 +59047,13 @@
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "One-Punch Man 3",
-            "slug": "one-punch-man-3",
-            "url": "https://animesonline.cloud/anime/one-punch-man-3",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/06/1xUHoyo601Q8IAHRJXotZdiTvim-185x278.jpg",
-            "rating": "8.4",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 22,
         "hasMore": true
       },
-      "at": 1785856203168
+      "at": 1785870589507
     },
     "partner:animeplay|todos|22||48": {
       "data": {
@@ -59577,6 +59560,50 @@
     "todos|22||120": {
       "data": {
         "items": [
+          {
+            "title": "Kami wa Game ni Ueteiru – Todos os Episódios",
+            "slug": "kami-wa-game-ni-ueteiru",
+            "url": "https://animesonline.cloud/anime/kami-wa-game-ni-ueteiru",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/uBVxIofgBq2Tp36F1ggcNUfy6VG-185x278.jpg",
+            "rating": "6.3",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kami-wa-game-ni-ueteiru"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kami-wa-game-ni-ueteiru"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kami-wa-game-ni-ueteiru"
+              }
+            ]
+          },
+          {
+            "title": "Kamierabi 2 – Todos os Episódios",
+            "slug": "kamierabi-2",
+            "url": "https://animesonline.cloud/anime/kamierabi-2",
+            "poster": "https://image.tmdb.org/t/p/original/nj14OOLCAy2npiXwUhNJzmPEIbh.jpg",
+            "rating": "4.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kamiina Botan Yoeru Sugata wa Yuri no Hana",
+            "slug": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
+            "url": "https://animesonline.cloud/anime/kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/6qIzYYAMgFdlcHYy4IfJG3VuVlq-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "7.0"
+          },
           {
             "title": "Kamitsubaki-shi Kensetsuchuu",
             "slug": "kamitsubaki-shi-kensetsuchuu",
@@ -60345,74 +60372,13 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "0"
-          },
-          {
-            "title": "Kimi to Koete Koi ni Naru Dublado",
-            "slug": "kimi-to-koete-koi-ni-naru-dublado",
-            "url": "https://animesonline.cloud/anime/kimi-to-koete-koi-ni-naru-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/l8YQfVfTKtWnBS54cvHlCLeUidc-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "0"
-          },
-          {
-            "title": "Kimi wa Meido-sama – Todos os Episódios",
-            "slug": "kimi-wa-meido-sama",
-            "url": "https://animesonline.cloud/anime/kimi-wa-meido-sama",
-            "poster": "https://image.tmdb.org/t/p/original/rohw3aNUXOhZC71V4oYGWKvYDOf.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "kimi-wa-meido-sama"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "kimi-wa-meido-sama"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kimi-wa-meido-sama"
-              }
-            ]
-          },
-          {
-            "title": "Kimi wa Meido-sama Dublado",
-            "slug": "kimi-wa-meido-sama-dublado",
-            "url": "https://animesonline.cloud/anime/kimi-wa-meido-sama-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/10/Kimi-wa-Meido-sama.-Dublado-185x278.jpg",
-            "rating": "7,10",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "kimi-wa-meido-sama-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "kimi-wa-meido-sama-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kimi-wa-meido-sama-dublado"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 22,
         "hasMore": true,
-        "total": 1674,
-        "cachedAt": 1785856203168,
+        "total": 1677,
+        "cachedAt": 1785870589507,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -60459,7 +60425,7 @@
           "fixHint": null
         }
       },
-      "at": 1785856203409
+      "at": 1785870589615
     },
     "partner:anitube|todos|23||48": {
       "data": {
@@ -131356,5 +131322,5 @@
       "at": 1785689400254
     }
   },
-  "updatedAt": 1785870585933
+  "updatedAt": 1785870589615
 }
