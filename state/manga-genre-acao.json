@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "colorist-ptbr",
+      "titleId": "colorist-ptbr",
+      "slug": "colorist-ptbr",
+      "title": "Colorist",
+      "author": "",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzExL0NvbG9yaXN0LTE3NXgyMzgud2VicA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2NvbG9yaXN0LXB0YnIvY2FwaXR1bG8tNDEv",
+      "chapterName": "Capitulo 41",
+      "adult": false,
+      "sub": "Capitulo 41"
+    },
+    {
       "id": "one-piece-ptbr",
       "titleId": "one-piece-ptbr",
       "slug": "one-piece-ptbr",
@@ -10,10 +25,10 @@
       "language": "PT",
       "provider": "mangalivre",
       "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL29uZS1waWVjZS1wdGJyL2NhcGl0dWxvLTExODgv",
-      "chapterName": "Capitulo 1188",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL29uZS1waWVjZS1wdGJyL2NhcGl0dWxvLTExODkv",
+      "chapterName": "Capitulo 1189",
       "adult": false,
-      "sub": "Capitulo 1188"
+      "sub": "Capitulo 1189"
     },
     {
       "id": "gachiakuta-ptbr",
@@ -44,21 +59,6 @@
       "chapterName": "Capítulo 23",
       "adult": false,
       "sub": "Capítulo 23"
-    },
-    {
-      "id": "colorist-ptbr",
-      "titleId": "colorist-ptbr",
-      "slug": "colorist-ptbr",
-      "title": "Colorist",
-      "author": "",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzExL0NvbG9yaXN0LTE3NXgyMzgud2VicA",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2NvbG9yaXN0LXB0YnIvY2FwaXR1bG8tMzkv",
-      "chapterName": "Capitulo 39",
-      "adult": false,
-      "sub": "Capitulo 39"
     },
     {
       "id": "nano-machine-ptbr",
@@ -1036,7 +1036,7 @@
       "sub": "Kaneshiro"
     }
   ],
-  "updatedAt": 1785704332995,
+  "updatedAt": 1785846914202,
   "total": 69,
   "genre": "acao",
   "source": "mangalivre"
