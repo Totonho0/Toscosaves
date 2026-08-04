@@ -9905,6 +9905,33 @@
         "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMi8wOS9hc3Npc3Rpci1jeWJlcnB1bmstZWRnZXJ1bm5lcnMtdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbmltZXMtb25saW5lLmpwZw",
         "episodeUrl": "https://animesdigital.org/video/a/63740/"
       }
+    },
+    "anime:cyberpunk-edgerunners-2:1": {
+      "at": 1785869948868,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/c/cyberpunk-edgerunners-dublado/01.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/63910/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fc%2Fcyberpunk-edgerunners-dublado%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          },
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/c/cyberpunk-edgerunners-dublado/01.mp4/index.m3u8",
+            "label": "Servidor 3",
+            "referer": "https://animesdigital.org/video/a/63910/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fc%2Fcyberpunk-edgerunners-dublado%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "cyberpunk-edgerunners-2",
+        "kind": "anime",
+        "provider": "animesdigital",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMi8wOS9hc3Npc3Rpci1jeWJlcnB1bmstZWRnZXJ1bm5lcnMtZHVibGFkby10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaW1lcy1vbmxpbmUuanBn",
+        "episodeUrl": "https://animesdigital.org/video/a/63910/"
+      }
     }
   }
 }
