@@ -38221,6 +38221,61 @@
         "kind": "anime",
         "provider": "animesdigital"
       }
+    },
+    "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-dublado": {
+      "at": 1785885215523,
+      "data": {
+        "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-dublado",
+        "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2 Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9jMG9Gb3o3UHR0ek1Mc1FPUW41NExjdThWOWQuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - O amor é o que salva o mundo, não é?",
+            "url": "https://animesdrive.online/episodio/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-dublado-episodio-01"
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "anime",
+        "provider": "animesdrive",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Animação",
+          "Comédia",
+          "Sci-Fi & Fantasia"
+        ],
+        "animeSources": [
+          {
+            "server": 2,
+            "provider": "animesdrive",
+            "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-dublado"
+          },
+          {
+            "server": 3,
+            "provider": "animeplay",
+            "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-dublado"
+          }
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2",
+              "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-dublado",
+              "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2 Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
     }
   }
 }
