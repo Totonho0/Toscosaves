@@ -20463,7 +20463,7 @@
         "page": 19,
         "hasMore": true,
         "total": 1677,
-        "cachedAt": 1785942597374,
+        "cachedAt": 1785956988677,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -20510,7 +20510,7 @@
           "fixHint": null
         }
       },
-      "at": 1785942598114
+      "at": 1785956988769
     },
     "todos|20||120": {
       "data": {
@@ -20532,6 +20532,37 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "hunter-x-hunter-2011"
+              }
+            ]
+          },
+          {
+            "title": "Hunter x Hunter (2011)",
+            "slug": "hunter-x-hunter-2011",
+            "url": "https://animesonline.cloud/anime/hunter-x-hunter-2011",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/9WxfAQquTun9ATkV6iAeFHMkqxv-185x278.jpg",
+            "rating": "8.626",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hunter-x-hunter-2011"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hunter-x-hunter"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "hunter-x-hunter-2011"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
                 "slug": "hunter-x-hunter-2011"
               }
             ]
@@ -21425,33 +21456,13 @@
             "rating": "6.85",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 20,
         "hasMore": true,
         "total": 1677,
-        "cachedAt": 1785942599061,
+        "cachedAt": 1785956990480,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -21498,7 +21509,7 @@
           "fixHint": null
         }
       },
-      "at": 1785942599915
+      "at": 1785956990582
     },
     "legendado|1||120": {
       "data": {
@@ -55639,7 +55650,7 @@
         "page": 19,
         "hasMore": true
       },
-      "at": 1785942597374
+      "at": 1785956988677
     },
     "partner:animeplay|todos|19||48": {
       "data": {
@@ -56576,7 +56587,7 @@
         "page": 20,
         "hasMore": true
       },
-      "at": 1785942599061
+      "at": 1785956990480
     },
     "partner:animesdrive|todos|20||48": {
       "data": {
@@ -131742,5 +131753,5 @@
       "at": 1785689400254
     }
   },
-  "updatedAt": 1785956987097
+  "updatedAt": 1785956990582
 }
