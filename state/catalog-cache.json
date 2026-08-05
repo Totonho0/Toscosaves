@@ -82079,7 +82079,7 @@
         "page": 35,
         "hasMore": true
       },
-      "at": 1785942629037
+      "at": 1785957015987
     },
     "partner:animesdrive|todos|35||48": {
       "data": {
@@ -83271,73 +83271,13 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "7,07"
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
-          },
-          {
-            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
-            "slug": "nageki-no-bourei-wa-intai-shitai",
-            "url": "https://animesdrive.online/anime/nageki-no-bourei-wa-intai-shitai",
-            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "nageki-no-bourei-wa-intai-shitai"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "nageki-no-bourei-wa-intai-shitai"
-              }
-            ]
-          },
-          {
-            "title": "Uzumaki – Todos os Episódios",
-            "slug": "uzumaki",
-            "url": "https://animesdrive.online/anime/uzumaki",
-            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "uzumaki"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "uzumaki"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 35,
-        "hasMore": true,
+        "hasMore": false,
         "total": 1677,
-        "cachedAt": 1785942629037,
+        "cachedAt": 1785957015987,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -83384,7 +83324,7 @@
           "fixHint": null
         }
       },
-      "at": 1785942629834
+      "at": 1785957016100
     },
     "partner:anitube|todos|36||48": {
       "data": {
@@ -131731,5 +131671,5 @@
       "at": 1785689400254
     }
   },
-  "updatedAt": 1785957014372
+  "updatedAt": 1785957016100
 }
