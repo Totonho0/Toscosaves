@@ -24269,9 +24269,19 @@
                 "slug": "dragon-ball-gt"
               },
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-gt-dublado"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "dragon-ball-gt"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "dragon-ball-gt-dublado"
               },
               {
                 "server": 3,
@@ -24554,28 +24564,22 @@
             "provider": "aoc"
           },
           {
-            "title": "Ganbare! Nakamura-kun!! Dublado",
-            "slug": "ganbare-nakamura-kun-dublado",
-            "url": "https://animesonline.cloud/anime/ganbare-nakamura-kun-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/gS6cT23gqSEIGzycxyMry5bSc4e-185x278.jpg",
+            "title": "Star Wars: Visions Apresenta – A Nona Jedi Dublado",
+            "slug": "star-wars-visions-apresenta-a-nona-jedi",
+            "url": "https://animesdrive.online/anime/star-wars-visions-apresenta-a-nona-jedi",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/1O3ExMFvf2gUPD6WIyfD3dou9eB-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "rating": "0",
+            "provider": "animesdrive",
             "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "ganbare-nakamura-kun-dublado"
-              },
               {
                 "server": 2,
                 "provider": "animesdrive",
-                "slug": "ganbare-nakamura-kun-dublado"
+                "slug": "star-wars-visions-apresenta-a-nona-jedi"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "ganbare-nakamura-kun-dublado"
+                "slug": "star-wars-visions-apresenta-a-nona-jedi"
               }
             ]
           },
@@ -24603,8 +24607,8 @@
         "category": "dublado",
         "page": 1,
         "hasMore": true,
-        "total": 119,
-        "cachedAt": 1786029067381,
+        "total": 121,
+        "cachedAt": 1786057860777,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -24651,11 +24655,37 @@
           "fixHint": null
         }
       },
-      "at": 1786029068593
+      "at": 1786057864355
     },
     "dublado|2||120": {
       "data": {
         "items": [
+          {
+            "title": "Ganbare! Nakamura-kun!! Dublado",
+            "slug": "ganbare-nakamura-kun-dublado",
+            "url": "https://animesonline.cloud/anime/ganbare-nakamura-kun-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/gS6cT23gqSEIGzycxyMry5bSc4e-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ganbare-nakamura-kun-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "ganbare-nakamura-kun-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ganbare-nakamura-kun-dublado"
+              }
+            ],
+            "rating": "0"
+          },
           {
             "title": "Gnosia Dublado",
             "slug": "gnosia-dublado",
@@ -25470,10 +25500,27 @@
             "title": "Shadows House Dublado",
             "slug": "shadows-house-dublado",
             "url": "https://animesonline.cloud/anime/shadows-house-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
             "rating": "8.027",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "shadows-house-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "shadows-house-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "shadows-house-dublado"
+              }
+            ]
           },
           {
             "title": "Shibou Yuugi de Meshi wo Kuu. Dublado",
@@ -25526,39 +25573,13 @@
                 "slug": "shunkashuutou-daikousha-haru-no-mai-dublado"
               }
             ]
-          },
-          {
-            "title": "Snowball Earth Dublado",
-            "slug": "snowball-earth-dublado",
-            "url": "https://animesonline.cloud/anime/snowball-earth-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/61E9aXjYUGPfrO5CW2cTutu0jX3-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "7.7",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "snowball-earth-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "snowball-earth-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "snowball-earth-dublado"
-              }
-            ]
           }
         ],
         "category": "dublado",
         "page": 2,
         "hasMore": true,
-        "total": 119,
-        "cachedAt": 1786029069448,
+        "total": 120,
+        "cachedAt": 1786057865268,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -25605,11 +25626,37 @@
           "fixHint": null
         }
       },
-      "at": 1786029070385
+      "at": 1786057866784
     },
     "dublado|3||120": {
       "data": {
         "items": [
+          {
+            "title": "Snowball Earth Dublado",
+            "slug": "snowball-earth-dublado",
+            "url": "https://animesonline.cloud/anime/snowball-earth-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/61E9aXjYUGPfrO5CW2cTutu0jX3-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "snowball-earth-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "snowball-earth-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "snowball-earth-dublado"
+              }
+            ],
+            "rating": "7.7"
+          },
           {
             "title": "Sousou no Friere 2 Dublado",
             "slug": "sousou-no-friere-2-dublado",
@@ -25673,7 +25720,7 @@
             "title": "Star Wars: Maul – Lorde das Sombras Dublado",
             "slug": "star-wars-maul-lorde-das-sombras",
             "url": "https://animesonline.cloud/anime/star-wars-maul-lorde-das-sombras",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
             "rating": "7",
             "kind": "anime",
             "provider": "aoc",
@@ -25688,8 +25735,39 @@
                 "server": 1,
                 "provider": "aoc",
                 "slug": "star-wars-maul-lorde-das-sombras-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "star-wars-maul-lorde-das-sombras-dublado"
               }
             ]
+          },
+          {
+            "title": "Star Wars: Visions Apresenta – A Nona Jedi Dublado",
+            "slug": "star-wars-visions-apresenta-a-nona-jedi",
+            "url": "https://animesonline.cloud/anime/star-wars-visions-apresenta-a-nona-jedi",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/1O3ExMFvf2gUPD6WIyfD3dou9eB-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "star-wars-visions-apresenta-a-nona-jedi"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "star-wars-visions-apresenta-a-nona-jedi"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "star-wars-visions-apresenta-a-nona-jedi"
+              }
+            ],
+            "rating": "7"
           },
           {
             "title": "Steel Ball Run: JoJo no Kimyou na Bouken Dublado",
@@ -25936,22 +26014,22 @@
             ]
           },
           {
-            "title": "Snowball Earth Dublado",
-            "slug": "snowball-earth-dublado",
-            "url": "https://animesdrive.online/anime/snowball-earth-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/61E9aXjYUGPfrO5CW2cTutu0jX3-185x278.jpg",
+            "title": "Mairimashita! Iruma-kun 4 Dublado",
+            "slug": "mairimashita-iruma-kun-4-dublado",
+            "url": "https://animesdrive.online/anime/mairimashita-iruma-kun-4-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/8TCA7dOBNtqBXloFtx5d1XYoG6d-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 2,
                 "provider": "animesdrive",
-                "slug": "snowball-earth-dublado"
+                "slug": "mairimashita-iruma-kun-4-dublado"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "snowball-earth-dublado"
+                "slug": "mairimashita-iruma-kun-4-dublado"
               }
             ]
           },
@@ -26283,42 +26361,10 @@
           {
             "title": "Hanazakari no Kimitachi e Dublado",
             "slug": "hanazakari-no-kimitachi-e-dublado",
-            "url": "https://animesdrive.online/anime/hanazakari-no-kimitachi-e-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/01/wCZn0Is62Tx4HC9WuFGYysjeHCx-185x278.jpg",
+            "url": "https://animeplay.cloud/anime/hanazakari-no-kimitachi-e-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/wCZn0Is62Tx4HC9WuFGYysjeHCx-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "hanazakari-no-kimitachi-e-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "hanazakari-no-kimitachi-e-dublado"
-              }
-            ]
-          },
-          {
-            "title": "My Hero Academia: Vigilantes 2 Dublado",
-            "slug": "my-hero-academia-vigilantes-2-dublado",
-            "url": "https://animesdrive.online/anime/my-hero-academia-vigilantes-2-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/01/5To7gr0PmuAvo31YLwb3EQpMlVy-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "my-hero-academia-vigilantes-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "my-hero-academia-vigilantes-2-dublado"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "Dragon Ball Daima Dublado",
@@ -26401,21 +26447,13 @@
                 "slug": "dragon-ball-z"
               }
             ]
-          },
-          {
-            "title": "Dungeon Meshi Dublado",
-            "slug": "dungeon-meshi-dublado",
-            "url": "https://animesdigital.org/anime/a/dungeon-meshi-dublado",
-            "poster": "https://animesdigital.org/wp-content/uploads/2024/01/Dungeon-MeshiEp-1.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
           }
         ],
         "category": "dublado",
         "page": 3,
         "hasMore": true,
-        "total": 119,
-        "cachedAt": 1786029071313,
+        "total": 121,
+        "cachedAt": 1786057867802,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -26462,7 +26500,7 @@
           "fixHint": null
         }
       },
-      "at": 1786029072159
+      "at": 1786057869801
     },
     "partner:animesdigital|lancamentos|1||24": {
       "data": {
@@ -116359,7 +116397,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1786029068304
+      "at": 1786057864088
     },
     "partner:anitube|dublado|2||48": {
       "data": {
@@ -116514,11 +116552,29 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786029068936
+      "at": 1786057864713
     },
     "dublado|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Baki-dou Part 2 Dublado",
+            "slug": "baki-dou-part-2-dublado",
+            "url": "https://animesonline.cloud/anime/baki-dou-part-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/xngJuAfsBYHO96S1IsbZ7cgIZyL-185x278.jpg",
+            "rating": "8",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Shadows House Dublado",
+            "slug": "shadows-house-dublado",
+            "url": "https://animesonline.cloud/anime/shadows-house-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
+            "rating": "8.027",
+            "kind": "anime",
+            "provider": "aoc"
+          },
           {
             "title": "Haikyuu!! Second Season Dublado",
             "slug": "haikyuu-second-season-dublado",
@@ -116716,31 +116772,13 @@
             "rating": "7",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Star Wars: Maul – Lorde das Sombras Dublado",
-            "slug": "star-wars-maul-lorde-das-sombras-dublado",
-            "url": "https://animesonline.cloud/anime/star-wars-maul-lorde-das-sombras-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
-            "rating": "7",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Mairimashita! Iruma-kun 4 Dublado",
-            "slug": "mairimashita-iruma-kun-4-dublado",
-            "url": "https://animesonline.cloud/anime/mairimashita-iruma-kun-4-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/8TCA7dOBNtqBXloFtx5d1XYoG6d-185x278.jpg",
-            "rating": "8.2",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "dublado",
         "page": 2,
         "hasMore": true
       },
-      "at": 1786029069448
+      "at": 1786057865268
     },
     "partner:animesdigital|dublado|2||48": {
       "data": {
@@ -117135,11 +117173,27 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1786029069887
+      "at": 1786057866625
     },
     "partner:animesdrive|dublado|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Baki-dou Part 2 Dublado",
+            "slug": "baki-dou-part-2-dublado",
+            "url": "https://animesdrive.online/anime/baki-dou-part-2-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/xngJuAfsBYHO96S1IsbZ7cgIZyL-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Shadows House Dublado",
+            "slug": "shadows-house-dublado",
+            "url": "https://animesdrive.online/anime/shadows-house-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
           {
             "title": "Haikyuu!! Second Season Dublado",
             "slug": "haikyuu-second-season-dublado",
@@ -117315,22 +117369,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Star Wars: Maul – Lorde das Sombras Dublado",
-            "slug": "star-wars-maul-lorde-das-sombras-dublado",
-            "url": "https://animesdrive.online/anime/star-wars-maul-lorde-das-sombras-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "Mairimashita! Iruma-kun 4 Dublado",
-            "slug": "mairimashita-iruma-kun-4-dublado",
-            "url": "https://animesdrive.online/anime/mairimashita-iruma-kun-4-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/8TCA7dOBNtqBXloFtx5d1XYoG6d-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "dublado",
@@ -117338,11 +117376,19 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786029069636
+      "at": 1786057865590
     },
     "partner:animeplay|dublado|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Shadows House Dublado",
+            "slug": "shadows-house-dublado",
+            "url": "https://animeplay.cloud/anime/shadows-house-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
           {
             "title": "Haikyuu!! Second Season Dublado",
             "slug": "haikyuu-second-season-dublado",
@@ -117526,14 +117572,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Mairimashita! Iruma-kun 4 Dublado",
-            "slug": "mairimashita-iruma-kun-4-dublado",
-            "url": "https://animeplay.cloud/anime/mairimashita-iruma-kun-4-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/8TCA7dOBNtqBXloFtx5d1XYoG6d-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "dublado",
@@ -117541,7 +117579,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786029070204
+      "at": 1786057865890
     },
     "partner:anitube|dublado|3||48": {
       "data": {
@@ -117696,11 +117734,29 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786029070789
+      "at": 1786057867124
     },
     "dublado|3||48": {
       "data": {
         "items": [
+          {
+            "title": "Star Wars: Maul – Lorde das Sombras Dublado",
+            "slug": "star-wars-maul-lorde-das-sombras-dublado",
+            "url": "https://animesonline.cloud/anime/star-wars-maul-lorde-das-sombras-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
+            "rating": "7",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Mairimashita! Iruma-kun 4 Dublado",
+            "slug": "mairimashita-iruma-kun-4-dublado",
+            "url": "https://animesonline.cloud/anime/mairimashita-iruma-kun-4-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/8TCA7dOBNtqBXloFtx5d1XYoG6d-185x278.jpg",
+            "rating": "8.2",
+            "kind": "anime",
+            "provider": "aoc"
+          },
           {
             "title": "Yomi no Tsugai Dublado",
             "slug": "yomi-no-tsugai-dublado",
@@ -117898,31 +117954,13 @@
             "rating": "6.667",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Hanazakari no Kimitachi e Dublado",
-            "slug": "hanazakari-no-kimitachi-e-dublado",
-            "url": "https://animesonline.cloud/anime/hanazakari-no-kimitachi-e-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/01/wCZn0Is62Tx4HC9WuFGYysjeHCx-185x278.jpg",
-            "rating": "8.4",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "My Hero Academia: Vigilantes 2 Dublado",
-            "slug": "my-hero-academia-vigilantes-2-dublado",
-            "url": "https://animesonline.cloud/anime/my-hero-academia-vigilantes-2-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/01/5To7gr0PmuAvo31YLwb3EQpMlVy-185x278.jpg",
-            "rating": "7.12",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "dublado",
         "page": 3,
         "hasMore": true
       },
-      "at": 1786029071313
+      "at": 1786057867802
     },
     "partner:animesdigital|dublado|3||48": {
       "data": {
@@ -118317,11 +118355,27 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1786029071952
+      "at": 1786057869676
     },
     "partner:animesdrive|dublado|3||48": {
       "data": {
         "items": [
+          {
+            "title": "Star Wars: Maul – Lorde das Sombras Dublado",
+            "slug": "star-wars-maul-lorde-das-sombras-dublado",
+            "url": "https://animesdrive.online/anime/star-wars-maul-lorde-das-sombras-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Mairimashita! Iruma-kun 4 Dublado",
+            "slug": "mairimashita-iruma-kun-4-dublado",
+            "url": "https://animesdrive.online/anime/mairimashita-iruma-kun-4-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/8TCA7dOBNtqBXloFtx5d1XYoG6d-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
           {
             "title": "Yomi no Tsugai Dublado",
             "slug": "yomi-no-tsugai-dublado",
@@ -118497,22 +118551,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2026/01/sC2u3QLzFO0sruIQGNXw4Mo4Eqq-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Hanazakari no Kimitachi e Dublado",
-            "slug": "hanazakari-no-kimitachi-e-dublado",
-            "url": "https://animesdrive.online/anime/hanazakari-no-kimitachi-e-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/01/wCZn0Is62Tx4HC9WuFGYysjeHCx-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "My Hero Academia: Vigilantes 2 Dublado",
-            "slug": "my-hero-academia-vigilantes-2-dublado",
-            "url": "https://animesdrive.online/anime/my-hero-academia-vigilantes-2-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/01/5To7gr0PmuAvo31YLwb3EQpMlVy-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "dublado",
@@ -118520,11 +118558,19 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786029071398
+      "at": 1786057868045
     },
     "partner:animeplay|dublado|3||48": {
       "data": {
         "items": [
+          {
+            "title": "Mairimashita! Iruma-kun 4 Dublado",
+            "slug": "mairimashita-iruma-kun-4-dublado",
+            "url": "https://animeplay.cloud/anime/mairimashita-iruma-kun-4-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/8TCA7dOBNtqBXloFtx5d1XYoG6d-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
           {
             "title": "Yomi no Tsugai Dublado",
             "slug": "yomi-no-tsugai-dublado",
@@ -118708,14 +118754,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/wCZn0Is62Tx4HC9WuFGYysjeHCx-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "My Hero Academia: Vigilantes 2 Dublado",
-            "slug": "my-hero-academia-vigilantes-2-dublado",
-            "url": "https://animeplay.cloud/anime/my-hero-academia-vigilantes-2-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/5To7gr0PmuAvo31YLwb3EQpMlVy-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "dublado",
@@ -118723,7 +118761,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786029071987
+      "at": 1786057868323
     },
     "partner:anitube|todos|1||24": {
       "data": {
@@ -131715,5 +131753,5 @@
       "at": 1785689400254
     }
   },
-  "updatedAt": 1786057861229
+  "updatedAt": 1786057869801
 }
