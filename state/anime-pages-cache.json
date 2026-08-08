@@ -19584,7 +19584,30 @@
           "Ação e Aventura",
           "Animação",
           "Mistério"
-        ]
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "ajin",
+              "title": "ajin",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "65590b",
+              "title": "Ajin – (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "882770",
+              "title": "Ajin Dublado –",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "akame-ga-kill": {
@@ -24277,7 +24300,7 @@
       }
     },
     "oshi-no-ko-2": {
-      "at": 1786221345592,
+      "at": 1786221564475,
       "data": {
         "slug": "oshi-no-ko-2",
         "title": "Oshi no Ko 2",
