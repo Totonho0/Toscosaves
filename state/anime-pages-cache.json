@@ -3490,7 +3490,7 @@
       }
     },
     "one-piece": {
-      "at": 1786220358289,
+      "at": 1786221345733,
       "data": {
         "slug": "one-piece",
         "title": "One Piece – Todos os Episodios",
@@ -11719,7 +11719,7 @@
       }
     },
     "nageki-no-bourei-wa-intai-shitai": {
-      "at": 1786220584034,
+      "at": 1786221347007,
       "data": {
         "slug": "nageki-no-bourei-wa-intai-shitai",
         "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
@@ -18256,7 +18256,7 @@
       }
     },
     "oshi-no-ko-2": {
-      "at": 1786220809866,
+      "at": 1786221345592,
       "data": {
         "slug": "oshi-no-ko-2",
         "title": "Oshi no Ko 2",
@@ -18341,7 +18341,7 @@
       }
     },
     "hitoribocchi-no-isekai-kouryaku": {
-      "at": 1786220728327,
+      "at": 1786221348961,
       "data": {
         "slug": "hitoribocchi-no-isekai-kouryaku",
         "title": "Hitoribocchi no Isekai Kouryaku",
@@ -20309,7 +20309,7 @@
       }
     },
     "oshi-no-ko": {
-      "at": 1786220811021,
+      "at": 1786221344956,
       "data": {
         "slug": "oshi-no-ko",
         "title": "Oshi no Ko",
@@ -20380,24 +20380,7 @@
           "Dublado",
           "Animação",
           "Drama"
-        ],
-        "audioVariants": {
-          "current": "default",
-          "variants": {
-            "default": {
-              "slug": "oshi-no-ko",
-              "title": "Oshi no Ko",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "oshi-no-ko-dublado",
-              "title": "Oshi no Ko Dublado",
-              "audio": "dub",
-              "label": "Dublado"
-            }
-          }
-        }
+        ]
       }
     },
     "sankarea": {
@@ -20821,6 +20804,64 @@
           "Comédia",
           "Fantasia"
         ]
+      }
+    },
+    "uzumaki": {
+      "at": 1786221349670,
+      "data": {
+        "slug": "uzumaki",
+        "title": "Uzumaki – Todos os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC85VkY5N3ZrNFdQT0FaOXM4bnFLM1BKWUpnbk4uanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animesonline.cloud/episodio/uzumaki-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animesonline.cloud/episodio/uzumaki-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03",
+            "url": "https://animesonline.cloud/episodio/uzumaki-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04",
+            "url": "https://animesonline.cloud/episodio/uzumaki-episodio-04"
+          }
+        ],
+        "totalEpisodes": 4,
+        "kind": "anime",
+        "provider": "aoc",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Animação",
+          "Mistério",
+          "Terror"
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "uzumaki",
+              "title": "Uzumaki – Todos os Episódios",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "uzumaki-dublado",
+              "title": "Uzumaki Dublado – Todos os Episódios",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     }
   }
