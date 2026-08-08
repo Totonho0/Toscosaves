@@ -10309,6 +10309,25 @@
         "poster": "https://image.tmdb.org/t/p/w780/cH39aJg9VlEaYo6yY37Iah8RAaz.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/boku-no-hero-academia-episodio-07"
       }
+    },
+    "anime:miraculous-t6:1": {
+      "at": 1786220111402,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://internal.miraculum.ml/m3u8.m3u8?lang=pt-br&s=6&e=601&token=web",
+            "label": "Miraculum (Multi-áudio · PT-BR)",
+            "referer": "https://miraculum.ml/"
+          }
+        ],
+        "episode": 1,
+        "slug": "miraculous-t6",
+        "kind": "anime",
+        "provider": "miraculum",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/8/80/Miraculous_%28franchise_logo%29.png",
+        "episodeUrl": "https://miraculum.ml/pt-br/watch?s=6&e=601"
+      }
     }
   }
 }
