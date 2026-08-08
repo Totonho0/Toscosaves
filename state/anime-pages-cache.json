@@ -14042,6 +14042,98 @@
           }
         }
       }
+    },
+    "arcane-2-dublado": {
+      "at": 1786220688779,
+      "data": {
+        "slug": "arcane-2-dublado",
+        "title": "Arcane 2 Dublado – Todos os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC93UUVXM3hMclFBVGh1MUd2cXBzS1F5ZWpyWVMuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Pesada é a coroa",
+            "url": "https://animesonline.cloud/episodio/arcane-2-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Assista tudo queimar",
+            "url": "https://animesonline.cloud/episodio/arcane-2-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Finalmente acertei o nome",
+            "url": "https://animesonline.cloud/episodio/arcane-2-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Pinte a cidade de azul",
+            "url": "https://animesonline.cloud/episodio/arcane-2-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Bolhas na mão e pés no chão",
+            "url": "https://animesonline.cloud/episodio/arcane-2-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - A mensagem oculta no padrão",
+            "url": "https://animesonline.cloud/episodio/arcane-2-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Finja que é a primeira vez",
+            "url": "https://animesonline.cloud/episodio/arcane-2-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Matar é um ciclo",
+            "url": "https://animesonline.cloud/episodio/arcane-2-dublado-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - A sujeira sob suas unhas",
+            "url": "https://animesonline.cloud/episodio/arcane-2-dublado-episodio-09"
+          }
+        ],
+        "totalEpisodes": 9,
+        "kind": "anime",
+        "provider": "aoc",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Ação",
+          "Animação",
+          "Aventura",
+          "Fantasia",
+          "Mistério",
+          "Sci-Fi"
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "arcane-2",
+              "title": "Arcane 2 – Todos os Episódios",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "995528",
+              "title": "Arcane 2 (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "arcane-2-dublado",
+              "title": "Arcane 2 Dublado – Todos os Episódios",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
     }
   }
 }
