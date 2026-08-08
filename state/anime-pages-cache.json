@@ -19040,7 +19040,30 @@
           "Animação",
           "Comédia",
           "Ecchi"
-        ]
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "2-5-jigen-no-ririsa",
+              "title": "2.5-jigen no Ririsa",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "994228",
+              "title": "2.5-jigen no Ririsa (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "2-5-jigen-no-ririsa-dublado",
+              "title": "2.5-jigen no Ririsa Dublado – Todos os Episódios",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "4-cut-hero": {
@@ -20146,7 +20169,24 @@
           "Comédia",
           "Fantasia",
           "Sci-Fi"
-        ]
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "akuyaku-reijou-tensei-ojisan",
+              "title": "Akuyaku Reijou Tensei Ojisan",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "998196",
+              "title": "Akuyaku Reijou Tensei Ojisan (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            }
+          }
+        }
       }
     },
     "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen": {
@@ -20422,7 +20462,24 @@
           "Comédia",
           "Fantasia",
           "Sci-Fi"
-        ]
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "akuyaku-reijou-wa-ringoku-no-outaishi-ni-dekiai-sareru",
+              "title": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "1032561",
+              "title": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            }
+          }
+        }
       }
     },
     "alma-chan-wa-kazoku-ni-naritai": {
