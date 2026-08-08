@@ -944,6 +944,13 @@
       "poster": "https://upload.wikimedia.org/wikipedia/commons/8/80/Miraculous_%28franchise_logo%29.png",
       "kind": "anime",
       "adult": false
+    },
+    "miraculous-t1": {
+      "slug": "miraculous-t1",
+      "title": "Miraculous — 1ª Temporada",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/8/80/Miraculous_%28franchise_logo%29.png",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1521,9 +1528,17 @@
     ],
     "miraculous-t6": [
       1
+    ],
+    "miraculous-t1": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "miraculous-t1",
+      "ep": 1,
+      "at": 1786220308984
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2754,5 +2769,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1786220306048
+  "updatedAt": 1786220308730
 }
