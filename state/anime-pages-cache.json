@@ -11365,7 +11365,24 @@
           "Animação",
           "Drama",
           "Sci-Fi & Fantasia"
-        ]
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "ai-no-idenshi",
+              "title": "AI no Idenshi",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "919812",
+              "title": "AI no Idenshi (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            }
+          }
+        }
       }
     },
     "acchi-kocchi": {
@@ -11445,7 +11462,24 @@
           "Dublado",
           "Comédia",
           "Romance"
-        ]
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "acchi-kocchi",
+              "title": "Acchi Kocchi",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "67113",
+              "title": "Acchi Kocchi – (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            }
+          }
+        }
       }
     },
     "ahiru-no-sora": {
@@ -11715,7 +11749,24 @@
           "Dublado",
           "Animação",
           "Drama"
-        ]
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "ahiru-no-sora",
+              "title": "Ahiru no Sora",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "882052",
+              "title": "Ahiru no Sora (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            }
+          }
+        }
       }
     },
     "nageki-no-bourei-wa-intai-shitai": {
@@ -12276,7 +12327,7 @@
       }
     },
     "4-cut-hero": {
-      "at": 1786220825563,
+      "at": 1786221375940,
       "data": {
         "slug": "4-cut-hero",
         "title": "4 Cut Hero – Todos os Episódios",
@@ -12347,7 +12398,7 @@
       }
     },
     "5-toubun-no-hanayome": {
-      "at": 1786220827497,
+      "at": 1786221374792,
       "data": {
         "slug": "5-toubun-no-hanayome",
         "title": "5-toubun no Hanayome",
