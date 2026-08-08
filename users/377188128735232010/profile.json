@@ -937,6 +937,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wNy9CbGVhY2gtRmluYWwtU2Vhc29uRXAuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "miraculous-t6": {
+      "slug": "miraculous-t6",
+      "title": "Miraculous — 6ª Temporada",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/8/80/Miraculous_%28franchise_logo%29.png",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1511,9 +1518,17 @@
     ],
     "assistir-bleach-final-season": [
       1
+    ],
+    "miraculous-t6": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "miraculous-t6",
+      "ep": 1,
+      "at": 1786220097332
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2739,5 +2754,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1786220082632
+  "updatedAt": 1786220097089
 }
