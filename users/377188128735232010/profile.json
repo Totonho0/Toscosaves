@@ -37,6 +37,13 @@
       "kind": "anime",
       "adult": false
     },
+    "83951": {
+      "slug": "83951",
+      "title": "Beatless",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL0JlYXRsZXNzLmpwZw",
+      "kind": "anime",
+      "adult": false
+    },
     "879932": {
       "slug": "879932",
       "title": "Black Clover Manga e Episódios (Legendado)",
@@ -1068,6 +1075,9 @@
       1,
       2
     ],
+    "83951": [
+      1
+    ],
     "879932": [
       1
     ],
@@ -1534,6 +1544,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "83951",
+      "ep": 1,
+      "at": 1786221578231
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2769,5 +2784,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1786221568438
+  "updatedAt": 1786221605256
 }
