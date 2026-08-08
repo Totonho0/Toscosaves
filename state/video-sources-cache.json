@@ -10349,7 +10349,7 @@
       }
     },
     "anime:miraculous-t1:2": {
-      "at": 1786220387491,
+      "at": 1786221621408,
       "data": {
         "sources": [
           {
@@ -10365,6 +10365,33 @@
         "provider": "miraculum",
         "poster": "https://image.tmdb.org/t/p/w500/o14MqblEe6YBODpzppwXasPjT6k.jpg",
         "episodeUrl": "https://miraculum.ml/pt-br/watch?s=1&e=102"
+      }
+    },
+    "anime:83951:1": {
+      "at": 1786221621820,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://rr1---sn-2on4v5-59.googlevideo.com/videoplayback?expire=1786250421&ei=NZR3avv5La-8-eUPrc3voQw&ip=152.55.176.93&id=8203c52e9255490f&itag=22&source=blogger&requiressl=yes&xpc=Egho7Zf3LnoBAQ==&cps=12&met=1786221621,&mh=wY&mm=31&mn=sn-2on4v5-59&ms=au&mv=m&mvi=1&pl=22&rms=au,au&susc=bl&svpuc=1&eaua=uN7j3T-ZPmc&mime=video/mp4&vprv=1&rqh=1&dur=1467.292&lmt=1676467358893997&mt=1786221193&txp=1311224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,svpuc,eaua,mime,vprv,rqh,dur,lmt&sig=AE0s2JYwRQIhAIg7RALy8ZaqbLcFvYfcF7DwlNQAGPjxUJI_eECrPSJQAiBhlkgMJA2pCbzWPzy1A-cixs6F_qZKakXnSeMKvcOcjw==&lsparams=cps,met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRAIgbkzyGteX1oe9TYLwHq5GPLzfQ8S7ncwYzefDuW6sJKsCIGLlpYCm0BQog1OgqH983pSP5mQfLnFcglWGhgA1JY05",
+            "label": "AniTube",
+            "referer": "https://www.anitube.zip/video/84087/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Frr1---sn-2on4v5-59.googlevideo.com%2Fvideoplayback%3Fexpire%3D1786250421%26ei%3DNZR3avv5La-8-eUPrc3voQw%26ip%3D152.55.176.93%26id%3D8203c52e9255490f%26itag%3D22%26source%3Dblogger%26requiressl%3Dyes%26xpc%3DEgho7Zf3LnoBAQ%3D%3D%26cps%3D12%26met%3D1786221621%2C%26mh%3DwY%26mm%3D31%26mn%3Dsn-2on4v5-59%26ms%3Dau%26mv%3Dm%26mvi%3D1%26pl%3D22%26rms%3Dau%2Cau%26susc%3Dbl%26svpuc%3D1%26eaua%3DuN7j3T-ZPmc%26mime%3Dvideo%2Fmp4%26vprv%3D1%26rqh%3D1%26dur%3D1467.292%26lmt%3D1676467358893997%26mt%3D1786221193%26txp%3D1311224%26sparams%3Dexpire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Csusc%2Csvpuc%2Ceaua%2Cmime%2Cvprv%2Crqh%2Cdur%2Clmt%26sig%3DAE0s2JYwRQIhAIg7RALy8ZaqbLcFvYfcF7DwlNQAGPjxUJI_eECrPSJQAiBhlkgMJA2pCbzWPzy1A-cixs6F_qZKakXnSeMKvcOcjw%3D%3D%26lsparams%3Dcps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%26lsig%3DAPaTxxMwRAIgbkzyGteX1oe9TYLwHq5GPLzfQ8S7ncwYzefDuW6sJKsCIGLlpYCm0BQog1OgqH983pSP5mQfLnFcglWGhgA1JY05&ref=anitube"
+          },
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/b/beatless/01.mp4/index.m3u8",
+            "label": "AniTube",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fb%2Fbeatless%2F01.mp4%2Findex.m3u8&ref=anitube",
+            "referer": "https://www.anitube.zip/video/84087/"
+          }
+        ],
+        "episode": 1,
+        "slug": "83951",
+        "kind": "anime",
+        "provider": "anitube",
+        "poster": "https://www.anitube.zip/wp-content/uploads/Beatless.jpg",
+        "episodeUrl": "https://www.anitube.zip/video/84087/"
       }
     }
   }
