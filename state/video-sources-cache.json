@@ -10328,6 +10328,25 @@
         "poster": "https://upload.wikimedia.org/wikipedia/commons/8/80/Miraculous_%28franchise_logo%29.png",
         "episodeUrl": "https://miraculum.ml/pt-br/watch?s=6&e=601"
       }
+    },
+    "anime:miraculous-t1:1": {
+      "at": 1786220350757,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://internal.miraculum.ml/m3u8.m3u8?lang=pt-br&s=1&e=101&token=web",
+            "label": "Miraculum (Multi-áudio · PT-BR)",
+            "referer": "https://miraculum.ml/"
+          }
+        ],
+        "episode": 1,
+        "slug": "miraculous-t1",
+        "kind": "anime",
+        "provider": "miraculum",
+        "poster": "https://image.tmdb.org/t/p/w500/o14MqblEe6YBODpzppwXasPjT6k.jpg",
+        "episodeUrl": "https://miraculum.ml/pt-br/watch?s=1&e=101"
+      }
     }
   }
 }
