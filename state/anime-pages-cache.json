@@ -18091,7 +18091,24 @@
           "Animação",
           "Drama",
           "Sci-Fi & Fantasia"
-        ]
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "ai-no-idenshi",
+              "title": "AI no Idenshi",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "919812",
+              "title": "AI no Idenshi (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            }
+          }
+        }
       }
     },
     "acchi-kocchi": {
@@ -18884,7 +18901,7 @@
       }
     },
     "2-5-jigen-no-ririsa-dublado": {
-      "at": 1786221372526,
+      "at": 1786221578262,
       "data": {
         "slug": "2-5-jigen-no-ririsa-dublado",
         "title": "2.5-jigen no Ririsa Dublado – Todos os Episódios",
@@ -19748,7 +19765,30 @@
           "Ação e Aventura",
           "Animação",
           "Drama"
-        ]
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "akame-ga-kill",
+              "title": "Akame ga Kill!",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "64936",
+              "title": "Akame ga Kill! – (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "akame-ga-kill-dublado",
+              "title": "Akame ga Kill! Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "akujiki-reijou-to-kyouketsu-koushaku": {
@@ -21943,7 +21983,30 @@
           "Comédia",
           "Fantasia",
           "Sci-Fi"
-        ]
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "assassination-classroom",
+              "title": "Ansatsu Kyoushitsu",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "67399",
+              "title": "Ansatsu Kyoushitsu (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "ansatsu-kyoushitsu-dublado",
+              "title": "Ansatsu Kyoushitsu Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga": {
