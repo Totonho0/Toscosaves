@@ -11940,7 +11940,30 @@
           "Aventura",
           "Comédia",
           "Ecchi"
-        ]
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "2-5-jigen-no-ririsa",
+              "title": "2.5-jigen no Ririsa",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "994228",
+              "title": "2.5-jigen no Ririsa (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "2-5-jigen-no-ririsa-dublado",
+              "title": "2.5-jigen no Ririsa Dublado – Todos os Episódios",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "0-saiji-start-dash-monogatari": {
@@ -12127,7 +12150,7 @@
       }
     },
     "2-5-jigen-no-ririsa-dublado": {
-      "at": 1786220824954,
+      "at": 1786221372526,
       "data": {
         "slug": "2-5-jigen-no-ririsa-dublado",
         "title": "2.5-jigen no Ririsa Dublado – Todos os Episódios",
