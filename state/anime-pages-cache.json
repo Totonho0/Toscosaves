@@ -3153,7 +3153,24 @@
         ],
         "totalEpisodes": 52,
         "kind": "anime",
-        "provider": "anitube"
+        "provider": "anitube",
+        "audioVariants": {
+          "current": "leg",
+          "variants": {
+            "leg": {
+              "slug": "63512",
+              "title": "BeyBlade G Revolution (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "beybladegrevolution",
+              "title": "Beyblade G Revolution Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "63514": {
@@ -3793,7 +3810,24 @@
         ],
         "totalEpisodes": 51,
         "kind": "anime",
-        "provider": "anitube"
+        "provider": "anitube",
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "beyblade",
+              "title": "beyblade",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "63678",
+              "title": "Beyblade (Dublado)",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "64152": {
@@ -4507,7 +4541,7 @@
       }
     },
     "64784": {
-      "at": 1786221607761,
+      "at": 1786221679905,
       "data": {
         "slug": "64784",
         "title": "Battle Programmer Shirase",
@@ -4551,7 +4585,7 @@
       }
     },
     "64786": {
-      "at": 1786221607417,
+      "at": 1786221679943,
       "data": {
         "slug": "64786",
         "title": "Battery",
@@ -4631,7 +4665,7 @@
       }
     },
     "64934": {
-      "at": 1786221607623,
+      "at": 1786221679912,
       "data": {
         "slug": "64934",
         "title": "Bastard!!",
@@ -7446,7 +7480,7 @@
       }
     },
     "83916": {
-      "at": 1786221607138,
+      "at": 1786221679937,
       "data": {
         "slug": "83916",
         "title": "Basquash!",
@@ -7616,7 +7650,7 @@
       }
     },
     "83947": {
-      "at": 1786221604049,
+      "at": 1786221679959,
       "data": {
         "slug": "83947",
         "title": "Battle Girl High School",
@@ -11856,11 +11890,28 @@
         ],
         "totalEpisodes": 12,
         "kind": "anime",
-        "provider": "anitube"
+        "provider": "anitube",
+        "audioVariants": {
+          "current": "leg",
+          "variants": {
+            "leg": {
+              "slug": "887248",
+              "title": "Beastars (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "beastars-2",
+              "title": "Beastars Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "901904": {
-      "at": 1786221606283,
+      "at": 1786221679974,
       "data": {
         "slug": "901904",
         "title": "Battle Athletess Daiundoukai ReSTART!",
@@ -14757,7 +14808,7 @@
       }
     },
     "972123": {
-      "at": 1786221605550,
+      "at": 1786221679950,
       "data": {
         "slug": "972123",
         "title": "Bastard!! Ankoku no Hakaishin (ONA)",
@@ -14849,7 +14900,7 @@
       }
     },
     "972153": {
-      "at": 1786221606298,
+      "at": 1786221679980,
       "data": {
         "slug": "972153",
         "title": "Bastard!! Ankoku no Hakaishin Part 2 (ONA)",
@@ -14929,7 +14980,7 @@
       }
     },
     "972181": {
-      "at": 1786221606290,
+      "at": 1786221679930,
       "data": {
         "slug": "972181",
         "title": "Bastard!! Ankoku no Hakaishin Season 2 (ONA)",
@@ -16056,7 +16107,24 @@
         ],
         "totalEpisodes": 45,
         "kind": "anime",
-        "provider": "animesdigital"
+        "provider": "animesdigital",
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "one-piece",
+              "title": "One Piece – Todos os Episodios",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "one-piece-dublado",
+              "title": "One Piece Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "solo-leveling-dublado": {
@@ -26714,7 +26782,24 @@
           "Animação",
           "Drama",
           "Mistério"
-        ]
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "beastars-o-lobo-bom",
+              "title": "Beastars – O Lobo Bom – Todos os Episódios",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "beastars-o-lobo-bom-dublado",
+              "title": "Beastars – O Lobo Bom Dublado – Todos os Episódios",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "beastars-3": {
@@ -27689,7 +27774,24 @@
         ],
         "totalEpisodes": 4,
         "kind": "anime",
-        "provider": "animesdigital"
+        "provider": "animesdigital",
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "uzumaki",
+              "title": "Uzumaki – Todos os Episódios",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "uzumaki-dublado",
+              "title": "Uzumaki Dublado – Todos os Episódios",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "black-torch-dublado": {
