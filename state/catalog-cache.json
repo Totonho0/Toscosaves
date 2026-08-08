@@ -7164,17 +7164,17 @@
         "fromPool": true,
         "warning": "Catálogo em cache — páginas seguintes vêm do armazenamento local até reconectar.",
         "cachedAt": 1785284255934,
-        "aocCircuitOpen": true,
-        "aocDegraded": true,
+        "aocCircuitOpen": false,
+        "aocDegraded": false,
         "catalogFromCache": true,
         "aocReachable": false,
         "aocCircuit": {
-          "open": true,
-          "openUntil": 1785284285986,
+          "open": false,
+          "openUntil": 0,
           "cooldownMs": 90000,
-          "remainingMs": 30042,
-          "streak": 1,
-          "bypass": false
+          "remainingMs": 0,
+          "streak": 0,
+          "bypass": true
         },
         "aocDegradedStatus": {
           "slowMode": false,
@@ -7183,34 +7183,34 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785284240986,
+          "lastProbeAt": 1786220044173,
           "lastProbeOk": false,
-          "cookieOnly": false
+          "cookieOnly": true
         },
-        "cookieConfigured": false,
+        "cookieConfigured": true,
         "proxyConfigured": false,
-        "bypassConfigured": false,
-        "isProd": false,
+        "bypassConfigured": true,
+        "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": false,
-        "aocBlocked": true,
-        "blocking": true,
-        "fixHint": "Defina AOC_COOKIE ou AOC_PROXY_URL.",
+        "recentCatalog403": true,
+        "aocBlocked": false,
+        "blocking": false,
+        "fixHint": null,
         "mediaAccess": {
-          "cookieConfigured": false,
+          "cookieConfigured": true,
           "proxyConfigured": false,
-          "bypassConfigured": false,
-          "isProd": false,
+          "bypassConfigured": true,
+          "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": false,
-          "aocBlocked": true,
-          "blocking": true,
-          "fixHint": "Defina AOC_COOKIE ou AOC_PROXY_URL."
+          "recentCatalog403": true,
+          "aocBlocked": false,
+          "blocking": false,
+          "fixHint": null
         }
       },
-      "at": 1785284255945
+      "at": 1786220059138
     },
     "todos|2||120": {
       "data": {
@@ -7607,17 +7607,17 @@
         "fromPool": true,
         "warning": "Catálogo em cache — páginas seguintes vêm do armazenamento local até reconectar.",
         "cachedAt": 1785284255973,
-        "aocCircuitOpen": true,
-        "aocDegraded": true,
+        "aocCircuitOpen": false,
+        "aocDegraded": false,
         "catalogFromCache": true,
         "aocReachable": false,
         "aocCircuit": {
-          "open": true,
-          "openUntil": 1785284285986,
+          "open": false,
+          "openUntil": 0,
           "cooldownMs": 90000,
-          "remainingMs": 30005,
-          "streak": 1,
-          "bypass": false
+          "remainingMs": 0,
+          "streak": 0,
+          "bypass": true
         },
         "aocDegradedStatus": {
           "slowMode": false,
@@ -7626,34 +7626,34 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785284240986,
+          "lastProbeAt": 1786220044173,
           "lastProbeOk": false,
-          "cookieOnly": false
+          "cookieOnly": true
         },
-        "cookieConfigured": false,
+        "cookieConfigured": true,
         "proxyConfigured": false,
-        "bypassConfigured": false,
-        "isProd": false,
+        "bypassConfigured": true,
+        "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": false,
-        "aocBlocked": true,
-        "blocking": true,
-        "fixHint": "Defina AOC_COOKIE ou AOC_PROXY_URL.",
+        "recentCatalog403": true,
+        "aocBlocked": false,
+        "blocking": false,
+        "fixHint": null,
         "mediaAccess": {
-          "cookieConfigured": false,
+          "cookieConfigured": true,
           "proxyConfigured": false,
-          "bypassConfigured": false,
-          "isProd": false,
+          "bypassConfigured": true,
+          "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": false,
-          "aocBlocked": true,
-          "blocking": true,
-          "fixHint": "Defina AOC_COOKIE ou AOC_PROXY_URL."
+          "recentCatalog403": true,
+          "aocBlocked": false,
+          "blocking": false,
+          "fixHint": null
         }
       },
-      "at": 1785284255981
+      "at": 1786220059202
     },
     "todos|3||120": {
       "data": {
@@ -8050,17 +8050,17 @@
         "fromPool": true,
         "warning": "Catálogo em cache — páginas seguintes vêm do armazenamento local até reconectar.",
         "cachedAt": 1785284256003,
-        "aocCircuitOpen": true,
-        "aocDegraded": true,
+        "aocCircuitOpen": false,
+        "aocDegraded": false,
         "catalogFromCache": true,
         "aocReachable": false,
         "aocCircuit": {
-          "open": true,
-          "openUntil": 1785284285986,
+          "open": false,
+          "openUntil": 0,
           "cooldownMs": 90000,
-          "remainingMs": 29978,
-          "streak": 1,
-          "bypass": false
+          "remainingMs": 0,
+          "streak": 0,
+          "bypass": true
         },
         "aocDegradedStatus": {
           "slowMode": false,
@@ -8069,34 +8069,34 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785284240986,
+          "lastProbeAt": 1786220044173,
           "lastProbeOk": false,
-          "cookieOnly": false
+          "cookieOnly": true
         },
-        "cookieConfigured": false,
+        "cookieConfigured": true,
         "proxyConfigured": false,
-        "bypassConfigured": false,
-        "isProd": false,
+        "bypassConfigured": true,
+        "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": false,
-        "aocBlocked": true,
-        "blocking": true,
-        "fixHint": "Defina AOC_COOKIE ou AOC_PROXY_URL.",
+        "recentCatalog403": true,
+        "aocBlocked": false,
+        "blocking": false,
+        "fixHint": null,
         "mediaAccess": {
-          "cookieConfigured": false,
+          "cookieConfigured": true,
           "proxyConfigured": false,
-          "bypassConfigured": false,
-          "isProd": false,
+          "bypassConfigured": true,
+          "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": false,
-          "aocBlocked": true,
-          "blocking": true,
-          "fixHint": "Defina AOC_COOKIE ou AOC_PROXY_URL."
+          "recentCatalog403": true,
+          "aocBlocked": false,
+          "blocking": false,
+          "fixHint": null
         }
       },
-      "at": 1785284256008
+      "at": 1786220059267
     },
     "todos|4||120": {
       "data": {
@@ -8493,17 +8493,17 @@
         "fromPool": true,
         "warning": "Catálogo em cache — páginas seguintes vêm do armazenamento local até reconectar.",
         "cachedAt": 1785284256028,
-        "aocCircuitOpen": true,
-        "aocDegraded": true,
+        "aocCircuitOpen": false,
+        "aocDegraded": false,
         "catalogFromCache": true,
         "aocReachable": false,
         "aocCircuit": {
-          "open": true,
-          "openUntil": 1785284285986,
+          "open": false,
+          "openUntil": 0,
           "cooldownMs": 90000,
-          "remainingMs": 29953,
-          "streak": 1,
-          "bypass": false
+          "remainingMs": 0,
+          "streak": 0,
+          "bypass": true
         },
         "aocDegradedStatus": {
           "slowMode": false,
@@ -8512,34 +8512,34 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785284240986,
+          "lastProbeAt": 1786220044173,
           "lastProbeOk": false,
-          "cookieOnly": false
+          "cookieOnly": true
         },
-        "cookieConfigured": false,
+        "cookieConfigured": true,
         "proxyConfigured": false,
-        "bypassConfigured": false,
-        "isProd": false,
+        "bypassConfigured": true,
+        "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": false,
-        "aocBlocked": true,
-        "blocking": true,
-        "fixHint": "Defina AOC_COOKIE ou AOC_PROXY_URL.",
+        "recentCatalog403": true,
+        "aocBlocked": false,
+        "blocking": false,
+        "fixHint": null,
         "mediaAccess": {
-          "cookieConfigured": false,
+          "cookieConfigured": true,
           "proxyConfigured": false,
-          "bypassConfigured": false,
-          "isProd": false,
+          "bypassConfigured": true,
+          "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": false,
-          "aocBlocked": true,
-          "blocking": true,
-          "fixHint": "Defina AOC_COOKIE ou AOC_PROXY_URL."
+          "recentCatalog403": true,
+          "aocBlocked": false,
+          "blocking": false,
+          "fixHint": null
         }
       },
-      "at": 1785284256033
+      "at": 1786220059342
     },
     "todos|5||120": {
       "data": {
@@ -8936,17 +8936,17 @@
         "fromPool": true,
         "warning": "Catálogo em cache — páginas seguintes vêm do armazenamento local até reconectar.",
         "cachedAt": 1785284256056,
-        "aocCircuitOpen": true,
-        "aocDegraded": true,
+        "aocCircuitOpen": false,
+        "aocDegraded": false,
         "catalogFromCache": true,
         "aocReachable": false,
         "aocCircuit": {
-          "open": true,
-          "openUntil": 1785284285986,
+          "open": false,
+          "openUntil": 0,
           "cooldownMs": 90000,
-          "remainingMs": 29923,
-          "streak": 1,
-          "bypass": false
+          "remainingMs": 0,
+          "streak": 0,
+          "bypass": true
         },
         "aocDegradedStatus": {
           "slowMode": false,
@@ -8955,34 +8955,34 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785284240986,
+          "lastProbeAt": 1786220044173,
           "lastProbeOk": false,
-          "cookieOnly": false
+          "cookieOnly": true
         },
-        "cookieConfigured": false,
+        "cookieConfigured": true,
         "proxyConfigured": false,
-        "bypassConfigured": false,
-        "isProd": false,
+        "bypassConfigured": true,
+        "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": false,
-        "aocBlocked": true,
-        "blocking": true,
-        "fixHint": "Defina AOC_COOKIE ou AOC_PROXY_URL.",
+        "recentCatalog403": true,
+        "aocBlocked": false,
+        "blocking": false,
+        "fixHint": null,
         "mediaAccess": {
-          "cookieConfigured": false,
+          "cookieConfigured": true,
           "proxyConfigured": false,
-          "bypassConfigured": false,
-          "isProd": false,
+          "bypassConfigured": true,
+          "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": false,
-          "aocBlocked": true,
-          "blocking": true,
-          "fixHint": "Defina AOC_COOKIE ou AOC_PROXY_URL."
+          "recentCatalog403": true,
+          "aocBlocked": false,
+          "blocking": false,
+          "fixHint": null
         }
       },
-      "at": 1785284256063
+      "at": 1786220059422
     },
     "todos|6||120": {
       "data": {
@@ -9379,17 +9379,17 @@
         "fromPool": true,
         "warning": "Catálogo em cache — páginas seguintes vêm do armazenamento local até reconectar.",
         "cachedAt": 1785284256081,
-        "aocCircuitOpen": true,
-        "aocDegraded": true,
+        "aocCircuitOpen": false,
+        "aocDegraded": false,
         "catalogFromCache": true,
         "aocReachable": false,
         "aocCircuit": {
-          "open": true,
-          "openUntil": 1785284285986,
+          "open": false,
+          "openUntil": 0,
           "cooldownMs": 90000,
-          "remainingMs": 29898,
-          "streak": 1,
-          "bypass": false
+          "remainingMs": 0,
+          "streak": 0,
+          "bypass": true
         },
         "aocDegradedStatus": {
           "slowMode": false,
@@ -9398,34 +9398,34 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785284240986,
+          "lastProbeAt": 1786220044173,
           "lastProbeOk": false,
-          "cookieOnly": false
+          "cookieOnly": true
         },
-        "cookieConfigured": false,
+        "cookieConfigured": true,
         "proxyConfigured": false,
-        "bypassConfigured": false,
-        "isProd": false,
+        "bypassConfigured": true,
+        "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": false,
-        "aocBlocked": true,
-        "blocking": true,
-        "fixHint": "Defina AOC_COOKIE ou AOC_PROXY_URL.",
+        "recentCatalog403": true,
+        "aocBlocked": false,
+        "blocking": false,
+        "fixHint": null,
         "mediaAccess": {
-          "cookieConfigured": false,
+          "cookieConfigured": true,
           "proxyConfigured": false,
-          "bypassConfigured": false,
-          "isProd": false,
+          "bypassConfigured": true,
+          "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": false,
-          "aocBlocked": true,
-          "blocking": true,
-          "fixHint": "Defina AOC_COOKIE ou AOC_PROXY_URL."
+          "recentCatalog403": true,
+          "aocBlocked": false,
+          "blocking": false,
+          "fixHint": null
         }
       },
-      "at": 1785284256088
+      "at": 1786220059478
     },
     "todos|7||120": {
       "data": {
@@ -9822,17 +9822,17 @@
         "fromPool": true,
         "warning": "Catálogo em cache — páginas seguintes vêm do armazenamento local até reconectar.",
         "cachedAt": 1785284256108,
-        "aocCircuitOpen": true,
-        "aocDegraded": true,
+        "aocCircuitOpen": false,
+        "aocDegraded": false,
         "catalogFromCache": true,
         "aocReachable": false,
         "aocCircuit": {
-          "open": true,
-          "openUntil": 1785284285986,
+          "open": false,
+          "openUntil": 0,
           "cooldownMs": 90000,
-          "remainingMs": 29874,
-          "streak": 1,
-          "bypass": false
+          "remainingMs": 0,
+          "streak": 0,
+          "bypass": true
         },
         "aocDegradedStatus": {
           "slowMode": false,
@@ -9841,34 +9841,34 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785284240986,
+          "lastProbeAt": 1786220044173,
           "lastProbeOk": false,
-          "cookieOnly": false
+          "cookieOnly": true
         },
-        "cookieConfigured": false,
+        "cookieConfigured": true,
         "proxyConfigured": false,
-        "bypassConfigured": false,
-        "isProd": false,
+        "bypassConfigured": true,
+        "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": false,
-        "aocBlocked": true,
-        "blocking": true,
-        "fixHint": "Defina AOC_COOKIE ou AOC_PROXY_URL.",
+        "recentCatalog403": true,
+        "aocBlocked": false,
+        "blocking": false,
+        "fixHint": null,
         "mediaAccess": {
-          "cookieConfigured": false,
+          "cookieConfigured": true,
           "proxyConfigured": false,
-          "bypassConfigured": false,
-          "isProd": false,
+          "bypassConfigured": true,
+          "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": false,
-          "aocBlocked": true,
-          "blocking": true,
-          "fixHint": "Defina AOC_COOKIE ou AOC_PROXY_URL."
+          "recentCatalog403": true,
+          "aocBlocked": false,
+          "blocking": false,
+          "fixHint": null
         }
       },
-      "at": 1785284256112
+      "at": 1786220059530
     },
     "todos|8||120": {
       "data": {
@@ -10265,17 +10265,17 @@
         "fromPool": true,
         "warning": "Catálogo em cache — páginas seguintes vêm do armazenamento local até reconectar.",
         "cachedAt": 1785284256125,
-        "aocCircuitOpen": true,
-        "aocDegraded": true,
+        "aocCircuitOpen": false,
+        "aocDegraded": false,
         "catalogFromCache": true,
         "aocReachable": false,
         "aocCircuit": {
-          "open": true,
-          "openUntil": 1785284285986,
+          "open": false,
+          "openUntil": 0,
           "cooldownMs": 90000,
-          "remainingMs": 29858,
-          "streak": 1,
-          "bypass": false
+          "remainingMs": 0,
+          "streak": 0,
+          "bypass": true
         },
         "aocDegradedStatus": {
           "slowMode": false,
@@ -10284,34 +10284,34 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785284240986,
+          "lastProbeAt": 1786220044173,
           "lastProbeOk": false,
-          "cookieOnly": false
+          "cookieOnly": true
         },
-        "cookieConfigured": false,
+        "cookieConfigured": true,
         "proxyConfigured": false,
-        "bypassConfigured": false,
-        "isProd": false,
+        "bypassConfigured": true,
+        "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": false,
-        "aocBlocked": true,
-        "blocking": true,
-        "fixHint": "Defina AOC_COOKIE ou AOC_PROXY_URL.",
+        "recentCatalog403": true,
+        "aocBlocked": false,
+        "blocking": false,
+        "fixHint": null,
         "mediaAccess": {
-          "cookieConfigured": false,
+          "cookieConfigured": true,
           "proxyConfigured": false,
-          "bypassConfigured": false,
-          "isProd": false,
+          "bypassConfigured": true,
+          "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": false,
-          "aocBlocked": true,
-          "blocking": true,
-          "fixHint": "Defina AOC_COOKIE ou AOC_PROXY_URL."
+          "recentCatalog403": true,
+          "aocBlocked": false,
+          "blocking": false,
+          "fixHint": null
         }
       },
-      "at": 1785284256128
+      "at": 1786220059629
     },
     "todos|9||120": {
       "data": {
@@ -10708,17 +10708,17 @@
         "fromPool": true,
         "warning": "Catálogo em cache — páginas seguintes vêm do armazenamento local até reconectar.",
         "cachedAt": 1785284256142,
-        "aocCircuitOpen": true,
-        "aocDegraded": true,
+        "aocCircuitOpen": false,
+        "aocDegraded": false,
         "catalogFromCache": true,
         "aocReachable": false,
         "aocCircuit": {
-          "open": true,
-          "openUntil": 1785284285986,
+          "open": false,
+          "openUntil": 0,
           "cooldownMs": 90000,
-          "remainingMs": 29840,
-          "streak": 1,
-          "bypass": false
+          "remainingMs": 0,
+          "streak": 0,
+          "bypass": true
         },
         "aocDegradedStatus": {
           "slowMode": false,
@@ -10727,34 +10727,34 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785284240986,
+          "lastProbeAt": 1786220044173,
           "lastProbeOk": false,
-          "cookieOnly": false
+          "cookieOnly": true
         },
-        "cookieConfigured": false,
+        "cookieConfigured": true,
         "proxyConfigured": false,
-        "bypassConfigured": false,
-        "isProd": false,
+        "bypassConfigured": true,
+        "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": false,
-        "aocBlocked": true,
-        "blocking": true,
-        "fixHint": "Defina AOC_COOKIE ou AOC_PROXY_URL.",
+        "recentCatalog403": true,
+        "aocBlocked": false,
+        "blocking": false,
+        "fixHint": null,
         "mediaAccess": {
-          "cookieConfigured": false,
+          "cookieConfigured": true,
           "proxyConfigured": false,
-          "bypassConfigured": false,
-          "isProd": false,
+          "bypassConfigured": true,
+          "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": false,
-          "aocBlocked": true,
-          "blocking": true,
-          "fixHint": "Defina AOC_COOKIE ou AOC_PROXY_URL."
+          "recentCatalog403": true,
+          "aocBlocked": false,
+          "blocking": false,
+          "fixHint": null
         }
       },
-      "at": 1785284256147
+      "at": 1786220059690
     },
     "todos|10||120": {
       "data": {
@@ -11111,17 +11111,17 @@
         "fromPool": true,
         "warning": "Catálogo em cache — páginas seguintes vêm do armazenamento local até reconectar.",
         "cachedAt": 1785284256157,
-        "aocCircuitOpen": true,
-        "aocDegraded": true,
+        "aocCircuitOpen": false,
+        "aocDegraded": false,
         "catalogFromCache": true,
         "aocReachable": false,
         "aocCircuit": {
-          "open": true,
-          "openUntil": 1785284285986,
+          "open": false,
+          "openUntil": 0,
           "cooldownMs": 90000,
-          "remainingMs": 29824,
-          "streak": 1,
-          "bypass": false
+          "remainingMs": 0,
+          "streak": 0,
+          "bypass": true
         },
         "aocDegradedStatus": {
           "slowMode": false,
@@ -11130,34 +11130,34 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1785284240986,
+          "lastProbeAt": 1786220044173,
           "lastProbeOk": false,
-          "cookieOnly": false
+          "cookieOnly": true
         },
-        "cookieConfigured": false,
+        "cookieConfigured": true,
         "proxyConfigured": false,
-        "bypassConfigured": false,
-        "isProd": false,
+        "bypassConfigured": true,
+        "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": false,
-        "aocBlocked": true,
-        "blocking": true,
-        "fixHint": "Defina AOC_COOKIE ou AOC_PROXY_URL.",
+        "recentCatalog403": true,
+        "aocBlocked": false,
+        "blocking": false,
+        "fixHint": null,
         "mediaAccess": {
-          "cookieConfigured": false,
+          "cookieConfigured": true,
           "proxyConfigured": false,
-          "bypassConfigured": false,
-          "isProd": false,
+          "bypassConfigured": true,
+          "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": false,
-          "aocBlocked": true,
-          "blocking": true,
-          "fixHint": "Defina AOC_COOKIE ou AOC_PROXY_URL."
+          "recentCatalog403": true,
+          "aocBlocked": false,
+          "blocking": false,
+          "fixHint": null
         }
       },
-      "at": 1785284256162
+      "at": 1786220059756
     },
     "todos|11||120": {
       "data": {
@@ -22058,5 +22058,5 @@
       "at": 1786220050209
     }
   },
-  "updatedAt": 1786220052042
+  "updatedAt": 1786220059756
 }
