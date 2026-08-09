@@ -101707,7 +101707,7 @@
         "page": 46,
         "hasMore": true
       },
-      "at": 1786220420477
+      "at": 1786249183874
     },
     "partner:animesdrive|todos|46||48": {
       "data": {
@@ -102273,7 +102273,24 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/04/7Uj6vqmznWQ3w3hpQ1eIY9mMyMw-185x278.jpg",
             "rating": "8.672",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kimetsu-no-yaiba"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kimetsu-no-yaiba"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kimetsu-no-yaiba"
+              }
+            ]
           },
           {
             "title": "Dororo",
@@ -102707,7 +102724,19 @@
             "url": "https://animeplay.cloud/anime/kono-subarashii-sekai-ni-shukufuku-wo-3",
             "poster": "https://animeplay.cloud/wp-content/uploads/2016/01/mksUUu0KaFAwImthyrqjL1FLdP1-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kono-subarashii-sekai-ni-shukufuku-wo-3"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kono-subarashii-sekai-ni-shukufuku-wo-3"
+              }
+            ]
           },
           {
             "title": "Mobile Suit Gundam Thunderbolt",
@@ -102715,7 +102744,19 @@
             "url": "https://animeplay.cloud/anime/mobile-suit-gundam-thunderbolt",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/04/tpIjhiHFxSTrblBwl5U8YAu2jTL-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "mobile-suit-gundam-thunderbolt"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "mobile-suit-gundam-thunderbolt"
+              }
+            ]
           },
           {
             "title": "Osomatsu-san",
@@ -102723,7 +102764,19 @@
             "url": "https://animeplay.cloud/anime/osomatsu-san",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/cclQpHoFTuR3rCw2KfJEmIJAb0k-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "osomatsu-san"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "osomatsu-san"
+              }
+            ]
           },
           {
             "title": "Dr. Stone: Stone Wars Dublado",
@@ -102763,7 +102816,29 @@
             "url": "https://www.anitube.zip/video/1001647/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dragon-ball-daima-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-daima-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1001647"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "dragon-ball-daima-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dragon-ball-daima-dublado"
+              }
+            ]
           },
           {
             "title": "Dragon Ball Dublado",
@@ -102771,7 +102846,19 @@
             "url": "https://www.anitube.zip/video/937390/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dragon-ball-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "937390"
+              }
+            ]
           },
           {
             "title": "Dragon Ball GT – (Legendado)",
@@ -102787,7 +102874,19 @@
             "url": "https://www.anitube.zip/889426b002",
             "poster": "https://www.anitube.zip/wp-content/uploads/Dragon-Ball-GT.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "889426b002"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-gt-dublado"
+              }
+            ]
           },
           {
             "title": "Dragon Ball Heroes (Legendado)",
@@ -102814,6 +102913,11 @@
             "provider": "anitube",
             "animeSources": [
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "929169b001"
+              },
+              {
                 "server": 6,
                 "provider": "anitube",
                 "slug": "929169b001"
@@ -102833,6 +102937,11 @@
             "kind": "anime",
             "provider": "anitube",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "58259b001"
+              },
               {
                 "server": 6,
                 "provider": "anitube",
@@ -102865,8 +102974,8 @@
         "category": "todos",
         "page": 46,
         "hasMore": true,
-        "total": 1578,
-        "cachedAt": 1786220420477,
+        "total": 1686,
+        "cachedAt": 1786249183874,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -102913,7 +103022,7 @@
           "fixHint": null
         }
       },
-      "at": 1786220422306
+      "at": 1786249184588
     },
     "partner:anitube|todos|47||48": {
       "data": {
@@ -103068,7 +103177,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786220422640
+      "at": 1786249185430
     },
     "todos|47||48": {
       "data": {
@@ -103565,7 +103674,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786220423150
+      "at": 1786249186806
     },
     "partner:animeplay|todos|47||48": {
       "data": {
@@ -103792,7 +103901,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786220423944
+      "at": 1786249186436
     },
     "todos|47||120": {
       "data": {
@@ -126283,5 +126392,5 @@
       "at": 1786221893598
     }
   },
-  "updatedAt": 1786249180877
+  "updatedAt": 1786249186806
 }
