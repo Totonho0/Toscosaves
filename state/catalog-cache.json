@@ -94480,7 +94480,7 @@
         "page": 42,
         "hasMore": true
       },
-      "at": 1786220412698
+      "at": 1786249168138
     },
     "partner:animesdrive|todos|42||48": {
       "data": {
@@ -95118,7 +95118,24 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/01/oBEAvOas18mlFbafLkh0ullEDtv-185x278.jpg",
             "rating": "6.4",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sengoku-youko"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sengoku-youko"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sengoku-youko"
+              }
+            ]
           },
           {
             "title": "Mato Seihei no Slave Todos os Episódios",
@@ -95670,6 +95687,11 @@
             "provider": "animesdrive",
             "animeSources": [
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "naruto"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "naruto"
@@ -95687,7 +95709,19 @@
             "url": "https://animeplay.cloud/anime/tate-no-yuusha-no-nariagari",
             "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/yX0d6aTjHrE5Sjp6gZ1dkPWCmIF-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tate-no-yuusha-no-nariagari"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tate-no-yuusha-no-nariagari"
+              }
+            ]
           },
           {
             "title": "Devils Line – (Legendado)",
@@ -95829,8 +95863,8 @@
         "category": "todos",
         "page": 42,
         "hasMore": true,
-        "total": 1435,
-        "cachedAt": 1786220412698,
+        "total": 1686,
+        "cachedAt": 1786249168138,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -95877,7 +95911,7 @@
           "fixHint": null
         }
       },
-      "at": 1786220413981
+      "at": 1786249168386
     },
     "partner:anitube|todos|43||48": {
       "data": {
@@ -96032,7 +96066,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786220414341
+      "at": 1786249168722
     },
     "todos|43||48": {
       "data": {
@@ -96521,7 +96555,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786220414854
+      "at": 1786249170135
     },
     "partner:animeplay|todos|43||48": {
       "data": {
@@ -96748,7 +96782,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786220415536
+      "at": 1786249170075
     },
     "todos|43||120": {
       "data": {
@@ -126120,5 +126154,5 @@
       "at": 1786221893598
     }
   },
-  "updatedAt": 1786249165497
+  "updatedAt": 1786249170135
 }
