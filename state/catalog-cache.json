@@ -105157,20 +105157,20 @@
             "provider": "aoc"
           },
           {
+            "title": "Dragon Ball Kai (2009)",
+            "slug": "dragon-ball-kai-2009",
+            "url": "https://animesonline.cloud/anime/dragon-ball-kai-2009",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/03/yh11eNQyZOgZLMEW7llKYQ0oGcJ-185x278.jpg",
+            "rating": "7.447",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Fullmetal Alchemist: Brotherhood",
             "slug": "fullmetal-alchemist-brotherhood",
             "url": "https://animesonline.cloud/anime/fullmetal-alchemist-brotherhood",
             "poster": "https://animesonline.cloud/wp-content/uploads/2009/04/Fullmetal-Alchemist-Brotherhood-animesonline.cloud_-185x278.jpg",
             "rating": "8.694",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Dragon Ball Kai",
-            "slug": "dragon-ball-kai",
-            "url": "https://animesonline.cloud/anime/dragon-ball-kai-todos-os-episodios",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/03/yh11eNQyZOgZLMEW7llKYQ0oGcJ-185x278.jpg",
-            "rating": "7.447",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -105188,7 +105188,7 @@
         "page": 48,
         "hasMore": true
       },
-      "at": 1786220424951
+      "at": 1786249220593
     },
     "partner:animesdrive|todos|48||48": {
       "data": {
@@ -105860,14 +105860,29 @@
                 "slug": "hunter-x-hunter-2011"
               },
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hunter-x-hunter"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "hunter-x-hunter-2011"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "hunter-x-hunter"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "hunter-x-hunter-2011"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hunter-x-hunter"
               }
             ]
           },
@@ -106132,6 +106147,32 @@
             ]
           },
           {
+            "title": "Dragon Ball Kai (2009)",
+            "slug": "dragon-ball-kai-2009",
+            "url": "https://animesonline.cloud/anime/dragon-ball-kai-2009",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/03/yh11eNQyZOgZLMEW7llKYQ0oGcJ-185x278.jpg",
+            "rating": "7.447",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-kai-2009"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "dragon-ball-kai-2009"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dragon-ball-kai-2009"
+              }
+            ]
+          },
+          {
             "title": "Fullmetal Alchemist: Brotherhood",
             "slug": "fullmetal-alchemist-brotherhood",
             "url": "https://animesonline.cloud/anime/fullmetal-alchemist-brotherhood",
@@ -106154,32 +106195,6 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "fullmetal-alchemist-brotherhood"
-              }
-            ]
-          },
-          {
-            "title": "Dragon Ball Kai",
-            "slug": "dragon-ball-kai",
-            "url": "https://animesonline.cloud/anime/dragon-ball-kai-todos-os-episodios",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/03/yh11eNQyZOgZLMEW7llKYQ0oGcJ-185x278.jpg",
-            "rating": "7.447",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "dragon-ball-kai"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "dragon-ball-kai"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "dragon-ball-kai"
               }
             ]
           },
@@ -106223,7 +106238,19 @@
             "url": "https://animeplay.cloud/anime/naisho-no-tsubomi",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/04/kNCrMLeFJNXvR0wiGialvSpVITQ-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "naisho-no-tsubomi"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "naisho-no-tsubomi"
+              }
+            ]
           },
           {
             "title": "Persona: Trinity Soul",
@@ -106231,7 +106258,19 @@
             "url": "https://animeplay.cloud/anime/persona-trinity-soul",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/hREYXGPAijGwAAhw5pd5kOOGybW-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "persona-trinity-soul"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "persona-trinity-soul"
+              }
+            ]
           },
           {
             "title": "Claymore",
@@ -106239,7 +106278,19 @@
             "url": "https://animeplay.cloud/anime/claymore",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/aIdsCf6XAzR2AmylK8PF22RUw1D-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "claymore"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "claymore"
+              }
+            ]
           },
           {
             "title": "Dungeon Meshi Dublado",
@@ -106357,8 +106408,8 @@
         "category": "todos",
         "page": 48,
         "hasMore": true,
-        "total": 1646,
-        "cachedAt": 1786220424951,
+        "total": 1687,
+        "cachedAt": 1786249220593,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -106405,7 +106456,7 @@
           "fixHint": null
         }
       },
-      "at": 1786220426643
+      "at": 1786249221284
     },
     "partner:anitube|todos|49||48": {
       "data": {
@@ -106560,7 +106611,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786220426981
+      "at": 1786249222154
     },
     "todos|49||48": {
       "data": {
@@ -107006,7 +107057,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786220427475
+      "at": 1786249223094
     },
     "partner:animeplay|todos|49||48": {
       "data": {
@@ -107217,7 +107268,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786220428251
+      "at": 1786249222996
     },
     "todos|49||120": {
       "data": {
@@ -126392,5 +126443,5 @@
       "at": 1786221893598
     }
   },
-  "updatedAt": 1786249202042
+  "updatedAt": 1786249223094
 }
