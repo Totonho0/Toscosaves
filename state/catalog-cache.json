@@ -99938,7 +99938,7 @@
         "page": 45,
         "hasMore": true
       },
-      "at": 1786220418453
+      "at": 1786249178687
     },
     "partner:animesdrive|todos|45||48": {
       "data": {
@@ -100552,7 +100552,24 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/05/ygE1AEV6pXFuCzbjS9ts59LxDm5-185x278.jpg",
             "rating": "8.5",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "shuumatsu-no-valkyrie"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "shuumatsu-no-valkyrie"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "shuumatsu-no-valkyrie"
+              }
+            ]
           },
           {
             "title": "Shiguang Dailiren: Yingdu Pian",
@@ -101053,14 +101070,29 @@
                 "slug": "fruits-basket-2019"
               },
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fruits-basket-2001"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "fruits-basket-2019"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "fruits-basket-2001"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "fruits-basket-2019"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "fruits-basket-2001"
               }
             ]
           },
@@ -101072,6 +101104,11 @@
             "kind": "anime",
             "provider": "animesdrive",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kimetsu-no-yaiba"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
@@ -101090,7 +101127,19 @@
             "url": "https://animeplay.cloud/anime/dororo",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/05/yQQAP956eYxBEvLezPI1zYYv02S-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dororo"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "dororo"
+              }
+            ]
           },
           {
             "title": "Dosanko Gal wa Namara Menkoi (Legendado)",
@@ -101210,14 +101259,36 @@
             "url": "https://www.anitube.zip/video/998440/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-science-future-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "anitube"
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dr-stone-science-future-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "998440"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "dr-stone-science-future-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dr-stone-science-future-dublado"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 45,
         "hasMore": true,
-        "total": 1548,
-        "cachedAt": 1786220418453,
+        "total": 1686,
+        "cachedAt": 1786249178687,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -101264,7 +101335,7 @@
           "fixHint": null
         }
       },
-      "at": 1786220419911
+      "at": 1786249179204
     },
     "partner:anitube|todos|46||48": {
       "data": {
@@ -101419,7 +101490,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786220420247
+      "at": 1786249179540
     },
     "todos|46||48": {
       "data": {
@@ -101831,7 +101902,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786220420746
+      "at": 1786249180676
     },
     "partner:animeplay|todos|46||48": {
       "data": {
@@ -102034,7 +102105,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786220421535
+      "at": 1786249180877
     },
     "todos|46||120": {
       "data": {
@@ -126212,5 +126283,5 @@
       "at": 1786221893598
     }
   },
-  "updatedAt": 1786249176768
+  "updatedAt": 1786249180877
 }
