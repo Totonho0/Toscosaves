@@ -106846,7 +106846,7 @@
         "page": 49,
         "hasMore": true
       },
-      "at": 1786220427263
+      "at": 1786249245421
     },
     "partner:animesdrive|todos|49||48": {
       "data": {
@@ -107914,7 +107914,19 @@
             "url": "https://animeplay.cloud/anime/super-equipe-de-resgate-solbrain",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/u1rlZgp8Tti7mdXPHNIZ5w7o06I-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "super-equipe-de-resgate-solbrain"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "super-equipe-de-resgate-solbrain"
+              }
+            ]
           },
           {
             "title": "Esquadrão Especial Winspector",
@@ -107922,7 +107934,19 @@
             "url": "https://animeplay.cloud/anime/esquadrao-especial-winspector",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/cjATkbcmt9dM8LmrwK1u5tFQCRi-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "esquadrao-especial-winspector"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "esquadrao-especial-winspector"
+              }
+            ]
           },
           {
             "title": "Samurai Pizza Cats",
@@ -107930,7 +107954,19 @@
             "url": "https://animeplay.cloud/anime/samurai-pizza-cats",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/05/dItdgGzcPP2KiDJ13qHVcCaXjLr-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "samurai-pizza-cats"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "samurai-pizza-cats"
+              }
+            ]
           },
           {
             "title": "Edens Zero (Legendado)",
@@ -108056,8 +108092,8 @@
         "category": "todos",
         "page": 49,
         "hasMore": true,
-        "total": 1679,
-        "cachedAt": 1786220427263,
+        "total": 1687,
+        "cachedAt": 1786249245421,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -108104,7 +108140,7 @@
           "fixHint": null
         }
       },
-      "at": 1786220428868
+      "at": 1786249246042
     },
     "partner:anitube|todos|50||48": {
       "data": {
@@ -108259,7 +108295,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786220429202
+      "at": 1786249246920
     },
     "todos|50||48": {
       "data": {
@@ -108773,7 +108809,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786220429707
+      "at": 1786249247325
     },
     "partner:animeplay|todos|50||48": {
       "data": {
@@ -108992,7 +109028,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786220430455
+      "at": 1786249247736
     },
     "todos|50||120": {
       "data": {
@@ -126443,5 +126479,5 @@
       "at": 1786221893598
     }
   },
-  "updatedAt": 1786249223094
+  "updatedAt": 1786249247736
 }
