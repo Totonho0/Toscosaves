@@ -96328,7 +96328,7 @@
         "page": 43,
         "hasMore": true
       },
-      "at": 1786220414583
+      "at": 1786249172060
     },
     "partner:animesdrive|todos|43||48": {
       "data": {
@@ -96950,7 +96950,24 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2023/12/9ptbVZpKNy5NY9D4zq4KGiYWRQY-185x278.jpg",
             "rating": "8.355",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "naruto"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "naruto"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "naruto"
+              }
+            ]
           },
           {
             "title": "Tate no Yuusha no Nariagari – Todos os Episódios",
@@ -97499,7 +97516,19 @@
             "url": "https://animeplay.cloud/anime/high-card",
             "poster": "https://image.tmdb.org/t/p/w185/uhXTMvLPKnhNLpLDSktrs3S6mVb.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "high-card"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "high-card"
+              }
+            ]
           },
           {
             "title": "Digimon Frontier (Legendado)",
@@ -97633,8 +97662,8 @@
         "category": "todos",
         "page": 43,
         "hasMore": true,
-        "total": 1474,
-        "cachedAt": 1786220414583,
+        "total": 1686,
+        "cachedAt": 1786249172060,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -97681,7 +97710,7 @@
           "fixHint": null
         }
       },
-      "at": 1786220415911
+      "at": 1786249172478
     },
     "partner:anitube|todos|44||48": {
       "data": {
@@ -97836,7 +97865,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786220416238
+      "at": 1786249172820
     },
     "todos|44||48": {
       "data": {
@@ -98089,7 +98118,7 @@
         "page": 44,
         "hasMore": true
       },
-      "at": 1786220416517
+      "at": 1786249174317
     },
     "partner:animesdrive|todos|44||48": {
       "data": {
@@ -98324,7 +98353,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786220416752
+      "at": 1786249174610
     },
     "partner:animeplay|todos|44||48": {
       "data": {
@@ -98559,7 +98588,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786220417568
+      "at": 1786249174179
     },
     "todos|44||120": {
       "data": {
@@ -99265,6 +99294,11 @@
             "provider": "animesdrive",
             "animeSources": [
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "shuumatsu-no-valkyrie"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "shuumatsu-no-valkyrie"
@@ -99282,7 +99316,19 @@
             "url": "https://animeplay.cloud/anime/shiguang-dailiren-yingdu-pian",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/k966Cn9wChI9YCl9TcCwGH52A0W-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "shiguang-dailiren-yingdu-pian"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "shiguang-dailiren-yingdu-pian"
+              }
+            ]
           },
           {
             "title": "Shadows House",
@@ -99290,7 +99336,19 @@
             "url": "https://animeplay.cloud/anime/shadows-house",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "shadows-house"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "shadows-house"
+              }
+            ]
           },
           {
             "title": "Dna² (Dublado)",
@@ -99424,8 +99482,8 @@
         "category": "todos",
         "page": 44,
         "hasMore": true,
-        "total": 1511,
-        "cachedAt": 1786220416517,
+        "total": 1686,
+        "cachedAt": 1786249174317,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -99472,7 +99530,7 @@
           "fixHint": null
         }
       },
-      "at": 1786220417877
+      "at": 1786249174924
     },
     "partner:anitube|todos|45||48": {
       "data": {
@@ -99627,7 +99685,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786220418205
+      "at": 1786249175270
     },
     "todos|45||48": {
       "data": {
@@ -100107,7 +100165,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786220418709
+      "at": 1786249176768
     },
     "partner:animeplay|todos|45||48": {
       "data": {
@@ -100326,7 +100384,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786220419446
+      "at": 1786249176603
     },
     "todos|45||120": {
       "data": {
@@ -126154,5 +126212,5 @@
       "at": 1786221893598
     }
   },
-  "updatedAt": 1786249170135
+  "updatedAt": 1786249176768
 }
