@@ -16146,6 +16146,73 @@
         "provider": "anitube"
       }
     },
+    "1062515": {
+      "at": 1786315583602,
+      "data": {
+        "slug": "1062515",
+        "title": "Black Torch Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWJsYWNrLXRvcmNoLWR1YmxhZG8tZHVibGFkby10b2Rvcy1vcy1lcGlzb2Rpb3MtdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbml0dWJlLmpwZw",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Black Torch (Dublado) – Episódio 01",
+            "url": "https://www.anitube.zip/video/1061505/",
+            "videoId": "1061505"
+          },
+          {
+            "number": 2,
+            "title": "Black Torch (Dublado) – Episódio 02",
+            "url": "https://www.anitube.zip/video/1061904/",
+            "videoId": "1061904"
+          },
+          {
+            "number": 3,
+            "title": "Black Torch (Dublado) – Episódio 03",
+            "url": "https://www.anitube.zip/video/1062098/",
+            "videoId": "1062098"
+          },
+          {
+            "number": 4,
+            "title": "Black Torch (Dublado) – Episódio 04",
+            "url": "https://www.anitube.zip/video/1062515/",
+            "videoId": "1062515"
+          },
+          {
+            "number": 5,
+            "title": "Black Torch (Dublado) – Episódio 05",
+            "url": "https://www.anitube.zip/video/1062990/",
+            "videoId": "1062990"
+          }
+        ],
+        "totalEpisodes": 5,
+        "kind": "anime",
+        "provider": "anitube",
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "black-torch",
+              "title": "Black Torch",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "1061298",
+              "title": "Black Torch (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "black-torch-dublado",
+              "title": "Black Torch Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
+    },
     "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui": {
       "at": 1783677102451,
       "data": {
