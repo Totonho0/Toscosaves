@@ -106766,6 +106766,15 @@
             "provider": "aoc"
           },
           {
+            "title": "JoJo no Kimyou na Bouken (2012)",
+            "slug": "jojo-no-kimyou-na-bouken-2012",
+            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-2012",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/5KxfZTkwiuNRg5mpUOhXdiUB17E-185x278.jpg",
+            "rating": "8.569",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Sword Art",
             "slug": "sword-art-online",
             "url": "https://animesonline.cloud/anime/sword-art-online",
@@ -106917,22 +106926,13 @@
             "rating": "8.694",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Kuroshitsuji: Kishuku Gakkou-hen",
-            "slug": "kuroshitsuji-kishuku-gakkou-hen",
-            "url": "https://animesonline.cloud/anime/kuroshitsuji-kishuku-gakkou-hen",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/04/tfjvfipG4FoKOeG3rpDuGWIvx4k-185x278.jpg",
-            "rating": "7.6",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 48,
         "hasMore": true
       },
-      "at": 1786364379117
+      "at": 1786393204615
     },
     "partner:animesdrive|todos|48||48": {
       "data": {
@@ -107500,6 +107500,32 @@
             ]
           },
           {
+            "title": "JoJo no Kimyou na Bouken (2012)",
+            "slug": "jojo-no-kimyou-na-bouken-2012",
+            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-2012",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/07/5KxfZTkwiuNRg5mpUOhXdiUB17E-185x278.jpg",
+            "rating": "8.569",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "jojo-no-kimyou-na-bouken-2012"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "jojo-no-kimyou-na-bouken-2012"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "jojo-no-kimyou-na-bouken-2012"
+              }
+            ]
+          },
+          {
             "title": "Sword Art",
             "slug": "sword-art-online",
             "url": "https://animesonline.cloud/anime/sword-art-online",
@@ -107940,13 +107966,20 @@
             ]
           },
           {
+            "title": "Sword Art Online",
+            "slug": "sword-art-online",
+            "url": "https://animesdrive.online/anime/sword-art-online",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/htNohqrYEwuz4fCa9ATVF90s58S-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Kuroshitsuji: Kishuku Gakkou-hen",
             "slug": "kuroshitsuji-kishuku-gakkou-hen",
-            "url": "https://animesonline.cloud/anime/kuroshitsuji-kishuku-gakkou-hen",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/tfjvfipG4FoKOeG3rpDuGWIvx4k-185x278.jpg",
-            "rating": "7.6",
+            "url": "https://animeplay.cloud/anime/kuroshitsuji-kishuku-gakkou-hen",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/04/tfjvfipG4FoKOeG3rpDuGWIvx4k-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animeplay",
             "animeSources": [
               {
                 "server": 1,
@@ -107964,14 +107997,6 @@
                 "slug": "kuroshitsuji-kishuku-gakkou-hen"
               }
             ]
-          },
-          {
-            "title": "Sword Art Online",
-            "slug": "sword-art-online",
-            "url": "https://animesdrive.online/anime/sword-art-online",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/htNohqrYEwuz4fCa9ATVF90s58S-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           },
           {
             "title": "Naisho no Tsubomi",
@@ -108010,26 +108035,6 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "persona-trinity-soul"
-              }
-            ]
-          },
-          {
-            "title": "Claymore",
-            "slug": "claymore",
-            "url": "https://animeplay.cloud/anime/claymore",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/aIdsCf6XAzR2AmylK8PF22RUw1D-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "claymore"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "claymore"
               }
             ]
           },
@@ -108149,8 +108154,8 @@
         "category": "todos",
         "page": 48,
         "hasMore": true,
-        "total": 1680,
-        "cachedAt": 1786364379117,
+        "total": 1682,
+        "cachedAt": 1786393204615,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -108197,7 +108202,7 @@
           "fixHint": null
         }
       },
-      "at": 1786364380598
+      "at": 1786393205320
     },
     "partner:anitube|todos|49||48": {
       "data": {
@@ -108352,7 +108357,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786364380933
+      "at": 1786393206176
     },
     "todos|49||48": {
       "data": {
@@ -108641,6 +108646,14 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Kuroshitsuji: Kishuku Gakkou-hen",
+            "slug": "kuroshitsuji-kishuku-gakkou-hen",
+            "url": "https://animesdrive.online/anime/kuroshitsuji-kishuku-gakkou-hen",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/tfjvfipG4FoKOeG3rpDuGWIvx4k-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Naisho no Tsubomi",
             "slug": "naisho-no-tsubomi",
             "url": "https://animesdrive.online/anime/naisho-no-tsubomi",
@@ -108783,14 +108796,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/07/nCzHRwKNrm5MiTjTGoQcJqvVdVh-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Yu Yu Hakusho",
-            "slug": "yu-yu-hakusho",
-            "url": "https://animesdrive.online/anime/yu-yu-hakusho",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -108798,7 +108803,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786364381561
+      "at": 1786393207241
     },
     "partner:animeplay|todos|49||48": {
       "data": {
@@ -108848,6 +108853,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Claymore",
+            "slug": "claymore",
+            "url": "https://animeplay.cloud/anime/claymore",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/aIdsCf6XAzR2AmylK8PF22RUw1D-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -108994,14 +109007,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/cjATkbcmt9dM8LmrwK1u5tFQCRi-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Samurai Pizza Cats",
-            "slug": "samurai-pizza-cats",
-            "url": "https://animeplay.cloud/anime/samurai-pizza-cats",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/05/dItdgGzcPP2KiDJ13qHVcCaXjLr-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -109009,7 +109014,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786364382256
+      "at": 1786393207199
     },
     "todos|49||120": {
       "data": {
@@ -128204,5 +128209,5 @@
       "at": 1786221893598
     }
   },
-  "updatedAt": 1786393197953
+  "updatedAt": 1786393207241
 }
