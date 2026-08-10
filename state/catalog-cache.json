@@ -100026,14 +100026,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2026/02/exhONC020D4DGvt7XB4nq9AOMDU-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Record of Ragnarok – Todos os Episódios",
-            "slug": "shuumatsu-no-valkyrie",
-            "url": "https://animesdrive.online/anime/shuumatsu-no-valkyrie",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/05/ygE1AEV6pXFuCzbjS9ts59LxDm5-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -100041,7 +100033,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786364370841
+      "at": 1786393186067
     },
     "partner:animeplay|todos|44||48": {
       "data": {
@@ -100438,6 +100430,32 @@
             ]
           },
           {
+            "title": "Tengoku Daimakyou",
+            "slug": "tengoku-daimakyo",
+            "url": "https://animesonline.cloud/anime/tengoku-daimakyo",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/kiYVwBgYQKN0TNkriEc0wPMON6x-185x278.jpg",
+            "rating": "8",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tengoku-daimakyo"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tengoku-daimakyo"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tengoku-daimakyo"
+              }
+            ]
+          },
+          {
             "title": "HIGH CARD",
             "slug": "high-card",
             "url": "https://animesonline.cloud/anime/high-card",
@@ -100454,6 +100472,11 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
+                "slug": "high-card"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
                 "slug": "high-card"
               }
             ]
@@ -100976,10 +100999,10 @@
           {
             "title": "Record of Ragnarok – Todos os Episódios",
             "slug": "shuumatsu-no-valkyrie",
-            "url": "https://animesdrive.online/anime/shuumatsu-no-valkyrie",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/05/ygE1AEV6pXFuCzbjS9ts59LxDm5-185x278.jpg",
+            "url": "https://animeplay.cloud/anime/shuumatsu-no-valkyrie",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/05/ygE1AEV6pXFuCzbjS9ts59LxDm5-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "animeplay",
             "animeSources": [
               {
                 "server": 1,
@@ -101015,26 +101038,6 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "shiguang-dailiren-yingdu-pian"
-              }
-            ]
-          },
-          {
-            "title": "Shadows House",
-            "slug": "shadows-house",
-            "url": "https://animeplay.cloud/anime/shadows-house",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "shadows-house"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "shadows-house"
               }
             ]
           },
@@ -101157,21 +101160,13 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/Dorohedoro-categoria.jpg",
             "kind": "anime",
             "provider": "anitube"
-          },
-          {
-            "title": "Dorohedoro 2 (Legendado)",
-            "slug": "1050774",
-            "url": "https://www.anitube.zip/video/1050774/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Dorohedoro-2.jpg",
-            "kind": "anime",
-            "provider": "anitube"
           }
         ],
         "category": "todos",
         "page": 44,
         "hasMore": true,
-        "total": 1680,
-        "cachedAt": 1786364370590,
+        "total": 1681,
+        "cachedAt": 1786393184317,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -101218,7 +101213,7 @@
           "fixHint": null
         }
       },
-      "at": 1786364371606
+      "at": 1786393186424
     },
     "partner:anitube|todos|45||48": {
       "data": {
@@ -101373,7 +101368,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786364371937
+      "at": 1786393186881
     },
     "todos|45||48": {
       "data": {
@@ -101611,22 +101606,13 @@
             "rating": "8",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Fruits Basket (2019)",
-            "slug": "fruits-basket-2019",
-            "url": "https://animesonline.cloud/anime/fruits-basket-2019",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/wVe8vcSqpJjLib5TWer6kgkGjjM-185x278.jpg",
-            "rating": "7.9",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 45,
         "hasMore": true
       },
-      "at": 1786364372537
+      "at": 1786393188699
     },
     "partner:animesdrive|todos|45||48": {
       "data": {
@@ -101676,6 +101662,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animesdrive.online/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Record of Ragnarok – Todos os Episódios",
+            "slug": "shuumatsu-no-valkyrie",
+            "url": "https://animesdrive.online/anime/shuumatsu-no-valkyrie",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/05/ygE1AEV6pXFuCzbjS9ts59LxDm5-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -101838,14 +101832,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/08/wVe8vcSqpJjLib5TWer6kgkGjjM-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Kimetsu no Yaiba – Todos os Episódios",
-            "slug": "kimetsu-no-yaiba",
-            "url": "https://animesdrive.online/anime/kimetsu-no-yaiba",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/7Uj6vqmznWQ3w3hpQ1eIY9mMyMw-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -101853,7 +101839,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786364372756
+      "at": 1786393188301
     },
     "partner:animeplay|todos|45||48": {
       "data": {
@@ -101903,6 +101889,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Shadows House",
+            "slug": "shadows-house",
+            "url": "https://animeplay.cloud/anime/shadows-house",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -102072,7 +102066,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786364373315
+      "at": 1786393188101
     },
     "todos|45||120": {
       "data": {
@@ -102297,6 +102291,11 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
+                "slug": "shadows-house"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
                 "slug": "shadows-house"
               }
             ]
@@ -102756,21 +102755,20 @@
           {
             "title": "Fruits Basket (2019)",
             "slug": "fruits-basket-2019",
-            "url": "https://animesonline.cloud/anime/fruits-basket-2019",
+            "url": "https://animesdrive.online/anime/fruits-basket-2019",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/08/wVe8vcSqpJjLib5TWer6kgkGjjM-185x278.jpg",
-            "rating": "7.9",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "fruits-basket-2019"
+                "slug": "fruits-basket-2001"
               },
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "fruits-basket-2001"
+                "slug": "fruits-basket-2019"
               },
               {
                 "server": 2,
@@ -102797,10 +102795,10 @@
           {
             "title": "Kimetsu no Yaiba – Todos os Episódios",
             "slug": "kimetsu-no-yaiba",
-            "url": "https://animesdrive.online/anime/kimetsu-no-yaiba",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/7Uj6vqmznWQ3w3hpQ1eIY9mMyMw-185x278.jpg",
+            "url": "https://animeplay.cloud/anime/kimetsu-no-yaiba",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/04/7Uj6vqmznWQ3w3hpQ1eIY9mMyMw-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "animeplay",
             "animeSources": [
               {
                 "server": 1,
@@ -102980,13 +102978,21 @@
                 "slug": "dr-stone-science-future-dublado"
               }
             ]
+          },
+          {
+            "title": "Dr. Stone: Science Future Part 2 Dublado",
+            "slug": "1003935",
+            "url": "https://www.anitube.zip/video/1003935/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-science-future-part-2-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
           }
         ],
         "category": "todos",
         "page": 45,
         "hasMore": true,
-        "total": 1680,
-        "cachedAt": 1786364372537,
+        "total": 1681,
+        "cachedAt": 1786393188699,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -103033,7 +103039,7 @@
           "fixHint": null
         }
       },
-      "at": 1786364373812
+      "at": 1786393189124
     },
     "partner:anitube|todos|46||48": {
       "data": {
@@ -103188,7 +103194,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786364374159
+      "at": 1786393189502
     },
     "todos|46||48": {
       "data": {
@@ -103244,6 +103250,15 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "7.3",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Fruits Basket (2019)",
+            "slug": "fruits-basket-2019",
+            "url": "https://animesonline.cloud/anime/fruits-basket-2019",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/wVe8vcSqpJjLib5TWer6kgkGjjM-185x278.jpg",
+            "rating": "7.9",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -103390,22 +103405,13 @@
             "rating": "8.651",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Ajin",
-            "slug": "ajin",
-            "url": "https://animesonline.cloud/anime/ajin",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/uQEVd09ypPxsihePCBZMGCpDxIw-185x278.jpg",
-            "rating": "7.916",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 46,
         "hasMore": true
       },
-      "at": 1786364374637
+      "at": 1786393191574
     },
     "partner:animesdrive|todos|46||48": {
       "data": {
@@ -103455,6 +103461,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animesdrive.online/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Kimetsu no Yaiba – Todos os Episódios",
+            "slug": "kimetsu-no-yaiba",
+            "url": "https://animesdrive.online/anime/kimetsu-no-yaiba",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/7Uj6vqmznWQ3w3hpQ1eIY9mMyMw-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
           },
@@ -103585,14 +103599,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2016/04/142483-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Ajin",
-            "slug": "ajin",
-            "url": "https://animesdrive.online/anime/ajin",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/uQEVd09ypPxsihePCBZMGCpDxIw-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -103600,7 +103606,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786364375119
+      "at": 1786393190676
     },
     "partner:animeplay|todos|46||48": {
       "data": {
@@ -103788,14 +103794,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/04/tpIjhiHFxSTrblBwl5U8YAu2jTL-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Osomatsu-san",
-            "slug": "osomatsu-san",
-            "url": "https://animeplay.cloud/anime/osomatsu-san",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/cclQpHoFTuR3rCw2KfJEmIJAb0k-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -103803,7 +103801,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786364375512
+      "at": 1786393190724
     },
     "todos|46||120": {
       "data": {
@@ -103961,6 +103959,37 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              }
+            ]
+          },
+          {
+            "title": "Fruits Basket (2019)",
+            "slug": "fruits-basket-2019",
+            "url": "https://animesonline.cloud/anime/fruits-basket-2019",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/08/wVe8vcSqpJjLib5TWer6kgkGjjM-185x278.jpg",
+            "rating": "7.9",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fruits-basket-2001"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fruits-basket-2019"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "fruits-basket-2001"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "fruits-basket-2001"
               }
             ]
           },
@@ -104371,32 +104400,6 @@
             ]
           },
           {
-            "title": "Ajin",
-            "slug": "ajin",
-            "url": "https://animesonline.cloud/anime/ajin",
-            "poster": "https://animesdigital.org/wp-content/uploads/2025/07/assistir-ajin-todos-os-episodios-online-animes-online.jpg",
-            "rating": "7.916",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "ajin"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "ajin"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "ajin"
-              }
-            ]
-          },
-          {
             "title": "Black Clover – Todos os Episódios",
             "slug": "black-clover",
             "url": "https://animesdrive.online/anime/black-clover-todos-os-episodios",
@@ -104413,6 +104416,31 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "black-clover"
+              }
+            ]
+          },
+          {
+            "title": "Ajin",
+            "slug": "ajin",
+            "url": "https://animeplay.cloud/anime/ajin",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/08/uQEVd09ypPxsihePCBZMGCpDxIw-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ajin"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "ajin"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ajin"
               }
             ]
           },
@@ -104453,26 +104481,6 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "mobile-suit-gundam-thunderbolt"
-              }
-            ]
-          },
-          {
-            "title": "Osomatsu-san",
-            "slug": "osomatsu-san",
-            "url": "https://animeplay.cloud/anime/osomatsu-san",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/cclQpHoFTuR3rCw2KfJEmIJAb0k-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "osomatsu-san"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "osomatsu-san"
               }
             ]
           },
@@ -104672,8 +104680,8 @@
         "category": "todos",
         "page": 46,
         "hasMore": true,
-        "total": 1680,
-        "cachedAt": 1786364374637,
+        "total": 1682,
+        "cachedAt": 1786393191574,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -104720,7 +104728,7 @@
           "fixHint": null
         }
       },
-      "at": 1786364376180
+      "at": 1786393192422
     },
     "partner:anitube|todos|47||48": {
       "data": {
@@ -104875,7 +104883,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786364376556
+      "at": 1786393192774
     },
     "todos|47||48": {
       "data": {
@@ -105191,6 +105199,14 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Ajin",
+            "slug": "ajin",
+            "url": "https://animesdrive.online/anime/ajin",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/uQEVd09ypPxsihePCBZMGCpDxIw-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 – Todos os Episódios",
             "slug": "kono-subarashii-sekai-ni-shukufuku-wo-3",
             "url": "https://animesdrive.online/anime/kono-subarashii-sekai-ni-shukufuku-wo-3",
@@ -105357,14 +105373,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2013/04/Date-A-Live-V.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "JoJo no Kimyou na Bouken (2012)",
-            "slug": "jojo-no-kimyou-na-bouken-2012",
-            "url": "https://animesdrive.online/anime/jojo-no-kimyou-na-bouken-2012",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/07/5KxfZTkwiuNRg5mpUOhXdiUB17E-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -105372,7 +105380,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786364377448
+      "at": 1786393194010
     },
     "partner:animeplay|todos|47||48": {
       "data": {
@@ -105422,6 +105430,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Osomatsu-san",
+            "slug": "osomatsu-san",
+            "url": "https://animeplay.cloud/anime/osomatsu-san",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/cclQpHoFTuR3rCw2KfJEmIJAb0k-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -105599,7 +105615,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786364377824
+      "at": 1786393194127
     },
     "todos|47||120": {
       "data": {
@@ -128166,5 +128182,5 @@
       "at": 1786221893598
     }
   },
-  "updatedAt": 1786393184428
+  "updatedAt": 1786393194127
 }
