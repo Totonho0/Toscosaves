@@ -94230,6 +94230,14 @@
             "provider": "animesdrive"
           },
           {
+            "title": "Henjin no Salad Bowl – Todos os Episódios",
+            "slug": "henjin-no-salad-bowl",
+            "url": "https://animesdrive.online/anime/henjin-no-salad-bowl-todos-os-episodios",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/06/syqUYWnOIDMzrplUQpcg4dpCxF3-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Wind Breaker – Todos os Episódios",
             "slug": "wind-breaker",
             "url": "https://animesdrive.online/anime/wind-breaker",
@@ -94412,14 +94420,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/01/cnvGV9vmIJVXh5YRjMbMtxpdsVg-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Sengoku Youko – Todos os Episódios",
-            "slug": "sengoku-youko",
-            "url": "https://animesdrive.online/anime/sengoku-youko",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/01/oBEAvOas18mlFbafLkh0ullEDtv-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -94427,7 +94427,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786364365176
+      "at": 1786393173107
     },
     "partner:animeplay|todos|41||48": {
       "data": {
@@ -94840,6 +94840,32 @@
             ]
           },
           {
+            "title": "Highspeed Etoile – Todos os Episódios",
+            "slug": "highspeed-etoile",
+            "url": "https://animesonline.cloud/anime/highspeed-etoile",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/xPvEzlhKAEycts5WzDE9CNDAtqp-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "highspeed-etoile"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "highspeed-etoile"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "highspeed-etoile"
+              }
+            ]
+          },
+          {
             "title": "Henjin no Salad Bowl – Todos os Episódios",
             "slug": "henjin-no-salad-bowl",
             "url": "https://animesonline.cloud/anime/henjin-no-salad-bowl-todos-os-episodios",
@@ -94882,6 +94908,11 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
+                "slug": "wind-breaker"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
                 "slug": "wind-breaker"
               }
             ]
@@ -95435,11 +95466,10 @@
           {
             "title": "Majo to Yajuu – Todos os Episódios",
             "slug": "majo-to-yajuu",
-            "url": "https://animesonline.cloud/anime/majo-to-yajuu",
+            "url": "https://animesdrive.online/anime/majo-to-yajuu",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/01/cnvGV9vmIJVXh5YRjMbMtxpdsVg-185x278.jpg",
-            "rating": "7.625",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -95461,10 +95491,10 @@
           {
             "title": "Sengoku Youko – Todos os Episódios",
             "slug": "sengoku-youko",
-            "url": "https://animesdrive.online/anime/sengoku-youko",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/01/oBEAvOas18mlFbafLkh0ullEDtv-185x278.jpg",
+            "url": "https://animeplay.cloud/anime/sengoku-youko",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/oBEAvOas18mlFbafLkh0ullEDtv-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "animeplay",
             "animeSources": [
               {
                 "server": 1,
@@ -95482,14 +95512,6 @@
                 "slug": "sengoku-youko"
               }
             ]
-          },
-          {
-            "title": "Mato Seihei no Slave Todos os Episódios",
-            "slug": "mato-seihei-no-slave",
-            "url": "https://animeplay.cloud/anime/mato-seihei-no-slave",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/ieI3bn3oBKkqbJtYEPiaCV22Gps-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           },
           {
             "title": "Dekoboko Majo no Oyako Jijou (Legendado)",
@@ -95674,8 +95696,8 @@
         "category": "todos",
         "page": 41,
         "hasMore": true,
-        "total": 1680,
-        "cachedAt": 1786364364957,
+        "total": 1681,
+        "cachedAt": 1786393171113,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -95722,7 +95744,7 @@
           "fixHint": null
         }
       },
-      "at": 1786364365886
+      "at": 1786393173214
     },
     "partner:anitube|todos|42||48": {
       "data": {
@@ -95877,7 +95899,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786364366245
+      "at": 1786393173619
     },
     "todos|42||48": {
       "data": {
@@ -95933,6 +95955,15 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "7.3",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Majo to Yajuu – Todos os Episódios",
+            "slug": "majo-to-yajuu",
+            "url": "https://animesonline.cloud/anime/majo-to-yajuu",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/cnvGV9vmIJVXh5YRjMbMtxpdsVg-185x278.jpg",
+            "rating": "7.625",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -96124,22 +96155,13 @@
             "rating": "8.568",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Naruto Shippuden",
-            "slug": "naruto-shippuden",
-            "url": "https://animesonline.cloud/anime/naruto-shippuden",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2023/12/nRJmByfK9XdtOY73VArcN8KpKVs-185x278.jpg",
-            "rating": "8.552",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 42,
         "hasMore": true
       },
-      "at": 1786364366756
+      "at": 1786393174878
     },
     "partner:animesdrive|todos|42||48": {
       "data": {
@@ -96428,6 +96450,14 @@
             "provider": "animeplay"
           },
           {
+            "title": "Mato Seihei no Slave Todos os Episódios",
+            "slug": "mato-seihei-no-slave",
+            "url": "https://animeplay.cloud/anime/mato-seihei-no-slave",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/01/ieI3bn3oBKkqbJtYEPiaCV22Gps-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
             "title": "Dungeon Meshi – Todos os Episódios",
             "slug": "dungeon-meshi",
             "url": "https://animeplay.cloud/anime/dungeon-meshi",
@@ -96594,14 +96624,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/9ptbVZpKNy5NY9D4zq4KGiYWRQY-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Tate no Yuusha no Nariagari – Todos os Episódios",
-            "slug": "tate-no-yuusha-no-nariagari",
-            "url": "https://animeplay.cloud/anime/tate-no-yuusha-no-nariagari",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/yX0d6aTjHrE5Sjp6gZ1dkPWCmIF-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -96609,7 +96631,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786364367558
+      "at": 1786393174993
     },
     "todos|42||120": {
       "data": {
@@ -128137,5 +128159,5 @@
       "at": 1786221893598
     }
   },
-  "updatedAt": 1786393171213
+  "updatedAt": 1786393174993
 }
