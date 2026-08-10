@@ -104943,6 +104943,15 @@
             "provider": "aoc"
           },
           {
+            "title": "Ajin",
+            "slug": "ajin",
+            "url": "https://animesonline.cloud/anime/ajin",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/uQEVd09ypPxsihePCBZMGCpDxIw-185x278.jpg",
+            "rating": "7.916",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 – Todos os Episódios",
             "slug": "kono-subarashii-sekai-ni-shukufuku-wo-3",
             "url": "https://animesonline.cloud/anime/kono-subarashii-sekai-ni-shukufuku-wo-3",
@@ -105130,22 +105139,13 @@
             "rating": "8.5",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "JoJo no Kimyou na Bouken (2012)",
-            "slug": "jojo-no-kimyou-na-bouken-2012",
-            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-2012",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/5KxfZTkwiuNRg5mpUOhXdiUB17E-185x278.jpg",
-            "rating": "8.569",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 47,
         "hasMore": true
       },
-      "at": 1786364376953
+      "at": 1786393195911
     },
     "partner:animesdrive|todos|47||48": {
       "data": {
@@ -105777,6 +105777,32 @@
             ]
           },
           {
+            "title": "Ajin",
+            "slug": "ajin",
+            "url": "https://animesonline.cloud/anime/ajin",
+            "poster": "https://animesdigital.org/wp-content/uploads/2025/07/assistir-ajin-todos-os-episodios-online-animes-online.jpg",
+            "rating": "7.916",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ajin"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "ajin"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ajin"
+              }
+            ]
+          },
+          {
             "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 – Todos os Episódios",
             "slug": "kono-subarashii-sekai-ni-shukufuku-wo-3",
             "url": "https://animesonline.cloud/anime/kono-subarashii-sekai-ni-shukufuku-wo-3",
@@ -105835,6 +105861,11 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
+                "slug": "osomatsu-san"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
                 "slug": "osomatsu-san"
               }
             ]
@@ -106310,11 +106341,10 @@
           {
             "title": "JoJo no Kimyou na Bouken (2012)",
             "slug": "jojo-no-kimyou-na-bouken-2012",
-            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-2012",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/07/5KxfZTkwiuNRg5mpUOhXdiUB17E-185x278.jpg",
-            "rating": "8.569",
+            "url": "https://animeplay.cloud/anime/jojo-no-kimyou-na-bouken-2012",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/5KxfZTkwiuNRg5mpUOhXdiUB17E-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animeplay",
             "animeSources": [
               {
                 "server": 1,
@@ -106473,8 +106503,8 @@
         "category": "todos",
         "page": 47,
         "hasMore": true,
-        "total": 1680,
-        "cachedAt": 1786364376953,
+        "total": 1682,
+        "cachedAt": 1786393195911,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -106521,7 +106551,7 @@
           "fixHint": null
         }
       },
-      "at": 1786364378242
+      "at": 1786393196283
     },
     "partner:anitube|todos|48||48": {
       "data": {
@@ -106676,7 +106706,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786364378584
+      "at": 1786393196627
     },
     "todos|48||48": {
       "data": {
@@ -106956,6 +106986,14 @@
             "provider": "animesdrive"
           },
           {
+            "title": "JoJo no Kimyou na Bouken (2012)",
+            "slug": "jojo-no-kimyou-na-bouken-2012",
+            "url": "https://animesdrive.online/anime/jojo-no-kimyou-na-bouken-2012",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/07/5KxfZTkwiuNRg5mpUOhXdiUB17E-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
             "title": "Sword Art Online",
             "slug": "sword-art-online",
             "url": "https://animesdrive.online/anime/sword-art-online",
@@ -107090,14 +107128,6 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2009/04/Fullmetal-Alchemist-Brotherhood-animesonline.cloud_-185x278.jpg",
             "kind": "anime",
             "provider": "animesdrive"
-          },
-          {
-            "title": "Kuroshitsuji: Kishuku Gakkou-hen",
-            "slug": "kuroshitsuji-kishuku-gakkou-hen",
-            "url": "https://animesdrive.online/anime/kuroshitsuji-kishuku-gakkou-hen",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/tfjvfipG4FoKOeG3rpDuGWIvx4k-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -107105,7 +107135,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786364379468
+      "at": 1786393197755
     },
     "partner:animeplay|todos|48||48": {
       "data": {
@@ -107301,14 +107331,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/hREYXGPAijGwAAhw5pd5kOOGybW-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Claymore",
-            "slug": "claymore",
-            "url": "https://animeplay.cloud/anime/claymore",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/aIdsCf6XAzR2AmylK8PF22RUw1D-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -107316,7 +107338,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786364379906
+      "at": 1786393197953
     },
     "todos|48||120": {
       "data": {
@@ -128182,5 +128204,5 @@
       "at": 1786221893598
     }
   },
-  "updatedAt": 1786393194127
+  "updatedAt": 1786393197953
 }
