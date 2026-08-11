@@ -9598,15 +9598,6 @@
             "provider": "aoc"
           },
           {
-            "title": "Black Clover Dublado",
-            "slug": "black-clover-dublado",
-            "url": "https://animesonline.cloud/anime/black-clover-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/91z5IHcqGWmh8odTnKcMzWDrsZK-185x278.jpg",
-            "rating": "8.507",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Black Clover Manga e Episódios (Legendado)",
             "slug": "879932",
             "url": "https://www.anitube.zip/video/879932/",
@@ -9809,15 +9800,6 @@
             "slug": "881501",
             "url": "https://www.anitube.zip/video/881501/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-bleach-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Bleach Dublado",
-            "slug": "bleach-dublado",
-            "url": "https://animesonline.cloud/anime/bleach-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/cACXGL4PBgKslAF5W8aaxWdriW7-185x278.jpg",
-            "rating": "8.383",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -10084,13 +10066,53 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-blue-lock-2nd-season-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesdrive.online/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 4,
         "hasMore": true,
         "total": 1682,
-        "cachedAt": 1786465089962,
+        "cachedAt": 1786479500589,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -10137,7 +10159,7 @@
           "fixHint": null
         }
       },
-      "at": 1786465090046
+      "at": 1786479504194
     },
     "todos|5||120": {
       "data": {
@@ -33234,7 +33256,7 @@
         "page": 5,
         "hasMore": true
       },
-      "at": 1786465090840
+      "at": 1786479505154
     },
     "todos|6||48": {
       "data": {
@@ -40183,7 +40205,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786450693861
+      "at": 1786479504548
     },
     "partner:animesdrive|todos|5||48": {
       "data": {
@@ -40960,7 +40982,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786450695268
+      "at": 1786479505989
     },
     "partner:anitube|todos|6||48": {
       "data": {
@@ -127997,5 +128019,5 @@
       "at": 1786402404221
     }
   },
-  "updatedAt": 1786479501580
+  "updatedAt": 1786479505989
 }
