@@ -26002,7 +26002,7 @@
       }
     },
     "hitoribocchi-no-isekai-kouryaku": {
-      "at": 1786221348961,
+      "at": 1786407531107,
       "data": {
         "slug": "hitoribocchi-no-isekai-kouryaku",
         "title": "Hitoribocchi no Isekai Kouryaku",
@@ -32129,7 +32129,24 @@
           "Dublado",
           "Animação",
           "Drama"
-        ]
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
+              "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
+              "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "my-hero-academia-vigilantes-dublado": {
