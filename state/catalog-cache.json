@@ -82254,11 +82254,11 @@
           {
             "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta – Todos os Episódios",
             "slug": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
-            "url": "https://animesdrive.online/anime/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
+            "url": "https://animesonline.cloud/anime/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/AnimeDrive-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -82589,11 +82589,11 @@
           {
             "title": "Yamishibai Japanese Ghost Stories – Todos os Episódios",
             "slug": "yamishibai-japanese-ghost-stories",
-            "url": "https://animesdrive.online/anime/yamishibai-japanese-ghost-stories",
+            "url": "https://animesonline.cloud/anime/yamishibai-japanese-ghost-stories",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/zQJiBekYYqFhYwDnpJPrtYaoo27-185x278.jpg",
             "rating": "7.5",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -82660,15 +82660,6 @@
             ]
           },
           {
-            "title": "Yani Neko",
-            "slug": "yani-neko",
-            "url": "https://animesonline.cloud/anime/yani-neko",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
-            "rating": "5",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Yani Neko Dublado",
             "slug": "yani-neko-dublado",
             "url": "https://animesonline.cloud/anime/yani-neko-dublado",
@@ -82703,13 +82694,33 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "8.6"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 34,
         "hasMore": true,
         "total": 1682,
-        "cachedAt": 1786465115063,
+        "cachedAt": 1786479639906,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -82756,7 +82767,7 @@
           "fixHint": null
         }
       },
-      "at": 1786465115141
+      "at": 1786479643634
     },
     "partner:anitube|todos|35||48": {
       "data": {
@@ -82911,7 +82922,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786450747353
+      "at": 1786479643934
     },
     "todos|35||48": {
       "data": {
@@ -83173,7 +83184,7 @@
         "page": 35,
         "hasMore": true
       },
-      "at": 1786465115812
+      "at": 1786479644472
     },
     "partner:animesdrive|todos|35||48": {
       "data": {
@@ -83643,7 +83654,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786450748780
+      "at": 1786479645487
     },
     "todos|35||120": {
       "data": {
@@ -127954,5 +127965,5 @@
       "at": 1786402404221
     }
   },
-  "updatedAt": 1786479640601
+  "updatedAt": 1786479645487
 }
