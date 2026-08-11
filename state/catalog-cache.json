@@ -59886,7 +59886,7 @@
         "page": 22,
         "hasMore": true
       },
-      "at": 1786393132023
+      "at": 1786407515133
     },
     "partner:animesdrive|todos|22||48": {
       "data": {
@@ -60394,6 +60394,15 @@
       "data": {
         "items": [
           {
+            "title": "Kami no Niwatsuki Kusunoki-tei",
+            "slug": "kami-no-niwatsuki-kusunoki-tei",
+            "url": "https://animesonline.cloud/anime/kami-no-niwatsuki-kusunoki-tei",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/1Ca3sCaQt853tpLzxUuXPZC6x5c-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Kami no Shizuku",
             "slug": "kami-no-shizuku",
             "url": "https://animesonline.cloud/anime/kami-no-shizuku",
@@ -60790,11 +60799,11 @@
           {
             "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita – Todos os Episódios",
             "slug": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
-            "url": "https://animesonline.cloud/anime/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
+            "url": "https://animesdrive.online/anime/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/9NivXf13bsUsL5ipeZwByuwJLcB-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -61186,11 +61195,11 @@
           {
             "title": "Kimi ni Todoke – Todos os Episódios",
             "slug": "kimi-ni-todoke",
-            "url": "https://animesonline.cloud/anime/kimi-ni-todoke",
+            "url": "https://animesdrive.online/anime/kimi-ni-todoke",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/08/2XZ0Ofg1ZUZMFrbyWJuakSJAKZz-185x278.jpg",
             "rating": "8.4",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -61200,6 +61209,11 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
+                "slug": "kimi-ni-todoke"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
                 "slug": "kimi-ni-todoke"
               }
             ]
@@ -61247,39 +61261,13 @@
             "rating": "8.1",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen – Todos os Episódios",
-            "slug": "our-last-crusade-or-the-rise-of-a-new-world",
-            "url": "https://animesonline.cloud/anime/our-last-crusade-or-the-rise-of-a-new-world",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/06/wCL3MkW9QNnBKpeFC9O3i0mpiIb-185x278.jpg",
-            "rating": "8.228",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "our-last-crusade-or-the-rise-of-a-new-world"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "our-last-crusade-or-the-rise-of-a-new-world"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "our-last-crusade-or-the-rise-of-a-new-world"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 22,
         "hasMore": true,
-        "total": 1681,
-        "cachedAt": 1786393132023,
+        "total": 1682,
+        "cachedAt": 1786407515133,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -61326,7 +61314,7 @@
           "fixHint": null
         }
       },
-      "at": 1786393133328
+      "at": 1786407515225
     },
     "partner:anitube|todos|23||48": {
       "data": {
@@ -61752,7 +61740,7 @@
         "page": 23,
         "hasMore": true
       },
-      "at": 1786393134171
+      "at": 1786407516308
     },
     "partner:animesdrive|todos|23||48": {
       "data": {
@@ -62244,6 +62232,32 @@
       "data": {
         "items": [
           {
+            "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen – Todos os Episódios",
+            "slug": "our-last-crusade-or-the-rise-of-a-new-world",
+            "url": "https://animesonline.cloud/anime/our-last-crusade-or-the-rise-of-a-new-world",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/06/wCL3MkW9QNnBKpeFC9O3i0mpiIb-185x278.jpg",
+            "rating": "8.228",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "our-last-crusade-or-the-rise-of-a-new-world"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "our-last-crusade-or-the-rise-of-a-new-world"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "our-last-crusade-or-the-rise-of-a-new-world"
+              }
+            ]
+          },
+          {
             "title": "Kimi to Koete Koi ni Naru",
             "slug": "kimi-to-koete-koi-ni-naru",
             "url": "https://animesonline.cloud/anime/kimi-to-koete-koi-ni-naru",
@@ -62308,11 +62322,11 @@
           {
             "title": "Kinnikuman: Kanpeki Chоujin Shiso-hen",
             "slug": "kinnikuman-kanpeki-chоujin-shiso-hen",
-            "url": "https://animesonline.cloud/anime/kinnikuman-kanpeki-ch%d0%beujin-shiso-hen",
+            "url": "https://animesdrive.online/anime/kinnikuman-kanpeki-ch%d0%beujin-shiso-hen",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/8kXDyWBKwXlZjTP4EVueZYzhBPc-185x278.jpg",
             "rating": "1",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -62448,11 +62462,11 @@
           {
             "title": "Koi wa Futago de Warikirenai – Todos os Episódios",
             "slug": "koi-wa-futago-de-warikirenai",
-            "url": "https://animesonline.cloud/anime/koi-wa-futago-de-warikirenai",
+            "url": "https://animesdrive.online/anime/koi-wa-futago-de-warikirenai",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/rWW09ALeJVe3qerVejgp0e1Gbxm-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -63046,11 +63060,11 @@
           {
             "title": "Madougushi Dahliya wa Utsumukanai – Todos os Episódios",
             "slug": "madougushi-dahliya-wa-utsumukanai",
-            "url": "https://animesonline.cloud/anime/madougushi-dahliya-wa-utsumukanai",
+            "url": "https://animesdrive.online/anime/madougushi-dahliya-wa-utsumukanai",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/m7Kh9um0MCzIz81ZVTB1dxFtaGT-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -63066,32 +63080,6 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "madougushi-dahliya-wa-utsumukanai"
-              }
-            ]
-          },
-          {
-            "title": "Maebashi Witches",
-            "slug": "maebashi-witches",
-            "url": "https://animesonline.cloud/anime/maebashi-witches",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/03/XPGyXnistruJRuXeOWhbm69teb-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "maebashi-witches"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "maebashi-witches"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "maebashi-witches"
               }
             ]
           }
@@ -63099,8 +63087,8 @@
         "category": "todos",
         "page": 23,
         "hasMore": true,
-        "total": 1681,
-        "cachedAt": 1786393134171,
+        "total": 1682,
+        "cachedAt": 1786407516308,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -63147,7 +63135,7 @@
           "fixHint": null
         }
       },
-      "at": 1786393135120
+      "at": 1786407516388
     },
     "partner:anitube|todos|24||48": {
       "data": {
@@ -63573,7 +63561,7 @@
         "page": 24,
         "hasMore": true
       },
-      "at": 1786393135901
+      "at": 1786407517307
     },
     "partner:animesdrive|todos|24||48": {
       "data": {
@@ -64065,6 +64053,15 @@
       "data": {
         "items": [
           {
+            "title": "Maebashi Witches",
+            "slug": "maebashi-witches",
+            "url": "https://animesonline.cloud/anime/maebashi-witches",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/03/XPGyXnistruJRuXeOWhbm69teb-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Magic Maker: Isekai Mahou no Tsukurikata",
             "slug": "magic-maker-isekai-mahou-no-tsukurikata",
             "url": "https://animesonline.cloud/anime/magic-maker-isekai-mahou-no-tsukurikata",
@@ -64425,11 +64422,11 @@
           {
             "title": "Make Heroine ga Oosugiru!",
             "slug": "make-heroine-ga-oosugiru",
-            "url": "https://animesonline.cloud/anime/make-heroine-ga-oosugiru",
+            "url": "https://animesdrive.online/anime/make-heroine-ga-oosugiru",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/12/2dN2KY7cGtyzvA51zgxQ5Q8hXit-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -64746,6 +64743,11 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "mato-seihei-no-slave"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mato-seihei-no-slave"
               }
             ]
           },
@@ -64770,11 +64772,11 @@
           {
             "title": "Mayonaka Punch – Todos os Episódios",
             "slug": "mayonaka-punch",
-            "url": "https://animesonline.cloud/anime/mayonaka-punch",
+            "url": "https://animesdrive.online/anime/mayonaka-punch",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/uEJP8bv6meVPfJeoOlMdCnIy84S-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -65045,39 +65047,13 @@
                 "slug": "mf-ghost-2"
               }
             ]
-          },
-          {
-            "title": "MF Ghost 2 Dublado – Todos os Episódios",
-            "slug": "mf-ghost-2-dublado",
-            "url": "https://animesonline.cloud/anime/mf-ghost-2-dublado-todos-os-episodios",
-            "poster": "https://animeflix.blog/IMGS/capas/MF%20Ghost%202%20Dublado.webp",
-            "rating": "7.6",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "mf-ghost-2-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "mf-ghost-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "mf-ghost-2-dublado"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 24,
         "hasMore": true,
-        "total": 1681,
-        "cachedAt": 1786393135901,
+        "total": 1682,
+        "cachedAt": 1786407517307,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -65124,7 +65100,7 @@
           "fixHint": null
         }
       },
-      "at": 1786393137020
+      "at": 1786407517386
     },
     "partner:anitube|todos|25||48": {
       "data": {
@@ -65559,7 +65535,7 @@
         "page": 25,
         "hasMore": true
       },
-      "at": 1786393137794
+      "at": 1786407518173
     },
     "partner:animesdrive|todos|25||48": {
       "data": {
@@ -66067,6 +66043,15 @@
       "data": {
         "items": [
           {
+            "title": "MF Ghost 2 Dublado – Todos os Episódios",
+            "slug": "mf-ghost-2-dublado",
+            "url": "https://animesonline.cloud/anime/mf-ghost-2-dublado-todos-os-episodios",
+            "poster": "https://animeflix.blog/IMGS/capas/MF%20Ghost%202%20Dublado.webp",
+            "rating": "7.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "MF Ghost 3",
             "slug": "mf-ghost-3",
             "url": "https://animesonline.cloud/anime/mf-ghost-3",
@@ -66184,11 +66169,11 @@
           {
             "title": "Mob kara Hajimaru Tansaku Eiyuutan – Todos Os Episódios",
             "slug": "mob-kara-hajimaru-tansaku-eiyuutan",
-            "url": "https://animesonline.cloud/anime/mob-kara-hajimaru-tansaku-eiyuutan",
+            "url": "https://animesdrive.online/anime/mob-kara-hajimaru-tansaku-eiyuutan",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/hY8rN6dkGHp8LC1fE24cqeFoSfJ-212x300-1-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -66310,11 +66295,11 @@
           {
             "title": "Monogatari Bakemonogatari – Todos os Episodios",
             "slug": "bakemonogatari",
-            "url": "https://animesonline.cloud/anime/bakemonogatari-todos-os-episodios",
+            "url": "https://animesdrive.online/anime/bakemonogatari-todos-os-episodios",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/Bakemonogatari-AnimeQ-185x272.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -66635,11 +66620,11 @@
           {
             "title": "Na Nare Hana Nare – Todos os Episodios",
             "slug": "na-nare-hana-nare",
-            "url": "https://animesonline.cloud/anime/na-nare-hana-nare",
+            "url": "https://animesdrive.online/anime/na-nare-hana-nare",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/Na-Nare-Hana-Nare-AnimeDrive-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -66882,11 +66867,11 @@
           {
             "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
             "slug": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
-            "url": "https://animesonline.cloud/anime/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
+            "url": "https://animesdrive.online/anime/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/6U4SotIXAsqOAhsB3gk3m8ushye-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -66930,34 +66915,13 @@
                 "slug": "nazotoki-wa-dinner-no-ato-de"
               }
             ]
-          },
-          {
-            "title": "Nazotoki wa Dinner no Ato de Dublado",
-            "slug": "nazotoki-wa-dinner-no-ato-de-dublado",
-            "url": "https://animesonline.cloud/anime/nazotoki-wa-dinner-no-ato-de-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/qKXBKzoU0Xe8gPHRqyx45AIxOuM-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "nazotoki-wa-dinner-no-ato-de-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "nazotoki-wa-dinner-no-ato-de-dublado"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 25,
         "hasMore": true,
-        "total": 1681,
-        "cachedAt": 1786393137794,
+        "total": 1682,
+        "cachedAt": 1786407518173,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -67004,7 +66968,7 @@
           "fixHint": null
         }
       },
-      "at": 1786393138802
+      "at": 1786407518255
     },
     "partner:anitube|todos|26||48": {
       "data": {
@@ -67439,7 +67403,7 @@
         "page": 26,
         "hasMore": true
       },
-      "at": 1786393139607
+      "at": 1786407519017
     },
     "partner:animesdrive|todos|26||48": {
       "data": {
@@ -67946,6 +67910,15 @@
     "todos|26||120": {
       "data": {
         "items": [
+          {
+            "title": "Nazotoki wa Dinner no Ato de Dublado",
+            "slug": "nazotoki-wa-dinner-no-ato-de-dublado",
+            "url": "https://animesonline.cloud/anime/nazotoki-wa-dinner-no-ato-de-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/qKXBKzoU0Xe8gPHRqyx45AIxOuM-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
           {
             "title": "Necronomico and the Cosmic Horror Show",
             "slug": "necronomico-and-the-cosmic-horror-show",
@@ -68708,22 +68681,13 @@
                 "slug": "one-piece-gyojin-tou-hen"
               }
             ]
-          },
-          {
-            "title": "One Piece: Heroines",
-            "slug": "one-piece-heroines",
-            "url": "https://animesonline.cloud/anime/one-piece-heroines",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/hbRXvcckbdKMhCea1JalPnSQQge-185x278.jpg",
-            "rating": "7.56",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 26,
         "hasMore": true,
-        "total": 1681,
-        "cachedAt": 1786393139607,
+        "total": 1682,
+        "cachedAt": 1786407519017,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -68770,7 +68734,7 @@
           "fixHint": null
         }
       },
-      "at": 1786393140611
+      "at": 1786407519095
     },
     "partner:anitube|todos|27||48": {
       "data": {
@@ -69205,7 +69169,7 @@
         "page": 27,
         "hasMore": true
       },
-      "at": 1786393141490
+      "at": 1786407519894
     },
     "partner:animesdrive|todos|27||48": {
       "data": {
@@ -69688,6 +69652,15 @@
     "todos|27||120": {
       "data": {
         "items": [
+          {
+            "title": "One Piece: Heroines",
+            "slug": "one-piece-heroines",
+            "url": "https://animesonline.cloud/anime/one-piece-heroines",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/hbRXvcckbdKMhCea1JalPnSQQge-185x278.jpg",
+            "rating": "7.56",
+            "kind": "anime",
+            "provider": "aoc"
+          },
           {
             "title": "One Room, Hiatari Futsuu, Tenshi-tsuki – Todos os Episódios",
             "slug": "one-room-hiatari-futsuu-tenshi-tsuki",
@@ -70177,6 +70150,11 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
+                "slug": "osomatsu-san"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
                 "slug": "osomatsu-san"
               }
             ]
@@ -70681,22 +70659,13 @@
                 "slug": "pokemon-houkago-no-breath-dublado"
               }
             ]
-          },
-          {
-            "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
-            "slug": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
-            "url": "https://animesonline.cloud/anime/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/uBHcmbmC3TccLO6hdrttOpjy4bN-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 27,
         "hasMore": true,
-        "total": 1681,
-        "cachedAt": 1786393141490,
+        "total": 1682,
+        "cachedAt": 1786407519894,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -70743,7 +70712,7 @@
           "fixHint": null
         }
       },
-      "at": 1786393142666
+      "at": 1786407519980
     },
     "partner:anitube|todos|28||48": {
       "data": {
@@ -71151,7 +71120,7 @@
         "page": 28,
         "hasMore": true
       },
-      "at": 1786393143578
+      "at": 1786407520838
     },
     "partner:animesdrive|todos|28||48": {
       "data": {
@@ -71634,6 +71603,15 @@
     "todos|28||120": {
       "data": {
         "items": [
+          {
+            "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+            "slug": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
+            "url": "https://animesonline.cloud/anime/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/uBHcmbmC3TccLO6hdrttOpjy4bN-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
           {
             "title": "Potion Wagami wo Tasukeru",
             "slug": "potion-wagami-wo-tasukeru",
@@ -72408,22 +72386,13 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "8.4"
-          },
-          {
-            "title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
-            "slug": "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita",
-            "url": "https://animesonline.cloud/anime/saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/o6k2eVEowtfwTKnKvbKUn87LGzX-185x278.jpg",
-            "rating": "6.91",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 28,
         "hasMore": true,
-        "total": 1681,
-        "cachedAt": 1786393143578,
+        "total": 1682,
+        "cachedAt": 1786407520838,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -72470,7 +72439,7 @@
           "fixHint": null
         }
       },
-      "at": 1786393144639
+      "at": 1786407520919
     },
     "partner:anitube|todos|29||48": {
       "data": {
@@ -72905,7 +72874,7 @@
         "page": 29,
         "hasMore": true
       },
-      "at": 1786393145548
+      "at": 1786407521811
     },
     "partner:animesdrive|todos|29||48": {
       "data": {
@@ -73413,6 +73382,15 @@
       "data": {
         "items": [
           {
+            "title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
+            "slug": "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita",
+            "url": "https://animesonline.cloud/anime/saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/o6k2eVEowtfwTKnKvbKUn87LGzX-185x278.jpg",
+            "rating": "6.91",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
             "slug": "the-insipid-princes-furtive-grab-for-the-throne",
             "url": "https://animesonline.cloud/anime/the-insipid-princes-furtive-grab-for-the-throne",
@@ -73632,6 +73610,11 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
+                "slug": "samurai-pizza-cats"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
                 "slug": "samurai-pizza-cats"
               }
             ]
@@ -74095,6 +74078,11 @@
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "shadows-house"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "shadows-house"
               }
             ]
           },
@@ -74123,6 +74111,11 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
+                "slug": "shadowverse-flame"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
                 "slug": "shadowverse-flame"
               }
             ],
@@ -74205,39 +74198,13 @@
                 "slug": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2-dublado"
               }
             ]
-          },
-          {
-            "title": "Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su 2",
-            "slug": "shangri-la-frontier-kusogee-hunter-kamige-ni-idoman-to-su-2",
-            "url": "https://animesonline.cloud/anime/shangri-la-frontier-kusogee-hunter-kamige-ni-idoman-to-su-2",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/cs1locqOIKRO7oe4pZQfpkKejh4-185x278.jpg",
-            "rating": "7.6",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "shangri-la-frontier-kusogee-hunter-kamige-ni-idoman-to-su-2"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "shangri-la-frontier-kusogee-hunter-kamige-ni-idoman-to-su-2"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "shangri-la-frontier-kusogee-hunter-kamige-ni-idoman-to-su-2"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 29,
         "hasMore": true,
-        "total": 1681,
-        "cachedAt": 1786393145548,
+        "total": 1682,
+        "cachedAt": 1786407521811,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -74284,7 +74251,7 @@
           "fixHint": null
         }
       },
-      "at": 1786393146385
+      "at": 1786407521894
     },
     "partner:anitube|todos|30||48": {
       "data": {
@@ -74701,7 +74668,7 @@
         "page": 30,
         "hasMore": true
       },
-      "at": 1786393147257
+      "at": 1786407522771
     },
     "partner:animesdrive|todos|30||48": {
       "data": {
@@ -75177,6 +75144,15 @@
       "data": {
         "items": [
           {
+            "title": "Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su 2",
+            "slug": "shangri-la-frontier-kusogee-hunter-kamige-ni-idoman-to-su-2",
+            "url": "https://animesonline.cloud/anime/shangri-la-frontier-kusogee-hunter-kamige-ni-idoman-to-su-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/cs1locqOIKRO7oe4pZQfpkKejh4-185x278.jpg",
+            "rating": "7.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Sharivan, O Guardião do Espaço",
             "slug": "sharivan-o-guardiao-do-espaco",
             "url": "https://animesonline.cloud/anime/sharivan-o-guardiao-do-espaco",
@@ -75398,6 +75374,11 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
+                "slug": "shingeki-no-kyojin-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
                 "slug": "shingeki-no-kyojin-2"
               }
             ]
@@ -75638,6 +75619,11 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
+                "slug": "shy"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
                 "slug": "shy"
               }
             ]
@@ -75923,39 +75909,13 @@
             "rating": "6,69",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Soul Eater – Todos os Episódios",
-            "slug": "soul-eater",
-            "url": "https://animesonline.cloud/anime/soul-eater",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/08/qAHpIPbbnrso2ngfjHpVoKdwUQI-185x278.jpg",
-            "rating": "7.824",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "soul-eater"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "soul-eater"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "soul-eater"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 30,
         "hasMore": true,
-        "total": 1681,
-        "cachedAt": 1786393147257,
+        "total": 1682,
+        "cachedAt": 1786407522771,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -76002,7 +75962,7 @@
           "fixHint": null
         }
       },
-      "at": 1786393148373
+      "at": 1786407522889
     },
     "partner:anitube|todos|31||48": {
       "data": {
@@ -76419,7 +76379,7 @@
         "page": 31,
         "hasMore": true
       },
-      "at": 1786393149297
+      "at": 1786407523762
     },
     "partner:animesdrive|todos|31||48": {
       "data": {
@@ -76895,6 +76855,15 @@
       "data": {
         "items": [
           {
+            "title": "Soul Eater – Todos os Episódios",
+            "slug": "soul-eater",
+            "url": "https://animesonline.cloud/anime/soul-eater",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/08/qAHpIPbbnrso2ngfjHpVoKdwUQI-185x278.jpg",
+            "rating": "7.824",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Sousei no Aquarion: Myth of Emotions",
             "slug": "sousei-no-aquarion-myth-of-emotions",
             "url": "https://animesonline.cloud/anime/sousei-no-aquarion-myth-of-emotions",
@@ -77279,6 +77248,15 @@
             ]
           },
           {
+            "title": "Super no Ura de Yani Suu Futari",
+            "slug": "super-no-ura-de-yani-suu-futari",
+            "url": "https://animesonline.cloud/anime/super-no-ura-de-yani-suu-futari",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/nSdgX507jBlonGFC91Ve0TfcLjJ-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Super no Ura de Yani Suu Futari Dublado",
             "slug": "super-no-ura-de-yani-suu-futari-dublado",
             "url": "https://animesonline.cloud/anime/super-no-ura-de-yani-suu-futari-dublado",
@@ -77311,7 +77289,7 @@
             "url": "https://animesdrive.online/anime/sword-art-online",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/htNohqrYEwuz4fCa9ATVF90s58S-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "rating": "8.2"
           },
           {
@@ -77534,42 +77512,13 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "7.2"
-          },
-          {
-            "title": "Takopii no Genzai",
-            "slug": "takopii-no-genzai",
-            "url": "https://animesonline.cloud/anime/takopii-no-genzai",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/06/76M5Cag2T9oV73gPQdLfOHZCd9f-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "0"
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 31,
         "hasMore": true,
-        "total": 1681,
-        "cachedAt": 1786393149297,
+        "total": 1682,
+        "cachedAt": 1786407523762,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -77616,7 +77565,7 @@
           "fixHint": null
         }
       },
-      "at": 1786393150367
+      "at": 1786407523844
     },
     "partner:anitube|todos|32||48": {
       "data": {
@@ -78042,7 +77991,7 @@
         "page": 32,
         "hasMore": true
       },
-      "at": 1786393151270
+      "at": 1786407524630
     },
     "partner:animesdrive|todos|32||48": {
       "data": {
@@ -78534,6 +78483,15 @@
       "data": {
         "items": [
           {
+            "title": "Takopii no Genzai",
+            "slug": "takopii-no-genzai",
+            "url": "https://animesonline.cloud/anime/takopii-no-genzai",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/06/76M5Cag2T9oV73gPQdLfOHZCd9f-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "0"
+          },
+          {
             "title": "Tamon-kun Ima Docchi!?",
             "slug": "tamon-kun-ima-docchi",
             "url": "https://animesonline.cloud/anime/tamon-kun-ima-docchi",
@@ -78611,6 +78569,11 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
+                "slug": "tate-no-yuusha-no-nariagari"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
                 "slug": "tate-no-yuusha-no-nariagari"
               }
             ]
@@ -79375,39 +79338,13 @@
                 "slug": "toaru-ossan-no-vrmmo-katsudouki"
               }
             ]
-          },
-          {
-            "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san – Todos Os Episódios",
-            "slug": "alya-sometimes-hides-her-feelings-in-russian",
-            "url": "https://animesonline.cloud/anime/alya-sometimes-hides-her-feelings-in-russian",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/06/cCru8i4mv6H3IXBa4oEU1pEljrV-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "alya-sometimes-hides-her-feelings-in-russian"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "alya-sometimes-hides-her-feelings-in-russian"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "alya-sometimes-hides-her-feelings-in-russian"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 32,
         "hasMore": true,
-        "total": 1681,
-        "cachedAt": 1786393151270,
+        "total": 1682,
+        "cachedAt": 1786407524630,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -79454,7 +79391,7 @@
           "fixHint": null
         }
       },
-      "at": 1786393152211
+      "at": 1786407524710
     },
     "partner:anitube|todos|33||48": {
       "data": {
@@ -128753,5 +128690,5 @@
       "at": 1786402404221
     }
   },
-  "updatedAt": 1786407514189
+  "updatedAt": 1786407524710
 }
