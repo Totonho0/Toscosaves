@@ -20537,37 +20537,6 @@
             ]
           },
           {
-            "title": "Hunter x Hunter (2011)",
-            "slug": "hunter-x-hunter-2011",
-            "url": "https://animesonline.cloud/anime/hunter-x-hunter-2011",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/9WxfAQquTun9ATkV6iAeFHMkqxv-185x278.jpg",
-            "rating": "8.626",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "hunter-x-hunter-2011"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "hunter-x-hunter"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "hunter-x-hunter-2011"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "hunter-x-hunter-2011"
-              }
-            ]
-          },
-          {
             "title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
             "slug": "i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too",
             "url": "https://animesonline.cloud/anime/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too",
@@ -20696,11 +20665,11 @@
           {
             "title": "Inazuma Eleven – Todos os Episódios",
             "slug": "inazuma-eleven",
-            "url": "https://animesdrive.online/anime/inazuma-eleven",
+            "url": "https://animesonline.cloud/anime/inazuma-eleven",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/p0UiQl050IxYOZJ5u8tc7arG7kA-185x278.jpg",
             "rating": "8.1",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -21020,11 +20989,11 @@
           {
             "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu – Todos os Episódios",
             "slug": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
-            "url": "https://animesdrive.online/anime/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
+            "url": "https://animesonline.cloud/anime/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/Isekai-Yururi-Kikou-Kosodateshinagara-Boukensha-Shimasu-AnimeDrive-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -21411,13 +21380,33 @@
                 "slug": "reencarnado-numa-maquina-de-vendas-agora-exploro-a-masmorra"
               }
             ]
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 20,
         "hasMore": true,
         "total": 1682,
-        "cachedAt": 1786465103131,
+        "cachedAt": 1786479573896,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -21464,7 +21453,7 @@
           "fixHint": null
         }
       },
-      "at": 1786465103208
+      "at": 1786479577631
     },
     "legendado|1||120": {
       "data": {
@@ -57738,7 +57727,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786450721712
+      "at": 1786479577983
     },
     "todos|21||48": {
       "data": {
@@ -58018,7 +58007,7 @@
         "page": 21,
         "hasMore": true
       },
-      "at": 1786465103882
+      "at": 1786479578830
     },
     "partner:animesdrive|todos|21||48": {
       "data": {
@@ -58520,7 +58509,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786450722950
+      "at": 1786479579484
     },
     "todos|21||120": {
       "data": {
@@ -59334,7 +59323,7 @@
         "page": 21,
         "hasMore": true,
         "total": 1682,
-        "cachedAt": 1786465103882,
+        "cachedAt": 1786479578830,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -59381,7 +59370,7 @@
           "fixHint": null
         }
       },
-      "at": 1786465103960
+      "at": 1786479582245
     },
     "partner:anitube|todos|22||48": {
       "data": {
@@ -59536,7 +59525,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786450723385
+      "at": 1786479582640
     },
     "todos|22||48": {
       "data": {
@@ -59816,7 +59805,7 @@
         "page": 22,
         "hasMore": true
       },
-      "at": 1786465104867
+      "at": 1786479583144
     },
     "partner:animesdrive|todos|22||48": {
       "data": {
@@ -60318,7 +60307,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786450724721
+      "at": 1786479583995
     },
     "todos|22||120": {
       "data": {
@@ -60729,11 +60718,11 @@
           {
             "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita – Todos os Episódios",
             "slug": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
-            "url": "https://animesdrive.online/anime/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
+            "url": "https://animesonline.cloud/anime/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/9NivXf13bsUsL5ipeZwByuwJLcB-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -61125,11 +61114,11 @@
           {
             "title": "Kimi ni Todoke – Todos os Episódios",
             "slug": "kimi-ni-todoke",
-            "url": "https://animesdrive.online/anime/kimi-ni-todoke",
+            "url": "https://animesonline.cloud/anime/kimi-ni-todoke",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/08/2XZ0Ofg1ZUZMFrbyWJuakSJAKZz-185x278.jpg",
             "rating": "8.4",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -61197,7 +61186,7 @@
         "page": 22,
         "hasMore": true,
         "total": 1682,
-        "cachedAt": 1786465104867,
+        "cachedAt": 1786479583144,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -61244,7 +61233,7 @@
           "fixHint": null
         }
       },
-      "at": 1786465104950
+      "at": 1786479586866
     },
     "partner:anitube|todos|23||48": {
       "data": {
@@ -61399,7 +61388,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786450725137
+      "at": 1786479587234
     },
     "todos|23||48": {
       "data": {
@@ -61670,7 +61659,7 @@
         "page": 23,
         "hasMore": true
       },
-      "at": 1786465105813
+      "at": 1786479587801
     },
     "partner:animesdrive|todos|23||48": {
       "data": {
@@ -62156,7 +62145,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786450726436
+      "at": 1786479588693
     },
     "todos|23||120": {
       "data": {
@@ -127954,5 +127943,5 @@
       "at": 1786402404221
     }
   },
-  "updatedAt": 1786479574961
+  "updatedAt": 1786479588693
 }
