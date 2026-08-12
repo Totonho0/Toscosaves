@@ -21854,7 +21854,7 @@
         "page": 1,
         "hasMore": true,
         "total": 124,
-        "cachedAt": 1786537182009,
+        "cachedAt": 1786565989826,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -21901,7 +21901,7 @@
           "fixHint": null
         }
       },
-      "at": 1786537182558
+      "at": 1786565990544
     },
     "legendado|2||120": {
       "data": {
@@ -23003,7 +23003,7 @@
         "page": 2,
         "hasMore": true,
         "total": 124,
-        "cachedAt": 1786537183567,
+        "cachedAt": 1786565991511,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -23050,7 +23050,7 @@
           "fixHint": null
         }
       },
-      "at": 1786537184187
+      "at": 1786565992219
     },
     "legendado|3||120": {
       "data": {
@@ -23872,13 +23872,22 @@
             "kind": "anime",
             "provider": "animeplay",
             "audioHint": "leg"
+          },
+          {
+            "title": "Koukaku Kidouta",
+            "slug": "koukaku-kidouta",
+            "url": "https://animeplay.cloud/anime/koukaku-kidouta",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "audioHint": "leg"
           }
         ],
         "category": "legendado",
         "page": 3,
         "hasMore": true,
         "total": 124,
-        "cachedAt": 1786537185182,
+        "cachedAt": 1786565993135,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -23925,7 +23934,7 @@
           "fixHint": null
         }
       },
-      "at": 1786537185951
+      "at": 1786565994047
     },
     "dublado|1||120": {
       "data": {
@@ -24700,7 +24709,7 @@
         "page": 1,
         "hasMore": true,
         "total": 120,
-        "cachedAt": 1786537186511,
+        "cachedAt": 1786565994564,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -24747,7 +24756,7 @@
           "fixHint": null
         }
       },
-      "at": 1786537188094
+      "at": 1786565995664
     },
     "dublado|2||120": {
       "data": {
@@ -25600,7 +25609,7 @@
         "page": 2,
         "hasMore": true,
         "total": 120,
-        "cachedAt": 1786537189076,
+        "cachedAt": 1786565996645,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -25647,7 +25656,7 @@
           "fixHint": null
         }
       },
-      "at": 1786537189963
+      "at": 1786565997535
     },
     "dublado|3||120": {
       "data": {
@@ -26460,7 +26469,7 @@
         "page": 3,
         "hasMore": true,
         "total": 120,
-        "cachedAt": 1786537190915,
+        "cachedAt": 1786565998500,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -26507,7 +26516,7 @@
           "fixHint": null
         }
       },
-      "at": 1786537191700
+      "at": 1786565999379
     },
     "partner:animesdigital|lancamentos|1||24": {
       "data": {
@@ -28205,9 +28214,19 @@
                 "slug": "sankarea"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "sankarea"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season"
               }
             ]
           },
@@ -28425,6 +28444,172 @@
             ]
           },
           {
+            "title": "Episódio 8",
+            "epTitle": "Episódio 8",
+            "slug": "heroine-seijo-iie-all-works-maid-desu-hokori",
+            "episode": 8,
+            "url": "https://animesdrive.online/episodio/heroine-seijo-iie-all-works-maid-desu-hokori-episodio-08",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/8eLZM9glHZuhzkiGUKDwIkqlPnQ-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "heroine-seijo-iie-all-works-maid-desu-hokori"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "heroine-seijo-iie-all-works-maid-desu-hokori"
+              }
+            ]
+          },
+          {
+            "title": "Episódio 6",
+            "epTitle": "Episódio 6",
+            "slug": "youjo-senki-ii",
+            "episode": 6,
+            "url": "https://animesdrive.online/episodio/youjo-senki-ii-episodio-06",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/fh2xBJdudbA83Gqxm28Tvt5lDzj-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "youjo-senki-ii"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "yoroi-shin-den-samurai-troopers-part-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "honoo-no-toukyuujo-dodge-danko"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "migawari-reijou-wo-sukutta-no-wa-reikoku-mujihi-na-koori-no-ouji-no-ai-deshita"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sora-wa-akai-kawa-no-hotori"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "koukaku-kidoutai-tv"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tefuda-ga-oome-no-victoria"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kimi-ga-shinu-made-koi-wo-shitai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "grand-blue-season-3"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "suterare-seijo-no-isekai-gohan-tabi-kakure-skill-de-camping-car-wo-shoukan-shimashita"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "youjo-senki-ii"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "yoroi-shin-den-samurai-troopers-part-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "honoo-no-toukyuujo-dodge-danko"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "migawari-reijou-wo-sukutta-no-wa-reikoku-mujihi-na-koori-no-ouji-no-ai-deshita"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sora-wa-akai-kawa-no-hotori"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "koukaku-kidoutai-tv"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tefuda-ga-oome-no-victoria"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kimi-ga-shinu-made-koi-wo-shitai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "grand-blue-season-3"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "suterare-seijo-no-isekai-gohan-tabi-kakure-skill-de-camping-car-wo-shoukan-shimashita"
+              }
+            ]
+          },
+          {
             "title": "Episódio 6",
             "epTitle": "Episódio 6",
             "slug": "koukaku-kidoutai-tv-dublado",
@@ -28458,139 +28643,6 @@
             ]
           },
           {
-            "title": "Episódio 6",
-            "epTitle": "Episódio 6",
-            "slug": "yoroi-shin-den-samurai-troopers-part-2",
-            "episode": 6,
-            "url": "https://animesdrive.online/episodio/yoroi-shin-den-samurai-troopers-part-2-episodio-06",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/AiiD8Vwm3HVuJnQ0cNcJcm1M8bU-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "yoroi-shin-den-samurai-troopers-part-2"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "honoo-no-toukyuujo-dodge-danko"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "migawari-reijou-wo-sukutta-no-wa-reikoku-mujihi-na-koori-no-ouji-no-ai-deshita"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "sora-wa-akai-kawa-no-hotori"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "koukaku-kidoutai-tv"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "tefuda-ga-oome-no-victoria"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "kimi-ga-shinu-made-koi-wo-shitai"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "grand-blue-season-3"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "suterare-seijo-no-isekai-gohan-tabi-kakure-skill-de-camping-car-wo-shoukan-shimashita"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "yoroi-shin-den-samurai-troopers-part-2"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "honoo-no-toukyuujo-dodge-danko"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "migawari-reijou-wo-sukutta-no-wa-reikoku-mujihi-na-koori-no-ouji-no-ai-deshita"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "sora-wa-akai-kawa-no-hotori"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "koukaku-kidoutai-tv"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "tefuda-ga-oome-no-victoria"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kimi-ga-shinu-made-koi-wo-shitai"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "grand-blue-season-3"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "suterare-seijo-no-isekai-gohan-tabi-kakure-skill-de-camping-car-wo-shoukan-shimashita"
-              }
-            ]
-          },
-          {
             "title": "Episódio 7",
             "epTitle": "Episódio 7",
             "slug": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu",
@@ -28607,19 +28659,9 @@
                 "slug": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu"
               },
               {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "world-is-dancing"
-              },
-              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "world-is-dancing"
               }
             ]
           },
@@ -28704,29 +28746,6 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "seihantai-na-kimi-to-boku-2nd-season-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu-dublado"
-              }
-            ]
-          },
-          {
-            "title": "Episódio 4",
-            "epTitle": "Episódio 4",
-            "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu-dublado",
-            "episode": 4,
-            "url": "https://animesdrive.online/episodio/mushoku-tensei-iii-isekai-ittara-honki-dasu-dublado-episodio-04",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/n5rzMFaXeEliZbXtjDswvU4T0Ss-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu-dublado"
               },
               {
                 "server": 3,
@@ -28884,7 +28903,7 @@
             ]
           },
           {
-            "title": "Seihantai na Kimi to Boku 2 (Dublado)",
+            "title": "Seihantai na Kimi to Boku 2 Dublado",
             "slug": "assistir-seihantai-na-kimi-to-boku-2-dublado",
             "url": "https://animesdigital.org/video/a/137914/",
             "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Seihantai-na-Kimi-to-Boku-2-Dublado.jpg",
@@ -28904,7 +28923,7 @@
             ]
           },
           {
-            "title": "Yomi no Tsugai (Dublado)",
+            "title": "Yomi no Tsugai Dublado",
             "slug": "assistir-yomi-no-tsugai-dublado",
             "url": "https://animesdigital.org/video/a/137911/",
             "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Yomi-no-Tsugai-dublado.jpg",
@@ -28922,6 +28941,128 @@
                 "slug": "1064087"
               }
             ]
+          },
+          {
+            "title": "Dogulwang (Tomb Raider King)",
+            "epTitle": "Episódio 6",
+            "slug": "1064421",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064421/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/DogulwangEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Hanazakari no Kimitachi e 2nd Season",
+            "epTitle": "Episódio 8",
+            "slug": "1064414",
+            "episode": 8,
+            "url": "https://www.anitube.zip/video/1064414/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Hanazakari-no-Kimitachi-e-2nd-SeasonEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Clevatess 2 (Dublado)",
+            "epTitle": "Episódio 6",
+            "slug": "1064418",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064418/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Clevatess-2-Dublado.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Lv999 no Murabito",
+            "epTitle": "Episódio 8",
+            "slug": "1064416",
+            "episode": 8,
+            "url": "https://www.anitube.zip/video/1064416/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Lv999-no-MurabitoEp.jpeg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Katainaka no Ossan Kensei ni Naru 2",
+            "epTitle": "Episódio 6",
+            "slug": "1064411",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064411/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Katainaka-no-Ossan-Kensei-ni-Naru-2Ep.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1064411"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1063930"
+              }
+            ]
+          },
+          {
+            "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
+            "epTitle": "Episódio 6",
+            "slug": "1064408",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064408/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Otome-Game-Sekai-wa-Mob-ni-Kibishii-Sekai-desu-2.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
+            "epTitle": "Episódio 12",
+            "slug": "1064407",
+            "episode": 12,
+            "url": "https://www.anitube.zip/video/1064407/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Re-Zero-kara-Hajimeru-Isekai-Seikatsu-4Ep.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Heroine? Seijo? Iie All Works Maid desu",
+            "epTitle": "Episódio 8",
+            "slug": "1064405",
+            "episode": 8,
+            "url": "https://www.anitube.zip/video/1064405/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Heroine-Seijo-Iie-All-Works-Maid-desuEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Youjo Senki 2",
+            "epTitle": "Episódio 6",
+            "slug": "1064403",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064403/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Youjo-Senki-2eP.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Clevatess 2",
+            "epTitle": "Episódio 6",
+            "slug": "1064401",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064401/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Clevatess-2Ep.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
           },
           {
             "title": "The Ghost in the Shell (2026) Dublado",
@@ -28947,184 +29088,10 @@
             ]
           },
           {
-            "title": "Grand Blue III",
-            "epTitle": "Episódio 6",
-            "slug": "1064081",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064081/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Grand-Blue-IIIEp.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-grand-blue-iii"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1064081"
-              }
-            ]
-          },
-          {
-            "title": "Tenkou-saki no Seiso Karen na Bishoujo",
-            "epTitle": "Episódio 6",
-            "slug": "1064077",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064077/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Tenkou-saki-no-Seiso-Karen-na-BishoujoEp-1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-tenkou-saki-no-seiso-karen-na-bishoujo"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1064077"
-              }
-            ]
-          },
-          {
-            "title": "Gaikotsu Kishi-sama II",
-            "epTitle": "Episódio 6",
-            "slug": "1064072",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064072/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/gaikotsu-kishi-sama-ii-thumbpadra1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-gaikotsu-kishi-sama-ii"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1064072"
-              }
-            ]
-          },
-          {
-            "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
-            "epTitle": "Episódio 6",
-            "slug": "1064070",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064070/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Saikyou-Degarashi-Ouji-no-Anyaku-Teii-ArasoiEp.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-saikyou-degarashi-ouji-no-anyaku-teii-arasoi"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1064070"
-              }
-            ]
-          },
-          {
-            "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita",
-            "epTitle": "Episódio 6",
-            "slug": "1064068",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064068/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Toumei-na-Yoru-ni-Kakeru-Kimi-to-Me-ni-Mienai-Koi-wo-ShitaEp.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-toumei-na-yoru-ni-kakeru-kimi-to,-me-ni-mienai-koi-wo-shita"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1064068"
-              }
-            ]
-          },
-          {
-            "title": "MAO",
-            "epTitle": "Episódio 19",
-            "slug": "1064066",
-            "episode": 19,
-            "url": "https://www.anitube.zip/video/1064066/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/MAOEp-1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-mao"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1064066"
-              }
-            ]
-          },
-          {
             "title": "Miraculous — 1ª Temporada",
             "slug": "miraculous-t1",
             "url": "https://miraculum.ml/pt-br/episodes?s=1",
             "poster": "https://image.tmdb.org/t/p/w500/o14MqblEe6YBODpzppwXasPjT6k.jpg",
-            "kind": "anime",
-            "provider": "miraculum",
-            "audioHint": "dub"
-          },
-          {
-            "title": "Miraculous — 2ª Temporada",
-            "slug": "miraculous-t2",
-            "url": "https://miraculum.ml/pt-br/episodes?s=2",
-            "poster": "https://image.tmdb.org/t/p/w500/5LXzwYLvxVrxm8LpV3i7qUznSrx.jpg",
-            "kind": "anime",
-            "provider": "miraculum",
-            "audioHint": "dub"
-          },
-          {
-            "title": "Miraculous — 3ª Temporada",
-            "slug": "miraculous-t3",
-            "url": "https://miraculum.ml/pt-br/episodes?s=3",
-            "poster": "https://image.tmdb.org/t/p/w500/ctdMxZIjB5aNhedUDSaz8SvhrRv.jpg",
-            "kind": "anime",
-            "provider": "miraculum",
-            "audioHint": "dub"
-          },
-          {
-            "title": "Miraculous — 4ª Temporada",
-            "slug": "miraculous-t4",
-            "url": "https://miraculum.ml/pt-br/episodes?s=4",
-            "poster": "https://image.tmdb.org/t/p/w500/vtj0kJlYQusRN4FEtOu8NxZhDEV.jpg",
-            "kind": "anime",
-            "provider": "miraculum",
-            "audioHint": "dub"
-          },
-          {
-            "title": "Miraculous — 5ª Temporada",
-            "slug": "miraculous-t5",
-            "url": "https://miraculum.ml/pt-br/episodes?s=5",
-            "poster": "https://image.tmdb.org/t/p/w500/1IPq9vArG8KRRMIMomPVtJNUqk6.jpg",
             "kind": "anime",
             "provider": "miraculum",
             "audioHint": "dub"
@@ -29133,8 +29100,8 @@
         "category": "lancamentos",
         "page": 1,
         "hasMore": true,
-        "total": 130,
-        "cachedAt": 1786537179107,
+        "total": 131,
+        "cachedAt": 1786565986871,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -29181,11 +29148,120 @@
           "fixHint": null
         }
       },
-      "at": 1786537179863
+      "at": 1786565987672
     },
     "lancamentos|2||120": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 15",
+            "epTitle": "Episódio 15",
+            "slug": "yomi-no-tsugai-dublado",
+            "episode": 15,
+            "url": "https://animesdrive.online/episodio/yomi-no-tsugai-dublado-episodio-15",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/9jrdG4GClY4apYJV1vt3W4Vgjnp-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "yomi-no-tsugai-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "yomi-no-tsugai-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "yomi-no-tsugai-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Episódio 17",
+            "epTitle": "Episódio 17",
+            "slug": "honzuki-no-gekokujou-4",
+            "episode": 17,
+            "url": "https://animesdrive.online/episodio/honzuki-no-gekokujou-4-episodio-17",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/XT1psr7dqPbPLblwZYWhFgSJs2-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "honzuki-no-gekokujou-4"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tensei-shitara-slime-datta-ken-4th-season"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "honzuki-no-gekokujou-4"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tensei-shitara-slime-datta-ken-4th-season"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "honzuki-no-gekokujou-4"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tensei-shitara-slime-datta-ken-4th-season"
+              }
+            ]
+          },
+          {
+            "title": "Episódio 18",
+            "epTitle": "Episódio 18",
+            "slug": "yomi-no-tsugai",
+            "episode": 18,
+            "url": "https://animesonline.cloud/episodio/yomi-no-tsugai-episodio-18",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/qR7ZgiwykVNMQ2tx31Gm0BW8a4A-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "yomi-no-tsugai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "yomi-no-tsugai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kuroneko-to-majo-no-kyoushitsu"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "yomi-no-tsugai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kuroneko-to-majo-no-kyoushitsu"
+              }
+            ]
+          },
           {
             "title": "Episódio 2",
             "epTitle": "Episódio 2",
@@ -29846,6 +29922,11 @@
                 "slug": "sora-wa-akai-kawa-no-hotori"
               },
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "youjo-senki-ii"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru"
@@ -30250,59 +30331,6 @@
             ]
           },
           {
-            "title": "Episódio 8",
-            "epTitle": "Episódio 8",
-            "slug": "kanojo-okarishimasu-5th-season-dublado",
-            "episode": 8,
-            "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-dublado-episodio-08",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/njbXxyOreIkc1dpP3vlpsjDfD1i-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "kanojo-okarishimasu-5th-season-dublado"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "marriagetoxin-dublado"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "star-wars-visions-apresenta-a-nona-jedi-dublado"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "x-men-97-season-2-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "star-wars-visions-apresenta-a-nona-jedi-dublado"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "x-men-97-season-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "star-wars-visions-apresenta-a-nona-jedi-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "x-men-97-season-2-dublado"
-              }
-            ]
-          },
-          {
             "title": "Episódio 1173",
             "epTitle": "Episódio 1173",
             "slug": "one-piece",
@@ -30322,39 +30350,6 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "one-piece"
-              }
-            ]
-          },
-          {
-            "title": "Episódio 18",
-            "epTitle": "Episódio 18",
-            "slug": "kuroneko-to-majo-no-kyoushitsu",
-            "episode": 18,
-            "url": "https://animesdrive.online/episodio/kuroneko-to-majo-no-kyoushitsu-episodio-18",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/5KZoU3NFFMgwqhVujrLYoOCZ8eN-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "kuroneko-to-majo-no-kyoushitsu"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "yomi-no-tsugai"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kuroneko-to-majo-no-kyoushitsu"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "yomi-no-tsugai"
               }
             ]
           },
@@ -30448,27 +30443,126 @@
             ]
           },
           {
-            "title": "Episódio 15",
-            "epTitle": "Episódio 15",
-            "slug": "yomi-no-tsugai-dublado",
-            "episode": 15,
-            "url": "https://animesdrive.online/episodio/yomi-no-tsugai-dublado-episodio-15",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/9jrdG4GClY4apYJV1vt3W4Vgjnp-300x170.jpg",
+            "title": "Dogulwang (Tomb Raider King)",
+            "epTitle": "Episódio 6",
+            "slug": "1064421",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064421/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/DogulwangEp.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Hanazakari no Kimitachi e 2nd Season",
+            "epTitle": "Episódio 8",
+            "slug": "1064414",
+            "episode": 8,
+            "url": "https://www.anitube.zip/video/1064414/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Hanazakari-no-Kimitachi-e-2nd-SeasonEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Clevatess 2 (Dublado)",
+            "epTitle": "Episódio 6",
+            "slug": "1064418",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064418/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Clevatess-2-Dublado.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Lv999 no Murabito",
+            "epTitle": "Episódio 8",
+            "slug": "1064416",
+            "episode": 8,
+            "url": "https://www.anitube.zip/video/1064416/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Lv999-no-MurabitoEp.jpeg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Katainaka no Ossan Kensei ni Naru 2",
+            "epTitle": "Episódio 6",
+            "slug": "1064411",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064411/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Katainaka-no-Ossan-Kensei-ni-Naru-2Ep.jpg",
+            "kind": "anime",
+            "provider": "anitube",
             "isRelease": true,
             "animeSources": [
               {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "yomi-no-tsugai-dublado"
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1064411"
               },
               {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "yomi-no-tsugai-dublado"
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1063930"
               }
             ]
+          },
+          {
+            "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
+            "epTitle": "Episódio 6",
+            "slug": "1064408",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064408/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Otome-Game-Sekai-wa-Mob-ni-Kibishii-Sekai-desu-2.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
+            "epTitle": "Episódio 12",
+            "slug": "1064407",
+            "episode": 12,
+            "url": "https://www.anitube.zip/video/1064407/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Re-Zero-kara-Hajimeru-Isekai-Seikatsu-4Ep.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Heroine? Seijo? Iie All Works Maid desu",
+            "epTitle": "Episódio 8",
+            "slug": "1064405",
+            "episode": 8,
+            "url": "https://www.anitube.zip/video/1064405/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Heroine-Seijo-Iie-All-Works-Maid-desuEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Youjo Senki 2",
+            "epTitle": "Episódio 6",
+            "slug": "1064403",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064403/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Youjo-Senki-2eP.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Clevatess 2",
+            "epTitle": "Episódio 6",
+            "slug": "1064401",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064401/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Clevatess-2Ep.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
           },
           {
             "title": "The Ghost in the Shell (2026) Dublado",
@@ -30653,296 +30747,13 @@
                 "slug": "1064085"
               }
             ]
-          },
-          {
-            "title": "Seihantai na Kimi to Boku 2 (Dublado)",
-            "epTitle": "Episódio 3",
-            "slug": "1064089",
-            "episode": 3,
-            "url": "https://www.anitube.zip/video/1064089/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Seihantai-na-Kimi-to-Boku-2-Dublado.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-seihantai-na-kimi-to-boku-2-dublado"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1064089"
-              }
-            ]
-          },
-          {
-            "title": "Black Torch (Dublado)",
-            "epTitle": "Episódio 6",
-            "slug": "1064088",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064088/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Black-Torch-dublado.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "assistir-black-torch-dublado"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "1064088"
-              },
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-black-torch-dublado"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1064088"
-              }
-            ]
-          },
-          {
-            "title": "Yomi no Tsugai (Dublado)",
-            "epTitle": "Episódio 15",
-            "slug": "1064087",
-            "episode": 15,
-            "url": "https://www.anitube.zip/video/1064087/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Yomi-no-Tsugai-dublado.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-yomi-no-tsugai-dublado"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1064087"
-              }
-            ]
-          },
-          {
-            "title": "Grand Blue III",
-            "epTitle": "Episódio 6",
-            "slug": "1064081",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064081/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Grand-Blue-IIIEp.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-grand-blue-iii"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1064081"
-              }
-            ]
-          },
-          {
-            "title": "Tenkou-saki no Seiso Karen na Bishoujo",
-            "epTitle": "Episódio 6",
-            "slug": "1064077",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064077/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Tenkou-saki-no-Seiso-Karen-na-BishoujoEp-1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-tenkou-saki-no-seiso-karen-na-bishoujo"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1064077"
-              }
-            ]
-          },
-          {
-            "title": "Buchigire Reijou wa Houfuku wo Chikaimashita",
-            "epTitle": "Episódio 6",
-            "slug": "1064074",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064074/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Buchigire-Reijou-wa-Houfuku-wo-ChikaimashitaEp-1.jpeg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "assistir-buchigire-reijou-wa-houfuku-wo-chikaimashita"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "1064074"
-              },
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-buchigire-reijou-wa-houfuku-wo-chikaimashita"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1064074"
-              }
-            ]
-          },
-          {
-            "title": "Gaikotsu Kishi-sama II",
-            "epTitle": "Episódio 6",
-            "slug": "1064072",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064072/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/gaikotsu-kishi-sama-ii-thumbpadra1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-gaikotsu-kishi-sama-ii"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1064072"
-              }
-            ]
-          },
-          {
-            "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
-            "epTitle": "Episódio 6",
-            "slug": "1064070",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064070/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Saikyou-Degarashi-Ouji-no-Anyaku-Teii-ArasoiEp.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-saikyou-degarashi-ouji-no-anyaku-teii-arasoi"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1064070"
-              }
-            ]
-          },
-          {
-            "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita",
-            "epTitle": "Episódio 6",
-            "slug": "1064068",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064068/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Toumei-na-Yoru-ni-Kakeru-Kimi-to-Me-ni-Mienai-Koi-wo-ShitaEp.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-toumei-na-yoru-ni-kakeru-kimi-to,-me-ni-mienai-koi-wo-shita"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1064068"
-              }
-            ]
-          },
-          {
-            "title": "MAO",
-            "epTitle": "Episódio 19",
-            "slug": "1064066",
-            "episode": 19,
-            "url": "https://www.anitube.zip/video/1064066/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/MAOEp-1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-mao"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1064066"
-              }
-            ]
-          },
-          {
-            "title": "Azur Lane: Bisoku Zenshin! Ni!!",
-            "epTitle": "Episódio 6",
-            "slug": "1064063",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064063/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/azur-lane-bisoku-zenshin-ni-thumbpadra1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "assistir-azur-lane:-bisoku-zenshin!-ni!!"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "1064063"
-              },
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-azur-lane:-bisoku-zenshin!-ni!!"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1064063"
-              }
-            ]
           }
         ],
         "category": "lancamentos",
         "page": 2,
         "hasMore": true,
-        "total": 129,
-        "cachedAt": 1786537180735,
+        "total": 135,
+        "cachedAt": 1786565988616,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -30989,7 +30800,7 @@
           "fixHint": null
         }
       },
-      "at": 1786537181560
+      "at": 1786565989392
     },
     "lancamentos|1||24": {
       "data": {
@@ -34263,6 +34074,39 @@
       "data": {
         "items": [
           {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/rezero-kara-hajimeru-isekai-seikatsu-4th-season-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/nmP9hCl3F9YnrziLaH4wUVYrKdK-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 8",
+            "epTitle": "Episódio 8",
+            "slug": "heroine-seijo-iie-all-works-maid-desu-hokori",
+            "episode": 8,
+            "url": "https://animesonline.cloud/episodio/heroine-seijo-iie-all-works-maid-desu-hokori-episodio-08",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/8eLZM9glHZuhzkiGUKDwIkqlPnQ-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 6",
+            "epTitle": "Episódio 6",
+            "slug": "youjo-senki-ii",
+            "episode": 6,
+            "url": "https://animesonline.cloud/episodio/youjo-senki-ii-episodio-06",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/fh2xBJdudbA83Gqxm28Tvt5lDzj-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
             "title": "Episódio 6",
             "epTitle": "Episódio 6",
             "slug": "koukaku-kidoutai-tv-dublado",
@@ -34492,46 +34336,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 6",
-            "epTitle": "Episódio 6",
-            "slug": "nijuuseiki-denki-mokuroku-eureka-evrika-dublado",
-            "episode": 6,
-            "url": "https://animesonline.cloud/episodio/nijuuseiki-denki-mokuroku-eureka-evrika-dublado-episodio-06",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/yYcwPtS9krNPeJS85gd2uF403Q1-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 3",
-            "epTitle": "Episódio 3",
-            "slug": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season-dublado",
-            "episode": 3,
-            "url": "https://animesonline.cloud/episodio/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season-dublado-episodio-03",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/8RwyJqf6QgmPLnhOzLGk9Nf0xOD-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 3",
-            "epTitle": "Episódio 3",
-            "slug": "seihantai-na-kimi-to-boku-2nd-season-dublado",
-            "episode": 3,
-            "url": "https://animesonline.cloud/episodio/seihantai-na-kimi-to-boku-2nd-season-dublado-episodio-03",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/e1O9AH0CtDf4SNHoA1sHplhqx9q-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1786537179107
+      "at": 1786565986871
     },
     "partner:miraculum|lancamentos|1||24": {
       "data": {
@@ -63567,7 +63378,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537127785
+      "at": 1786565932504
     },
     "todos|24||120": {
       "data": {
@@ -63742,11 +63553,11 @@
           {
             "title": "Madougushi Dahliya wa Utsumukanai – Todos os Episódios",
             "slug": "madougushi-dahliya-wa-utsumukanai",
-            "url": "https://animesdrive.online/anime/madougushi-dahliya-wa-utsumukanai",
+            "url": "https://animesonline.cloud/anime/madougushi-dahliya-wa-utsumukanai",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/m7Kh9um0MCzIz81ZVTB1dxFtaGT-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -64135,11 +63946,11 @@
           {
             "title": "Make Heroine ga Oosugiru!",
             "slug": "make-heroine-ga-oosugiru",
-            "url": "https://animesdrive.online/anime/make-heroine-ga-oosugiru",
+            "url": "https://animesonline.cloud/anime/make-heroine-ga-oosugiru",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/12/2dN2KY7cGtyzvA51zgxQ5Q8hXit-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -64485,11 +64296,11 @@
           {
             "title": "Mayonaka Punch – Todos os Episódios",
             "slug": "mayonaka-punch",
-            "url": "https://animesdrive.online/anime/mayonaka-punch",
+            "url": "https://animesonline.cloud/anime/mayonaka-punch",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/uEJP8bv6meVPfJeoOlMdCnIy84S-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -64522,7 +64333,7 @@
         "page": 24,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786551514487,
+        "cachedAt": 1786565930780,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -64569,7 +64380,7 @@
           "fixHint": null
         }
       },
-      "at": 1786551514571
+      "at": 1786565932705
     },
     "partner:anitube|todos|25||48": {
       "data": {
@@ -64724,7 +64535,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537128337
+      "at": 1786565933042
     },
     "todos|25||48": {
       "data": {
@@ -65004,7 +64815,7 @@
         "page": 25,
         "hasMore": true
       },
-      "at": 1786551516049
+      "at": 1786565933735
     },
     "partner:animesdrive|todos|25||48": {
       "data": {
@@ -65255,7 +65066,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537128987
+      "at": 1786565933660
     },
     "partner:animeplay|todos|25||48": {
       "data": {
@@ -65506,7 +65317,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537129699
+      "at": 1786565934476
     },
     "todos|25||120": {
       "data": {
@@ -65797,11 +65608,11 @@
           {
             "title": "Mob kara Hajimaru Tansaku Eiyuutan – Todos Os Episódios",
             "slug": "mob-kara-hajimaru-tansaku-eiyuutan",
-            "url": "https://animesdrive.online/anime/mob-kara-hajimaru-tansaku-eiyuutan",
+            "url": "https://animesonline.cloud/anime/mob-kara-hajimaru-tansaku-eiyuutan",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/hY8rN6dkGHp8LC1fE24cqeFoSfJ-212x300-1-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -65923,11 +65734,11 @@
           {
             "title": "Monogatari Bakemonogatari – Todos os Episodios",
             "slug": "bakemonogatari",
-            "url": "https://animesdrive.online/anime/bakemonogatari-todos-os-episodios",
+            "url": "https://animesonline.cloud/anime/bakemonogatari-todos-os-episodios",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/Bakemonogatari-AnimeQ-185x272.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -66278,11 +66089,11 @@
           {
             "title": "Na Nare Hana Nare – Todos os Episodios",
             "slug": "na-nare-hana-nare",
-            "url": "https://animesdrive.online/anime/na-nare-hana-nare",
+            "url": "https://animesonline.cloud/anime/na-nare-hana-nare",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/Na-Nare-Hana-Nare-AnimeDrive-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -66306,7 +66117,7 @@
         "page": 25,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786551516049,
+        "cachedAt": 1786565933735,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -66353,7 +66164,7 @@
           "fixHint": null
         }
       },
-      "at": 1786551516148
+      "at": 1786565934614
     },
     "partner:anitube|todos|26||48": {
       "data": {
@@ -66508,7 +66319,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537130231
+      "at": 1786565934959
     },
     "todos|26||48": {
       "data": {
@@ -66788,7 +66599,7 @@
         "page": 26,
         "hasMore": true
       },
-      "at": 1786551517388
+      "at": 1786565935543
     },
     "partner:animesdrive|todos|26||48": {
       "data": {
@@ -67039,7 +66850,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537130812
+      "at": 1786565935654
     },
     "partner:animeplay|todos|26||48": {
       "data": {
@@ -67290,7 +67101,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537131678
+      "at": 1786565936328
     },
     "todos|26||120": {
       "data": {
@@ -67485,11 +67296,11 @@
           {
             "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
             "slug": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
-            "url": "https://animesdrive.online/anime/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
+            "url": "https://animesonline.cloud/anime/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/6U4SotIXAsqOAhsB3gk3m8ushye-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -68118,7 +67929,7 @@
         "page": 26,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786551517388,
+        "cachedAt": 1786565935543,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -68165,7 +67976,7 @@
           "fixHint": null
         }
       },
-      "at": 1786551517481
+      "at": 1786565936464
     },
     "partner:anitube|todos|27||48": {
       "data": {
@@ -68320,7 +68131,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537132171
+      "at": 1786565936808
     },
     "todos|27||48": {
       "data": {
@@ -68600,7 +68411,7 @@
         "page": 27,
         "hasMore": true
       },
-      "at": 1786551518591
+      "at": 1786565937434
     },
     "partner:animesdrive|todos|27||48": {
       "data": {
@@ -68843,7 +68654,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537132894
+      "at": 1786565937393
     },
     "partner:animeplay|todos|27||48": {
       "data": {
@@ -69078,7 +68889,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537133516
+      "at": 1786565938632
     },
     "todos|27||120": {
       "data": {
@@ -69931,7 +69742,7 @@
         "page": 27,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786551518591,
+        "cachedAt": 1786565937434,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -69978,7 +69789,7 @@
           "fixHint": null
         }
       },
-      "at": 1786551518691
+      "at": 1786565938925
     },
     "partner:anitube|todos|28||48": {
       "data": {
@@ -70133,7 +69944,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537134242
+      "at": 1786565939267
     },
     "todos|28||48": {
       "data": {
@@ -70386,7 +70197,7 @@
         "page": 28,
         "hasMore": true
       },
-      "at": 1786551519693
+      "at": 1786565939900
     },
     "partner:animesdrive|todos|28||48": {
       "data": {
@@ -70621,7 +70432,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537134822
+      "at": 1786565939862
     },
     "partner:animeplay|todos|28||48": {
       "data": {
@@ -70864,7 +70675,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537135486
+      "at": 1786565940711
     },
     "todos|28||120": {
       "data": {
@@ -71670,7 +71481,7 @@
         "page": 28,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786551519693,
+        "cachedAt": 1786565939900,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -71717,7 +71528,7 @@
           "fixHint": null
         }
       },
-      "at": 1786551519803
+      "at": 1786565941051
     },
     "partner:anitube|todos|29||48": {
       "data": {
@@ -71872,7 +71683,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537136196
+      "at": 1786565941391
     },
     "todos|29||48": {
       "data": {
@@ -72152,7 +71963,7 @@
         "page": 29,
         "hasMore": true
       },
-      "at": 1786551520718
+      "at": 1786565941946
     },
     "partner:animesdrive|todos|29||48": {
       "data": {
@@ -72403,7 +72214,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537136782
+      "at": 1786565942041
     },
     "partner:animeplay|todos|29||48": {
       "data": {
@@ -72654,7 +72465,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537137444
+      "at": 1786565942872
     },
     "todos|29||120": {
       "data": {
@@ -73380,7 +73191,7 @@
         "page": 29,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786551520718,
+        "cachedAt": 1786565941946,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -73427,7 +73238,7 @@
           "fixHint": null
         }
       },
-      "at": 1786551520813
+      "at": 1786565943020
     },
     "partner:anitube|todos|30||48": {
       "data": {
@@ -73582,7 +73393,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537137954
+      "at": 1786565943365
     },
     "todos|30||48": {
       "data": {
@@ -73844,7 +73655,7 @@
         "page": 30,
         "hasMore": true
       },
-      "at": 1786551521816
+      "at": 1786565943957
     },
     "partner:animesdrive|todos|30||48": {
       "data": {
@@ -74079,7 +73890,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537138648
+      "at": 1786565944071
     },
     "partner:animeplay|todos|30||48": {
       "data": {
@@ -74314,7 +74125,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537139177
+      "at": 1786565944840
     },
     "todos|30||120": {
       "data": {
@@ -75176,7 +74987,7 @@
         "page": 30,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786551521816,
+        "cachedAt": 1786565943957,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -75223,7 +75034,7 @@
           "fixHint": null
         }
       },
-      "at": 1786551521921
+      "at": 1786565945222
     },
     "partner:anitube|todos|31||48": {
       "data": {
@@ -75378,7 +75189,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537139838
+      "at": 1786565945562
     },
     "todos|31||48": {
       "data": {
@@ -75640,7 +75451,7 @@
         "page": 31,
         "hasMore": true
       },
-      "at": 1786551522836
+      "at": 1786565946209
     },
     "partner:animesdrive|todos|31||48": {
       "data": {
@@ -75875,7 +75686,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537140486
+      "at": 1786565946168
     },
     "partner:animeplay|todos|31||48": {
       "data": {
@@ -76110,7 +75921,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537141070
+      "at": 1786565946958
     },
     "todos|31||120": {
       "data": {
@@ -76668,15 +76479,6 @@
             ]
           },
           {
-            "title": "Super no Ura de Yani Suu Futari",
-            "slug": "super-no-ura-de-yani-suu-futari",
-            "url": "https://animesonline.cloud/anime/super-no-ura-de-yani-suu-futari",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/nSdgX507jBlonGFC91Ve0TfcLjJ-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Super no Ura de Yani Suu Futari Dublado",
             "slug": "super-no-ura-de-yani-suu-futari-dublado",
             "url": "https://animesonline.cloud/anime/super-no-ura-de-yani-suu-futari-dublado",
@@ -76921,7 +76723,7 @@
             "url": "https://animesdrive.online/anime/sword-art-online",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/htNohqrYEwuz4fCa9ATVF90s58S-185x278.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "rating": "8.2"
           },
           {
@@ -76985,13 +76787,33 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "8.2"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 31,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786551522836,
+        "cachedAt": 1786565946209,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -77038,7 +76860,7 @@
           "fixHint": null
         }
       },
-      "at": 1786551522921
+      "at": 1786565947342
     },
     "partner:anitube|todos|32||48": {
       "data": {
@@ -77193,7 +77015,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537141718
+      "at": 1786565947687
     },
     "todos|32||48": {
       "data": {
@@ -77464,7 +77286,7 @@
         "page": 32,
         "hasMore": true
       },
-      "at": 1786551523858
+      "at": 1786565948332
     },
     "partner:animesdrive|todos|32||48": {
       "data": {
@@ -77707,7 +77529,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537142301
+      "at": 1786565948295
     },
     "partner:animeplay|todos|32||48": {
       "data": {
@@ -77950,7 +77772,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537143077
+      "at": 1786565949073
     },
     "todos|32||120": {
       "data": {
@@ -78783,7 +78605,7 @@
         "page": 32,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786551523858,
+        "cachedAt": 1786565948332,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -78830,7 +78652,7 @@
           "fixHint": null
         }
       },
-      "at": 1786551523958
+      "at": 1786565949339
     },
     "partner:anitube|todos|33||48": {
       "data": {
@@ -78985,7 +78807,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537143677
+      "at": 1786565949687
     },
     "todos|33||48": {
       "data": {
@@ -79256,7 +79078,7 @@
         "page": 33,
         "hasMore": true
       },
-      "at": 1786551524976
+      "at": 1786565950304
     },
     "partner:animesdrive|todos|33||48": {
       "data": {
@@ -79499,7 +79321,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537144305
+      "at": 1786565951559
     },
     "partner:animeplay|todos|33||48": {
       "data": {
@@ -79742,7 +79564,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537144822
+      "at": 1786565951402
     },
     "todos|33||120": {
       "data": {
@@ -79996,11 +79818,11 @@
           {
             "title": "Tomo-chan wa Onnanoko! – Todos os Episodios",
             "slug": "tomo-chan-is-a-girl",
-            "url": "https://animesdrive.online/anime/tomo-chan-is-a-girl",
+            "url": "https://animesonline.cloud/anime/tomo-chan-is-a-girl",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/554QpBr323KeYYYKQ3S9zKb3JnF-185x278.jpg",
             "rating": "7.4",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -80468,7 +80290,7 @@
         "page": 33,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786551524976,
+        "cachedAt": 1786565950304,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -80515,7 +80337,7 @@
           "fixHint": null
         }
       },
-      "at": 1786551525084
+      "at": 1786565951814
     },
     "partner:anitube|todos|34||48": {
       "data": {
@@ -80670,7 +80492,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537145408
+      "at": 1786565952155
     },
     "todos|34||48": {
       "data": {
@@ -80923,7 +80745,7 @@
         "page": 34,
         "hasMore": true
       },
-      "at": 1786551526104
+      "at": 1786565952831
     },
     "partner:animesdrive|todos|34||48": {
       "data": {
@@ -81150,7 +80972,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537146085
+      "at": 1786565952777
     },
     "partner:animeplay|todos|34||48": {
       "data": {
@@ -81377,7 +81199,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537146644
+      "at": 1786565953505
     },
     "todos|34||120": {
       "data": {
@@ -81773,11 +81595,11 @@
           {
             "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta – Todos os Episódios",
             "slug": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
-            "url": "https://animesdrive.online/anime/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
+            "url": "https://animesonline.cloud/anime/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/AnimeDrive-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -82074,7 +81896,7 @@
         "page": 34,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786551526104,
+        "cachedAt": 1786565952831,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -82121,7 +81943,7 @@
           "fixHint": null
         }
       },
-      "at": 1786551526187
+      "at": 1786565953630
     },
     "partner:anitube|todos|35||48": {
       "data": {
@@ -82276,7 +82098,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537147133
+      "at": 1786565954020
     },
     "todos|35||48": {
       "data": {
@@ -82538,7 +82360,7 @@
         "page": 35,
         "hasMore": true
       },
-      "at": 1786551527198
+      "at": 1786565954643
     },
     "partner:animesdrive|todos|35||48": {
       "data": {
@@ -82773,7 +82595,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537147777
+      "at": 1786565954555
     },
     "partner:animeplay|todos|35||48": {
       "data": {
@@ -83008,7 +82830,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537148472
+      "at": 1786565955286
     },
     "todos|35||120": {
       "data": {
@@ -83052,11 +82874,11 @@
           {
             "title": "Yamishibai Japanese Ghost Stories – Todos os Episódios",
             "slug": "yamishibai-japanese-ghost-stories",
-            "url": "https://animesdrive.online/anime/yamishibai-japanese-ghost-stories",
+            "url": "https://animesonline.cloud/anime/yamishibai-japanese-ghost-stories",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/zQJiBekYYqFhYwDnpJPrtYaoo27-185x278.jpg",
             "rating": "7.5",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -83121,15 +82943,6 @@
                 "slug": "yani-neko"
               }
             ]
-          },
-          {
-            "title": "Yani Neko",
-            "slug": "yani-neko",
-            "url": "https://animesonline.cloud/anime/yani-neko",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
-            "rating": "5",
-            "kind": "anime",
-            "provider": "aoc"
           },
           {
             "title": "Yani Neko Dublado",
@@ -83711,13 +83524,33 @@
             "rating": "10",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 35,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786551527198,
+        "cachedAt": 1786565954643,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -83764,7 +83597,7 @@
           "fixHint": null
         }
       },
-      "at": 1786551527279
+      "at": 1786565955416
     },
     "partner:anitube|todos|36||48": {
       "data": {
@@ -83919,7 +83752,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537148975
+      "at": 1786565955755
     },
     "todos|36||48": {
       "data": {
@@ -84190,7 +84023,7 @@
         "page": 36,
         "hasMore": true
       },
-      "at": 1786551528241
+      "at": 1786565956358
     },
     "partner:animesdrive|todos|36||48": {
       "data": {
@@ -84433,7 +84266,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537149552
+      "at": 1786565957992
     },
     "partner:animeplay|todos|36||48": {
       "data": {
@@ -84676,7 +84509,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537150260
+      "at": 1786565957118
     },
     "todos|36||120": {
       "data": {
@@ -84823,13 +84656,757 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "7,07"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesdrive.online/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              }
+            ]
+          },
+          {
+            "title": "Uzumaki – Todos os Episódios",
+            "slug": "uzumaki",
+            "url": "https://animesdrive.online/anime/uzumaki",
+            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "uzumaki"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "uzumaki"
+              }
+            ]
+          },
+          {
+            "title": "Hitoribocchi no Isekai Kouryaku",
+            "slug": "hitoribocchi-no-isekai-kouryaku",
+            "url": "https://animesdrive.online/anime/hitoribocchi-no-isekai-kouryaku",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              }
+            ]
+          },
+          {
+            "title": "Maou-sama, Retry! 2 – Todos os Episódios",
+            "slug": "maou-sama-retry",
+            "url": "https://animesdrive.online/anime/maou-sama-retry-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "maou-sama-retry"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "maou-sama-retry"
+              }
+            ]
+          },
+          {
+            "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
+            "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+            "url": "https://animesdrive.online/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              }
+            ]
+          },
+          {
+            "title": "Delico’s Nursery – Todos os Episódios",
+            "slug": "delicos-nursery",
+            "url": "https://animesdrive.online/anime/delicos-nursery",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/08/gtJ7jnoRE0a7SUvqB8vakdqKZuN-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "delicos-nursery"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "delicos-nursery"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "delicos-nursery"
+              }
+            ]
+          },
+          {
+            "title": "Kimi ni Todoke – Todos os Episódios",
+            "slug": "kimi-ni-todoke",
+            "url": "https://animesdrive.online/anime/kimi-ni-todoke",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/08/2XZ0Ofg1ZUZMFrbyWJuakSJAKZz-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kimi-ni-todoke"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kimi-ni-todoke"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kimi-ni-todoke"
+              }
+            ]
+          },
+          {
+            "title": "Horimiya: Piece – Todos os Episódios",
+            "slug": "horimiya-the-missing-pieces",
+            "url": "https://animesdrive.online/anime/horimiya-the-missing-pieces",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/08/nnGb4NYOyRfCl5DKYPIK9A0Cgww-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "horimiya-the-missing-pieces"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "horimiya-the-missing-pieces"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "horimiya-the-missing-pieces"
+              }
+            ]
+          },
+          {
+            "title": "Inazuma Eleven – Todos os Episódios",
+            "slug": "inazuma-eleven",
+            "url": "https://animesdrive.online/anime/inazuma-eleven",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/p0UiQl050IxYOZJ5u8tc7arG7kA-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "inazuma-eleven"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "inazuma-eleven"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "inazuma-eleven"
+              }
+            ]
+          },
+          {
+            "title": "Yamishibai Japanese Ghost Stories – Todos os Episódios",
+            "slug": "yamishibai-japanese-ghost-stories",
+            "url": "https://animesdrive.online/anime/yamishibai-japanese-ghost-stories",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/zQJiBekYYqFhYwDnpJPrtYaoo27-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "yamishibai-japanese-ghost-stories"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "yamishibai-japanese-ghost-stories"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "yamishibai-japanese-ghost-stories"
+              }
+            ]
+          },
+          {
+            "title": "Monogatari Bakemonogatari – Todos os Episodios",
+            "slug": "bakemonogatari",
+            "url": "https://animesdrive.online/anime/bakemonogatari-todos-os-episodios",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/Bakemonogatari-AnimeQ-185x272.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "bakemonogatari"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "bakemonogatari"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "bakemonogatari"
+              }
+            ]
+          },
+          {
+            "title": "0-saiji Start Dash Monogatari",
+            "slug": "0-saiji-start-dash-monogatari",
+            "url": "https://animesdrive.online/anime/0-saiji-start-dash-monogatari",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/qtYsZKmZejpaaOHJDSI6SOOThLs-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "0-saiji-start-dash-monogatari"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "0-saiji-start-dash-monogatari"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "0-saiji-start-dash-monogatari"
+              }
+            ]
+          },
+          {
+            "title": "Egumi Legacy – Todos os Episódios",
+            "slug": "egumi-legacy",
+            "url": "https://animesdrive.online/anime/egumi-legacy",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/6r7vA4WMBYwqqKo1ny7Teh1bYNO-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "egumi-legacy"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "egumi-legacy"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "egumi-legacy"
+              }
+            ]
+          },
+          {
+            "title": "Make Heroine ga Oosugiru!",
+            "slug": "make-heroine-ga-oosugiru",
+            "url": "https://animesdrive.online/anime/make-heroine-ga-oosugiru",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/2dN2KY7cGtyzvA51zgxQ5Q8hXit-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "make-heroine-ga-oosugiru"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "make-heroine-ga-oosugiru"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "make-heroine-ga-oosugiru"
+              }
+            ]
+          },
+          {
+            "title": "ATRI My Dear Moments – Todos Os Episódios",
+            "slug": "atri-my-dear-moments",
+            "url": "https://animesdrive.online/anime/atri-my-dear-moments",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/l6lVxakyK3NcTe7g6K0xm5ZLmZH-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "atri-my-dear-moments"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "atri-my-dear-moments"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "atri-my-dear-moments"
+              }
+            ]
+          },
+          {
+            "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
+            "slug": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
+            "url": "https://animesdrive.online/anime/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/6U4SotIXAsqOAhsB3gk3m8ushye-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka"
+              }
+            ]
+          },
+          {
+            "title": "Tomo-chan wa Onnanoko! – Todos os Episodios",
+            "slug": "tomo-chan-is-a-girl",
+            "url": "https://animesdrive.online/anime/tomo-chan-is-a-girl",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/554QpBr323KeYYYKQ3S9zKb3JnF-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tomo-chan-is-a-girl"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tomo-chan-is-a-girl"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tomo-chan-is-a-girl"
+              }
+            ]
+          },
+          {
+            "title": "Grendizer U – Todos os Episodios",
+            "slug": "grendizer-u",
+            "url": "https://animesdrive.online/anime/grendizer-u",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/uWaJrNKRSXSiEDuF0uK5PKOJdTd-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "grendizer-u"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "grendizer-u"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "grendizer-u"
+              }
+            ]
+          },
+          {
+            "title": "Koi wa Futago de Warikirenai – Todos os Episódios",
+            "slug": "koi-wa-futago-de-warikirenai",
+            "url": "https://animesdrive.online/anime/koi-wa-futago-de-warikirenai",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/rWW09ALeJVe3qerVejgp0e1Gbxm-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "koi-wa-futago-de-warikirenai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "koi-wa-futago-de-warikirenai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "koi-wa-futago-de-warikirenai"
+              }
+            ]
+          },
+          {
+            "title": "Kinnikuman: Kanpeki Chоujin Shiso-hen",
+            "slug": "kinnikuman-kanpeki-chоujin-shiso-hen",
+            "url": "https://animesdrive.online/anime/kinnikuman-kanpeki-ch%d0%beujin-shiso-hen",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/8kXDyWBKwXlZjTP4EVueZYzhBPc-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kinnikuman-kanpeki-chоujin-shiso-hen"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kinnikuman-kanpeki-chоujin-shiso-hen"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kinnikuman-kanpeki-chоujin-shiso-hen"
+              }
+            ]
+          },
+          {
+            "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita – Todos os Episódios",
+            "slug": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
+            "url": "https://animesdrive.online/anime/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/9NivXf13bsUsL5ipeZwByuwJLcB-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita"
+              }
+            ]
+          },
+          {
+            "title": "Mayonaka Punch – Todos os Episódios",
+            "slug": "mayonaka-punch",
+            "url": "https://animesdrive.online/anime/mayonaka-punch",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/uEJP8bv6meVPfJeoOlMdCnIy84S-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "mayonaka-punch"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "mayonaka-punch"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mayonaka-punch"
+              }
+            ]
+          },
+          {
+            "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu – Todos os Episódios",
+            "slug": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
+            "url": "https://animesdrive.online/anime/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/Isekai-Yururi-Kikou-Kosodateshinagara-Boukensha-Shimasu-AnimeDrive-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu"
+              }
+            ]
+          },
+          {
+            "title": "Na Nare Hana Nare – Todos os Episodios",
+            "slug": "na-nare-hana-nare",
+            "url": "https://animesdrive.online/anime/na-nare-hana-nare",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/Na-Nare-Hana-Nare-AnimeDrive-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "na-nare-hana-nare"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "na-nare-hana-nare"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "na-nare-hana-nare"
+              }
+            ]
+          },
+          {
+            "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta – Todos os Episódios",
+            "slug": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
+            "url": "https://animesdrive.online/anime/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/AnimeDrive-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta"
+              }
+            ]
+          },
+          {
+            "title": "Madougushi Dahliya wa Utsumukanai – Todos os Episódios",
+            "slug": "madougushi-dahliya-wa-utsumukanai",
+            "url": "https://animesdrive.online/anime/madougushi-dahliya-wa-utsumukanai",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/m7Kh9um0MCzIz81ZVTB1dxFtaGT-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "madougushi-dahliya-wa-utsumukanai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "madougushi-dahliya-wa-utsumukanai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "madougushi-dahliya-wa-utsumukanai"
+              }
+            ]
+          },
+          {
+            "title": "Mob kara Hajimaru Tansaku Eiyuutan – Todos Os Episódios",
+            "slug": "mob-kara-hajimaru-tansaku-eiyuutan",
+            "url": "https://animesdrive.online/anime/mob-kara-hajimaru-tansaku-eiyuutan",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/hY8rN6dkGHp8LC1fE24cqeFoSfJ-212x300-1-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "mob-kara-hajimaru-tansaku-eiyuutan"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "mob-kara-hajimaru-tansaku-eiyuutan"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mob-kara-hajimaru-tansaku-eiyuutan"
+              }
+            ]
+          },
+          {
+            "title": "Monogatari Series: Off & Monster Season – Todos os Episódios",
+            "slug": "monogatari-series-off-monster-season",
+            "url": "https://animesdrive.online/anime/monogatari-series-off-monster-season",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/4I7bBFPnr0tRGNJvhIC5PxGCVDu-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "monogatari-series-off-monster-season"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "monogatari-series-off-monster-season"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "monogatari-series-off-monster-season"
+              }
+            ]
+          },
+          {
+            "title": "Nige Jouzu no Wakagimi – Todos os Episódios",
+            "slug": "nige-jouzu-no-wakagimi",
+            "url": "https://animeplay.cloud/anime/nige-jouzu-no-wakagimi",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/07/8T3QsGzRvvAPUUw9Z1UjLNCQZlH-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "nige-jouzu-no-wakagimi"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nige-jouzu-no-wakagimi"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nige-jouzu-no-wakagimi"
+              }
+            ]
+          },
+          {
+            "title": "Cop Craft (Legendado)",
+            "slug": "880498",
+            "url": "https://www.anitube.zip/video/880498/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Cop-Craft-Todos-os-Episódios-AniTube.png",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Copihan (Legendado)",
+            "slug": "58988",
+            "url": "https://www.anitube.zip/video/58988/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Copihan.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Coppelion (Legendado)",
+            "slug": "58955",
+            "url": "https://www.anitube.zip/video/58955/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Coppelion.jpg",
+            "kind": "anime",
+            "provider": "anitube"
           }
         ],
         "category": "todos",
         "page": 36,
-        "hasMore": false,
+        "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786551528241,
+        "cachedAt": 1786565956358,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -84876,7 +85453,7 @@
           "fixHint": null
         }
       },
-      "at": 1786551528357
+      "at": 1786565958211
     },
     "partner:anitube|todos|37||48": {
       "data": {
@@ -85031,7 +85608,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537150791
+      "at": 1786565958546
     },
     "todos|37||48": {
       "data": {
@@ -85311,7 +85888,7 @@
         "page": 37,
         "hasMore": true
       },
-      "at": 1786537151366
+      "at": 1786565959224
     },
     "partner:animesdrive|todos|37||48": {
       "data": {
@@ -85562,7 +86139,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537151455
+      "at": 1786565959337
     },
     "partner:animeplay|todos|37||48": {
       "data": {
@@ -85813,7 +86390,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537152091
+      "at": 1786565960056
     },
     "todos|37||120": {
       "data": {
@@ -86781,7 +87358,7 @@
         "page": 37,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786537151366,
+        "cachedAt": 1786565959224,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -86828,7 +87405,7 @@
           "fixHint": null
         }
       },
-      "at": 1786537152183
+      "at": 1786565960155
     },
     "partner:anitube|todos|38||48": {
       "data": {
@@ -86983,7 +87560,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537152525
+      "at": 1786565960493
     },
     "todos|38||48": {
       "data": {
@@ -87263,7 +87840,7 @@
         "page": 38,
         "hasMore": true
       },
-      "at": 1786537153036
+      "at": 1786565961090
     },
     "partner:animesdrive|todos|38||48": {
       "data": {
@@ -87514,7 +88091,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537153125
+      "at": 1786565961184
     },
     "partner:animeplay|todos|38||48": {
       "data": {
@@ -87765,7 +88342,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537153866
+      "at": 1786565961853
     },
     "todos|38||120": {
       "data": {
@@ -88772,7 +89349,7 @@
         "page": 38,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786537153036,
+        "cachedAt": 1786565961090,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -88819,7 +89396,7 @@
           "fixHint": null
         }
       },
-      "at": 1786537153953
+      "at": 1786565961967
     },
     "partner:anitube|todos|39||48": {
       "data": {
@@ -88974,7 +89551,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537154305
+      "at": 1786565962318
     },
     "todos|39||48": {
       "data": {
@@ -89254,7 +89831,7 @@
         "page": 39,
         "hasMore": true
       },
-      "at": 1786537154852
+      "at": 1786565962986
     },
     "partner:animesdrive|todos|39||48": {
       "data": {
@@ -89505,7 +90082,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537154956
+      "at": 1786565962944
     },
     "partner:animeplay|todos|39||48": {
       "data": {
@@ -89756,7 +90333,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537155675
+      "at": 1786565963696
     },
     "todos|39||120": {
       "data": {
@@ -90741,7 +91318,7 @@
         "page": 39,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786537154852,
+        "cachedAt": 1786565962986,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -90788,7 +91365,7 @@
           "fixHint": null
         }
       },
-      "at": 1786537155755
+      "at": 1786565963789
     },
     "partner:anitube|todos|40||48": {
       "data": {
@@ -90943,7 +91520,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537156102
+      "at": 1786565964122
     },
     "todos|40||48": {
       "data": {
@@ -91214,7 +91791,7 @@
         "page": 40,
         "hasMore": true
       },
-      "at": 1786537156756
+      "at": 1786565964774
     },
     "partner:animesdrive|todos|40||48": {
       "data": {
@@ -91457,7 +92034,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537156724
+      "at": 1786565964727
     },
     "partner:animeplay|todos|40||48": {
       "data": {
@@ -91700,7 +92277,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537157333
+      "at": 1786565965380
     },
     "todos|40||120": {
       "data": {
@@ -92642,7 +93219,7 @@
         "page": 40,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786537156756,
+        "cachedAt": 1786565964774,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -92689,7 +93266,7 @@
           "fixHint": null
         }
       },
-      "at": 1786537157490
+      "at": 1786565965550
     },
     "partner:anitube|todos|41||48": {
       "data": {
@@ -92844,7 +93421,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537157829
+      "at": 1786565965893
     },
     "todos|41||48": {
       "data": {
@@ -93124,7 +93701,7 @@
         "page": 41,
         "hasMore": true
       },
-      "at": 1786537158401
+      "at": 1786565966604
     },
     "partner:animesdrive|todos|41||48": {
       "data": {
@@ -93375,7 +93952,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537158494
+      "at": 1786565966729
     },
     "partner:animeplay|todos|41||48": {
       "data": {
@@ -93626,7 +94203,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537159166
+      "at": 1786565967290
     },
     "todos|41||120": {
       "data": {
@@ -94645,7 +95222,7 @@
         "page": 41,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786537158401,
+        "cachedAt": 1786565966604,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -94692,7 +95269,7 @@
           "fixHint": null
         }
       },
-      "at": 1786537159245
+      "at": 1786565967391
     },
     "partner:anitube|todos|42||48": {
       "data": {
@@ -94847,7 +95424,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537159598
+      "at": 1786565967742
     },
     "todos|42||48": {
       "data": {
@@ -95109,7 +95686,7 @@
         "page": 42,
         "hasMore": true
       },
-      "at": 1786537160239
+      "at": 1786565968384
     },
     "partner:animesdrive|todos|42||48": {
       "data": {
@@ -95344,7 +95921,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537160190
+      "at": 1786565968325
     },
     "partner:animeplay|todos|42||48": {
       "data": {
@@ -95579,7 +96156,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537160959
+      "at": 1786565969067
     },
     "todos|42||120": {
       "data": {
@@ -96498,7 +97075,7 @@
         "page": 42,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786537160239,
+        "cachedAt": 1786565968384,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -96545,7 +97122,7 @@
           "fixHint": null
         }
       },
-      "at": 1786537161146
+      "at": 1786565969257
     },
     "partner:anitube|todos|43||48": {
       "data": {
@@ -96700,7 +97277,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537161490
+      "at": 1786565969608
     },
     "todos|43||48": {
       "data": {
@@ -96962,7 +97539,7 @@
         "page": 43,
         "hasMore": true
       },
-      "at": 1786537162123
+      "at": 1786565970219
     },
     "partner:animesdrive|todos|43||48": {
       "data": {
@@ -97197,7 +97774,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537162086
+      "at": 1786565970183
     },
     "partner:animeplay|todos|43||48": {
       "data": {
@@ -97424,7 +98001,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537162849
+      "at": 1786565970888
     },
     "todos|43||120": {
       "data": {
@@ -98298,7 +98875,7 @@
         "page": 43,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786537162123,
+        "cachedAt": 1786565970219,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -98345,7 +98922,7 @@
           "fixHint": null
         }
       },
-      "at": 1786537163159
+      "at": 1786565971250
     },
     "partner:anitube|todos|44||48": {
       "data": {
@@ -98500,7 +99077,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537163509
+      "at": 1786565971603
     },
     "todos|44||48": {
       "data": {
@@ -98762,7 +99339,7 @@
         "page": 44,
         "hasMore": true
       },
-      "at": 1786537164140
+      "at": 1786565972281
     },
     "partner:animesdrive|todos|44||48": {
       "data": {
@@ -98989,7 +99566,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537164102
+      "at": 1786565972178
     },
     "partner:animeplay|todos|44||48": {
       "data": {
@@ -99224,7 +99801,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537164943
+      "at": 1786565972878
     },
     "todos|44||120": {
       "data": {
@@ -100122,7 +100699,7 @@
         "page": 44,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786537164140,
+        "cachedAt": 1786565972281,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -100169,7 +100746,7 @@
           "fixHint": null
         }
       },
-      "at": 1786537165312
+      "at": 1786565973230
     },
     "partner:anitube|todos|45||48": {
       "data": {
@@ -100324,7 +100901,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537165659
+      "at": 1786565973576
     },
     "todos|45||48": {
       "data": {
@@ -100568,7 +101145,7 @@
         "page": 45,
         "hasMore": true
       },
-      "at": 1786537166219
+      "at": 1786565974140
     },
     "partner:animesdrive|todos|45||48": {
       "data": {
@@ -100795,7 +101372,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537166416
+      "at": 1786565974236
     },
     "partner:animeplay|todos|45||48": {
       "data": {
@@ -101022,7 +101599,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537166943
+      "at": 1786565975010
     },
     "todos|45||120": {
       "data": {
@@ -101968,7 +102545,7 @@
         "page": 45,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786537166219,
+        "cachedAt": 1786565974140,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -102015,7 +102592,7 @@
           "fixHint": null
         }
       },
-      "at": 1786537167276
+      "at": 1786565975348
     },
     "partner:anitube|todos|46||48": {
       "data": {
@@ -102170,7 +102747,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537167633
+      "at": 1786565975693
     },
     "todos|46||48": {
       "data": {
@@ -102387,7 +102964,7 @@
         "page": 46,
         "hasMore": true
       },
-      "at": 1786537168195
+      "at": 1786565976344
     },
     "partner:animesdrive|todos|46||48": {
       "data": {
@@ -102582,7 +103159,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537168299
+      "at": 1786565976310
     },
     "partner:animeplay|todos|46||48": {
       "data": {
@@ -102777,7 +103354,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537168944
+      "at": 1786565976991
     },
     "todos|46||120": {
       "data": {
@@ -103657,7 +104234,7 @@
         "page": 46,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786537168195,
+        "cachedAt": 1786565976344,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -103704,7 +104281,7 @@
           "fixHint": null
         }
       },
-      "at": 1786537169629
+      "at": 1786565977756
     },
     "partner:anitube|todos|47||48": {
       "data": {
@@ -103859,7 +104436,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537169988
+      "at": 1786565978090
     },
     "todos|47||48": {
       "data": {
@@ -104121,7 +104698,7 @@
         "page": 47,
         "hasMore": true
       },
-      "at": 1786537170513
+      "at": 1786565978660
     },
     "partner:animesdrive|todos|47||48": {
       "data": {
@@ -104356,7 +104933,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537170629
+      "at": 1786565978752
     },
     "partner:animeplay|todos|47||48": {
       "data": {
@@ -104591,7 +105168,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537171367
+      "at": 1786565979511
     },
     "todos|47||120": {
       "data": {
@@ -105480,7 +106057,7 @@
         "page": 47,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786537170513,
+        "cachedAt": 1786565978660,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -105527,7 +106104,7 @@
           "fixHint": null
         }
       },
-      "at": 1786537171604
+      "at": 1786565979758
     },
     "partner:anitube|todos|48||48": {
       "data": {
@@ -105682,7 +106259,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537171960
+      "at": 1786565980092
     },
     "todos|48||48": {
       "data": {
@@ -105908,7 +106485,7 @@
         "page": 48,
         "hasMore": true
       },
-      "at": 1786537172602
+      "at": 1786565980757
     },
     "partner:animesdrive|todos|48||48": {
       "data": {
@@ -106111,7 +106688,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537172547
+      "at": 1786565980719
     },
     "partner:animeplay|todos|48||48": {
       "data": {
@@ -106314,7 +106891,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537173306
+      "at": 1786565981368
     },
     "todos|48||120": {
       "data": {
@@ -107131,7 +107708,7 @@
         "page": 48,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786537172602,
+        "cachedAt": 1786565980757,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -107178,7 +107755,7 @@
           "fixHint": null
         }
       },
-      "at": 1786537173887
+      "at": 1786565981999
     },
     "partner:anitube|todos|49||48": {
       "data": {
@@ -107333,7 +107910,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537174227
+      "at": 1786565982343
     },
     "todos|49||48": {
       "data": {
@@ -107568,7 +108145,7 @@
         "page": 49,
         "hasMore": true
       },
-      "at": 1786537174898
+      "at": 1786565983007
     },
     "partner:animesdrive|todos|49||48": {
       "data": {
@@ -107779,7 +108356,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537174867
+      "at": 1786565983651
     },
     "partner:animeplay|todos|49||48": {
       "data": {
@@ -107990,7 +108567,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537175637
+      "at": 1786565983747
     },
     "todos|49||120": {
       "data": {
@@ -108825,7 +109402,7 @@
         "page": 49,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786537174898,
+        "cachedAt": 1786565983007,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -108872,7 +109449,7 @@
           "fixHint": null
         }
       },
-      "at": 1786537176264
+      "at": 1786565984264
     },
     "partner:anitube|todos|50||48": {
       "data": {
@@ -109027,7 +109604,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537176610
+      "at": 1786565984597
     },
     "todos|50||48": {
       "data": {
@@ -109307,7 +109884,7 @@
         "page": 50,
         "hasMore": true
       },
-      "at": 1786537177149
+      "at": 1786565985272
     },
     "partner:animesdrive|todos|50||48": {
       "data": {
@@ -109558,7 +110135,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537177250
+      "at": 1786565985184
     },
     "partner:animeplay|todos|50||48": {
       "data": {
@@ -109785,7 +110362,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537177998
+      "at": 1786565985781
     },
     "todos|50||120": {
       "data": {
@@ -110709,7 +111286,7 @@
         "page": 50,
         "hasMore": true,
         "total": 1694,
-        "cachedAt": 1786537177149,
+        "cachedAt": 1786565985272,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -110756,7 +111333,7 @@
           "fixHint": null
         }
       },
-      "at": 1786537178096
+      "at": 1786565985857
     },
     "partner:miraculum|lancamentos|1||48": {
       "data": {
@@ -110821,11 +111398,132 @@
         "hasMore": false,
         "partnerId": "miraculum"
       },
-      "at": 1786537178119
+      "at": 1786565985879
     },
     "partner:anitube|lancamentos|1||48": {
       "data": {
         "items": [
+          {
+            "title": "Dogulwang (Tomb Raider King)",
+            "epTitle": "Episódio 6",
+            "slug": "1064421",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064421/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/DogulwangEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Hanazakari no Kimitachi e 2nd Season",
+            "epTitle": "Episódio 8",
+            "slug": "1064414",
+            "episode": 8,
+            "url": "https://www.anitube.zip/video/1064414/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Hanazakari-no-Kimitachi-e-2nd-SeasonEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Clevatess 2 (Dublado)",
+            "epTitle": "Episódio 6",
+            "slug": "1064418",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064418/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Clevatess-2-Dublado.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Lv999 no Murabito",
+            "epTitle": "Episódio 8",
+            "slug": "1064416",
+            "episode": 8,
+            "url": "https://www.anitube.zip/video/1064416/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Lv999-no-MurabitoEp.jpeg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Katainaka no Ossan Kensei ni Naru 2",
+            "epTitle": "Episódio 6",
+            "slug": "1064411",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064411/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Katainaka-no-Ossan-Kensei-ni-Naru-2Ep.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
+            "epTitle": "Episódio 6",
+            "slug": "1064408",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064408/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Otome-Game-Sekai-wa-Mob-ni-Kibishii-Sekai-desu-2.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Katainaka no Ossan Kensei ni Naru 2",
+            "epTitle": "Episódio 5",
+            "slug": "1063930",
+            "episode": 5,
+            "url": "https://www.anitube.zip/video/1063930/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Katainaka-no-Ossan-Kensei-ni-Naru-2Ep.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
+            "epTitle": "Episódio 12",
+            "slug": "1064407",
+            "episode": 12,
+            "url": "https://www.anitube.zip/video/1064407/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Re-Zero-kara-Hajimeru-Isekai-Seikatsu-4Ep.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Heroine? Seijo? Iie All Works Maid desu",
+            "epTitle": "Episódio 8",
+            "slug": "1064405",
+            "episode": 8,
+            "url": "https://www.anitube.zip/video/1064405/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Heroine-Seijo-Iie-All-Works-Maid-desuEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Youjo Senki 2",
+            "epTitle": "Episódio 6",
+            "slug": "1064403",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064403/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Youjo-Senki-2eP.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Clevatess 2",
+            "epTitle": "Episódio 6",
+            "slug": "1064401",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064401/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Clevatess-2Ep.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
           {
             "title": "The Ghost in the Shell (2026) Dublado",
             "epTitle": "Episódio 6",
@@ -110924,127 +111622,6 @@
             "kind": "anime",
             "provider": "anitube",
             "isRelease": true
-          },
-          {
-            "title": "Seihantai na Kimi to Boku 2 (Dublado)",
-            "epTitle": "Episódio 3",
-            "slug": "1064089",
-            "episode": 3,
-            "url": "https://www.anitube.zip/video/1064089/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Seihantai-na-Kimi-to-Boku-2-Dublado.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Black Torch (Dublado)",
-            "epTitle": "Episódio 6",
-            "slug": "1064088",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064088/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Black-Torch-dublado.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Yomi no Tsugai (Dublado)",
-            "epTitle": "Episódio 15",
-            "slug": "1064087",
-            "episode": 15,
-            "url": "https://www.anitube.zip/video/1064087/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Yomi-no-Tsugai-dublado.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Grand Blue III",
-            "epTitle": "Episódio 6",
-            "slug": "1064081",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064081/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Grand-Blue-IIIEp.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Tenkou-saki no Seiso Karen na Bishoujo",
-            "epTitle": "Episódio 6",
-            "slug": "1064077",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064077/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Tenkou-saki-no-Seiso-Karen-na-BishoujoEp-1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Buchigire Reijou wa Houfuku wo Chikaimashita",
-            "epTitle": "Episódio 6",
-            "slug": "1064074",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064074/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Buchigire-Reijou-wa-Houfuku-wo-ChikaimashitaEp-1.jpeg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Gaikotsu Kishi-sama II",
-            "epTitle": "Episódio 6",
-            "slug": "1064072",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064072/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/gaikotsu-kishi-sama-ii-thumbpadra1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
-            "epTitle": "Episódio 6",
-            "slug": "1064070",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064070/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Saikyou-Degarashi-Ouji-no-Anyaku-Teii-ArasoiEp.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita",
-            "epTitle": "Episódio 6",
-            "slug": "1064068",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064068/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Toumei-na-Yoru-ni-Kakeru-Kimi-to-Me-ni-Mienai-Koi-wo-ShitaEp.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "MAO",
-            "epTitle": "Episódio 19",
-            "slug": "1064066",
-            "episode": 19,
-            "url": "https://www.anitube.zip/video/1064066/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/MAOEp-1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Azur Lane: Bisoku Zenshin! Ni!!",
-            "epTitle": "Episódio 6",
-            "slug": "1064063",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064063/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/azur-lane-bisoku-zenshin-ni-thumbpadra1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -111052,7 +111629,7 @@
         "hasMore": false,
         "partnerId": "anitube"
       },
-      "at": 1786537178445
+      "at": 1786565986205
     },
     "partner:animesdigital|lancamentos|1||48": {
       "data": {
@@ -111151,11 +111728,44 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1786537179806
+      "at": 1786565987580
     },
     "partner:animesdrive|lancamentos|1||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season",
+            "episode": 12,
+            "url": "https://animesdrive.online/episodio/rezero-kara-hajimeru-isekai-seikatsu-4th-season-episodio-12",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/nmP9hCl3F9YnrziLaH4wUVYrKdK-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 8",
+            "epTitle": "Episódio 8",
+            "slug": "heroine-seijo-iie-all-works-maid-desu-hokori",
+            "episode": 8,
+            "url": "https://animesdrive.online/episodio/heroine-seijo-iie-all-works-maid-desu-hokori-episodio-08",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/8eLZM9glHZuhzkiGUKDwIkqlPnQ-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 6",
+            "epTitle": "Episódio 6",
+            "slug": "youjo-senki-ii",
+            "episode": 6,
+            "url": "https://animesdrive.online/episodio/youjo-senki-ii-episodio-06",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/fh2xBJdudbA83Gqxm28Tvt5lDzj-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
           {
             "title": "Episódio 6",
             "epTitle": "Episódio 6",
@@ -111386,39 +111996,6 @@
             "kind": "anime",
             "provider": "animesdrive",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 4",
-            "epTitle": "Episódio 4",
-            "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu-dublado",
-            "episode": 4,
-            "url": "https://animesdrive.online/episodio/mushoku-tensei-iii-isekai-ittara-honki-dasu-dublado-episodio-04",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/n5rzMFaXeEliZbXtjDswvU4T0Ss-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 3",
-            "epTitle": "Episódio 3",
-            "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu-dublado",
-            "episode": 3,
-            "url": "https://animesdrive.online/episodio/mushoku-tensei-iii-isekai-ittara-honki-dasu-dublado-episodio-03",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/fvI20auhtlapXNUxmjI7Im9gQXr-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 7",
-            "epTitle": "Episódio 7",
-            "slug": "world-is-dancing",
-            "episode": 7,
-            "url": "https://animesdrive.online/episodio/world-is-dancing-episodio-07",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/yxJGdpGGClGRqeZf3hF8L8iOpx7-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -111426,11 +112003,44 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537179054
+      "at": 1786565986787
     },
     "partner:animeplay|lancamentos|1||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season",
+            "episode": 12,
+            "url": "https://animeplay.cloud/episodio/rezero-kara-hajimeru-isekai-seikatsu-4th-season-episodio-12",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/08/nmP9hCl3F9YnrziLaH4wUVYrKdK-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 8",
+            "epTitle": "Episódio 8",
+            "slug": "heroine-seijo-iie-all-works-maid-desu-hokori",
+            "episode": 8,
+            "url": "https://animeplay.cloud/episodio/heroine-seijo-iie-all-works-maid-desu-hokori-episodio-08",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/08/8eLZM9glHZuhzkiGUKDwIkqlPnQ-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 6",
+            "epTitle": "Episódio 6",
+            "slug": "youjo-senki-ii",
+            "episode": 6,
+            "url": "https://animeplay.cloud/episodio/youjo-senki-ii-episodio-06",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/08/fh2xBJdudbA83Gqxm28Tvt5lDzj-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
           {
             "title": "Episódio 6",
             "epTitle": "Episódio 6",
@@ -111661,39 +112271,6 @@
             "kind": "anime",
             "provider": "animeplay",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 4",
-            "epTitle": "Episódio 4",
-            "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu-dublado",
-            "episode": 4,
-            "url": "https://animeplay.cloud/episodio/mushoku-tensei-iii-isekai-ittara-honki-dasu-dublado-episodio-04",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/08/n5rzMFaXeEliZbXtjDswvU4T0Ss-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 3",
-            "epTitle": "Episódio 3",
-            "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu-dublado",
-            "episode": 3,
-            "url": "https://animeplay.cloud/episodio/mushoku-tensei-iii-isekai-ittara-honki-dasu-dublado-episodio-03",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/08/fvI20auhtlapXNUxmjI7Im9gQXr-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 7",
-            "epTitle": "Episódio 7",
-            "slug": "world-is-dancing",
-            "episode": 7,
-            "url": "https://animeplay.cloud/episodio/world-is-dancing-episodio-07",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/08/yxJGdpGGClGRqeZf3hF8L8iOpx7-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -111701,11 +112278,132 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537179626
+      "at": 1786565987383
     },
     "partner:anitube|lancamentos|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Dogulwang (Tomb Raider King)",
+            "epTitle": "Episódio 6",
+            "slug": "1064421",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064421/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/DogulwangEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Hanazakari no Kimitachi e 2nd Season",
+            "epTitle": "Episódio 8",
+            "slug": "1064414",
+            "episode": 8,
+            "url": "https://www.anitube.zip/video/1064414/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Hanazakari-no-Kimitachi-e-2nd-SeasonEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Clevatess 2 (Dublado)",
+            "epTitle": "Episódio 6",
+            "slug": "1064418",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064418/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Clevatess-2-Dublado.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Lv999 no Murabito",
+            "epTitle": "Episódio 8",
+            "slug": "1064416",
+            "episode": 8,
+            "url": "https://www.anitube.zip/video/1064416/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Lv999-no-MurabitoEp.jpeg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Katainaka no Ossan Kensei ni Naru 2",
+            "epTitle": "Episódio 6",
+            "slug": "1064411",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064411/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Katainaka-no-Ossan-Kensei-ni-Naru-2Ep.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
+            "epTitle": "Episódio 6",
+            "slug": "1064408",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064408/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Otome-Game-Sekai-wa-Mob-ni-Kibishii-Sekai-desu-2.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Katainaka no Ossan Kensei ni Naru 2",
+            "epTitle": "Episódio 5",
+            "slug": "1063930",
+            "episode": 5,
+            "url": "https://www.anitube.zip/video/1063930/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Katainaka-no-Ossan-Kensei-ni-Naru-2Ep.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
+            "epTitle": "Episódio 12",
+            "slug": "1064407",
+            "episode": 12,
+            "url": "https://www.anitube.zip/video/1064407/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Re-Zero-kara-Hajimeru-Isekai-Seikatsu-4Ep.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Heroine? Seijo? Iie All Works Maid desu",
+            "epTitle": "Episódio 8",
+            "slug": "1064405",
+            "episode": 8,
+            "url": "https://www.anitube.zip/video/1064405/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Heroine-Seijo-Iie-All-Works-Maid-desuEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Youjo Senki 2",
+            "epTitle": "Episódio 6",
+            "slug": "1064403",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064403/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Youjo-Senki-2eP.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Clevatess 2",
+            "epTitle": "Episódio 6",
+            "slug": "1064401",
+            "episode": 6,
+            "url": "https://www.anitube.zip/video/1064401/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Clevatess-2Ep.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
           {
             "title": "The Ghost in the Shell (2026) Dublado",
             "epTitle": "Episódio 6",
@@ -111804,127 +112502,6 @@
             "kind": "anime",
             "provider": "anitube",
             "isRelease": true
-          },
-          {
-            "title": "Seihantai na Kimi to Boku 2 (Dublado)",
-            "epTitle": "Episódio 3",
-            "slug": "1064089",
-            "episode": 3,
-            "url": "https://www.anitube.zip/video/1064089/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Seihantai-na-Kimi-to-Boku-2-Dublado.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Black Torch (Dublado)",
-            "epTitle": "Episódio 6",
-            "slug": "1064088",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064088/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Black-Torch-dublado.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Yomi no Tsugai (Dublado)",
-            "epTitle": "Episódio 15",
-            "slug": "1064087",
-            "episode": 15,
-            "url": "https://www.anitube.zip/video/1064087/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Yomi-no-Tsugai-dublado.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Grand Blue III",
-            "epTitle": "Episódio 6",
-            "slug": "1064081",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064081/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Grand-Blue-IIIEp.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Tenkou-saki no Seiso Karen na Bishoujo",
-            "epTitle": "Episódio 6",
-            "slug": "1064077",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064077/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Tenkou-saki-no-Seiso-Karen-na-BishoujoEp-1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Buchigire Reijou wa Houfuku wo Chikaimashita",
-            "epTitle": "Episódio 6",
-            "slug": "1064074",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064074/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Buchigire-Reijou-wa-Houfuku-wo-ChikaimashitaEp-1.jpeg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Gaikotsu Kishi-sama II",
-            "epTitle": "Episódio 6",
-            "slug": "1064072",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064072/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/gaikotsu-kishi-sama-ii-thumbpadra1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
-            "epTitle": "Episódio 6",
-            "slug": "1064070",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064070/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Saikyou-Degarashi-Ouji-no-Anyaku-Teii-ArasoiEp.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita",
-            "epTitle": "Episódio 6",
-            "slug": "1064068",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064068/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Toumei-na-Yoru-ni-Kakeru-Kimi-to-Me-ni-Mienai-Koi-wo-ShitaEp.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "MAO",
-            "epTitle": "Episódio 19",
-            "slug": "1064066",
-            "episode": 19,
-            "url": "https://www.anitube.zip/video/1064066/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/MAOEp-1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Azur Lane: Bisoku Zenshin! Ni!!",
-            "epTitle": "Episódio 6",
-            "slug": "1064063",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1064063/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/azur-lane-bisoku-zenshin-ni-thumbpadra1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -111932,11 +112509,44 @@
         "hasMore": false,
         "partnerId": "anitube"
       },
-      "at": 1786537180211
+      "at": 1786565988014
     },
     "lancamentos|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 6",
+            "epTitle": "Episódio 6",
+            "slug": "nijuuseiki-denki-mokuroku-eureka-evrika-dublado",
+            "episode": 6,
+            "url": "https://animesonline.cloud/episodio/nijuuseiki-denki-mokuroku-eureka-evrika-dublado-episodio-06",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/yYcwPtS9krNPeJS85gd2uF403Q1-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 3",
+            "epTitle": "Episódio 3",
+            "slug": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season-dublado",
+            "episode": 3,
+            "url": "https://animesonline.cloud/episodio/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season-dublado-episodio-03",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/8RwyJqf6QgmPLnhOzLGk9Nf0xOD-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 3",
+            "epTitle": "Episódio 3",
+            "slug": "seihantai-na-kimi-to-boku-2nd-season-dublado",
+            "episode": 3,
+            "url": "https://animesonline.cloud/episodio/seihantai-na-kimi-to-boku-2nd-season-dublado-episodio-03",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/e1O9AH0CtDf4SNHoA1sHplhqx9q-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
           {
             "title": "Episódio 4",
             "epTitle": "Episódio 4",
@@ -112167,50 +112777,50 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 15",
-            "epTitle": "Episódio 15",
-            "slug": "yomi-no-tsugai-dublado",
-            "episode": 15,
-            "url": "https://animesonline.cloud/episodio/yomi-no-tsugai-dublado-episodio-15",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/9jrdG4GClY4apYJV1vt3W4Vgjnp-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 6",
-            "epTitle": "Episódio 6",
-            "slug": "kabushikigaisha-magi-lumiere-2nd-season",
-            "episode": 6,
-            "url": "https://animesonline.cloud/episodio/kabushikigaisha-magi-lumiere-2nd-season-episodio-06",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/g2855YwcD865KNhH9OKnPfZNK0l-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 6",
-            "epTitle": "Episódio 6",
-            "slug": "kabushikigaisha-magi-lumiere-2nd-season-dublado",
-            "episode": 6,
-            "url": "https://animesonline.cloud/episodio/kabushikigaisha-magi-lumiere-2nd-season-dublado-episodio-06",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/2ql66Qt0xV2te2RJqY2meM3DOfD-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 2,
         "hasMore": true
       },
-      "at": 1786537180735
+      "at": 1786565988616
     },
     "partner:animesdrive|lancamentos|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 4",
+            "epTitle": "Episódio 4",
+            "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu-dublado",
+            "episode": 4,
+            "url": "https://animesdrive.online/episodio/mushoku-tensei-iii-isekai-ittara-honki-dasu-dublado-episodio-04",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/n5rzMFaXeEliZbXtjDswvU4T0Ss-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 3",
+            "epTitle": "Episódio 3",
+            "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu-dublado",
+            "episode": 3,
+            "url": "https://animesdrive.online/episodio/mushoku-tensei-iii-isekai-ittara-honki-dasu-dublado-episodio-03",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/fvI20auhtlapXNUxmjI7Im9gQXr-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 7",
+            "epTitle": "Episódio 7",
+            "slug": "world-is-dancing",
+            "episode": 7,
+            "url": "https://animesdrive.online/episodio/world-is-dancing-episodio-07",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/yxJGdpGGClGRqeZf3hF8L8iOpx7-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
           {
             "title": "Episódio 6",
             "epTitle": "Episódio 6",
@@ -112441,39 +113051,6 @@
             "kind": "anime",
             "provider": "animesdrive",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 15",
-            "epTitle": "Episódio 15",
-            "slug": "yomi-no-tsugai-dublado",
-            "episode": 15,
-            "url": "https://animesdrive.online/episodio/yomi-no-tsugai-dublado-episodio-15",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/9jrdG4GClY4apYJV1vt3W4Vgjnp-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 6",
-            "epTitle": "Episódio 6",
-            "slug": "kabushikigaisha-magi-lumiere-2nd-season",
-            "episode": 6,
-            "url": "https://animesdrive.online/episodio/kabushikigaisha-magi-lumiere-2nd-season-episodio-06",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/g2855YwcD865KNhH9OKnPfZNK0l-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 6",
-            "epTitle": "Episódio 6",
-            "slug": "kabushikigaisha-magi-lumiere-2nd-season-dublado",
-            "episode": 6,
-            "url": "https://animesdrive.online/episodio/kabushikigaisha-magi-lumiere-2nd-season-dublado-episodio-06",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/08/2ql66Qt0xV2te2RJqY2meM3DOfD-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -112481,11 +113058,44 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537180824
+      "at": 1786565988653
     },
     "partner:animeplay|lancamentos|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 4",
+            "epTitle": "Episódio 4",
+            "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu-dublado",
+            "episode": 4,
+            "url": "https://animeplay.cloud/episodio/mushoku-tensei-iii-isekai-ittara-honki-dasu-dublado-episodio-04",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/08/n5rzMFaXeEliZbXtjDswvU4T0Ss-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 3",
+            "epTitle": "Episódio 3",
+            "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu-dublado",
+            "episode": 3,
+            "url": "https://animeplay.cloud/episodio/mushoku-tensei-iii-isekai-ittara-honki-dasu-dublado-episodio-03",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/08/fvI20auhtlapXNUxmjI7Im9gQXr-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 7",
+            "epTitle": "Episódio 7",
+            "slug": "world-is-dancing",
+            "episode": 7,
+            "url": "https://animeplay.cloud/episodio/world-is-dancing-episodio-07",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/08/yxJGdpGGClGRqeZf3hF8L8iOpx7-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
           {
             "title": "Episódio 6",
             "epTitle": "Episódio 6",
@@ -112716,39 +113326,6 @@
             "kind": "anime",
             "provider": "animeplay",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 6",
-            "epTitle": "Episódio 6",
-            "slug": "kabushikigaisha-magi-lumiere-2nd-season",
-            "episode": 6,
-            "url": "https://animeplay.cloud/episodio/kabushikigaisha-magi-lumiere-2nd-season-episodio-06",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/08/g2855YwcD865KNhH9OKnPfZNK0l-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 6",
-            "epTitle": "Episódio 6",
-            "slug": "kabushikigaisha-magi-lumiere-2nd-season-dublado",
-            "episode": 6,
-            "url": "https://animeplay.cloud/episodio/kabushikigaisha-magi-lumiere-2nd-season-dublado-episodio-06",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/08/2ql66Qt0xV2te2RJqY2meM3DOfD-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 6",
-            "epTitle": "Episódio 6",
-            "slug": "oni-no-hanayome",
-            "episode": 6,
-            "url": "https://animeplay.cloud/episodio/oni-no-hanayome-episodio-06",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/08/1dQGhai6FVqraPp9cSKS3RbCl0z-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -112756,7 +113333,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537181516
+      "at": 1786565989344
     },
     "legendado|1||48": {
       "data": {
@@ -112982,7 +113559,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1786537182009
+      "at": 1786565989826
     },
     "partner:anitube|legendado|1||48": {
       "data": {
@@ -113137,7 +113714,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537181897
+      "at": 1786565989727
     },
     "partner:animesdrive|legendado|1||48": {
       "data": {
@@ -113340,7 +113917,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537181973
+      "at": 1786565989791
     },
     "partner:animeplay|legendado|1||48": {
       "data": {
@@ -113450,14 +114027,6 @@
             "provider": "animeplay"
           },
           {
-            "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
-            "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2",
-            "url": "https://animeplay.cloud/anime/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/kLoDKrCBie56YVkDd6drScAimcS-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
             "title": "Thunder 3",
             "slug": "thunder-3",
             "url": "https://animeplay.cloud/anime/thunder-3",
@@ -113470,6 +114039,14 @@
             "slug": "ibitte-konai-gibo-to-gishi",
             "url": "https://animeplay.cloud/anime/ibitte-konai-gibo-to-gishi",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/1i67CAfM8JsUvVOA6K6OC05L7X0-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
+            "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2",
+            "url": "https://animeplay.cloud/anime/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/kLoDKrCBie56YVkDd6drScAimcS-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -113530,10 +114107,10 @@
             "provider": "animeplay"
           },
           {
-            "title": "Honoo no Toukyuujo: Dodge Danko",
-            "slug": "honoo-no-toukyuujo-dodge-danko",
-            "url": "https://animeplay.cloud/anime/honoo-no-toukyuujo-dodge-danko",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/sZvF473smAN0XktDRj50J8nwtaB-185x278.jpg",
+            "title": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
+            "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
+            "url": "https://animeplay.cloud/anime/buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/61TfKgUhwJLpsEOsWQXu3ClKPNI-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           }
@@ -113543,7 +114120,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537182495
+      "at": 1786565990480
     },
     "partner:anitube|legendado|2||48": {
       "data": {
@@ -113698,7 +114275,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537182902
+      "at": 1786565990877
     },
     "legendado|2||48": {
       "data": {
@@ -113924,7 +114501,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1786537183567
+      "at": 1786565991511
     },
     "partner:animesdrive|legendado|2||48": {
       "data": {
@@ -114127,11 +114704,19 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537183505
+      "at": 1786565991475
     },
     "partner:animeplay|legendado|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
+            "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
+            "url": "https://animeplay.cloud/anime/buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/61TfKgUhwJLpsEOsWQXu3ClKPNI-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
           {
             "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
             "slug": "the-insipid-princes-furtive-grab-for-the-throne",
@@ -114145,14 +114730,6 @@
             "slug": "tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken",
             "url": "https://animeplay.cloud/anime/tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/tVsZgmz8GTnh1Br00HoWpR88ogt-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Honoo no Toukyuujo: Dodge Danko",
-            "slug": "honoo-no-toukyuujo-dodge-danko",
-            "url": "https://animeplay.cloud/anime/honoo-no-toukyuujo-dodge-danko",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/sZvF473smAN0XktDRj50J8nwtaB-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -114189,14 +114766,6 @@
             "provider": "animeplay"
           },
           {
-            "title": "AI no Idenshi",
-            "slug": "ai-no-idenshi",
-            "url": "https://animeplay.cloud/anime/ai-no-idenshi",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/wSAD5RS0LRvx7rqvCKEJlXbDOv1-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
             "title": "Let’s Go Kaiki-gumi",
             "slug": "lets-go-kaikigumi",
             "url": "https://animeplay.cloud/anime/lets-go-kaikigumi",
@@ -114217,6 +114786,14 @@
             "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha",
             "url": "https://animeplay.cloud/anime/sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/oYVBc1fUzPNrBSrfOLSCSd9BYjL-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "AI no Idenshi",
+            "slug": "ai-no-idenshi",
+            "url": "https://animeplay.cloud/anime/ai-no-idenshi",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/wSAD5RS0LRvx7rqvCKEJlXbDOv1-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -114277,6 +114854,14 @@
             "provider": "animeplay"
           },
           {
+            "title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
+            "slug": "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita",
+            "url": "https://animeplay.cloud/anime/saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/o6k2eVEowtfwTKnKvbKUn87LGzX-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
             "title": "Iwamoto-senpai no Suisen",
             "slug": "iwamoto-senpai-no-suisen",
             "url": "https://animeplay.cloud/anime/iwamoto-senpai-no-suisen",
@@ -114289,14 +114874,6 @@
             "slug": "ushiro-no-shoumen-kamui-san",
             "url": "https://animeplay.cloud/anime/ushiro-no-shoumen-kamui-san",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/dPrT17JVRuzYkD9OGkXjMHDNOjw-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
-            "slug": "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita",
-            "url": "https://animeplay.cloud/anime/saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/07/o6k2eVEowtfwTKnKvbKUn87LGzX-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -114330,7 +114907,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537184128
+      "at": 1786565992163
     },
     "partner:anitube|legendado|3||48": {
       "data": {
@@ -114485,7 +115062,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537184522
+      "at": 1786565992549
     },
     "legendado|3||48": {
       "data": {
@@ -114711,7 +115288,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1786537185182
+      "at": 1786565993135
     },
     "partner:animesdrive|legendado|3||48": {
       "data": {
@@ -114906,7 +115483,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537185140
+      "at": 1786565993186
     },
     "partner:animeplay|legendado|3||48": {
       "data": {
@@ -115086,6 +115663,22 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/a6i8cVlkIQbHBrxoGFdOG47xtZu-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
+          },
+          {
+            "title": "Koukaku Kidouta",
+            "slug": "koukaku-kidouta",
+            "url": "https://animeplay.cloud/anime/koukaku-kidouta",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Super no Ura de Yani Suu Futari Mini",
+            "slug": "smoking-behind-the-supermarket-with-you-mini",
+            "url": "https://animeplay.cloud/anime/smoking-behind-the-supermarket-with-you-mini",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/nSdgX507jBlonGFC91Ve0TfcLjJ-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
           }
         ],
         "category": "legendado",
@@ -115093,7 +115686,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537185887
+      "at": 1786565993978
     },
     "partner:miraculum|dublado|1||48": {
       "data": {
@@ -115158,7 +115751,7 @@
         "hasMore": false,
         "partnerId": "miraculum"
       },
-      "at": 1786537185976
+      "at": 1786565994076
     },
     "dublado|1||48": {
       "data": {
@@ -115384,7 +115977,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1786537186511
+      "at": 1786565994564
     },
     "partner:anitube|dublado|1||48": {
       "data": {
@@ -115539,7 +116132,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537186294
+      "at": 1786565994405
     },
     "partner:animesdrive|dublado|1||48": {
       "data": {
@@ -115742,7 +116335,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537186375
+      "at": 1786565994454
     },
     "partner:animeplay|dublado|1||48": {
       "data": {
@@ -115945,7 +116538,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537186939
+      "at": 1786565994991
     },
     "partner:animesdigital|dublado|1||48": {
       "data": {
@@ -116332,7 +116925,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1786537187794
+      "at": 1786565995356
     },
     "partner:anitube|dublado|2||48": {
       "data": {
@@ -116487,7 +117080,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537188444
+      "at": 1786565996001
     },
     "dublado|2||48": {
       "data": {
@@ -116713,7 +117306,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1786537189076
+      "at": 1786565996645
     },
     "partner:animesdrive|dublado|2||48": {
       "data": {
@@ -116916,7 +117509,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537189010
+      "at": 1786565996611
     },
     "partner:animesdigital|dublado|2||48": {
       "data": {
@@ -117311,7 +117904,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1786537189409
+      "at": 1786565996956
     },
     "partner:animeplay|dublado|2||48": {
       "data": {
@@ -117514,7 +118107,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537189728
+      "at": 1786565997341
     },
     "partner:anitube|dublado|3||48": {
       "data": {
@@ -117669,7 +118262,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786537190316
+      "at": 1786565997886
     },
     "dublado|3||48": {
       "data": {
@@ -117895,7 +118488,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1786537190915
+      "at": 1786565998500
     },
     "partner:animesdrive|dublado|3||48": {
       "data": {
@@ -118098,7 +118691,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786537190957
+      "at": 1786565998469
     },
     "partner:animesdigital|dublado|3||48": {
       "data": {
@@ -118493,15 +119086,15 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1786537191265
+      "at": 1786565998777
     },
     "partner:animeplay|dublado|3||48": {
       "data": {
         "items": [
           {
-            "title": "Star Wars: Maul – Lorde das Sombras",
-            "slug": "star-wars-maul-lorde-das-sombras",
-            "url": "https://animeplay.cloud/anime/star-wars-maul-lorde-das-sombras",
+            "title": "Star Wars: Maul – Lorde das Sombras Dublado",
+            "slug": "star-wars-maul-lorde-das-sombras-dublado",
+            "url": "https://animeplay.cloud/anime/star-wars-maul-lorde-das-sombras-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
@@ -118696,7 +119289,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786537191552
+      "at": 1786565999223
     },
     "partner:miraculum|todos|1||24": {
       "data": {
@@ -127437,5 +128030,5 @@
       "at": 1786402404221
     }
   },
-  "updatedAt": 1786565930878
+  "updatedAt": 1786565999379
 }
