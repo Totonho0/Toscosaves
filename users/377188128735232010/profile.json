@@ -159,9 +159,10 @@
     },
     "1062417": {
       "slug": "1062417",
-      "title": "Bleach Final Season – Episódio 01",
-      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL0JsZWFjaC1GaW5hbC1TZWFzb25FcC5qcGc",
-      "kind": "anime"
+      "title": "Bleach Final Season",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWJsZWFjaC1maW5hbC1zZWFzb24tdG9kb3Mtb3MtZXBpc29kaW9zLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pdHViZS5qcGc",
+      "kind": "anime",
+      "adult": false
     },
     "chainsmoker-cat": {
       "slug": "chainsmoker-cat",
@@ -2821,5 +2822,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1786637731449
+  "updatedAt": 1786637762056
 }
