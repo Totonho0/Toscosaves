@@ -110370,10 +110370,37 @@
             "provider": "aoc"
           },
           {
+            "title": "Fairy Tail",
+            "slug": "fairy-tail",
+            "url": "https://animesonline.cloud/anime/fairy-tail",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/05/hO4GNzpmBftX4DcLFm2rkIZq2Rr-185x278.jpg",
+            "rating": "7.899",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Monogatari Nisemonogatari",
+            "slug": "monogatari-nisemonogatari",
+            "url": "https://animesonline.cloud/anime/monogatari-nisemonogatari",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/7YCwUUXyMvuLyPcZDe2KIu4qXLo-185x278.jpg",
+            "rating": "8.2",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Saint Seiya: The Lost Canvas",
+            "slug": "saint-seiya-the-lost-canvas",
+            "url": "https://animesonline.cloud/anime/saint-seiya-the-lost-canvas",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2009/06/Saint-Seiya-The-Lost-Canvas-animesonline.cloud_-185x278.jpg",
+            "rating": "8.247",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Dragon Ball Kai (2009)",
             "slug": "dragon-ball-kai-2009",
             "url": "https://animesonline.cloud/anime/dragon-ball-kai-2009",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/03/yh11eNQyZOgZLMEW7llKYQ0oGcJ-185x278.jpg",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/03/yh11eNQyZOgZLMEW7llKYQ0oGcJ-185x278.jpg.webp",
             "rating": "7.447",
             "kind": "anime",
             "provider": "aoc"
@@ -110391,7 +110418,7 @@
             "title": "Kuroshitsuji: Kishuku Gakkou-hen",
             "slug": "kuroshitsuji-kishuku-gakkou-hen",
             "url": "https://animesonline.cloud/anime/kuroshitsuji-kishuku-gakkou-hen",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/04/tfjvfipG4FoKOeG3rpDuGWIvx4k-185x278.jpg",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/04/tfjvfipG4FoKOeG3rpDuGWIvx4k-185x278.jpg.webp",
             "rating": "7.6",
             "kind": "anime",
             "provider": "aoc"
@@ -110512,40 +110539,13 @@
             "rating": "8",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Kenpuu Denki Berserk",
-            "slug": "kenpuu-denki-berserk",
-            "url": "https://animesonline.cloud/anime/kenpuu-denki-berserk",
-            "poster": "https://animesonline.cloud/wp-content/uploads/1997/10/Berserk-1997-animesonline.cloud_-185x278.jpg",
-            "rating": "8.508",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Dragon Ball GT",
-            "slug": "dragon-ball-gt",
-            "url": "https://animesonline.cloud/anime/dragon-ball-gt",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/03/kmO4AHj1xx8wiaBMgwGjXhOQfNt-185x278.jpg",
-            "rating": "7.69",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Street Fighter II: Victory Dublado",
-            "slug": "street-fighter-ii-victory-dublado",
-            "url": "https://animesonline.cloud/anime/street-fighter-ii-victory-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-185x278.jpg",
-            "rating": "7.9",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 49,
         "hasMore": true
       },
-      "at": 1786738781281
+      "at": 1786767701390
     },
     "partner:animesdrive|todos|49||48": {
       "data": {
@@ -111129,6 +111129,84 @@
             ]
           },
           {
+            "title": "Fairy Tail",
+            "slug": "fairy-tail",
+            "url": "https://animesonline.cloud/anime/fairy-tail",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/05/hO4GNzpmBftX4DcLFm2rkIZq2Rr-185x278.jpg",
+            "rating": "7.899",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fairy-tail"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "fairy-tail"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "fairy-tail"
+              }
+            ]
+          },
+          {
+            "title": "Monogatari Nisemonogatari",
+            "slug": "monogatari-nisemonogatari",
+            "url": "https://animesonline.cloud/anime/monogatari-nisemonogatari",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/7YCwUUXyMvuLyPcZDe2KIu4qXLo-185x278.jpg",
+            "rating": "8.2",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "monogatari-nisemonogatari"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "monogatari-nisemonogatari"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "monogatari-nisemonogatari"
+              }
+            ]
+          },
+          {
+            "title": "Saint Seiya: The Lost Canvas",
+            "slug": "saint-seiya-the-lost-canvas",
+            "url": "https://animesonline.cloud/anime/saint-seiya-the-lost-canvas",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2009/06/Saint-Seiya-The-Lost-Canvas-animesonline.cloud_-185x278.jpg",
+            "rating": "8.247",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "saint-seiya-the-lost-canvas"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "saint-seiya-the-lost-canvas"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "saint-seiya-the-lost-canvas"
+              }
+            ]
+          },
+          {
             "title": "Dragon Ball Kai (2009)",
             "slug": "dragon-ball-kai-2009",
             "url": "https://animesonline.cloud/anime/dragon-ball-kai-2009",
@@ -111562,11 +111640,10 @@
           {
             "title": "Kenpuu Denki Berserk",
             "slug": "kenpuu-denki-berserk",
-            "url": "https://animesonline.cloud/anime/kenpuu-denki-berserk",
+            "url": "https://animesdrive.online/anime/kenpuu-denki-berserk",
             "poster": "https://animeplay.cloud/wp-content/uploads/1997/10/Berserk-1997-animesonline.cloud_-185x278.jpg",
-            "rating": "8.508",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -111588,11 +111665,10 @@
           {
             "title": "Dragon Ball GT",
             "slug": "dragon-ball-gt",
-            "url": "https://animesonline.cloud/anime/dragon-ball-gt",
+            "url": "https://animesdrive.online/anime/dragon-ball-gt",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/03/kmO4AHj1xx8wiaBMgwGjXhOQfNt-185x278.jpg",
-            "rating": "7.69",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -111614,11 +111690,10 @@
           {
             "title": "Street Fighter II: Victory Dublado",
             "slug": "street-fighter-ii-victory-dublado",
-            "url": "https://animesonline.cloud/anime/street-fighter-ii-victory-dublado",
+            "url": "https://animesdrive.online/anime/street-fighter-ii-victory-dublado",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-185x278.jpg",
-            "rating": "7.9",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -111807,37 +111882,13 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/El-Cazador-de-la-Bruja.jpg",
             "kind": "anime",
             "provider": "anitube"
-          },
-          {
-            "title": "El-Hazard (Dublado)",
-            "slug": "943126",
-            "url": "https://www.anitube.zip/video/943126/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-el-hazard-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "elDLIVE (Legendado)",
-            "slug": "57779",
-            "url": "https://www.anitube.zip/video/57779/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/elDLIVE.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Element Hunters (Legendado)",
-            "slug": "57765",
-            "url": "https://www.anitube.zip/video/57765/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Element-Hunters.jpg",
-            "kind": "anime",
-            "provider": "anitube"
           }
         ],
         "category": "todos",
         "page": 49,
         "hasMore": true,
-        "total": 1698,
-        "cachedAt": 1786738781281,
+        "total": 1696,
+        "cachedAt": 1786767701390,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -111884,7 +111935,7 @@
           "fixHint": null
         }
       },
-      "at": 1786738782510
+      "at": 1786767702018
     },
     "partner:anitube|todos|50||48": {
       "data": {
@@ -112039,7 +112090,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786738782850
+      "at": 1786767702356
     },
     "todos|50||48": {
       "data": {
@@ -112570,7 +112621,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786738783530
+      "at": 1786767702951
     },
     "partner:animeplay|todos|50||48": {
       "data": {
@@ -112813,7 +112864,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786738784184
+      "at": 1786767703649
     },
     "todos|50||120": {
       "data": {
@@ -130931,5 +130982,5 @@
       "at": 1786712561120
     }
   },
-  "updatedAt": 1786767699637
+  "updatedAt": 1786767703649
 }
