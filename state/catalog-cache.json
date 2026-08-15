@@ -20202,6 +20202,15 @@
       "data": {
         "items": [
           {
+            "title": "Hime-sama Goumon no Jikan desu 2",
+            "slug": "hime-sama-goumon-no-jikan-desu-2",
+            "url": "https://animesonline.cloud/anime/hime-sama-goumon-no-jikan-desu-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/01/37mrw26Yj3PD8MKLbG6m4Fh98dN-185x278.jpg",
+            "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Himekishi wa Barbaroi no Yome",
             "slug": "himekishi-wa-barbaroi-no-yome",
             "url": "https://animesonline.cloud/anime/himekishi-wa-barbaroi-no-yome",
@@ -20354,11 +20363,11 @@
           {
             "title": "Horimiya: Piece – Todos os Episódios",
             "slug": "horimiya-the-missing-pieces",
-            "url": "https://animesonline.cloud/anime/horimiya-the-missing-pieces",
+            "url": "https://animesdrive.online/anime/horimiya-the-missing-pieces",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/08/nnGb4NYOyRfCl5DKYPIK9A0Cgww-185x278.jpg",
             "rating": "7.552",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -20448,6 +20457,37 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "hunter-x-hunter-2011"
+              }
+            ]
+          },
+          {
+            "title": "Hunter x Hunter (2011)",
+            "slug": "hunter-x-hunter-2011",
+            "url": "https://animesonline.cloud/anime/hunter-x-hunter-2011",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/9WxfAQquTun9ATkV6iAeFHMkqxv-185x278.jpg",
+            "rating": "8.626",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hunter-x-hunter-2011"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hunter-x-hunter"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "hunter-x-hunter-2011"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
                 "slug": "hunter-x-hunter-2011"
               }
             ]
@@ -20581,11 +20621,11 @@
           {
             "title": "Inazuma Eleven – Todos os Episódios",
             "slug": "inazuma-eleven",
-            "url": "https://animesonline.cloud/anime/inazuma-eleven",
+            "url": "https://animesdrive.online/anime/inazuma-eleven",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/p0UiQl050IxYOZJ5u8tc7arG7kA-185x278.jpg",
             "rating": "8.1",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -20905,72 +20945,26 @@
           {
             "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu – Todos os Episódios",
             "slug": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
-            "url": "https://animesonline.cloud/anime/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
+            "url": "https://animesdrive.online/anime/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/Isekai-Yururi-Kikou-Kosodateshinagara-Boukensha-Shimasu-AnimeDrive-185x278.jpg",
             "rating": "0",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu"
-              }
-            ]
-          },
-          {
-            "title": "Ishura – Todos os Episodios",
-            "slug": "ishura",
-            "url": "https://animesonline.cloud/anime/ishura",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/01/Q0nbxeYiFQJxzJ8nTTOwWNij2z-185x278.jpg",
-            "rating": "5.8",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "ishura"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "ishura"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "ishura"
-              }
-            ]
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
             "kind": "anime",
             "provider": "animesdrive",
             "animeSources": [
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
-                "slug": "one-piece"
+                "slug": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "one-piece"
+                "slug": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu"
               }
             ]
           }
@@ -20978,8 +20972,8 @@
         "category": "todos",
         "page": 20,
         "hasMore": true,
-        "total": 1698,
-        "cachedAt": 1786738722291,
+        "total": 1700,
+        "cachedAt": 1786753121150,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -21026,7 +21020,7 @@
           "fixHint": null
         }
       },
-      "at": 1786738723124
+      "at": 1786753121250
     },
     "legendado|1||120": {
       "data": {
@@ -56607,6 +56601,33 @@
             "provider": "aoc"
           },
           {
+            "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2 Dublado",
+            "slug": "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2-dublado",
+            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/ddND31kXTAlBdDQYbUEQJgswcig-185x278.jpg",
+            "rating": "8.569",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2",
+            "slug": "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2",
+            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/dx972st0uNycRxZpSmuY8tUQjJR-185x278.jpg",
+            "rating": "8.569",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kakkou no Iinazuke 2 Dublado",
+            "slug": "kakkou-no-iinazuke-2-dublado",
+            "url": "https://animesonline.cloud/anime/kakkou-no-iinazuke-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/rM44B7aike8mV4eJaE6ekKrCnQS-185x278.jpg",
+            "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze Dublado",
             "slug": "jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze-dublado",
             "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze-dublado",
@@ -56794,40 +56815,13 @@
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Tensei shitara Dainana Ouji Datta node Kimama ni Majutsu wo Kiwamemasu 2",
-            "slug": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2",
-            "url": "https://animesonline.cloud/anime/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/w2yBhzw20oh7oYxK8GC2ysr01q2-185x278.jpg",
-            "rating": "8",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Dr. Stone: Science Future 2",
-            "slug": "dr-stone-science-future-2",
-            "url": "https://animesonline.cloud/anime/dr-stone-science-future-2",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/g7LwQqNFmxoxrdVKBHk18z6iv0p-185x278.jpg",
-            "rating": "8.564",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Kamitsubaki-shi Kensetsuchuu",
-            "slug": "kamitsubaki-shi-kensetsuchuu",
-            "url": "https://animesonline.cloud/anime/kamitsubaki-shi-kensetsuchuu",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/17TgENGeO5YMahY5bdayov7PbW-185x278.jpg",
-            "rating": "5.5",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 20,
         "hasMore": true
       },
-      "at": 1786738722291
+      "at": 1786753121150
     },
     "partner:animesdrive|todos|20||48": {
       "data": {
@@ -57544,6 +57538,33 @@
             "provider": "aoc"
           },
           {
+            "title": "Tensei shitara Dainana Ouji Datta node Kimama ni Majutsu wo Kiwamemasu 2",
+            "slug": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2",
+            "url": "https://animesonline.cloud/anime/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/w2yBhzw20oh7oYxK8GC2ysr01q2-185x278.jpg",
+            "rating": "8",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Dr. Stone: Science Future 2",
+            "slug": "dr-stone-science-future-2",
+            "url": "https://animesonline.cloud/anime/dr-stone-science-future-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/g7LwQqNFmxoxrdVKBHk18z6iv0p-185x278.jpg",
+            "rating": "8.564",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kamitsubaki-shi Kensetsuchuu",
+            "slug": "kamitsubaki-shi-kensetsuchuu",
+            "url": "https://animesonline.cloud/anime/kamitsubaki-shi-kensetsuchuu",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/17TgENGeO5YMahY5bdayov7PbW-185x278.jpg",
+            "rating": "5.5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Futari Solo Camp",
             "slug": "futari-solo-camp",
             "url": "https://animesonline.cloud/anime/futari-solo-camp",
@@ -57731,40 +57752,13 @@
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Hotel Inhumans",
-            "slug": "hotel-inhumans",
-            "url": "https://animesonline.cloud/anime/hotel-inhumans",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/6ZHkFKJekNYADTByu3QI7vJaUbC-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Hikaru ga Shinda Natsu",
-            "slug": "hikaru-ga-shinda-natsu",
-            "url": "https://animesonline.cloud/anime/hikaru-ga-shinda-natsu",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/4sxpBwpZVjQZ4sSonqmoGaae1ay-185x278.jpg",
-            "rating": "8.15",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
-            "slug": "seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai",
-            "url": "https://animesonline.cloud/anime/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/ce56jplr0r7pTZl3Rn4uXn18r9u-185x278.jpg",
-            "rating": "8.6",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 21,
         "hasMore": true
       },
-      "at": 1786738724055
+      "at": 1786753122688
     },
     "partner:animesdrive|todos|21||48": {
       "data": {
@@ -58271,6 +58265,32 @@
     "todos|21||120": {
       "data": {
         "items": [
+          {
+            "title": "Ishura – Todos os Episodios",
+            "slug": "ishura",
+            "url": "https://animesonline.cloud/anime/ishura",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/01/Q0nbxeYiFQJxzJ8nTTOwWNij2z-185x278.jpg",
+            "rating": "5.8",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ishura"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "ishura"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ishura"
+              }
+            ]
+          },
           {
             "title": "Ishura 2",
             "slug": "ishura-2",
@@ -58897,139 +58917,13 @@
                 "slug": "kabushikigaisha-magi-lumiere"
               }
             ]
-          },
-          {
-            "title": "Kabushikigaisha Magi-Lumière 2nd Season",
-            "slug": "kabushikigaisha-magi-lumiere-2nd-season",
-            "url": "https://animesonline.cloud/anime/kabushikigaisha-magi-lumiere-2nd-season",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/aZKuBx50zPe5U1IhGvyJkseYHoh-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "kabushikigaisha-magi-lumiere-2nd-season"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "kabushikigaisha-magi-lumiere-2nd-season"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "oni-no-hanayome"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "grow-up-show-himawari-no-circus-dan"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "iwamoto-senpai-no-suisen"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "black-torch"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "uchi-no-otouto-domo-ga-sumimasen"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "kore-kaite-shine"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kabushikigaisha-magi-lumiere-2nd-season"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "oni-no-hanayome"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "grow-up-show-himawari-no-circus-dan"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "iwamoto-senpai-no-suisen"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "black-torch"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "uchi-no-otouto-domo-ga-sumimasen"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kore-kaite-shine"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 21,
         "hasMore": true,
-        "total": 1698,
-        "cachedAt": 1786738724055,
+        "total": 1700,
+        "cachedAt": 1786753122688,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -59076,7 +58970,7 @@
           "fixHint": null
         }
       },
-      "at": 1786738725041
+      "at": 1786753122772
     },
     "partner:anitube|todos|22||48": {
       "data": {
@@ -59291,6 +59185,33 @@
             "provider": "aoc"
           },
           {
+            "title": "Hotel Inhumans",
+            "slug": "hotel-inhumans",
+            "url": "https://animesonline.cloud/anime/hotel-inhumans",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/6ZHkFKJekNYADTByu3QI7vJaUbC-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Hikaru ga Shinda Natsu",
+            "slug": "hikaru-ga-shinda-natsu",
+            "url": "https://animesonline.cloud/anime/hikaru-ga-shinda-natsu",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/4sxpBwpZVjQZ4sSonqmoGaae1ay-185x278.jpg",
+            "rating": "8.15",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+            "slug": "seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai",
+            "url": "https://animesonline.cloud/anime/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/ce56jplr0r7pTZl3Rn4uXn18r9u-185x278.jpg",
+            "rating": "8.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Ultraman Omega",
             "slug": "ultraman-omega",
             "url": "https://animesonline.cloud/anime/ultraman-omega",
@@ -59478,40 +59399,13 @@
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Grand Blue Dreaming 2",
-            "slug": "grand-blue-dreaming-2",
-            "url": "https://animesonline.cloud/anime/grand-blue-dreaming-2",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/luqItcfk4OuBk0jp30raXHSEqUG-185x278.jpg",
-            "rating": "7.7",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Necronomico and the Cosmic Horror Show",
-            "slug": "necronomico-and-the-cosmic-horror-show",
-            "url": "https://animesonline.cloud/anime/necronomico-and-the-cosmic-horror-show",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/443pa7TaKbBM5VadgnAy4WHNZd7-185x278.jpg",
-            "rating": "6.13",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Kanojo Okarishimasu",
-            "slug": "kanojo-okarishimasu",
-            "url": "https://animesonline.cloud/anime/kanojo-okarishimasu",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/lHt3j91jV7Kh6MuRJ4w8KmK3Xav-185x278.jpg",
-            "rating": "8.4",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 22,
         "hasMore": true
       },
-      "at": 1786738726005
+      "at": 1786753124293
     },
     "partner:animesdrive|todos|22||48": {
       "data": {
@@ -60018,6 +59912,15 @@
     "todos|22||120": {
       "data": {
         "items": [
+          {
+            "title": "Kabushikigaisha Magi-Lumière 2nd Season",
+            "slug": "kabushikigaisha-magi-lumiere-2nd-season",
+            "url": "https://animesonline.cloud/anime/kabushikigaisha-magi-lumiere-2nd-season",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/aZKuBx50zPe5U1IhGvyJkseYHoh-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
           {
             "title": "Kabushikigaisha Magi-Lumière 2nd Season Dublado",
             "slug": "kabushikigaisha-magi-lumiere-2nd-season-dublado",
@@ -60636,11 +60539,11 @@
           {
             "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita – Todos os Episódios",
             "slug": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
-            "url": "https://animesonline.cloud/anime/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
+            "url": "https://animesdrive.online/anime/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/9NivXf13bsUsL5ipeZwByuwJLcB-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -60758,39 +60661,13 @@
                 "slug": "kenka-dokugaku"
               }
             ]
-          },
-          {
-            "title": "Kenpuu Denki Berserk",
-            "slug": "kenpuu-denki-berserk",
-            "url": "https://animesonline.cloud/anime/kenpuu-denki-berserk",
-            "poster": "https://animesonline.cloud/wp-content/uploads/1997/10/Berserk-1997-animesonline.cloud_-185x278.jpg",
-            "rating": "8.508",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "kenpuu-denki-berserk"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "kenpuu-denki-berserk"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kenpuu-denki-berserk"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 22,
         "hasMore": true,
-        "total": 1698,
-        "cachedAt": 1786738726005,
+        "total": 1700,
+        "cachedAt": 1786753124293,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -60837,7 +60714,7 @@
           "fixHint": null
         }
       },
-      "at": 1786738726808
+      "at": 1786753124392
     },
     "partner:anitube|todos|23||48": {
       "data": {
@@ -130614,5 +130491,5 @@
       "at": 1786712561120
     }
   },
-  "updatedAt": 1786753119642
+  "updatedAt": 1786753124392
 }
