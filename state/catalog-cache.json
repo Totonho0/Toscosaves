@@ -104445,6 +104445,33 @@
             "provider": "aoc"
           },
           {
+            "title": "Jibaku Shounen Hanako-kun 2",
+            "slug": "jibaku-shounen-hanako-kun-2",
+            "url": "https://animesonline.cloud/anime/jibaku-shounen-hanako-kun-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/fJN1faGg5e7qB7RecEhOys8X9Bz-185x278.jpg",
+            "rating": "8.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Mairimashita! Iruma-kun 4",
+            "slug": "mairimashita-iruma-kun-4",
+            "url": "https://animesonline.cloud/anime/mairimashita-iruma-kun-4",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/4ujO7fWRzyWvU96u6puKmi6ZgiS-185x278.jpg",
+            "rating": "8.2",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Enen no Shouboutai",
+            "slug": "enen-no-shouboutai",
+            "url": "https://animesonline.cloud/anime/enen-no-shouboutai",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/qDNgM4STqdzl4IBMyqCVMIr6uUV-185x278.jpg",
+            "rating": "8.4",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Nu Wushen de Canzhuo",
             "slug": "nu-wushen-de-canzhuo",
             "url": "https://animesonline.cloud/anime/nu-wushen-de-canzhuo",
@@ -104502,7 +104529,7 @@
             "title": "Super Dragon Ball Heroes – Todos os Episódios",
             "slug": "super-dragon-ball-heroes",
             "url": "https://animesonline.cloud/anime/super-dragon-ball-heroes",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2024/03/mieaZy4iPjnhOlE6sw7dBK3hCbt-185x278.jpg",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/03/mieaZy4iPjnhOlE6sw7dBK3hCbt-185x278.jpg.webp",
             "rating": "7.6",
             "kind": "anime",
             "provider": "aoc"
@@ -104578,40 +104605,13 @@
             "rating": "6.9",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Boku no Hero Academia",
-            "slug": "boku-no-hero-academia",
-            "url": "https://animesonline.cloud/anime/boku-no-hero-academia",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/09/peJKJn9rEzQP9FViI3suQloTIo7-185x278.jpg",
-            "rating": "8.627",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Brotherhood: Final Fantasy XV",
-            "slug": "brotherhood-final-fantasy-xv",
-            "url": "https://animesonline.cloud/anime/brotherhood-final-fantasy-xv",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/oBnVTXHvlVXpfHE5Lp0tzNxMDwf-185x278.jpg",
-            "rating": "6.9",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Boku no Hero Academia: Memories – Todos os Episódios",
-            "slug": "boku-no-hero-academia-memories",
-            "url": "https://animesonline.cloud/anime/boku-no-hero-academia-memories-todos-os-episodios",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2016/04/142483-185x278.jpg",
-            "rating": "8.651",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 46,
         "hasMore": true
       },
-      "at": 1786738773965
+      "at": 1786767688361
     },
     "partner:animesdrive|todos|46||48": {
       "data": {
@@ -105167,6 +105167,84 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              }
+            ]
+          },
+          {
+            "title": "Jibaku Shounen Hanako-kun 2",
+            "slug": "jibaku-shounen-hanako-kun-2",
+            "url": "https://animesonline.cloud/anime/jibaku-shounen-hanako-kun-2",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/01/fJN1faGg5e7qB7RecEhOys8X9Bz-185x278.jpg",
+            "rating": "8.6",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "jibaku-shounen-hanako-kun-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "jibaku-shounen-hanako-kun-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "jibaku-shounen-hanako-kun-2"
+              }
+            ]
+          },
+          {
+            "title": "Mairimashita! Iruma-kun 4",
+            "slug": "mairimashita-iruma-kun-4",
+            "url": "https://animesonline.cloud/anime/mairimashita-iruma-kun-4",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/4ujO7fWRzyWvU96u6puKmi6ZgiS-185x278.jpg",
+            "rating": "8.2",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "mairimashita-iruma-kun-4"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "mairimashita-iruma-kun-4"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mairimashita-iruma-kun-4"
+              }
+            ]
+          },
+          {
+            "title": "Enen no Shouboutai",
+            "slug": "enen-no-shouboutai",
+            "url": "https://animesonline.cloud/anime/enen-no-shouboutai",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/01/qDNgM4STqdzl4IBMyqCVMIr6uUV-185x278.jpg",
+            "rating": "8.4",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "enen-no-shouboutai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "enen-no-shouboutai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "enen-no-shouboutai"
               }
             ]
           },
@@ -105911,6 +105989,16 @@
                 "slug": "thunder-3"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tomb-raider-king"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "katainaka-no-ossan-kensei-ni-naru-ii"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "youjo-senki-ii"
@@ -106119,6 +106207,16 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "katainaka-no-ossan-kensei-ni-naru-ii"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tomb-raider-king"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2"
               }
             ]
           },
@@ -106196,13 +106294,32 @@
             ]
           },
           {
+            "title": "Black Clover – Todos os Episódios",
+            "slug": "black-clover",
+            "url": "https://animesdrive.online/anime/black-clover-todos-os-episodios",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/xoqmJpO3jGxEldDCItXuGj2MVTV-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "black-clover"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "black-clover"
+              }
+            ]
+          },
+          {
             "title": "Boku no Hero Academia",
             "slug": "boku-no-hero-academia",
-            "url": "https://animesonline.cloud/anime/boku-no-hero-academia",
+            "url": "https://animesdrive.online/anime/boku-no-hero-academia",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/09/peJKJn9rEzQP9FViI3suQloTIo7-185x278.jpg",
-            "rating": "8.627",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -106224,11 +106341,10 @@
           {
             "title": "Brotherhood: Final Fantasy XV",
             "slug": "brotherhood-final-fantasy-xv",
-            "url": "https://animesonline.cloud/anime/brotherhood-final-fantasy-xv",
+            "url": "https://animesdrive.online/anime/brotherhood-final-fantasy-xv",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/10/oBnVTXHvlVXpfHE5Lp0tzNxMDwf-185x278.jpg",
-            "rating": "6.9",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -106250,11 +106366,10 @@
           {
             "title": "Boku no Hero Academia: Memories – Todos os Episódios",
             "slug": "boku-no-hero-academia-memories",
-            "url": "https://animesonline.cloud/anime/boku-no-hero-academia-memories-todos-os-episodios",
+            "url": "https://animesdrive.online/anime/boku-no-hero-academia-memories-todos-os-episodios",
             "poster": "https://animesdrive.online/wp-content/uploads/2016/04/142483-185x278.jpg",
-            "rating": "8.651",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -106270,26 +106385,6 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "boku-no-hero-academia-memories"
-              }
-            ]
-          },
-          {
-            "title": "Black Clover – Todos os Episódios",
-            "slug": "black-clover",
-            "url": "https://animesdrive.online/anime/black-clover-todos-os-episodios",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/xoqmJpO3jGxEldDCItXuGj2MVTV-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "black-clover"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "black-clover"
               }
             ]
           },
@@ -106451,76 +106546,13 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/dragon-ball-heroes-todos-os-episodios-online-1.jpg",
             "kind": "anime",
             "provider": "anitube"
-          },
-          {
-            "title": "Dragon Ball Kai (2014) – (Legendado)",
-            "slug": "929169b001",
-            "url": "https://www.anitube.zip/929169b001",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dragon-ball-kai-2009-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "929169b001"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "929169b001"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "75584b"
-              }
-            ]
-          },
-          {
-            "title": "Dragon Ball Kai (2009) Dublado –",
-            "slug": "58259b001",
-            "url": "https://www.anitube.zip/58259b001",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Dragon-Ball-Kai.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "dragon-ball-kai-2009-dublado"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "58259b001"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "58259b001"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1005941"
-              }
-            ]
-          },
-          {
-            "title": "Dragon Ball Super (Legendado)",
-            "slug": "889415b",
-            "url": "https://www.anitube.zip/889415b",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dragon-ball-super-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "anitube"
           }
         ],
         "category": "todos",
         "page": 46,
         "hasMore": true,
-        "total": 1698,
-        "cachedAt": 1786738773965,
+        "total": 1697,
+        "cachedAt": 1786767688361,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -106567,7 +106599,7 @@
           "fixHint": null
         }
       },
-      "at": 1786738775782
+      "at": 1786767689130
     },
     "partner:anitube|todos|47||48": {
       "data": {
@@ -106722,7 +106754,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786738776143
+      "at": 1786767689481
     },
     "todos|47||48": {
       "data": {
@@ -107185,7 +107217,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786738776788
+      "at": 1786767690073
     },
     "partner:animeplay|todos|47||48": {
       "data": {
@@ -107420,7 +107452,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786738777497
+      "at": 1786767690799
     },
     "todos|47||120": {
       "data": {
@@ -130819,5 +130851,5 @@
       "at": 1786712561120
     }
   },
-  "updatedAt": 1786767686106
+  "updatedAt": 1786767690799
 }
