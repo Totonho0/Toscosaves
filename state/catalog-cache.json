@@ -73826,7 +73826,7 @@
         "page": 30,
         "hasMore": true
       },
-      "at": 1786753137565
+      "at": 1786767595875
     },
     "partner:animesdrive|todos|30||48": {
       "data": {
@@ -74317,7 +74317,24 @@
             "poster": "https://image.tmdb.org/t/p/original/sRNBuK9pIgag4tcw312XlqKLD6O.jpg",
             "rating": "8.6",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai"
+              }
+            ]
           },
           {
             "title": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
@@ -75146,7 +75163,7 @@
         "page": 30,
         "hasMore": true,
         "total": 1700,
-        "cachedAt": 1786753137565,
+        "cachedAt": 1786767595875,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -75193,7 +75210,7 @@
           "fixHint": null
         }
       },
-      "at": 1786753137664
+      "at": 1786767596268
     },
     "partner:anitube|todos|31||48": {
       "data": {
@@ -75348,7 +75365,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786738743561
+      "at": 1786767596625
     },
     "todos|31||48": {
       "data": {
@@ -75836,7 +75853,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786738744228
+      "at": 1786767597198
     },
     "partner:animeplay|todos|31||48": {
       "data": {
@@ -76071,7 +76088,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786738744986
+      "at": 1786767597912
     },
     "todos|31||120": {
       "data": {
@@ -129853,5 +129870,5 @@
       "at": 1786712561120
     }
   },
-  "updatedAt": 1786767594109
+  "updatedAt": 1786767597912
 }
