@@ -18549,32 +18549,6 @@
             ]
           },
           {
-            "title": "Fruits Basket (2019)",
-            "slug": "fruits-basket-2019",
-            "url": "https://animesonline.cloud/anime/fruits-basket-2019",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/wVe8vcSqpJjLib5TWer6kgkGjjM-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "fruits-basket-2001"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "fruits-basket-2019"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "fruits-basket-2019"
-              }
-            ],
-            "rating": "7.9"
-          },
-          {
             "title": "Fruits Basket (2019) Dublado",
             "slug": "fruits-basket-2019-dublado",
             "url": "https://animesonline.cloud/anime/fruits-basket-2019-dublado",
@@ -19326,13 +19300,33 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "8.4"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 18,
         "hasMore": true,
         "total": 1700,
-        "cachedAt": 1786753118000,
+        "cachedAt": 1786767550189,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -19379,7 +19373,7 @@
           "fixHint": null
         }
       },
-      "at": 1786753118099
+      "at": 1786767550324
     },
     "todos|19||120": {
       "data": {
@@ -54950,7 +54944,7 @@
         "page": 18,
         "hasMore": true
       },
-      "at": 1786753118000
+      "at": 1786767550189
     },
     "partner:animesdrive|todos|18||48": {
       "data": {
@@ -55591,7 +55585,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786738719885
+      "at": 1786767550673
     },
     "todos|19||48": {
       "data": {
@@ -56113,7 +56107,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786738720540
+      "at": 1786767551264
     },
     "partner:animeplay|todos|19||48": {
       "data": {
@@ -56364,7 +56358,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786738721275
+      "at": 1786767551851
     },
     "partner:anitube|todos|20||48": {
       "data": {
@@ -129736,5 +129730,5 @@
       "at": 1786712561120
     }
   },
-  "updatedAt": 1786767548530
+  "updatedAt": 1786767551851
 }
