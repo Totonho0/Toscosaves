@@ -78042,7 +78042,7 @@
         "page": 32,
         "hasMore": true
       },
-      "at": 1786782015309
+      "at": 1786796435266
     },
     "partner:animesdrive|todos|32||48": {
       "data": {
@@ -79327,7 +79327,7 @@
         "page": 32,
         "hasMore": true,
         "total": 1696,
-        "cachedAt": 1786782015309,
+        "cachedAt": 1786796435266,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -79374,11 +79374,27 @@
           "fixHint": null
         }
       },
-      "at": 1786782015436
+      "at": 1786796435573
     },
     "partner:anitube|todos|33||48": {
       "data": {
         "items": [
+          {
+            "title": "Chocotto Sister (Legendado)",
+            "slug": "81104",
+            "url": "https://www.anitube.zip/video/81104/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Chocotto-Sister.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Chokkyuu Hyoudai Robot (Legendado)",
+            "slug": "76702",
+            "url": "https://www.anitube.zip/video/76702/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Chokkyuu-Hyoudai-Robot.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
           {
             "title": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita (Legendado)",
             "slug": "1001131",
@@ -79506,22 +79522,6 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/Chuunibyou-demo-Koi-ga-Shitai-Ren.jpg",
             "kind": "anime",
             "provider": "anitube"
-          },
-          {
-            "title": "Chuunibyou demo Koi ga Shitai! (Legendado)",
-            "slug": "60762",
-            "url": "https://www.anitube.zip/video/60762/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Chuunibyou-demo-Koi-ga-Shitai.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara. (Legendado)",
-            "slug": "1001376",
-            "url": "https://www.anitube.zip/video/1001376/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-chuuzenji-sensei-mononoke-kougiroku-sensei-ga-nazo-wo-hodoite-shimau-kara-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "anitube"
           }
         ],
         "category": "todos",
@@ -79529,7 +79529,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786767615750
+      "at": 1786796436922
     },
     "todos|33||48": {
       "data": {
@@ -80043,7 +80043,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786767615806
+      "at": 1786796436627
     },
     "partner:animeplay|todos|33||48": {
       "data": {
@@ -80286,7 +80286,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786767616948
+      "at": 1786796437461
     },
     "todos|33||120": {
       "data": {
@@ -130921,5 +130921,5 @@
       "at": 1786777541061
     }
   },
-  "updatedAt": 1786796427859
+  "updatedAt": 1786796437461
 }
