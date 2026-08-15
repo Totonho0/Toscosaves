@@ -77982,7 +77982,7 @@
         "page": 32,
         "hasMore": true
       },
-      "at": 1786767614581
+      "at": 1786782015309
     },
     "partner:animesdrive|todos|32||48": {
       "data": {
@@ -78473,59 +78473,6 @@
     "todos|32||120": {
       "data": {
         "items": [
-          {
-            "title": "Sword Art",
-            "slug": "sword-art-online",
-            "url": "https://animesdrive.online/anime/sword-art-online",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/htNohqrYEwuz4fCa9ATVF90s58S-185x278.jpg",
-            "rating": "8.2",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "sword-art-online"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "sword-art-online"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "sword-art-online"
-              }
-            ]
-          },
-          {
-            "title": "Sword Art Online 2",
-            "slug": "sword-art-online-2",
-            "url": "https://animesonline.cloud/anime/sword-art-online-2",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/ycCgDrMbUVx0hmwLikCUfv1lETG-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "8.2"
-          },
-          {
-            "title": "Sword Art Online 2 Dublado",
-            "slug": "sword-art-online-2-dublado",
-            "url": "https://animesonline.cloud/anime/sword-art-online-2-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/kd4EtP4I143o8kTO1q5AY9nABBz-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "8.2"
-          },
-          {
-            "title": "Sword Art Online Alternative: Gun Gale Online II – Todos os Episódios",
-            "slug": "sword-art-online-alternative-gun-gale-online-ii",
-            "url": "https://animesonline.cloud/anime/sword-art-online-alternative-gun-gale-online-ii-todos-os-episodios",
-            "poster": "https://image.tmdb.org/t/p/original/e3lTqAxwYgzURmjI2mKZd02dFqX.jpg",
-            "rating": "7.8",
-            "kind": "anime",
-            "provider": "aoc"
-          },
           {
             "title": "Sword Art Online Dublado",
             "slug": "sword-art-online-dublado",
@@ -79244,13 +79191,83 @@
                 "slug": "terraformars"
               }
             ]
+          },
+          {
+            "title": "Terror Man",
+            "slug": "terror-man",
+            "url": "https://animesonline.cloud/anime/terror-man",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/02/13izuyHXlQAAlt8Vy0H1apb3bty-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tetsunabe no Jan!",
+            "slug": "tetsunabe-no-jan",
+            "url": "https://animesonline.cloud/anime/tetsunabe-no-jan",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/tS7mxwOZrbW5IhGUMjOvWIg0YlT-185x278.jpg",
+            "rating": "6.86",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "The Dangers in My Heart",
+            "slug": "the-dangers-in-my-heart",
+            "url": "https://animesonline.cloud/anime/the-dangers-in-my-heart",
+            "poster": "https://image.tmdb.org/t/p/w185/hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg",
+            "rating": "8.136",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "the-dangers-in-my-heart"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "the-dangers-in-my-heart"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "the-dangers-in-my-heart"
+              }
+            ]
+          },
+          {
+            "title": "The Fable – Todos os Episódios",
+            "slug": "the-fable",
+            "url": "https://animesonline.cloud/anime/the-fable",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/04/baflpfvihSZCNsyTHZGBKkDIlXr-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "the-fable"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "the-fable"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "the-fable"
+              }
+            ],
+            "rating": "8"
           }
         ],
         "category": "todos",
         "page": 32,
         "hasMore": true,
-        "total": 1700,
-        "cachedAt": 1786767614581,
+        "total": 1696,
+        "cachedAt": 1786782015309,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -79297,7 +79314,7 @@
           "fixHint": null
         }
       },
-      "at": 1786767614859
+      "at": 1786782015436
     },
     "partner:anitube|todos|33||48": {
       "data": {
@@ -131553,5 +131570,5 @@
       "at": 1786777541061
     }
   },
-  "updatedAt": 1786782005524
+  "updatedAt": 1786782015436
 }
