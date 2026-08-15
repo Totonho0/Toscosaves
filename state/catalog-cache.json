@@ -73945,7 +73945,7 @@
         "page": 30,
         "hasMore": true
       },
-      "at": 1786781996346
+      "at": 1786796416710
     },
     "partner:animesdrive|todos|30||48": {
       "data": {
@@ -74715,7 +74715,7 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/07/mqhh6mu6T8cLr2OTrGCFZ7PXGAR-185x278.jpg",
             "rating": "8.1",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -75265,7 +75265,7 @@
         "page": 30,
         "hasMore": true,
         "total": 1696,
-        "cachedAt": 1786781996346,
+        "cachedAt": 1786796416710,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -75312,11 +75312,27 @@
           "fixHint": null
         }
       },
-      "at": 1786781996433
+      "at": 1786796417136
     },
     "partner:anitube|todos|31||48": {
       "data": {
         "items": [
+          {
+            "title": "Castlevania: Nocturne (Legendado)",
+            "slug": "1007021",
+            "url": "https://www.anitube.zip/video/1007021/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-castlevania-nocturne-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Castlevania: Nocturne 2nd Season (Legendado)",
+            "slug": "998701",
+            "url": "https://www.anitube.zip/video/998701/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-castlevania-nocturne-2nd-season-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
           {
             "title": "Cat’s Eye (2025) (Legendado)",
             "slug": "1007420",
@@ -75444,22 +75460,6 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/Cheating-Craft.jpg",
             "kind": "anime",
             "provider": "anitube"
-          },
-          {
-            "title": "Cheer Danshi!! (Legendado)",
-            "slug": "62143",
-            "url": "https://www.anitube.zip/video/62143/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Cheer-Danshi.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Chi.: Chikyuu no Undou ni Tsuite (Legendado)",
-            "slug": "993931",
-            "url": "https://www.anitube.zip/video/993931/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-chi-chikyuu-no-undou-ni-tsuite-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "anitube"
           }
         ],
         "category": "todos",
@@ -75467,7 +75467,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786767596625
+      "at": 1786796419032
     },
     "todos|31||48": {
       "data": {
@@ -75955,7 +75955,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786767597198
+      "at": 1786796418088
     },
     "partner:animeplay|todos|31||48": {
       "data": {
@@ -76190,7 +76190,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786767597912
+      "at": 1786796418786
     },
     "todos|31||120": {
       "data": {
@@ -130910,5 +130910,5 @@
       "at": 1786777541061
     }
   },
-  "updatedAt": 1786796414839
+  "updatedAt": 1786796419032
 }
