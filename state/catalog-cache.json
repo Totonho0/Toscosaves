@@ -95983,7 +95983,7 @@
         "page": 41,
         "hasMore": true
       },
-      "at": 1786767665745
+      "at": 1786796486005
     },
     "partner:animesdrive|todos|41||48": {
       "data": {
@@ -96705,7 +96705,24 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/04/r2FXjiG9Mgn0AtSqVfpat2PpNU0-185x278.jpg",
             "rating": "6",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "yoru-no-kurage-wa-oyogenai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "yoru-no-kurage-wa-oyogenai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "yoru-no-kurage-wa-oyogenai"
+              }
+            ]
           },
           {
             "title": "Tonari no Youkai-san – Todos os Episódios",
@@ -97503,8 +97520,8 @@
         "category": "todos",
         "page": 41,
         "hasMore": true,
-        "total": 1700,
-        "cachedAt": 1786767665745,
+        "total": 1696,
+        "cachedAt": 1786796486005,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -97551,7 +97568,7 @@
           "fixHint": null
         }
       },
-      "at": 1786767665898
+      "at": 1786796487225
     },
     "partner:anitube|todos|42||48": {
       "data": {
@@ -98212,7 +98229,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786767666851
+      "at": 1786796488157
     },
     "partner:animeplay|todos|42||48": {
       "data": {
@@ -98447,7 +98464,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786767667586
+      "at": 1786796488804
     },
     "todos|42||120": {
       "data": {
@@ -132325,5 +132342,5 @@
       "at": 1786777541061
     }
   },
-  "updatedAt": 1786796484152
+  "updatedAt": 1786796488804
 }
