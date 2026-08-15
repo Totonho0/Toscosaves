@@ -16380,28 +16380,12 @@
       "data": {
         "items": [
           {
-            "title": "Dr. Stone (Legendado)",
-            "slug": "928225b",
-            "url": "https://www.anitube.zip/928225b",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Dr. Stone Dublado",
-            "slug": "898504b",
-            "url": "https://www.anitube.zip/video/898504b",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Dr-Stone-Dublado-Todos-os-Episodios-AniTube.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Dr. Stone: New World (Legendado)",
             "slug": "928305",
             "url": "https://www.anitube.zip/video/928305/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-new-world-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "anitube"
           },
           {
             "title": "Dr. Stone: New World Dublado",
@@ -16409,7 +16393,7 @@
             "url": "https://www.anitube.zip/video/1011028/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-new-world-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "anitube"
           },
           {
             "title": "Dr. Stone: New World Part 2 (Legendado)",
@@ -16417,7 +16401,7 @@
             "url": "https://www.anitube.zip/video/920847/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-new-world-part-2-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "anitube"
           },
           {
             "title": "Dr. Stone: New World Part 2 Dublado",
@@ -16425,7 +16409,7 @@
             "url": "https://www.anitube.zip/video/1011052/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-new-world-part-2-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "anitube"
           },
           {
             "title": "Dr. Stone: Science Future",
@@ -16442,7 +16426,7 @@
             "url": "https://www.anitube.zip/video/1005212/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-science-future-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "anitube"
           },
           {
             "title": "Dr. Stone: Science Future 2",
@@ -16541,7 +16525,7 @@
             "url": "https://www.anitube.zip/video/897886/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Dr-Stone-Stone-Wars-Todos-os-Episódios-AniTube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "anitube"
           },
           {
             "title": "Dr. Stone: Stone Wars Dublado",
@@ -16549,7 +16533,7 @@
             "url": "https://www.anitube.zip/video/1011000/",
             "poster": "https://www.anitube.zip/wp-content/uploads/Dr-Stone-Stone-Wars-Todos-os-Episódios-AniTube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "anitube"
           },
           {
             "title": "Dragon Ball",
@@ -16583,7 +16567,7 @@
             "url": "https://www.anitube.zip/video/934137/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dragon-ball-legendado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "anitube"
           },
           {
             "title": "Dragon Ball Absalon (Legendado)",
@@ -16591,7 +16575,7 @@
             "url": "https://www.anitube.zip/video/928557b001",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dragon-ball-absalon-legendado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "anitube"
           },
           {
             "title": "Dragon Ball Daima – Todos os Episódios",
@@ -16625,7 +16609,7 @@
             "url": "https://www.anitube.zip/video/994231/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dragon-ball-daima-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "anitube"
           },
           {
             "title": "Dragon Ball Daima Dublado",
@@ -16635,6 +16619,36 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "7,65",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-daima-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1001647"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "dragon-ball-daima-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dragon-ball-daima-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Dragon Ball Daima Dublado",
+            "slug": "1001647",
+            "url": "https://www.anitube.zip/video/1001647/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dragon-ball-daima-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube",
             "animeSources": [
               {
                 "server": 1,
@@ -16680,6 +16694,26 @@
             ]
           },
           {
+            "title": "Dragon Ball Dublado",
+            "slug": "937390",
+            "url": "https://www.anitube.zip/video/937390/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dragon-ball-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "937390"
+              }
+            ]
+          },
+          {
             "title": "Dragon Ball GT",
             "slug": "dragon-ball-gt",
             "url": "https://animesonline.cloud/anime/dragon-ball-gt",
@@ -16711,7 +16745,7 @@
             "url": "https://www.anitube.zip/889429b",
             "poster": "https://www.anitube.zip/wp-content/uploads/Dragon-Ball-GT-1.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "anitube"
           },
           {
             "title": "Dragon Ball GT (Dublado) –",
@@ -16719,7 +16753,7 @@
             "url": "https://www.anitube.zip/889426b002",
             "poster": "https://www.anitube.zip/wp-content/uploads/Dragon-Ball-GT.jpg",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "anitube",
             "animeSources": [
               {
                 "server": 1,
@@ -16734,12 +16768,21 @@
             ]
           },
           {
+            "title": "Dragon Ball GT Dublado",
+            "slug": "dragon-ball-gt-dublado",
+            "url": "https://animesonline.cloud/anime/dragon-ball-gt-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/5Fv5dOR0PP6THmBLztv2hbKaDqm-185x278.jpg",
+            "rating": "7.69",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Dragon Ball Heroes (Legendado)",
             "slug": "75133",
             "url": "https://www.anitube.zip/video/75133/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dragon-ball-heroes-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "anitube"
           },
           {
             "title": "Dragon Ball Heroes Dublado",
@@ -16747,7 +16790,7 @@
             "url": "https://www.anitube.zip/video/87011/",
             "poster": "https://www.anitube.zip/wp-content/uploads/dragon-ball-heroes-todos-os-episodios-online-1.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "anitube"
           },
           {
             "title": "Dragon Ball Kai (2009)",
@@ -16786,6 +16829,47 @@
             ]
           },
           {
+            "title": "Dragon Ball Kai (2009)",
+            "slug": "dragon-ball-kai-2009",
+            "url": "https://animesonline.cloud/anime/dragon-ball-kai-2009",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2024/03/yh11eNQyZOgZLMEW7llKYQ0oGcJ-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-kai"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-kai-2009"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "dragon-ball-kai-2014"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "dragon-ball-kai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "dragon-ball-kai-2009"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dragon-ball-kai"
+              }
+            ],
+            "rating": "7.447"
+          },
+          {
             "title": "Dragon Ball Kai (2009) Dublado –",
             "slug": "dragon-ball-kai-2009-dublado",
             "url": "https://animesonline.cloud/anime/dragon-ball-kai-2009-dublado",
@@ -16805,6 +16889,15 @@
                 "slug": "58259b001"
               }
             ]
+          },
+          {
+            "title": "Dragon Ball Kai (2014)",
+            "slug": "dragon-ball-kai-2014",
+            "url": "https://animesonline.cloud/anime/dragon-ball-kai-2014",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/scurPb4OG7YF75y8htinfN0jgBI-185x278.jpg",
+            "rating": "7.447",
+            "kind": "anime",
+            "provider": "aoc"
           },
           {
             "title": "Dragon Ball Kai (2014) – (Legendado)",
@@ -16934,162 +17027,55 @@
             "url": "https://www.anitube.zip/932268b002",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dragon-ball-z-legendado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Dragon Ball Z Dublado",
+            "slug": "dragon-ball-z-dublado",
+            "url": "https://animesonline.cloud/anime/dragon-ball-z-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/kjeSxqt9ge50V3eKBIFqiKyXDIn-185x278.jpg",
+            "rating": "8.323",
+            "kind": "anime",
             "provider": "aoc"
           },
           {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "title": "Dragon Collection (Legendado)",
+            "slug": "58487",
+            "url": "https://www.anitube.zip/video/58487/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Dragon-Collection.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
+            "provider": "anitube"
           },
           {
-            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
-            "slug": "nageki-no-bourei-wa-intai-shitai",
-            "url": "https://animesdrive.online/anime/nageki-no-bourei-wa-intai-shitai",
-            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "title": "Dragon Crisis! – (Legendado)",
+            "slug": "57023",
+            "url": "https://www.anitube.zip/video/57023/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Dragon-Crisis.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "nageki-no-bourei-wa-intai-shitai"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "nageki-no-bourei-wa-intai-shitai"
-              }
-            ]
+            "provider": "anitube"
           },
           {
-            "title": "Uzumaki – Todos os Episódios",
-            "slug": "uzumaki",
-            "url": "https://animesdrive.online/anime/uzumaki",
-            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "title": "Dragon Drive – (Legendado)",
+            "slug": "56963",
+            "url": "https://www.anitube.zip/video/56963/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Dragon-Drive.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "uzumaki"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "uzumaki"
-              }
-            ]
+            "provider": "anitube"
           },
           {
-            "title": "Hitoribocchi no Isekai Kouryaku",
-            "slug": "hitoribocchi-no-isekai-kouryaku",
-            "url": "https://animesdrive.online/anime/hitoribocchi-no-isekai-kouryaku",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "title": "Dragon Quest: Dai no Daibouken (2020) (Legendado)",
+            "slug": "897403",
+            "url": "https://www.anitube.zip/video/897403/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Dragon-Quest-Dai-no-Daibouken-2020-Todos-os-Episódios-AniTube.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "hitoribocchi-no-isekai-kouryaku"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "hitoribocchi-no-isekai-kouryaku"
-              }
-            ]
-          },
-          {
-            "title": "Maou-sama, Retry! 2 – Todos os Episódios",
-            "slug": "maou-sama-retry",
-            "url": "https://animesdrive.online/anime/maou-sama-retry-todos-os-episodios",
-            "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "maou-sama-retry"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "maou-sama-retry"
-              }
-            ]
-          },
-          {
-            "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
-            "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
-            "url": "https://animesdrive.online/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
-              }
-            ]
-          },
-          {
-            "title": "Wandance Dublado",
-            "slug": "wandance-dublado",
-            "url": "https://animesdrive.online/anime/wandance-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/10/1FbU0jXGPTKKWtRkVD1zplH73La-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive"
-          },
-          {
-            "title": "Witch Watch Dublado",
-            "slug": "witch-watch-dublado",
-            "url": "https://animesdrive.online/anime/witch-watch-dublado",
-            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/jeh8PhZecsxpPikl6oUrVEkG8s6-185x278.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "witch-watch-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "witch-watch-dublado"
-              }
-            ]
+            "provider": "anitube"
           }
         ],
         "category": "todos",
         "page": 15,
         "hasMore": true,
-        "total": 1700,
-        "cachedAt": 1786767539456,
+        "total": 1696,
+        "cachedAt": 1786781941854,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -17136,7 +17122,7 @@
           "fixHint": null
         }
       },
-      "at": 1786767539592
+      "at": 1786781941947
     },
     "todos|16||120": {
       "data": {
@@ -51094,7 +51080,7 @@
         "page": 15,
         "hasMore": true
       },
-      "at": 1786767539456
+      "at": 1786781941854
     },
     "partner:animesdigital|todos|15||48": {
       "data": {
@@ -131540,5 +131526,5 @@
       "at": 1786777541061
     }
   },
-  "updatedAt": 1786781938311
+  "updatedAt": 1786781941947
 }
