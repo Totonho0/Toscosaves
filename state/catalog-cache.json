@@ -102635,6 +102635,33 @@
             "provider": "aoc"
           },
           {
+            "title": "Sakugan",
+            "slug": "sakugan",
+            "url": "https://animesonline.cloud/anime/sakugan",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/h4v0id7U9YL8se3kIviAqyMNiqe-185x278.jpg",
+            "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+            "slug": "sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru",
+            "url": "https://animesonline.cloud/anime/sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/v2VA99oXvEEuZNeqXSYRhq4uY2j-185x278.jpg",
+            "rating": "8.185",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside",
+            "slug": "banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside",
+            "url": "https://animesonline.cloud/anime/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside",
+            "poster": "https://image.tmdb.org/t/p/w185/mgYMsOsFrQ9Q5NjlQwKRWu0K3uM.jpg",
+            "rating": "7.235",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Tsuki ga Michibiku Isekai Douchuu",
             "slug": "tsuki-ga-michibiku-isekai-douchuu",
             "url": "https://animesonline.cloud/anime/tsuki-ga-michibiku-isekai-douchuu",
@@ -102786,40 +102813,13 @@
             "rating": "8.3",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Jibaku Shounen Hanako-kun 2",
-            "slug": "jibaku-shounen-hanako-kun-2",
-            "url": "https://animesonline.cloud/anime/jibaku-shounen-hanako-kun-2",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/fJN1faGg5e7qB7RecEhOys8X9Bz-185x278.jpg",
-            "rating": "8.6",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Mairimashita! Iruma-kun 4",
-            "slug": "mairimashita-iruma-kun-4",
-            "url": "https://animesonline.cloud/anime/mairimashita-iruma-kun-4",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/4ujO7fWRzyWvU96u6puKmi6ZgiS-185x278.jpg",
-            "rating": "8.2",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Enen no Shouboutai",
-            "slug": "enen-no-shouboutai",
-            "url": "https://animesonline.cloud/anime/enen-no-shouboutai",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/qDNgM4STqdzl4IBMyqCVMIr6uUV-185x278.jpg",
-            "rating": "8.4",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 45,
         "hasMore": true
       },
-      "at": 1786738771837
+      "at": 1786767684074
     },
     "partner:animesdrive|todos|45||48": {
       "data": {
@@ -103435,6 +103435,84 @@
             ]
           },
           {
+            "title": "Sakugan",
+            "slug": "sakugan",
+            "url": "https://animesonline.cloud/anime/sakugan",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/01/h4v0id7U9YL8se3kIviAqyMNiqe-185x278.jpg",
+            "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sakugan"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sakugan"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sakugan"
+              }
+            ]
+          },
+          {
+            "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+            "slug": "sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru",
+            "url": "https://animesonline.cloud/anime/sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/v2VA99oXvEEuZNeqXSYRhq4uY2j-185x278.jpg",
+            "rating": "8.185",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru"
+              }
+            ]
+          },
+          {
+            "title": "Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside",
+            "slug": "banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside",
+            "url": "https://animesonline.cloud/anime/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside",
+            "poster": "https://image.tmdb.org/t/p/w185/mgYMsOsFrQ9Q5NjlQwKRWu0K3uM.jpg",
+            "rating": "7.235",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside"
+              }
+            ]
+          },
+          {
             "title": "Tsuki ga Michibiku Isekai Douchuu",
             "slug": "tsuki-ga-michibiku-isekai-douchuu",
             "url": "https://animesonline.cloud/anime/tsuki-ga-michibiku-isekai-douchuu",
@@ -103631,104 +103709,14 @@
                 "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu"
               },
               {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "yani-neko"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "bungou-stray-dogs-wan-2"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "reiwa-no-dara-san"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "otome-kaijuu-carameliser"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru"
-              },
-              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu"
               },
               {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "yani-neko"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "otome-kaijuu-carameliser"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "bungou-stray-dogs-wan-2"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "reiwa-no-dara-san"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu"
-              },
-              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "yani-neko"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "otome-kaijuu-carameliser"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "bungou-stray-dogs-wan-2"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "reiwa-no-dara-san"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu"
               }
             ]
           },
@@ -103969,11 +103957,10 @@
           {
             "title": "Jibaku Shounen Hanako-kun 2",
             "slug": "jibaku-shounen-hanako-kun-2",
-            "url": "https://animesonline.cloud/anime/jibaku-shounen-hanako-kun-2",
+            "url": "https://animesdrive.online/anime/jibaku-shounen-hanako-kun-2",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/01/fJN1faGg5e7qB7RecEhOys8X9Bz-185x278.jpg",
-            "rating": "8.6",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -103995,11 +103982,10 @@
           {
             "title": "Mairimashita! Iruma-kun 4",
             "slug": "mairimashita-iruma-kun-4",
-            "url": "https://animesonline.cloud/anime/mairimashita-iruma-kun-4",
+            "url": "https://animesdrive.online/anime/mairimashita-iruma-kun-4",
             "poster": "https://animesdrive.online/wp-content/uploads/2026/04/4ujO7fWRzyWvU96u6puKmi6ZgiS-185x278.jpg",
-            "rating": "8.2",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -104021,11 +104007,10 @@
           {
             "title": "Enen no Shouboutai",
             "slug": "enen-no-shouboutai",
-            "url": "https://animesonline.cloud/anime/enen-no-shouboutai",
+            "url": "https://animesdrive.online/anime/enen-no-shouboutai",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/01/qDNgM4STqdzl4IBMyqCVMIr6uUV-185x278.jpg",
-            "rating": "8.4",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -104192,59 +104177,13 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-science-future-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
             "kind": "anime",
             "provider": "anitube"
-          },
-          {
-            "title": "Dr. Stone: Science Future 2 (Legendado)",
-            "slug": "1003622",
-            "url": "https://www.anitube.zip/video/1003622/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-science-future-2-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Dr. Stone: Science Future 3 (Legendado)",
-            "slug": "1050986",
-            "url": "https://www.anitube.zip/video/1050986/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Dr-Stone-Science-Future-3-categoria.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Dr. Stone: Science Future Dublado",
-            "slug": "998440",
-            "url": "https://www.anitube.zip/video/998440/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-dr-stone-science-future-dublado-dublado-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "dr-stone-science-future-dublado"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "998440"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "dr-stone-science-future-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "dr-stone-science-future-dublado"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 45,
         "hasMore": true,
         "total": 1698,
-        "cachedAt": 1786738771837,
+        "cachedAt": 1786767684074,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -104291,7 +104230,7 @@
           "fixHint": null
         }
       },
-      "at": 1786738773054
+      "at": 1786767684579
     },
     "partner:anitube|todos|46||48": {
       "data": {
@@ -104446,7 +104385,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786738773405
+      "at": 1786767684924
     },
     "todos|46||48": {
       "data": {
@@ -104875,7 +104814,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786738774082
+      "at": 1786767685501
     },
     "partner:animeplay|todos|46||48": {
       "data": {
@@ -105070,7 +105009,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786738774761
+      "at": 1786767686106
     },
     "todos|46||120": {
       "data": {
@@ -130880,5 +130819,5 @@
       "at": 1786712561120
     }
   },
-  "updatedAt": 1786767681776
+  "updatedAt": 1786767686106
 }
