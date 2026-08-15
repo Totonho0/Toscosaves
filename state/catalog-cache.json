@@ -75720,7 +75720,7 @@
         "page": 31,
         "hasMore": true
       },
-      "at": 1786782005428
+      "at": 1786796425342
     },
     "partner:animesdrive|todos|31||48": {
       "data": {
@@ -76788,15 +76788,6 @@
             ]
           },
           {
-            "title": "Super no Ura de Yani Suu Futari",
-            "slug": "super-no-ura-de-yani-suu-futari",
-            "url": "https://animesonline.cloud/anime/super-no-ura-de-yani-suu-futari",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/nSdgX507jBlonGFC91Ve0TfcLjJ-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Super no Ura de Yani Suu Futari Dublado",
             "slug": "super-no-ura-de-yani-suu-futari-dublado",
             "url": "https://animesonline.cloud/anime/super-no-ura-de-yani-suu-futari-dublado",
@@ -77507,7 +77498,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/htNohqrYEwuz4fCa9ATVF90s58S-185x278.jpg",
             "rating": "8.2",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -77552,13 +77543,33 @@
             "rating": "7.8",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 31,
         "hasMore": true,
         "total": 1696,
-        "cachedAt": 1786782005428,
+        "cachedAt": 1786796425342,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -77605,11 +77616,27 @@
           "fixHint": null
         }
       },
-      "at": 1786782005524
+      "at": 1786796425743
     },
     "partner:anitube|todos|32||48": {
       "data": {
         "items": [
+          {
+            "title": "Cheer Danshi!! (Legendado)",
+            "slug": "62143",
+            "url": "https://www.anitube.zip/video/62143/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Cheer-Danshi.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Chi.: Chikyuu no Undou ni Tsuite (Legendado)",
+            "slug": "993931",
+            "url": "https://www.anitube.zip/video/993931/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-chi-chikyuu-no-undou-ni-tsuite-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
           {
             "title": "Chi’s Sweet Home (Legendado)",
             "slug": "61948",
@@ -77737,22 +77764,6 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/Chocolate-Underground.jpg",
             "kind": "anime",
             "provider": "anitube"
-          },
-          {
-            "title": "Chocotto Sister (Legendado)",
-            "slug": "81104",
-            "url": "https://www.anitube.zip/video/81104/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Chocotto-Sister.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Chokkyuu Hyoudai Robot (Legendado)",
-            "slug": "76702",
-            "url": "https://www.anitube.zip/video/76702/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Chokkyuu-Hyoudai-Robot.jpg",
-            "kind": "anime",
-            "provider": "anitube"
           }
         ],
         "category": "todos",
@@ -77760,7 +77771,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786767605817
+      "at": 1786796427859
     },
     "todos|32||48": {
       "data": {
@@ -78274,7 +78285,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786767606611
+      "at": 1786796426800
     },
     "partner:animeplay|todos|32||48": {
       "data": {
@@ -78517,7 +78528,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786767606927
+      "at": 1786796427468
     },
     "todos|32||120": {
       "data": {
@@ -130910,5 +130921,5 @@
       "at": 1786777541061
     }
   },
-  "updatedAt": 1786796419032
+  "updatedAt": 1786796427859
 }
