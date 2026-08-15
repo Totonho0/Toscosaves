@@ -18487,62 +18487,6 @@
       "data": {
         "items": [
           {
-            "title": "Fluffy Paradise",
-            "slug": "fluffy-paradise",
-            "url": "https://animesonline.cloud/anime/fluffy-paradise",
-            "poster": "https://image.tmdb.org/t/p/w185/tDvb4SRltQLs1hkKe5WYQmpi6gJ.jpg",
-            "rating": "6",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "fluffy-paradise"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "fluffy-paradise"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "fluffy-paradise"
-              }
-            ]
-          },
-          {
-            "title": "Food Court de Mata Ashita",
-            "slug": "food-court-de-mata-ashita",
-            "url": "https://animesonline.cloud/anime/food-court-de-mata-ashita",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/ftbclK56IBYCoaMASrcMi6c31GI-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "rating": "0"
-          },
-          {
-            "title": "Fruits Basket (2001)",
-            "slug": "fruits-basket-2001",
-            "url": "https://animesonline.cloud/anime/fruits-basket-2001",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/03/ykFgaZancgC5j3N3B3DnHfhc8CG-185x278.jpg",
-            "rating": "7",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "fruits-basket-2001"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "fruits-basket-2019"
-              }
-            ]
-          },
-          {
             "title": "Fruits Basket (2019) Dublado",
             "slug": "fruits-basket-2019-dublado",
             "url": "https://animesonline.cloud/anime/fruits-basket-2019-dublado",
@@ -19296,22 +19240,72 @@
             "rating": "8.4"
           },
           {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "title": "Grand Blue Dreaming",
+            "slug": "grand-blue-dreaming",
+            "url": "https://animesonline.cloud/anime/grand-blue-dreaming",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/07/u9dghzuBEtMxlIyoXbPBZ6HfX6z-185x278.jpg",
+            "rating": "7.7",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "grand-blue-dreaming"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
-                "slug": "one-piece"
+                "slug": "grand-blue-dreaming"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "one-piece"
+                "slug": "grand-blue-dreaming"
+              }
+            ]
+          },
+          {
+            "title": "Grand Blue Dreaming 2",
+            "slug": "grand-blue-dreaming-2",
+            "url": "https://animesonline.cloud/anime/grand-blue-dreaming-2",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/luqItcfk4OuBk0jp30raXHSEqUG-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "7.7"
+          },
+          {
+            "title": "Grand Blue Season 3",
+            "slug": "grand-blue-season-3",
+            "url": "https://animesonline.cloud/anime/grand-blue-season-3",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/5m3Z325HnqiFqwXM1u2MALfU7IZ-185x278.jpg",
+            "rating": "7.76",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Grendizer U – Todos os Episodios",
+            "slug": "grendizer-u",
+            "url": "https://animesdrive.online/anime/grendizer-u",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/07/uWaJrNKRSXSiEDuF0uK5PKOJdTd-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "grendizer-u"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "grendizer-u"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "grendizer-u"
               }
             ]
           }
@@ -19319,8 +19313,8 @@
         "category": "todos",
         "page": 18,
         "hasMore": true,
-        "total": 1700,
-        "cachedAt": 1786767550189,
+        "total": 1696,
+        "cachedAt": 1786781952888,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -19367,7 +19361,7 @@
           "fixHint": null
         }
       },
-      "at": 1786767550324
+      "at": 1786781952986
     },
     "todos|19||120": {
       "data": {
@@ -54998,7 +54992,7 @@
         "page": 18,
         "hasMore": true
       },
-      "at": 1786767550189
+      "at": 1786781952888
     },
     "partner:animesdrive|todos|18||48": {
       "data": {
@@ -131576,5 +131570,5 @@
       "at": 1786777541061
     }
   },
-  "updatedAt": 1786781949280
+  "updatedAt": 1786781952986
 }
