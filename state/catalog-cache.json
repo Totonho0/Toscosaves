@@ -20335,11 +20335,11 @@
           {
             "title": "Horimiya: Piece – Todos os Episódios",
             "slug": "horimiya-the-missing-pieces",
-            "url": "https://animesdrive.online/anime/horimiya-the-missing-pieces",
+            "url": "https://animesonline.cloud/anime/horimiya-the-missing-pieces",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/08/nnGb4NYOyRfCl5DKYPIK9A0Cgww-185x278.jpg",
             "rating": "7.552",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -20429,37 +20429,6 @@
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "hunter-x-hunter-2011"
-              }
-            ]
-          },
-          {
-            "title": "Hunter x Hunter (2011)",
-            "slug": "hunter-x-hunter-2011",
-            "url": "https://animesonline.cloud/anime/hunter-x-hunter-2011",
-            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/9WxfAQquTun9ATkV6iAeFHMkqxv-185x278.jpg",
-            "rating": "8.626",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "hunter-x-hunter-2011"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "hunter-x-hunter"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "hunter-x-hunter-2011"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
                 "slug": "hunter-x-hunter-2011"
               }
             ]
@@ -20593,11 +20562,11 @@
           {
             "title": "Inazuma Eleven – Todos os Episódios",
             "slug": "inazuma-eleven",
-            "url": "https://animesdrive.online/anime/inazuma-eleven",
+            "url": "https://animesonline.cloud/anime/inazuma-eleven",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/p0UiQl050IxYOZJ5u8tc7arG7kA-185x278.jpg",
             "rating": "8.1",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -20921,7 +20890,7 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/Isekai-Yururi-Kikou-Kosodateshinagara-Boukensha-Shimasu-AnimeDrive-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -20939,13 +20908,33 @@
                 "slug": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu"
               }
             ]
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 20,
         "hasMore": true,
         "total": 1700,
-        "cachedAt": 1786753121150,
+        "cachedAt": 1786767557793,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -20992,7 +20981,7 @@
           "fixHint": null
         }
       },
-      "at": 1786753121250
+      "at": 1786767557915
     },
     "legendado|1||120": {
       "data": {
@@ -56793,7 +56782,7 @@
         "page": 20,
         "hasMore": true
       },
-      "at": 1786753121150
+      "at": 1786767557793
     },
     "partner:animesdrive|todos|20||48": {
       "data": {
@@ -57450,7 +57439,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786738723466
+      "at": 1786767558254
     },
     "todos|21||48": {
       "data": {
@@ -57981,7 +57970,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786738724157
+      "at": 1786767558851
     },
     "partner:animeplay|todos|21||48": {
       "data": {
@@ -58232,7 +58221,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786738724959
+      "at": 1786767559569
     },
     "todos|21||120": {
       "data": {
@@ -129730,5 +129719,5 @@
       "at": 1786712561120
     }
   },
-  "updatedAt": 1786767555773
+  "updatedAt": 1786767559569
 }
