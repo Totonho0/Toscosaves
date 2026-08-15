@@ -82161,7 +82161,7 @@
         "page": 34,
         "hasMore": true
       },
-      "at": 1786782031745
+      "at": 1786796451567
     },
     "partner:animesdrive|todos|34||48": {
       "data": {
@@ -83329,7 +83329,7 @@
         "page": 34,
         "hasMore": true,
         "total": 1696,
-        "cachedAt": 1786782031745,
+        "cachedAt": 1786796451567,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -83376,11 +83376,27 @@
           "fixHint": null
         }
       },
-      "at": 1786782031853
+      "at": 1786796451760
     },
     "partner:anitube|todos|35||48": {
       "data": {
         "items": [
+          {
+            "title": "Clione no Akari (Legendado)",
+            "slug": "64528",
+            "url": "https://www.anitube.zip/video/64528/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Clione-no-Akari.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Clockwork Planet (Legendado)",
+            "slug": "59363",
+            "url": "https://www.anitube.zip/video/59363/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Clockwork-Planet.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
           {
             "title": "Cobra: The Animation I (Legendado)",
             "slug": "59338",
@@ -83508,22 +83524,6 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/Concrete-Revolutio-Choujin-Gensou.jpg",
             "kind": "anime",
             "provider": "anitube"
-          },
-          {
-            "title": "Concrete Revolutio: Choujin Gensou (Legendado)",
-            "slug": "59047",
-            "url": "https://www.anitube.zip/video/59047/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Concrete-Revolutio.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Cool Doji Danshi (Legendado)",
-            "slug": "915806",
-            "url": "https://www.anitube.zip/video/915806/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Cool-Doji-Danshi-Todos-os-Episodios-Anitube.jpg",
-            "kind": "anime",
-            "provider": "anitube"
           }
         ],
         "category": "todos",
@@ -83531,7 +83531,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786767633423
+      "at": 1786796453856
     },
     "todos|35||48": {
       "data": {
@@ -84028,7 +84028,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786767633534
+      "at": 1786796453130
     },
     "partner:animeplay|todos|35||48": {
       "data": {
@@ -84263,7 +84263,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786767634502
+      "at": 1786796453591
     },
     "todos|35||120": {
       "data": {
@@ -131598,5 +131598,5 @@
       "at": 1786777541061
     }
   },
-  "updatedAt": 1786796445467
+  "updatedAt": 1786796453856
 }
