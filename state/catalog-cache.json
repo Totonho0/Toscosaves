@@ -66797,7 +66797,7 @@
         "page": 26,
         "hasMore": true
       },
-      "at": 1786753131307
+      "at": 1786767580632
     },
     "partner:animesdrive|todos|26||48": {
       "data": {
@@ -67317,10 +67317,27 @@
             "title": "My Hero Academia: Vigilantes",
             "slug": "my-hero-academia-vigilantes",
             "url": "https://animesonline.cloud/anime/my-hero-academia-vigilantes",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/03/bFstXrVHgubLjoTdL3RAVFQDJdO-185x278.jpg",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/03/bFstXrVHgubLjoTdL3RAVFQDJdO-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "my-hero-academia-vigilantes"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "my-hero-academia-vigilantes"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "my-hero-academia-vigilantes"
+              }
+            ]
           },
           {
             "title": "My Hero Academia: Vigilantes 2",
@@ -67356,7 +67373,7 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/Na-Nare-Hana-Nare-AnimeDrive-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -67570,11 +67587,11 @@
           {
             "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
             "slug": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
-            "url": "https://animesdrive.online/anime/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
+            "url": "https://animesonline.cloud/anime/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/6U4SotIXAsqOAhsB3gk3m8ushye-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -68098,7 +68115,7 @@
         "page": 26,
         "hasMore": true,
         "total": 1700,
-        "cachedAt": 1786753131307,
+        "cachedAt": 1786767580632,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -68145,7 +68162,7 @@
           "fixHint": null
         }
       },
-      "at": 1786753131392
+      "at": 1786767580828
     },
     "partner:anitube|todos|27||48": {
       "data": {
@@ -68300,7 +68317,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786738735347
+      "at": 1786767581176
     },
     "todos|27||48": {
       "data": {
@@ -68831,7 +68848,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786738735946
+      "at": 1786767581773
     },
     "partner:animeplay|todos|27||48": {
       "data": {
@@ -69082,7 +69099,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786738736843
+      "at": 1786767582555
     },
     "todos|27||120": {
       "data": {
@@ -129836,5 +129853,5 @@
       "at": 1786712561120
     }
   },
-  "updatedAt": 1786767578537
+  "updatedAt": 1786767582555
 }
