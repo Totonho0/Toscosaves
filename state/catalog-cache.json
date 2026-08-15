@@ -83793,7 +83793,7 @@
         "page": 35,
         "hasMore": true
       },
-      "at": 1786782039727
+      "at": 1786796459634
     },
     "partner:animesdrive|todos|35||48": {
       "data": {
@@ -84342,11 +84342,11 @@
           {
             "title": "Yamishibai Japanese Ghost Stories – Todos os Episódios",
             "slug": "yamishibai-japanese-ghost-stories",
-            "url": "https://animesdrive.online/anime/yamishibai-japanese-ghost-stories",
+            "url": "https://animesonline.cloud/anime/yamishibai-japanese-ghost-stories",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/zQJiBekYYqFhYwDnpJPrtYaoo27-185x278.jpg",
             "rating": "7.5",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -84413,15 +84413,6 @@
             ]
           },
           {
-            "title": "Yani Neko",
-            "slug": "yani-neko",
-            "url": "https://animesonline.cloud/anime/yani-neko",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
-            "rating": "5",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Yani Neko Dublado",
             "slug": "yani-neko-dublado",
             "url": "https://animesonline.cloud/anime/yani-neko-dublado",
@@ -84460,11 +84451,11 @@
           {
             "title": "Yeosin Gangnim – Todos os Episódios",
             "slug": "yeosin-gangnim",
-            "url": "https://animesdrive.online/anime/yeosin-gangnim-todos-os-episodios",
+            "url": "https://animesonline.cloud/anime/yeosin-gangnim-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/9gpc8kIhNEG7r0VTkyI9aVBxdO3.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -85480,11 +85471,11 @@
           {
             "title": "Yu-Gi-Oh! Duel Monsters – Todos os Episódios",
             "slug": "yu-gi-oh-duel-monsters",
-            "url": "https://animesdrive.online/anime/yu-gi-oh-duel-monsters",
+            "url": "https://animesonline.cloud/anime/yu-gi-oh-duel-monsters",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/08/ra8CKkCHjSok8L9meEP4WuOukNK-185x278.jpg",
             "rating": "8.234",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -85643,13 +85634,33 @@
                 "slug": "z-x-ignition"
               }
             ]
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 35,
         "hasMore": true,
         "total": 1696,
-        "cachedAt": 1786782039727,
+        "cachedAt": 1786796459634,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -85696,11 +85707,27 @@
           "fixHint": null
         }
       },
-      "at": 1786782039829
+      "at": 1786796459844
     },
     "partner:anitube|todos|36||48": {
       "data": {
         "items": [
+          {
+            "title": "Concrete Revolutio: Choujin Gensou (Legendado)",
+            "slug": "59047",
+            "url": "https://www.anitube.zip/video/59047/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Concrete-Revolutio.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
+          {
+            "title": "Cool Doji Danshi (Legendado)",
+            "slug": "915806",
+            "url": "https://www.anitube.zip/video/915806/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Cool-Doji-Danshi-Todos-os-Episodios-Anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube"
+          },
           {
             "title": "Cop Craft (Legendado)",
             "slug": "880498",
@@ -85828,22 +85855,6 @@
             "poster": "https://www.anitube.zip/wp-content/uploads/Cuticle-Tantei-Inaba.jpg",
             "kind": "anime",
             "provider": "anitube"
-          },
-          {
-            "title": "Cutie Honey Universe (Legendado)",
-            "slug": "64643",
-            "url": "https://www.anitube.zip/video/64643/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Cutie-Honey-Universe.jpg",
-            "kind": "anime",
-            "provider": "anitube"
-          },
-          {
-            "title": "Cyberpunk: Edgerunners (Legendado)",
-            "slug": "925297",
-            "url": "https://www.anitube.zip/video/925297/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-cyberpunk-edgerunners-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "anitube"
           }
         ],
         "category": "todos",
@@ -85851,7 +85862,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786767642025
+      "at": 1786796461453
     },
     "todos|36||48": {
       "data": {
@@ -86365,7 +86376,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786767642473
+      "at": 1786796460826
     },
     "partner:animeplay|todos|36||48": {
       "data": {
@@ -86608,7 +86619,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786767642837
+      "at": 1786796461768
     },
     "todos|36||120": {
       "data": {
@@ -131598,5 +131609,5 @@
       "at": 1786777541061
     }
   },
-  "updatedAt": 1786796453856
+  "updatedAt": 1786796461768
 }
