@@ -94022,7 +94022,7 @@
         "page": 40,
         "hasMore": true
       },
-      "at": 1786767661909
+      "at": 1786796481506
     },
     "partner:animesdrive|todos|40||48": {
       "data": {
@@ -95326,6 +95326,11 @@
             "provider": "animesdrive",
             "animeSources": [
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "yoru-no-kurage-wa-oyogenai"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "yoru-no-kurage-wa-oyogenai"
@@ -95495,8 +95500,8 @@
         "category": "todos",
         "page": 40,
         "hasMore": true,
-        "total": 1700,
-        "cachedAt": 1786767661909,
+        "total": 1696,
+        "cachedAt": 1786796481506,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -95543,7 +95548,7 @@
           "fixHint": null
         }
       },
-      "at": 1786767662160
+      "at": 1786796482633
     },
     "partner:anitube|todos|41||48": {
       "data": {
@@ -96229,7 +96234,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786767663133
+      "at": 1786796483566
     },
     "partner:animeplay|todos|41||48": {
       "data": {
@@ -96480,7 +96485,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786767663777
+      "at": 1786796484152
     },
     "todos|41||120": {
       "data": {
@@ -132320,5 +132325,5 @@
       "at": 1786777541061
     }
   },
-  "updatedAt": 1786796479601
+  "updatedAt": 1786796484152
 }
