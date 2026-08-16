@@ -13,8 +13,7 @@
       "slug": "1061503",
       "title": "Black Torch Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWJsYWNrLXRvcmNoLWR1YmxhZG8tZHVibGFkby10b2Rvcy1vcy1lcGlzb2Rpb3MtdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbml0dWJlLmpwZw",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "aishiteru-game-wo-owarasetai-dublado": {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
@@ -48,6 +47,9 @@
     }
   },
   "watched": {
+    "1061503": [
+      5
+    ],
     "aishiteru-game-wo-owarasetai-dublado": [
       1
     ],
@@ -83,34 +85,34 @@
   },
   "watchHistoryLog": [
     {
-      "slug": "1061503",
-      "ep": 5,
-      "at": 1786917270047
-    },
-    {
       "slug": "kill-ao-dublado",
       "ep": 10,
-      "at": 1786917243718
+      "at": 1786917295958
     },
     {
       "slug": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
       "ep": 1,
-      "at": 1786917243718
+      "at": 1786917295958
     },
     {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
       "ep": 1,
-      "at": 1786917243718
+      "at": 1786917295958
     },
     {
       "slug": "black-torch",
       "ep": 1,
-      "at": 1786917243718
+      "at": 1786917295958
     },
     {
       "slug": "black-torch-dublado",
       "ep": 3,
-      "at": 1786917243718
+      "at": 1786917295958
+    },
+    {
+      "slug": "1061503",
+      "ep": 5,
+      "at": 1786917295958
     },
     {
       "slug": "tsue-to-tsurugi-no-wistoria-2",
@@ -199,5 +201,5 @@
   },
   "filmePlayback": {},
   "customLists": {},
-  "updatedAt": 1786917290226
+  "updatedAt": 1786917296548
 }
