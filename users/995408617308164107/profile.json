@@ -9,6 +9,13 @@
   "watchLater": [],
   "mangaFavorites": [],
   "library": {
+    "1061503": {
+      "slug": "1061503",
+      "title": "Black Torch Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWJsYWNrLXRvcmNoLWR1YmxhZG8tZHVibGFkby10b2Rvcy1vcy1lcGlzb2Rpb3MtdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbml0dWJlLmpwZw",
+      "kind": "anime",
+      "adult": false
+    },
     "aishiteru-game-wo-owarasetai-dublado": {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
       "title": "Aishiteru Game wo Owarasetai Dublado",
@@ -59,6 +66,9 @@
     ]
   },
   "started": {
+    "1061503": [
+      3
+    ],
     "black-torch": [
       1
     ],
@@ -72,6 +82,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "1061503",
+      "ep": 3,
+      "at": 1786917257036
+    },
     {
       "slug": "kill-ao-dublado",
       "ep": 10,
@@ -173,5 +188,5 @@
   },
   "filmePlayback": {},
   "customLists": {},
-  "updatedAt": 1786917244062
+  "updatedAt": 1786917257635
 }
