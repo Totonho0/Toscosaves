@@ -84086,11 +84086,11 @@
           {
             "title": "Yamishibai Japanese Ghost Stories – Todos os Episódios",
             "slug": "yamishibai-japanese-ghost-stories",
-            "url": "https://animesdrive.online/anime/yamishibai-japanese-ghost-stories",
+            "url": "https://animesonline.cloud/anime/yamishibai-japanese-ghost-stories",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/zQJiBekYYqFhYwDnpJPrtYaoo27-185x278.jpg",
             "rating": "7.5",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -84157,15 +84157,6 @@
             ]
           },
           {
-            "title": "Yani Neko",
-            "slug": "yani-neko",
-            "url": "https://animesonline.cloud/anime/yani-neko",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
-            "rating": "5",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Yani Neko Dublado",
             "slug": "yani-neko-dublado",
             "url": "https://animesonline.cloud/anime/yani-neko-dublado",
@@ -84204,11 +84195,11 @@
           {
             "title": "Yeosin Gangnim – Todos os Episódios",
             "slug": "yeosin-gangnim",
-            "url": "https://animesdrive.online/anime/yeosin-gangnim-todos-os-episodios",
+            "url": "https://animesonline.cloud/anime/yeosin-gangnim-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/9gpc8kIhNEG7r0VTkyI9aVBxdO3.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -85239,11 +85230,11 @@
           {
             "title": "Yu-Gi-Oh! Duel Monsters – Todos os Episódios",
             "slug": "yu-gi-oh-duel-monsters",
-            "url": "https://animesdrive.online/anime/yu-gi-oh-duel-monsters",
+            "url": "https://animesonline.cloud/anime/yu-gi-oh-duel-monsters",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/08/ra8CKkCHjSok8L9meEP4WuOukNK-185x278.jpg",
             "rating": "8.234",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -85261,13 +85252,33 @@
                 "slug": "yu-gi-oh-duel-monsters"
               }
             ]
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 35,
         "hasMore": true,
         "total": 1706,
-        "cachedAt": 1786868338781,
+        "cachedAt": 1786882838386,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -85314,7 +85325,7 @@
           "fixHint": null
         }
       },
-      "at": 1786868338872
+      "at": 1786882841681
     },
     "partner:anitube|todos|36||48": {
       "data": {
@@ -85740,7 +85751,7 @@
         "page": 36,
         "hasMore": true
       },
-      "at": 1786868340244
+      "at": 1786882843084
     },
     "partner:animesdrive|todos|36||48": {
       "data": {
@@ -85983,7 +85994,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786853953032
+      "at": 1786882842651
     },
     "partner:animeplay|todos|36||48": {
       "data": {
@@ -86226,7 +86237,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786853953657
+      "at": 1786882843440
     },
     "todos|36||120": {
       "data": {
@@ -131326,5 +131337,5 @@
       "at": 1786777541061
     }
   },
-  "updatedAt": 1786882838694
+  "updatedAt": 1786882843440
 }
