@@ -77522,15 +77522,6 @@
             ]
           },
           {
-            "title": "Super no Ura de Yani Suu Futari",
-            "slug": "super-no-ura-de-yani-suu-futari",
-            "url": "https://animesonline.cloud/anime/super-no-ura-de-yani-suu-futari",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/nSdgX507jBlonGFC91Ve0TfcLjJ-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Super no Ura de Yani Suu Futari Dublado",
             "slug": "super-no-ura-de-yani-suu-futari-dublado",
             "url": "https://animesonline.cloud/anime/super-no-ura-de-yani-suu-futari-dublado",
@@ -78256,7 +78247,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/htNohqrYEwuz4fCa9ATVF90s58S-185x278.jpg",
             "rating": "8.2",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -78898,13 +78889,33 @@
             "rating": "8.5",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.online/anime/one-piece",
+            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 32,
         "hasMore": true,
         "total": 1706,
-        "cachedAt": 1786868334332,
+        "cachedAt": 1786882824244,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -78951,7 +78962,7 @@
           "fixHint": null
         }
       },
-      "at": 1786868334428
+      "at": 1786882827553
     },
     "partner:anitube|todos|33||48": {
       "data": {
@@ -79377,7 +79388,7 @@
         "page": 33,
         "hasMore": true
       },
-      "at": 1786868335834
+      "at": 1786882829295
     },
     "partner:animesdrive|todos|33||48": {
       "data": {
@@ -79620,7 +79631,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786853947590
+      "at": 1786882828880
     },
     "partner:animeplay|todos|33||48": {
       "data": {
@@ -79863,7 +79874,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786853948292
+      "at": 1786882829631
     },
     "todos|33||120": {
       "data": {
@@ -131315,5 +131326,5 @@
       "at": 1786777541061
     }
   },
-  "updatedAt": 1786882824497
+  "updatedAt": 1786882829631
 }
