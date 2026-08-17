@@ -18512,6 +18512,32 @@
             ]
           },
           {
+            "title": "Fruits Basket (2019)",
+            "slug": "fruits-basket-2019",
+            "url": "https://animesonline.cloud/anime/fruits-basket-2019",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/wVe8vcSqpJjLib5TWer6kgkGjjM-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fruits-basket-2001"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fruits-basket-2019"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "fruits-basket-2019"
+              }
+            ],
+            "rating": "7.9"
+          },
+          {
             "title": "Fruits Basket (2019) Dublado",
             "slug": "fruits-basket-2019-dublado",
             "url": "https://animesonline.cloud/anime/fruits-basket-2019-dublado",
@@ -19141,33 +19167,13 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "8.1"
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 18,
         "hasMore": true,
         "total": 1706,
-        "cachedAt": 1786940319086,
+        "cachedAt": 1786954713545,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -19214,7 +19220,7 @@
           "fixHint": null
         }
       },
-      "at": 1786940319702
+      "at": 1786954713639
     },
     "todos|19||120": {
       "data": {
@@ -19337,11 +19343,11 @@
           {
             "title": "Grendizer U – Todos os Episodios",
             "slug": "grendizer-u",
-            "url": "https://animesonline.cloud/anime/grendizer-u",
+            "url": "https://animesdrive.online/anime/grendizer-u",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/uWaJrNKRSXSiEDuF0uK5PKOJdTd-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -19928,7 +19934,7 @@
         "page": 19,
         "hasMore": true,
         "total": 1706,
-        "cachedAt": 1786940321152,
+        "cachedAt": 1786954715080,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -19975,7 +19981,7 @@
           "fixHint": null
         }
       },
-      "at": 1786940321646
+      "at": 1786954715177
     },
     "todos|20||120": {
       "data": {
@@ -54899,7 +54905,7 @@
         "page": 18,
         "hasMore": true
       },
-      "at": 1786940319086
+      "at": 1786954713545
     },
     "partner:animesdrive|todos|18||48": {
       "data": {
@@ -55811,7 +55817,7 @@
         "page": 19,
         "hasMore": true
       },
-      "at": 1786940321152
+      "at": 1786954715080
     },
     "partner:animesdrive|todos|19||48": {
       "data": {
@@ -131721,5 +131727,5 @@
       "at": 1786777541061
     }
   },
-  "updatedAt": 1786954711821
+  "updatedAt": 1786954715177
 }
