@@ -20465,43 +20465,60 @@
       }
     },
     "afro-samurai": {
-      "at": 1786221380578,
+      "at": 1786983415273,
       "data": {
         "slug": "afro-samurai",
-        "title": "Afro Samurai – Todos os Episódios",
+        "title": "Afro Samurai - Todos os Episódios",
         "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avb3JpZ2luYWwvNE1nSTRzcDVoTGR6NFpaOU9pZVlqSGs3eTVOLmpwZw",
         "synopsis": "",
         "episodes": [
           {
             "number": 2,
             "title": "Episódio 02 - O Leitor de Sonhos",
-            "url": "https://animesdrive.online/episodio/afro-samurai-episodio-02"
+            "url": "https://animesonline.cloud/episodio/afro-samurai-episodio-02"
           },
           {
             "number": 3,
             "title": "Episódio 03 - O Clã dos Sete Vazios",
-            "url": "https://animesdrive.online/episodio/afro-samurai-episodio-03"
+            "url": "https://animesonline.cloud/episodio/afro-samurai-episodio-03"
           },
           {
             "number": 4,
             "title": "Episódio 04 - Duelo",
-            "url": "https://animesdrive.online/episodio/afro-samurai-episodio-04"
+            "url": "https://animesonline.cloud/episodio/afro-samurai-episodio-04"
           },
           {
             "number": 5,
             "title": "Episódio 05 - Justiça",
-            "url": "https://animesdrive.online/episodio/afro-samurai-episodio-05"
+            "url": "https://animesonline.cloud/episodio/afro-samurai-episodio-05"
           }
         ],
         "totalEpisodes": 4,
         "kind": "anime",
-        "provider": "animesdrive",
+        "provider": "aoc",
         "genres": [
           "Legendado",
           "Dublado",
           "Ação e Aventura",
           "Animação",
           "Drama"
+        ],
+        "animeSources": [
+          {
+            "server": 1,
+            "provider": "aoc",
+            "slug": "afro-samurai"
+          },
+          {
+            "server": 2,
+            "provider": "animesdrive",
+            "slug": "afro-samurai"
+          },
+          {
+            "server": 3,
+            "provider": "animeplay",
+            "slug": "afro-samurai"
+          }
         ],
         "audioVariants": {
           "current": "default",
