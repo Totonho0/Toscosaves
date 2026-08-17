@@ -18099,7 +18099,7 @@
       }
     },
     "akame-ga-kill-dublado": {
-      "at": 1786220118197,
+      "at": 1786983404916,
       "data": {
         "slug": "akame-ga-kill-dublado",
         "title": "Akame ga Kill! Dublado",
@@ -18236,11 +18236,34 @@
           "Ação e Aventura",
           "Animação",
           "Drama"
-        ]
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "akame-ga-kill",
+              "title": "Akame ga Kill!",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "64936",
+              "title": "Akame ga Kill! – (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "akame-ga-kill-dublado",
+              "title": "Akame ga Kill! Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "aishiteru-game-wo-owarasetai-dublado": {
-      "at": 1786220118246,
+      "at": 1786983404404,
       "data": {
         "slug": "aishiteru-game-wo-owarasetai-dublado",
         "title": "Aishiteru Game wo Owarasetai Dublado",
@@ -18323,6 +18346,12 @@
               "slug": "aishiteru-game-wo-owarasetai",
               "title": "Aishiteru Game wo Owarasetai",
               "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "1054107",
+              "title": "Aishiteru Game wo Owarasetai (Legendado)",
+              "audio": "leg",
               "label": "Legendado"
             },
             "dub": {
@@ -18428,7 +18457,7 @@
       }
     },
     "aishiteru-game-wo-owarasetai": {
-      "at": 1786220118495,
+      "at": 1786983405383,
       "data": {
         "slug": "aishiteru-game-wo-owarasetai",
         "title": "Aishiteru Game wo Owarasetai",
@@ -18511,6 +18540,12 @@
               "slug": "aishiteru-game-wo-owarasetai",
               "title": "Aishiteru Game wo Owarasetai",
               "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "1054107",
+              "title": "Aishiteru Game wo Owarasetai (Legendado)",
+              "audio": "leg",
               "label": "Legendado"
             },
             "dub": {
@@ -18611,7 +18646,7 @@
       }
     },
     "ace-of-the-diamond-act-ii-season-2": {
-      "at": 1786220118860,
+      "at": 1786983405046,
       "data": {
         "slug": "ace-of-the-diamond-act-ii-season-2",
         "title": "Ace of the Diamond Act II Season 2",
@@ -18691,7 +18726,24 @@
           "Legendado",
           "Dublado",
           "Animação"
-        ]
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "ace-of-the-diamond-act-ii-season-2",
+              "title": "Ace of the Diamond Act II Season 2",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "1052581",
+              "title": "Ace of the Diamond Act II Season 2 (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            }
+          }
+        }
       }
     },
     "an-adventurers-daily-grind-at-age-29": {
@@ -18834,7 +18886,7 @@
       }
     },
     "ai-no-idenshi": {
-      "at": 1786221380536,
+      "at": 1786983405186,
       "data": {
         "slug": "ai-no-idenshi",
         "title": "AI no Idenshi",
@@ -18932,7 +18984,7 @@
       }
     },
     "acchi-kocchi": {
-      "at": 1786221380720,
+      "at": 1786983404228,
       "data": {
         "slug": "acchi-kocchi",
         "title": "Acchi Kocchi",
@@ -19029,7 +19081,7 @@
       }
     },
     "ahiru-no-sora": {
-      "at": 1786221380559,
+      "at": 1786983405523,
       "data": {
         "slug": "ahiru-no-sora",
         "title": "Ahiru no Sora",
