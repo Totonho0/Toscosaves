@@ -65150,7 +65150,7 @@
         "page": 25,
         "hasMore": true
       },
-      "at": 1787012329903
+      "at": 1787026795765
     },
     "partner:animesdrive|todos|25||48": {
       "data": {
@@ -66233,11 +66233,11 @@
           {
             "title": "Monogatari Bakemonogatari – Todos os Episodios",
             "slug": "bakemonogatari",
-            "url": "https://animesdrive.online/anime/bakemonogatari-todos-os-episodios",
+            "url": "https://animesonline.cloud/anime/bakemonogatari-todos-os-episodios",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/Bakemonogatari-AnimeQ-185x272.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -66383,7 +66383,7 @@
         "page": 25,
         "hasMore": true,
         "total": 1706,
-        "cachedAt": 1787012329903,
+        "cachedAt": 1787026795765,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -66430,7 +66430,7 @@
           "fixHint": null
         }
       },
-      "at": 1787012330002
+      "at": 1787026795999
     },
     "partner:anitube|todos|26||48": {
       "data": {
@@ -66585,7 +66585,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1786997939652
+      "at": 1787026797223
     },
     "todos|26||48": {
       "data": {
@@ -66865,7 +66865,7 @@
         "page": 26,
         "hasMore": true
       },
-      "at": 1787012331484
+      "at": 1787026799058
     },
     "partner:animesdrive|todos|26||48": {
       "data": {
@@ -67116,7 +67116,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1786997940201
+      "at": 1787026797370
     },
     "partner:animeplay|todos|26||48": {
       "data": {
@@ -67367,7 +67367,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1786997940994
+      "at": 1787026798593
     },
     "todos|26||120": {
       "data": {
@@ -67442,6 +67442,11 @@
                 "slug": "tenmaku-no-jaadugar"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "world-is-dancing"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu"
@@ -67450,6 +67455,11 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "tenmaku-no-jaadugar"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "world-is-dancing"
               }
             ]
           },
@@ -67736,11 +67746,11 @@
           {
             "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
             "slug": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
-            "url": "https://animesdrive.online/anime/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
+            "url": "https://animesonline.cloud/anime/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
             "poster": "https://animesdrive.online/wp-content/uploads/2024/07/6U4SotIXAsqOAhsB3gk3m8ushye-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -68210,7 +68220,7 @@
         "page": 26,
         "hasMore": true,
         "total": 1706,
-        "cachedAt": 1787012331484,
+        "cachedAt": 1787026799058,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -68257,7 +68267,7 @@
           "fixHint": null
         }
       },
-      "at": 1787012331572
+      "at": 1787026799239
     },
     "partner:anitube|todos|27||48": {
       "data": {
@@ -131709,5 +131719,5 @@
       "at": 1786777541061
     }
   },
-  "updatedAt": 1787026793643
+  "updatedAt": 1787026799239
 }
