@@ -1285,6 +1285,7 @@
       121,
       137,
       144,
+      151,
       170
     ],
     "bleach-dublado": [
@@ -1593,6 +1594,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "black-clover-dublado",
+      "ep": 151,
+      "at": 1787083532205
+    },
     {
       "slug": "black-clover-dublado",
       "ep": 144,
@@ -2722,6 +2728,17 @@
       "adult": false,
       "duration": 1475.221
     },
+    "black-clover-dublado": {
+      "ep": 144,
+      "time": 945.046999,
+      "at": 1787083529836,
+      "title": "Black Clover Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9wRDdYclUwZVZtOWpTVU5zak1URlN4blcxcncuanBn",
+      "kind": "anime",
+      "provider": "animeplay",
+      "adult": false,
+      "duration": 1434.203719
+    },
     "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season": {
       "ep": 3,
       "time": 31.930666,
@@ -2743,17 +2760,6 @@
       "provider": "animesdrive",
       "adult": false,
       "duration": 1420.096
-    },
-    "black-clover-dublado": {
-      "ep": 119,
-      "time": 137.878697,
-      "at": 1785274892811,
-      "title": "Black Clover Dublado",
-      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9wRDdYclUwZVZtOWpTVU5zak1URlN4blcxcncuanBn",
-      "kind": "anime",
-      "provider": "animeplay",
-      "adult": false,
-      "duration": 1434.203719
     },
     "busu-ni-hanataba-wo": {
       "ep": 1,
@@ -2913,5 +2919,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1787083511007
+  "updatedAt": 1787083532380
 }
