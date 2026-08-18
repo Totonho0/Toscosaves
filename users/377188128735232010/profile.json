@@ -979,6 +979,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96cjFNRFFDUFZCNXVKRUh4aU82VHVrbjRPakguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "kusuriya-no-hitorigoto-3rd-season": {
+      "slug": "kusuriya-no-hitorigoto-3rd-season",
+      "title": "Kusuriya no Hitorigoto 3rd Season",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDgvMTUyODExbC0xODV4Mjc4LmpwZw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1598,9 +1605,17 @@
     ],
     "haikyuu-dublado": [
       1
+    ],
+    "kusuriya-no-hitorigoto-3rd-season": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "kusuriya-no-hitorigoto-3rd-season",
+      "ep": 1,
+      "at": 1787084946269
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2961,5 +2976,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1787084932343
+  "updatedAt": 1787084946311
 }
