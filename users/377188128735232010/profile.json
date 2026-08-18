@@ -389,7 +389,8 @@
       "slug": "black-clover-dublado",
       "title": "Black Clover Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9wRDdYclUwZVZtOWpTVU5zak1URlN4blcxcncuanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "bleach-dublado": {
       "slug": "bleach-dublado",
@@ -1279,6 +1280,7 @@
       2,
       7,
       8,
+      95,
       119,
       121,
       137,
@@ -1590,6 +1592,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "black-clover-dublado",
+      "ep": 95,
+      "at": 1787083347926
+    },
     {
       "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season",
       "ep": 4,
@@ -2900,5 +2907,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1787083311020
+  "updatedAt": 1787083347966
 }
