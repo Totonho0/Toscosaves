@@ -19,7 +19,10 @@
     },
     "62857": {
       "slug": "62857",
-      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL0Jsb29kLUMuanBn"
+      "title": "Blood-C",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL0Jsb29kLUMuanBn",
+      "kind": "anime",
+      "adult": false
     },
     "64786": {
       "slug": "64786",
@@ -1083,6 +1086,9 @@
       3,
       4
     ],
+    "62857": [
+      1
+    ],
     "64786": [
       1
     ],
@@ -1581,6 +1587,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "62857",
+      "ep": 1,
+      "at": 1787080348137
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2871,5 +2882,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1787080142472
+  "updatedAt": 1787080348278
 }
