@@ -986,6 +986,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDgvMTUyODExbC0xODV4Mjc4LmpwZw",
       "kind": "anime",
       "adult": false
+    },
+    "black-clover-2nd-season": {
+      "slug": "black-clover-2nd-season",
+      "title": "Black Clover 2nd Season",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDgvMTU4ODMwbC0xODV4Mjc4LmpwZw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1608,9 +1615,17 @@
     ],
     "kusuriya-no-hitorigoto-3rd-season": [
       1
+    ],
+    "black-clover-2nd-season": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "black-clover-2nd-season",
+      "ep": 1,
+      "at": 1787085240060
+    },
     {
       "slug": "kusuriya-no-hitorigoto-3rd-season",
       "ep": 1,
@@ -2976,5 +2991,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1787084979229
+  "updatedAt": 1787085240132
 }
