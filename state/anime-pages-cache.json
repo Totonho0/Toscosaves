@@ -34444,7 +34444,7 @@
       }
     },
     "bocchi-the-rock": {
-      "at": 1786221721581,
+      "at": 1787085551251,
       "data": {
         "slug": "bocchi-the-rock",
         "title": "Bocchi the Rock!",
@@ -34454,72 +34454,89 @@
           {
             "number": 1,
             "title": "Episódio 01 - Bocchi Caída",
-            "url": "https://animeplay.cloud/episodio/bocchi-the-rock-episodio-01"
+            "url": "https://animesonline.cloud/episodio/bocchi-the-rock-episodio-01"
           },
           {
             "number": 2,
             "title": "Episódio 02 - Te Vejo Amanhã",
-            "url": "https://animeplay.cloud/episodio/bocchi-the-rock-episodio-02"
+            "url": "https://animesonline.cloud/episodio/bocchi-the-rock-episodio-02"
           },
           {
             "number": 3,
             "title": "Episódio 03 - Chegando com Tudo",
-            "url": "https://animeplay.cloud/episodio/bocchi-the-rock-episodio-03"
+            "url": "https://animesonline.cloud/episodio/bocchi-the-rock-episodio-03"
           },
           {
             "number": 4,
             "title": "Episódio 04 - Jumping Girl(s)",
-            "url": "https://animeplay.cloud/episodio/bocchi-the-rock-episodio-04"
+            "url": "https://animesonline.cloud/episodio/bocchi-the-rock-episodio-04"
           },
           {
             "number": 5,
             "title": "Episódio 05 - O Peixe Que Não Consegue Voar",
-            "url": "https://animeplay.cloud/episodio/bocchi-the-rock-episodio-05"
+            "url": "https://animesonline.cloud/episodio/bocchi-the-rock-episodio-05"
           },
           {
             "number": 6,
             "title": "Episódio 06 - Oito Paisagens",
-            "url": "https://animeplay.cloud/episodio/bocchi-the-rock-episodio-06"
+            "url": "https://animesonline.cloud/episodio/bocchi-the-rock-episodio-06"
           },
           {
             "number": 7,
             "title": "Episódio 07 - Para a Sua Casa",
-            "url": "https://animeplay.cloud/episodio/bocchi-the-rock-episodio-07"
+            "url": "https://animesonline.cloud/episodio/bocchi-the-rock-episodio-07"
           },
           {
             "number": 8,
             "title": "Episódio 08 - Bocchi the Rock",
-            "url": "https://animeplay.cloud/episodio/bocchi-the-rock-episodio-08"
+            "url": "https://animesonline.cloud/episodio/bocchi-the-rock-episodio-08"
           },
           {
             "number": 9,
             "title": "Episódio 09 - Enoshima Escar",
-            "url": "https://animeplay.cloud/episodio/bocchi-the-rock-episodio-09"
+            "url": "https://animesonline.cloud/episodio/bocchi-the-rock-episodio-09"
           },
           {
             "number": 10,
             "title": "Episódio 10 - After Dark",
-            "url": "https://animeplay.cloud/episodio/bocchi-the-rock-episodio-10"
+            "url": "https://animesonline.cloud/episodio/bocchi-the-rock-episodio-10"
           },
           {
             "number": 11,
             "title": "Episódio 11 - Pôr do Sol Duodecimal",
-            "url": "https://animeplay.cloud/episodio/bocchi-the-rock-episodio-11"
+            "url": "https://animesonline.cloud/episodio/bocchi-the-rock-episodio-11"
           },
           {
             "number": 12,
             "title": "Episódio 12 - A Luz da Manhã Cai Sobre Você",
-            "url": "https://animeplay.cloud/episodio/bocchi-the-rock-episodio-12"
+            "url": "https://animesonline.cloud/episodio/bocchi-the-rock-episodio-12"
           }
         ],
         "totalEpisodes": 12,
         "kind": "anime",
-        "provider": "animeplay",
+        "provider": "aoc",
         "genres": [
           "Legendado",
           "Dublado",
           "Animação",
           "Comédia"
+        ],
+        "animeSources": [
+          {
+            "server": 1,
+            "provider": "aoc",
+            "slug": "bocchi-the-rock"
+          },
+          {
+            "server": 2,
+            "provider": "animesdrive",
+            "slug": "bocchi-the-rock"
+          },
+          {
+            "server": 3,
+            "provider": "animeplay",
+            "slug": "bocchi-the-rock"
+          }
         ],
         "audioVariants": {
           "current": "default",
