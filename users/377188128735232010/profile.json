@@ -993,6 +993,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDgvMTU4ODMwbC0xODV4Mjc4LmpwZw",
       "kind": "anime",
       "adult": false
+    },
+    "dragon-ball-gt-dublado": {
+      "slug": "dragon-ball-gt-dublado",
+      "title": "Dragon Ball GT Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9hSk9sWVhqeGI1SXZuVHNPNEkxdG1GcEM3R0guanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1618,9 +1625,17 @@
     ],
     "black-clover-2nd-season": [
       1
+    ],
+    "dragon-ball-gt-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "dragon-ball-gt-dublado",
+      "ep": 1,
+      "at": 1787085815633
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -2991,5 +3006,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1787085792099
+  "updatedAt": 1787085815634
 }
