@@ -11820,6 +11820,26 @@
         "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1zaG9rdWdla2ktbm8tc291bWEtc2FuLW5vLXNhcmEtM2EtdGVtcG9yYWRhLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pbWVzZGlnaXRhbC5qcGc",
         "episodeUrl": "https://animesdigital.org/video/a/34630/"
       }
+    },
+    "anime:shokugeki-no-souma-gou-no-sara:1": {
+      "at": 1787112482325,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/s/shokugeki-no-souma-gou-no-sara/01.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/34977/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fs%2Fshokugeki-no-souma-gou-no-sara%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "shokugeki-no-souma-gou-no-sara",
+        "kind": "anime",
+        "provider": "animesdigital",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1zaG9rdWdla2ktbm8tc291bWEtZ291LW5vLXNhcmEtdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbmltZXNkaWdpdGFsLmpwZw",
+        "episodeUrl": "https://animesdigital.org/video/a/34977/"
+      }
     }
   }
 }
