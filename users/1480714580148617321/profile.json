@@ -60,6 +60,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wMy9Nb25zdGVyLWNhdGVnb3JpYS5qcGc",
       "kind": "anime",
       "adult": false
+    },
+    "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-dublado": {
+      "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-dublado",
+      "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2 Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9jMG9Gb3o3UHR0ek1Mc1FPUW41NExjdThWOWQuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -95,9 +102,17 @@
     ],
     "monster": [
       25
+    ],
+    "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-dublado",
+      "ep": 1,
+      "at": 1787252443289
+    },
     {
       "slug": "rezero-kara-hajimeru-isekai-seikatsu-4-dublado",
       "ep": 1,
@@ -182,5 +197,5 @@
   },
   "filmePlayback": {},
   "customLists": {},
-  "updatedAt": 1787252410275
+  "updatedAt": 1787252446408
 }
