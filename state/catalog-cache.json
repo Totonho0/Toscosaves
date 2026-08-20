@@ -18512,6 +18512,32 @@
             ]
           },
           {
+            "title": "Fruits Basket (2019)",
+            "slug": "fruits-basket-2019",
+            "url": "https://animesonline.cloud/anime/fruits-basket-2019",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/wVe8vcSqpJjLib5TWer6kgkGjjM-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fruits-basket-2001"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "fruits-basket-2019"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "fruits-basket-2019"
+              }
+            ],
+            "rating": "7.9"
+          },
+          {
             "title": "Fruits Basket (2019) Dublado",
             "slug": "fruits-basket-2019-dublado",
             "url": "https://animesonline.cloud/anime/fruits-basket-2019-dublado",
@@ -19141,33 +19167,13 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "8.1"
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 18,
         "hasMore": true,
         "total": 1706,
-        "cachedAt": 1787199524201,
+        "cachedAt": 1787213913399,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -19214,7 +19220,7 @@
           "fixHint": null
         }
       },
-      "at": 1787199525214
+      "at": 1787213913482
     },
     "todos|19||120": {
       "data": {
@@ -55983,7 +55989,7 @@
             "slug": "hitoribocchi-no-isekai-kouryaku",
             "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
-            "rating": "7.3",
+            "rating": "7.5",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -56226,7 +56232,7 @@
         "page": 18,
         "hasMore": true
       },
-      "at": 1787199524201
+      "at": 1787213913399
     },
     "partner:animesdrive|todos|18||48": {
       "data": {
@@ -135583,5 +135589,5 @@
       "at": 1787085591532
     }
   },
-  "updatedAt": 1787213911858
+  "updatedAt": 1787213913482
 }
