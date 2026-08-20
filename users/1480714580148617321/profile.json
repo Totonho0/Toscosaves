@@ -53,6 +53,13 @@
       "title": "Super no Ura de Yani Suu Futari Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9na21FNDFBNWV2NU0yOTloTGdYM0pyV0FNMTYuanBn",
       "kind": "anime"
+    },
+    "monster": {
+      "slug": "monster",
+      "title": "Monster Todos Episódios HD",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wMy9Nb25zdGVyLWNhdGVnb3JpYS5qcGc",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -85,9 +92,17 @@
     ],
     "super-no-ura-de-yani-suu-futari-dublado": [
       1
+    ],
+    "monster": [
+      25
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "monster",
+      "ep": 25,
+      "at": 1787250255588
+    },
     {
       "slug": "rezero-kara-hajimeru-isekai-seikatsu-4-dublado",
       "ep": 1,
@@ -167,5 +182,5 @@
   },
   "filmePlayback": {},
   "customLists": {},
-  "updatedAt": 1787250236036
+  "updatedAt": 1787250258711
 }
