@@ -491,7 +491,8 @@
       "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season",
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu Dublado 4th Season",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9haThiVlM4U3V2dTRFckJobWdCdnRFU2lyQlkuanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "cats-eye-dublado": {
       "slug": "cats-eye-dublado",
@@ -1370,7 +1371,8 @@
       1,
       2,
       3,
-      4
+      4,
+      11
     ],
     "cats-eye-dublado": [
       1
@@ -1632,6 +1634,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season",
+      "ep": 11,
+      "at": 1787485676030
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3012,5 +3019,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1787485673653
+  "updatedAt": 1787485679566
 }
