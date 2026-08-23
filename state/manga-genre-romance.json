@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "the-beginning-after-the-end-ptbr",
+      "titleId": "the-beginning-after-the-end-ptbr",
+      "slug": "the-beginning-after-the-end-ptbr",
+      "title": "The Beginning After The End",
+      "author": "TurtleMe",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L1RoZS1CZWdpbm5pbmctQWZ0ZXItVGhlLUVuZC0xLTE3NXgyMzgud2VicA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3RoZS1iZWdpbm5pbmctYWZ0ZXItdGhlLWVuZC1wdGJyL2NhcGl0dWxvLTI0Ni8",
+      "chapterName": "Capitulo 246",
+      "adult": false,
+      "sub": "Capitulo 246"
+    },
+    {
       "id": "nano-machine-ptbr",
       "titleId": "nano-machine-ptbr",
       "slug": "nano-machine-ptbr",
@@ -29,21 +44,6 @@
       "chapterName": "Capitulo 181",
       "adult": false,
       "sub": "Capitulo 181"
-    },
-    {
-      "id": "the-beginning-after-the-end-ptbr",
-      "titleId": "the-beginning-after-the-end-ptbr",
-      "slug": "the-beginning-after-the-end-ptbr",
-      "title": "The Beginning After The End",
-      "author": "TurtleMe",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L1RoZS1CZWdpbm5pbmctQWZ0ZXItVGhlLUVuZC0xLTE3NXgyMzgud2VicA",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3RoZS1iZWdpbm5pbmctYWZ0ZXItdGhlLWVuZC1wdGJyL2NhcGl0dWxvLTI0MC8",
-      "chapterName": "Capitulo 240",
-      "adult": false,
-      "sub": "Capitulo 240"
     },
     {
       "id": "dandadan",
@@ -826,7 +826,7 @@
       "sub": "Capitulo 10"
     }
   ],
-  "updatedAt": 1787085075057,
+  "updatedAt": 1787483703776,
   "total": 55,
   "genre": "romance",
   "source": "mangalivre"
