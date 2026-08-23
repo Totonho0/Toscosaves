@@ -1,51 +1,6 @@
 {
   "items": [
     {
-      "id": "colorist-ptbr",
-      "titleId": "colorist-ptbr",
-      "slug": "colorist-ptbr",
-      "title": "Colorist",
-      "author": "",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzExL0NvbG9yaXN0LTE3NXgyMzgud2VicA",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2NvbG9yaXN0LXB0YnIvY2FwaXR1bG8tNDEv",
-      "chapterName": "Capitulo 41",
-      "adult": false,
-      "sub": "Capitulo 41"
-    },
-    {
-      "id": "one-piece-ptbr",
-      "titleId": "one-piece-ptbr",
-      "slug": "one-piece-ptbr",
-      "title": "One Piece",
-      "author": "Eiichiro Oda",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L09uZS1QaWVjZS1NYW5nYS1MaXZyZS0xNzV4MjM4LndlYnA",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL29uZS1waWVjZS1wdGJyL2NhcGl0dWxvLTExODkv",
-      "chapterName": "Capitulo 1189",
-      "adult": false,
-      "sub": "Capitulo 1189"
-    },
-    {
-      "id": "gachiakuta-ptbr",
-      "titleId": "gachiakuta-ptbr",
-      "slug": "gachiakuta-ptbr",
-      "title": "Gachiakuta",
-      "author": "Kei Urana",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L0dhY2hpYWt1dGEtTWFuZ2EtTGl2cmUtMTc1eDIzOC53ZWJw",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2dhY2hpYWt1dGEtcHRici9jYXBpdHVsby0xNzAv",
-      "chapterName": "Capitulo 170",
-      "adult": false,
-      "sub": "Capitulo 170"
-    },
-    {
       "id": "boruto-two-blue-vortex-ptbr",
       "titleId": "boruto-two-blue-vortex-ptbr",
       "slug": "boruto-two-blue-vortex-ptbr",
@@ -59,6 +14,51 @@
       "chapterName": "Capítulo 23",
       "adult": false,
       "sub": "Capítulo 23"
+    },
+    {
+      "id": "gachiakuta-ptbr",
+      "titleId": "gachiakuta-ptbr",
+      "slug": "gachiakuta-ptbr",
+      "title": "Gachiakuta",
+      "author": "Kei Urana",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L0dhY2hpYWt1dGEtTWFuZ2EtTGl2cmUtMTc1eDIzOC53ZWJw",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2dhY2hpYWt1dGEtcHRici9jYXBpdHVsby0xNzIv",
+      "chapterName": "Capitulo 172",
+      "adult": false,
+      "sub": "Capitulo 172"
+    },
+    {
+      "id": "colorist-ptbr",
+      "titleId": "colorist-ptbr",
+      "slug": "colorist-ptbr",
+      "title": "Colorist",
+      "author": "",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzExL0NvbG9yaXN0LTE3NXgyMzgud2VicA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2NvbG9yaXN0LXB0YnIvY2FwaXR1bG8tNDUv",
+      "chapterName": "Capitulo 45",
+      "adult": false,
+      "sub": "Capitulo 45"
+    },
+    {
+      "id": "one-piece-ptbr",
+      "titleId": "one-piece-ptbr",
+      "slug": "one-piece-ptbr",
+      "title": "One Piece",
+      "author": "Eiichiro Oda",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L09uZS1QaWVjZS1NYW5nYS1MaXZyZS0xNzV4MjM4LndlYnA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL29uZS1waWVjZS1wdGJyL2NhcGl0dWxvLTExOTAv",
+      "chapterName": "Capitulo 1190",
+      "adult": false,
+      "sub": "Capitulo 1190"
     },
     {
       "id": "nano-machine-ptbr",
@@ -1036,7 +1036,7 @@
       "sub": "Kaneshiro"
     }
   ],
-  "updatedAt": 1787085075054,
+  "updatedAt": 1787483703748,
   "total": 69,
   "genre": "acao",
   "source": "mangalivre"
