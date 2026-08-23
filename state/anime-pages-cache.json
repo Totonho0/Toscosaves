@@ -12097,7 +12097,7 @@
             },
             "dub": {
               "slug": "one-piece-dublado",
-              "title": "one piece dublado",
+              "title": "One Piece Dublado",
               "audio": "dub",
               "label": "Dublado"
             }
@@ -23357,6 +23357,64 @@
           "Animação",
           "Drama"
         ]
+      }
+    },
+    "uzumaki": {
+      "at": 1787485680545,
+      "data": {
+        "slug": "uzumaki",
+        "title": "Uzumaki - Todos os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC85VkY5N3ZrNFdQT0FaOXM4bnFLM1BKWUpnbk4uanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animesonline.cloud/episodio/uzumaki-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animesonline.cloud/episodio/uzumaki-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03",
+            "url": "https://animesonline.cloud/episodio/uzumaki-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04",
+            "url": "https://animesonline.cloud/episodio/uzumaki-episodio-04"
+          }
+        ],
+        "totalEpisodes": 4,
+        "kind": "anime",
+        "provider": "aoc",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Animação",
+          "Mistério",
+          "Terror"
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "uzumaki",
+              "title": "Uzumaki – Todos os Episódios",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "uzumaki-dublado",
+              "title": "Uzumaki Dublado – Todos os Episódios",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     }
   }
