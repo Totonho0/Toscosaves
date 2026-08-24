@@ -18527,7 +18527,7 @@
       }
     },
     "5-toubun-no-hanayome": {
-      "at": 1787493521083,
+      "at": 1787533532526,
       "data": {
         "slug": "5-toubun-no-hanayome",
         "title": "5-toubun no Hanayome",
@@ -18549,6 +18549,18 @@
           "Animação",
           "Comédia",
           "Drama"
+        ],
+        "animeSources": [
+          {
+            "server": 1,
+            "provider": "aoc",
+            "slug": "5-toubun-no-hanayome"
+          },
+          {
+            "server": 2,
+            "provider": "animesdrive",
+            "slug": "5-toubun-no-hanayome"
+          }
         ]
       }
     },
