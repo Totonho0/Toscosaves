@@ -19750,22 +19750,43 @@
             "rating": "8.455"
           },
           {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "title": "Hunter x Hunter (2011)",
+            "slug": "hunter-x-hunter-2011",
+            "url": "https://animesonline.cloud/anime/hunter-x-hunter-2011",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/9WxfAQquTun9ATkV6iAeFHMkqxv-185x278.jpg",
+            "rating": "8.626",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hunter-x-hunter-2011"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hunter-x-hunter"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
-                "slug": "one-piece"
+                "slug": "hunter-x-hunter-2011"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "hunter-x-hunter"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "one-piece"
+                "slug": "hunter-x-hunter-2011"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hunter-x-hunter"
               }
             ]
           }
@@ -19774,7 +19795,7 @@
         "page": 17,
         "hasMore": true,
         "total": 1583,
-        "cachedAt": 1787570176415,
+        "cachedAt": 1787584567383,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -19821,7 +19842,7 @@
           "fixHint": null
         }
       },
-      "at": 1787570177437
+      "at": 1787584567488
     },
     "todos|18||120": {
       "data": {
@@ -20824,7 +20845,7 @@
         "page": 18,
         "hasMore": true,
         "total": 1583,
-        "cachedAt": 1787570178327,
+        "cachedAt": 1787584569017,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -20871,7 +20892,7 @@
           "fixHint": null
         }
       },
-      "at": 1787570179259
+      "at": 1787584569125
     },
     "todos|19||120": {
       "data": {
@@ -21830,7 +21851,7 @@
         "page": 19,
         "hasMore": true,
         "total": 1583,
-        "cachedAt": 1787570180144,
+        "cachedAt": 1787584570651,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -21877,7 +21898,7 @@
           "fixHint": null
         }
       },
-      "at": 1787570181090
+      "at": 1787584570749
     },
     "todos|20||120": {
       "data": {
@@ -22807,7 +22828,7 @@
         "page": 20,
         "hasMore": true,
         "total": 1583,
-        "cachedAt": 1787570181949,
+        "cachedAt": 1787584573113,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -22854,7 +22875,7 @@
           "fixHint": null
         }
       },
-      "at": 1787570182864
+      "at": 1787584573217
     },
     "legendado|1||120": {
       "data": {
@@ -29248,7 +29269,7 @@
         "hasMore": false,
         "genreId": "romance"
       },
-      "at": 1787571516604
+      "at": 1787584571444
     },
     "genre-row:acao": {
       "data": {
@@ -29403,7 +29424,7 @@
         "hasMore": false,
         "genreId": "acao"
       },
-      "at": 1787571514822
+      "at": 1787584571132
     },
     "genre-row:comedia": {
       "data": {
@@ -29558,7 +29579,7 @@
         "hasMore": false,
         "genreId": "comedia"
       },
-      "at": 1787571516455
+      "at": 1787584571288
     },
     "lancamentos|1||120": {
       "data": {
@@ -36491,7 +36512,7 @@
         "hasMore": false,
         "partnerId": "miraculum"
       },
-      "at": 1787571516098
+      "at": 1787584571897
     },
     "partner:anitube|todos|2||24": {
       "data": {
@@ -36646,7 +36667,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1787571517227
+      "at": 1787584573561
     },
     "partner:anitube|todos|1||24": {
       "data": {
@@ -36801,7 +36822,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1787571517354
+      "at": 1787584573271
     },
     "todos|1||24": {
       "data": {
@@ -37027,7 +37048,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1787571518513
+      "at": 1787584574883
     },
     "todos|2||24": {
       "data": {
@@ -37456,7 +37477,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1787571518470
+      "at": 1787584574748
     },
     "partner:animesdrive|todos|2||24": {
       "data": {
@@ -37659,7 +37680,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1787571518185
+      "at": 1787584573801
     },
     "partner:animeplay|todos|1||24": {
       "data": {
@@ -37862,7 +37883,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1787571518038
+      "at": 1787584573948
     },
     "partner:animesdrive|todos|1||24": {
       "data": {
@@ -38065,7 +38086,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1787571517805
+      "at": 1787584573311
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -38268,7 +38289,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1787571516780
+      "at": 1787584572605
     },
     "partner:animesdigital|todos|1||24": {
       "data": {
@@ -38471,7 +38492,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1787571516190
+      "at": 1787584572002
     },
     "partner:miraculum|todos|1||48": {
       "data": {
@@ -56787,7 +56808,7 @@
         "page": 17,
         "hasMore": true
       },
-      "at": 1787570176415
+      "at": 1787584567383
     },
     "partner:animesdigital|todos|17||48": {
       "data": {
@@ -57991,7 +58012,7 @@
         "page": 18,
         "hasMore": true
       },
-      "at": 1787570178327
+      "at": 1787584569017
     },
     "partner:animesdrive|todos|18||48": {
       "data": {
@@ -58903,7 +58924,7 @@
         "page": 19,
         "hasMore": true
       },
-      "at": 1787570180144
+      "at": 1787584570651
     },
     "partner:animesdrive|todos|19||48": {
       "data": {
@@ -60342,7 +60363,7 @@
         "page": 20,
         "hasMore": true
       },
-      "at": 1787570181949
+      "at": 1787584573113
     },
     "partner:anitube|todos|21||48": {
       "data": {
@@ -131572,5 +131593,5 @@
       "at": 1787570188648
     }
   },
-  "updatedAt": 1787584565797
+  "updatedAt": 1787584574883
 }
