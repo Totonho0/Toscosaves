@@ -78151,7 +78151,7 @@
         "page": 28,
         "hasMore": true
       },
-      "at": 1787570196976
+      "at": 1787584596641
     },
     "partner:animesdrive|todos|28||48": {
       "data": {
@@ -79450,7 +79450,7 @@
         "page": 28,
         "hasMore": true,
         "total": 1583,
-        "cachedAt": 1787570196976,
+        "cachedAt": 1787584596641,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -79497,7 +79497,7 @@
           "fixHint": null
         }
       },
-      "at": 1787570198205
+      "at": 1787584596737
     },
     "partner:anitube|todos|29||48": {
       "data": {
@@ -79932,7 +79932,7 @@
         "page": 29,
         "hasMore": true
       },
-      "at": 1787570199030
+      "at": 1787584598057
     },
     "partner:animesdrive|todos|29||48": {
       "data": {
@@ -80794,6 +80794,15 @@
             ]
           },
           {
+            "title": "Super no Ura de Yani Suu Futari",
+            "slug": "super-no-ura-de-yani-suu-futari",
+            "url": "https://animesonline.cloud/anime/super-no-ura-de-yani-suu-futari",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/nSdgX507jBlonGFC91Ve0TfcLjJ-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Super no Ura de Yani Suu Futari Dublado",
             "slug": "super-no-ura-de-yani-suu-futari-dublado",
             "url": "https://animesonline.cloud/anime/super-no-ura-de-yani-suu-futari-dublado",
@@ -80827,7 +80836,7 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/08/htNohqrYEwuz4fCa9ATVF90s58S-185x278.jpg",
             "rating": "8.2",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -81110,33 +81119,13 @@
                 "slug": "tasogare-out-focus"
               }
             ]
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 29,
         "hasMore": true,
         "total": 1583,
-        "cachedAt": 1787570199030,
+        "cachedAt": 1787584598057,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -81183,7 +81172,7 @@
           "fixHint": null
         }
       },
-      "at": 1787570200115
+      "at": 1787584598135
     },
     "partner:anitube|todos|30||48": {
       "data": {
@@ -81609,7 +81598,7 @@
         "page": 30,
         "hasMore": true
       },
-      "at": 1787570200957
+      "at": 1787584599582
     },
     "partner:animesdrive|todos|30||48": {
       "data": {
@@ -83272,7 +83261,7 @@
         "page": 30,
         "hasMore": true,
         "total": 1583,
-        "cachedAt": 1787570200957,
+        "cachedAt": 1787584599582,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -83319,7 +83308,7 @@
           "fixHint": null
         }
       },
-      "at": 1787570202231
+      "at": 1787584599661
     },
     "partner:anitube|todos|31||48": {
       "data": {
@@ -131593,5 +131582,5 @@
       "at": 1787570188648
     }
   },
-  "updatedAt": 1787584595212
+  "updatedAt": 1787584599661
 }
