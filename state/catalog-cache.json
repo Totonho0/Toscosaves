@@ -83716,7 +83716,7 @@
         "page": 31,
         "hasMore": true
       },
-      "at": 1787570203034
+      "at": 1787584601236
     },
     "partner:animesdrive|todos|31||48": {
       "data": {
@@ -84936,7 +84936,7 @@
         "page": 31,
         "hasMore": true,
         "total": 1583,
-        "cachedAt": 1787570203034,
+        "cachedAt": 1787584601236,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -84983,7 +84983,7 @@
           "fixHint": null
         }
       },
-      "at": 1787570204298
+      "at": 1787584601318
     },
     "partner:anitube|todos|32||48": {
       "data": {
@@ -85418,7 +85418,7 @@
         "page": 32,
         "hasMore": true
       },
-      "at": 1787570205172
+      "at": 1787584602599
     },
     "partner:animesdrive|todos|32||48": {
       "data": {
@@ -86537,6 +86537,15 @@
             ]
           },
           {
+            "title": "Yani Neko",
+            "slug": "yani-neko",
+            "url": "https://animesonline.cloud/anime/yani-neko",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
+            "rating": "5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Yani Neko Dublado",
             "slug": "yani-neko-dublado",
             "url": "https://animesonline.cloud/anime/yani-neko-dublado",
@@ -86666,33 +86675,13 @@
                 "slug": "yofukashi-no-uta"
               }
             ]
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 32,
         "hasMore": true,
         "total": 1583,
-        "cachedAt": 1787570205172,
+        "cachedAt": 1787584602599,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -86739,7 +86728,7 @@
           "fixHint": null
         }
       },
-      "at": 1787570206252
+      "at": 1787584602679
     },
     "partner:anitube|todos|33||48": {
       "data": {
@@ -87165,7 +87154,7 @@
         "page": 33,
         "hasMore": true
       },
-      "at": 1787570207075
+      "at": 1787584604001
     },
     "partner:animesdrive|todos|33||48": {
       "data": {
@@ -88471,33 +88460,13 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "7,07"
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.online/anime/one-piece",
-            "poster": "https://animesdrive.online/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 33,
-        "hasMore": true,
+        "hasMore": false,
         "total": 1583,
-        "cachedAt": 1787570207075,
+        "cachedAt": 1787584604001,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -88544,7 +88513,7 @@
           "fixHint": null
         }
       },
-      "at": 1787570208268
+      "at": 1787584604082
     },
     "partner:anitube|todos|34||48": {
       "data": {
@@ -131582,5 +131551,5 @@
       "at": 1787570188648
     }
   },
-  "updatedAt": 1787584599661
+  "updatedAt": 1787584604082
 }
