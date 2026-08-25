@@ -19774,22 +19774,43 @@
             "rating": "8.455"
           },
           {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.cloud/anime/one-piece",
-            "poster": "https://animesdrive.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "title": "Hunter x Hunter (2011)",
+            "slug": "hunter-x-hunter-2011",
+            "url": "https://animesonline.cloud/anime/hunter-x-hunter-2011",
+            "poster": "https://animesdrive.online/wp-content/uploads/2024/12/9WxfAQquTun9ATkV6iAeFHMkqxv-185x278.jpg",
+            "rating": "8.626",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "aoc",
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hunter-x-hunter-2011"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hunter-x-hunter"
+              },
               {
                 "server": 2,
                 "provider": "animesdrive",
-                "slug": "one-piece"
+                "slug": "hunter-x-hunter-2011"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "hunter-x-hunter"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "one-piece"
+                "slug": "hunter-x-hunter-2011"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hunter-x-hunter"
               }
             ]
           }
@@ -19798,7 +19819,7 @@
         "page": 17,
         "hasMore": true,
         "total": 1583,
-        "cachedAt": 1787656576668,
+        "cachedAt": 1787670968798,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -19845,7 +19866,7 @@
           "fixHint": null
         }
       },
-      "at": 1787656577563
+      "at": 1787670968900
     },
     "todos|18||120": {
       "data": {
@@ -20860,7 +20881,7 @@
         "page": 18,
         "hasMore": true,
         "total": 1583,
-        "cachedAt": 1787656578481,
+        "cachedAt": 1787670970509,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -20907,7 +20928,7 @@
           "fixHint": null
         }
       },
-      "at": 1787656579408
+      "at": 1787670970603
     },
     "todos|19||120": {
       "data": {
@@ -57007,7 +57028,7 @@
         "page": 17,
         "hasMore": true
       },
-      "at": 1787656576668
+      "at": 1787670968798
     },
     "partner:animesdigital|todos|17||48": {
       "data": {
@@ -58211,7 +58232,7 @@
         "page": 18,
         "hasMore": true
       },
-      "at": 1787656578481
+      "at": 1787670970509
     },
     "partner:animesdrive|todos|18||48": {
       "data": {
@@ -131921,5 +131942,5 @@
       "at": 1787656590508
     }
   },
-  "updatedAt": 1787670967221
+  "updatedAt": 1787670970603
 }
