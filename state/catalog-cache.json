@@ -87913,7 +87913,7 @@
         "page": 33,
         "hasMore": true
       },
-      "at": 1787771811902
+      "at": 1787786191483
     },
     "partner:animesdrive|todos|33||48": {
       "data": {
@@ -89219,33 +89219,13 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "7,07"
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.cloud/anime/one-piece",
-            "poster": "https://animesdrive.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 33,
-        "hasMore": true,
+        "hasMore": false,
         "total": 1583,
-        "cachedAt": 1787771811902,
+        "cachedAt": 1787786191483,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -89292,7 +89272,7 @@
           "fixHint": null
         }
       },
-      "at": 1787771813392
+      "at": 1787786191586
     },
     "partner:anitube|todos|34||48": {
       "data": {
@@ -132294,5 +132274,5 @@
       "at": 1787780041233
     }
   },
-  "updatedAt": 1787786189987
+  "updatedAt": 1787786191586
 }
