@@ -76636,7 +76636,7 @@
         "page": 27,
         "hasMore": true
       },
-      "at": 1787771798616
+      "at": 1787786181629
     },
     "partner:animesdrive|todos|27||48": {
       "data": {
@@ -78257,7 +78257,7 @@
             "url": "https://animeplay.cloud/anime/sharivan-o-guardiao-do-espaco",
             "poster": "https://animesdrive.online/wp-content/uploads/2025/07/mqhh6mu6T8cLr2OTrGCFZ7PXGAR-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animeplay",
             "animeSources": [
               {
                 "server": 1,
@@ -78290,7 +78290,7 @@
         "page": 27,
         "hasMore": true,
         "total": 1583,
-        "cachedAt": 1787771798616,
+        "cachedAt": 1787786181629,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -78337,7 +78337,7 @@
           "fixHint": null
         }
       },
-      "at": 1787771799824
+      "at": 1787786181736
     },
     "partner:anitube|todos|28||48": {
       "data": {
@@ -78745,7 +78745,7 @@
         "page": 28,
         "hasMore": true
       },
-      "at": 1787771800668
+      "at": 1787786183339
     },
     "partner:animesdrive|todos|28||48": {
       "data": {
@@ -80044,7 +80044,7 @@
         "page": 28,
         "hasMore": true,
         "total": 1583,
-        "cachedAt": 1787771800668,
+        "cachedAt": 1787786183339,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -80091,7 +80091,7 @@
           "fixHint": null
         }
       },
-      "at": 1787771802248
+      "at": 1787786183431
     },
     "partner:anitube|todos|29||48": {
       "data": {
@@ -80526,7 +80526,7 @@
         "page": 29,
         "hasMore": true
       },
-      "at": 1787771803090
+      "at": 1787786184905
     },
     "partner:animesdrive|todos|29||48": {
       "data": {
@@ -81388,6 +81388,15 @@
             ]
           },
           {
+            "title": "Super no Ura de Yani Suu Futari",
+            "slug": "super-no-ura-de-yani-suu-futari",
+            "url": "https://animesonline.cloud/anime/super-no-ura-de-yani-suu-futari",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/nSdgX507jBlonGFC91Ve0TfcLjJ-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Super no Ura de Yani Suu Futari Dublado",
             "slug": "super-no-ura-de-yani-suu-futari-dublado",
             "url": "https://animesonline.cloud/anime/super-no-ura-de-yani-suu-futari-dublado",
@@ -81578,7 +81587,7 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/08/htNohqrYEwuz4fCa9ATVF90s58S-185x278.jpg",
             "rating": "8.2",
             "kind": "anime",
-            "provider": "aoc",
+            "provider": "animesdrive",
             "animeSources": [
               {
                 "server": 1,
@@ -81861,33 +81870,13 @@
                 "slug": "tasogare-out-focus"
               }
             ]
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.cloud/anime/one-piece",
-            "poster": "https://animesdrive.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 29,
         "hasMore": true,
         "total": 1583,
-        "cachedAt": 1787771803090,
+        "cachedAt": 1787786184905,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -81934,7 +81923,7 @@
           "fixHint": null
         }
       },
-      "at": 1787771804289
+      "at": 1787786185024
     },
     "partner:anitube|todos|30||48": {
       "data": {
@@ -132316,5 +132305,5 @@
       "at": 1787780041233
     }
   },
-  "updatedAt": 1787786179961
+  "updatedAt": 1787786185024
 }
