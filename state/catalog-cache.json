@@ -84475,7 +84475,7 @@
         "page": 31,
         "hasMore": true
       },
-      "at": 1787771807493
+      "at": 1787786188296
     },
     "partner:animesdrive|todos|31||48": {
       "data": {
@@ -85687,7 +85687,7 @@
         "page": 31,
         "hasMore": true,
         "total": 1583,
-        "cachedAt": 1787771807493,
+        "cachedAt": 1787786188296,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -85734,7 +85734,7 @@
           "fixHint": null
         }
       },
-      "at": 1787771808843
+      "at": 1787786188406
     },
     "partner:anitube|todos|32||48": {
       "data": {
@@ -86169,7 +86169,7 @@
         "page": 32,
         "hasMore": true
       },
-      "at": 1787771809734
+      "at": 1787786189894
     },
     "partner:animesdrive|todos|32||48": {
       "data": {
@@ -87296,6 +87296,15 @@
             ]
           },
           {
+            "title": "Yani Neko",
+            "slug": "yani-neko",
+            "url": "https://animesonline.cloud/anime/yani-neko",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk-185x278.jpg",
+            "rating": "5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Yani Neko Dublado",
             "slug": "yani-neko-dublado",
             "url": "https://animesonline.cloud/anime/yani-neko-dublado",
@@ -87425,33 +87434,13 @@
                 "slug": "yofukashi-no-uta"
               }
             ]
-          },
-          {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesdrive.cloud/anime/one-piece",
-            "poster": "https://animesdrive.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "animeSources": [
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
           }
         ],
         "category": "todos",
         "page": 32,
         "hasMore": true,
         "total": 1583,
-        "cachedAt": 1787771809734,
+        "cachedAt": 1787786189894,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -87498,7 +87487,7 @@
           "fixHint": null
         }
       },
-      "at": 1787771811004
+      "at": 1787786189987
     },
     "partner:anitube|todos|33||48": {
       "data": {
@@ -132305,5 +132294,5 @@
       "at": 1787780041233
     }
   },
-  "updatedAt": 1787786186735
+  "updatedAt": 1787786189987
 }
