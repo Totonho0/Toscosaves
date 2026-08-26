@@ -1007,6 +1007,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9hSk9sWVhqeGI1SXZuVHNPNEkxdG1GcEM3R0guanBn",
       "kind": "anime",
       "adult": false
+    },
+    "bleach-sennen-kessen-hen-kashin-tan": {
+      "slug": "bleach-sennen-kessen-hen-kashin-tan",
+      "title": "Bleach: Sennen Kessen Hen – Kashin Tan",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9vME5zYmNJdnNsbGc2Q0pYMEZCRlk4d1dic24uanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1644,9 +1651,17 @@
     "dragon-ball-gt-dublado": [
       1,
       2
+    ],
+    "bleach-sennen-kessen-hen-kashin-tan": [
+      5
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "bleach-sennen-kessen-hen-kashin-tan",
+      "ep": 5,
+      "at": 1787769855559
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3053,5 +3068,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1787769836280
+  "updatedAt": 1787769854187
 }
