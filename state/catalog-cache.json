@@ -8920,7 +8920,7 @@
         "page": 2,
         "hasMore": true,
         "total": 1583,
-        "cachedAt": 1787814946219,
+        "cachedAt": 1787829347988,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -8967,7 +8967,7 @@
           "fixHint": null
         }
       },
-      "at": 1787814946345
+      "at": 1787829350274
     },
     "todos|3||120": {
       "data": {
@@ -9330,7 +9330,7 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2025/06/xUqk8bDcDdDlE7UDMeKflw7u56L-185x278.jpg",
             "rating": "8.2",
             "kind": "anime",
-            "provider": "animeplay",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -9486,7 +9486,7 @@
             "poster": "https://animesdrive.online/wp-content/uploads/2024/04/xoqmJpO3jGxEldDCItXuGj2MVTV-185x278.jpg",
             "rating": "8.507",
             "kind": "anime",
-            "provider": "animeplay",
+            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
@@ -9535,7 +9535,7 @@
         "page": 3,
         "hasMore": true,
         "total": 1583,
-        "cachedAt": 1787814947343,
+        "cachedAt": 1787829351227,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -9582,7 +9582,7 @@
           "fixHint": null
         }
       },
-      "at": 1787814947441
+      "at": 1787829352458
     },
     "todos|4||120": {
       "data": {
@@ -9812,15 +9812,6 @@
             "slug": "881501",
             "url": "https://www.anitube.zip/video/881501/",
             "poster": "https://www.anitube.zip/wp-content/uploads/assistir-bleach-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Bleach Dublado",
-            "slug": "bleach-dublado",
-            "url": "https://animesonline.cloud/anime/bleach-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/07/cACXGL4PBgKslAF5W8aaxWdriW7-185x278.jpg",
-            "rating": "8.383",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -10186,13 +10177,33 @@
             "kind": "anime",
             "provider": "aoc",
             "rating": "8.627"
+          },
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesdrive.cloud/anime/one-piece",
+            "poster": "https://animesdrive.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "one-piece"
+              }
+            ]
           }
         ],
         "category": "todos",
         "page": 4,
         "hasMore": true,
         "total": 1583,
-        "cachedAt": 1787814948310,
+        "cachedAt": 1787829353377,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -10239,7 +10250,7 @@
           "fixHint": null
         }
       },
-      "at": 1787814948416
+      "at": 1787829354467
     },
     "todos|5||120": {
       "data": {
@@ -10874,7 +10885,7 @@
         "page": 5,
         "hasMore": true,
         "total": 1583,
-        "cachedAt": 1787814949334,
+        "cachedAt": 1787829355419,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -10921,7 +10932,7 @@
           "fixHint": null
         }
       },
-      "at": 1787814949440
+      "at": 1787829356486
     },
     "todos|6||120": {
       "data": {
@@ -33976,7 +33987,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1787814947343
+      "at": 1787829351227
     },
     "todos|4||48": {
       "data": {
@@ -34256,7 +34267,7 @@
         "page": 4,
         "hasMore": true
       },
-      "at": 1787814948310
+      "at": 1787829353377
     },
     "todos|5||48": {
       "data": {
@@ -34473,7 +34484,7 @@
         "page": 5,
         "hasMore": true
       },
-      "at": 1787814949334
+      "at": 1787829355419
     },
     "todos|6||48": {
       "data": {
@@ -34744,7 +34755,7 @@
         "page": 6,
         "hasMore": true
       },
-      "at": 1787814950383
+      "at": 1787829357439
     },
     "todos|7||48": {
       "data": {
@@ -41199,7 +41210,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1787800548027
+      "at": 1787829350146
     },
     "partner:animesdrive|todos|3||48": {
       "data": {
@@ -41450,7 +41461,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1787800549104
+      "at": 1787829351847
     },
     "partner:animesdigital|todos|3||48": {
       "data": {
@@ -41845,7 +41856,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1787800548159
+      "at": 1787829350305
     },
     "partner:animeplay|todos|3||48": {
       "data": {
@@ -42096,7 +42107,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1787800550118
+      "at": 1787829352343
     },
     "partner:anitube|todos|3||48": {
       "data": {
@@ -42251,7 +42262,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1787800548509
+      "at": 1787829350632
     },
     "partner:anitube|todos|4||48": {
       "data": {
@@ -42406,7 +42417,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1787800550616
+      "at": 1787829352814
     },
     "partner:animesdigital|todos|4||48": {
       "data": {
@@ -42801,7 +42812,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1787800550778
+      "at": 1787829353459
     },
     "partner:animesdrive|todos|4||48": {
       "data": {
@@ -43052,7 +43063,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1787800551166
+      "at": 1787829353343
     },
     "partner:animeplay|todos|4||48": {
       "data": {
@@ -43303,7 +43314,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1787800552287
+      "at": 1787829354318
     },
     "partner:anitube|todos|5||48": {
       "data": {
@@ -43458,7 +43469,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1787800552765
+      "at": 1787829354804
     },
     "partner:animesdrive|todos|5||48": {
       "data": {
@@ -43653,7 +43664,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1787800553352
+      "at": 1787829355371
     },
     "partner:animesdigital|todos|5||48": {
       "data": {
@@ -44048,7 +44059,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1787800552436
+      "at": 1787829354488
     },
     "partner:animeplay|todos|5||48": {
       "data": {
@@ -44243,7 +44254,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1787800554385
+      "at": 1787829356239
     },
     "partner:anitube|todos|6||48": {
       "data": {
@@ -44398,7 +44409,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1787800555017
+      "at": 1787829356837
     },
     "partner:animesdrive|todos|6||48": {
       "data": {
@@ -45036,7 +45047,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1787800554676
+      "at": 1787829356509
     },
     "partner:animeplay|todos|6||48": {
       "data": {
@@ -45287,7 +45298,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1787800556689
+      "at": 1787829358291
     },
     "partner:anitube|todos|7||48": {
       "data": {
@@ -132574,5 +132585,5 @@
       "at": 1787780041233
     }
   },
-  "updatedAt": 1787829348270
+  "updatedAt": 1787829358291
 }
