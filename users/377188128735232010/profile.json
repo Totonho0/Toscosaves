@@ -1014,6 +1014,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9vME5zYmNJdnNsbGc2Q0pYMEZCRlk4d1dic24uanBn",
       "kind": "anime",
       "adult": false
+    },
+    "kusuriya-no-hitorigoto-2-dublado": {
+      "slug": "kusuriya-no-hitorigoto-2-dublado",
+      "title": "Kusuriya no Hitorigoto 2 Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8yNnlFU0xtNzh0bkN4b29vUnJZYzB3NEEzRk4uanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1654,9 +1661,17 @@
     ],
     "bleach-sennen-kessen-hen-kashin-tan": [
       5
+    ],
+    "kusuriya-no-hitorigoto-2-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "kusuriya-no-hitorigoto-2-dublado",
+      "ep": 1,
+      "at": 1787943195504
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3068,5 +3083,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1787942829523
+  "updatedAt": 1787943195475
 }
