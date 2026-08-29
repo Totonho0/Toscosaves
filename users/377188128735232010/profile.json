@@ -352,8 +352,7 @@
       "slug": "badgirl",
       "title": "Bad Girl",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9lVUo3ZnVkZnJ6SXh4OFBKb2l0TnNtSzc0Y2UuanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "zhan-shen-fanchen-shenyu-ii": {
       "slug": "zhan-shen-fanchen-shenyu-ii",
@@ -1132,6 +1131,9 @@
     ],
     "0-saiji-start-dash-monogatari": [
       1
+    ],
+    "badgirl": [
+      1
     ]
   },
   "started": {
@@ -1680,119 +1682,124 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "badgirl",
+      "ep": 1,
+      "at": 1788045957042
+    },
+    {
       "slug": "maou-sama-retry",
       "ep": 1,
-      "at": 1788045864647
+      "at": 1788045957042
     },
     {
       "slug": "tongari-boushi-no-atelier-dublado",
       "ep": 3,
-      "at": 1788045864647
+      "at": 1788045957042
     },
     {
       "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
       "ep": 1,
-      "at": 1788045864647
+      "at": 1788045957042
     },
     {
       "slug": "darwin-jihen-dublado",
       "ep": 1,
-      "at": 1788045864647
+      "at": 1788045957042
     },
     {
       "slug": "chainsmoker-cat",
       "ep": 1,
-      "at": 1788045864647
+      "at": 1788045957042
     },
     {
       "slug": "sword-art-online-2-dublado",
       "ep": 1,
-      "at": 1788045864647
+      "at": 1788045957042
     },
     {
       "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado",
       "ep": 6,
-      "at": 1788045864647
+      "at": 1788045957042
     },
     {
       "slug": "0-saiji-start-dash-monogatari",
       "ep": 1,
-      "at": 1788045864647
+      "at": 1788045957042
     },
     {
       "slug": "azumanga-daioh",
       "ep": 1,
-      "at": 1788045864647
+      "at": 1788045957042
     },
     {
       "slug": "black-clover",
       "ep": 1,
-      "at": 1788045864647
+      "at": 1788045957042
     },
     {
       "slug": "dead-account",
       "ep": 1,
-      "at": 1788045864647
+      "at": 1788045957042
     },
     {
       "slug": "busu-ni-hanataba-wo",
       "ep": 1,
-      "at": 1788045864647
+      "at": 1788045957042
     },
     {
       "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
       "ep": 10,
-      "at": 1788045864647
+      "at": 1788045957042
     },
     {
       "slug": "black-clover-dublado",
       "ep": 119,
-      "at": 1788045864647
+      "at": 1788045957042
     },
     {
       "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season",
       "ep": 3,
-      "at": 1788045864647
+      "at": 1788045957042
     },
     {
       "slug": "1062417",
       "ep": 1,
-      "at": 1788045864647
+      "at": 1788045957042
     },
     {
       "slug": "1062098",
       "ep": 2,
-      "at": 1788045864647
+      "at": 1788045957042
     },
     {
       "slug": "1062030",
       "ep": 2,
-      "at": 1788045864647
+      "at": 1788045957042
     },
     {
       "slug": "1030445",
       "ep": 1,
-      "at": 1788045864647
+      "at": 1788045957042
     },
     {
       "slug": "946662",
       "ep": 95,
-      "at": 1788045864647
+      "at": 1788045957042
     },
     {
       "slug": "83951",
       "ep": 1,
-      "at": 1788045864646
+      "at": 1788045957042
     },
     {
       "slug": "67043",
       "ep": 1,
-      "at": 1788045864646
+      "at": 1788045957042
     },
     {
       "slug": "8029",
       "ep": 1,
-      "at": 1788045864646
+      "at": 1788045957042
     },
     {
       "slug": "boku-no-hero-academia-2",
@@ -2655,11 +2662,6 @@
       "at": 1783874328117
     },
     {
-      "slug": "badgirl",
-      "ep": 1,
-      "at": 1783874297557
-    },
-    {
       "slug": "filme/assistir-a-lenda-de-aang-o-ultimo-mestre-do-ar-online",
       "ep": 1,
       "at": 1783871475317
@@ -2920,6 +2922,17 @@
       "adult": false,
       "duration": 1475.221
     },
+    "badgirl": {
+      "ep": 1,
+      "time": 17.792,
+      "at": 1788045865537,
+      "title": "Bad Girl",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9lVUo3ZnVkZnJ6SXh4OFBKb2l0TnNtSzc0Y2UuanBn",
+      "kind": "anime",
+      "provider": "animeplay",
+      "adult": false,
+      "duration": 1422.549333
+    },
     "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season": {
       "ep": 3,
       "time": 1200.789324,
@@ -3111,5 +3124,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788045867799
+  "updatedAt": 1788045956417
 }
