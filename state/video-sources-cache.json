@@ -12450,6 +12450,25 @@
         "poster": "https://image.tmdb.org/t/p/w780/eUJ7fudfrzIxx8PJoitNsmK74ce.jpg",
         "episodeUrl": "https://animeplay.cloud/episodio/bad-girl-episodio-06"
       }
+    },
+    "anime:miraculous-t5:1": {
+      "at": 1788046036262,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://internal.miraculum.ml/m3u8.m3u8?lang=pt-br&s=5&e=501&token=web",
+            "label": "Miraculum (Multi-áudio · PT-BR)",
+            "referer": "https://miraculum.ml/"
+          }
+        ],
+        "episode": 1,
+        "slug": "miraculous-t5",
+        "kind": "anime",
+        "provider": "miraculum",
+        "poster": "https://image.tmdb.org/t/p/w500/1IPq9vArG8KRRMIMomPVtJNUqk6.jpg",
+        "episodeUrl": "https://miraculum.ml/pt-br/watch?s=5&e=501"
+      }
     }
   }
 }
