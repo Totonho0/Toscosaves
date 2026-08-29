@@ -1070,6 +1070,13 @@
       "title": "Boku no Hero Academia Final Season Dublado Todos Episódios",
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8xMC9Cb2t1LW5vLUhlcm8tQWNhZGVtaWEtRmluYWwtU2Vhc29uLWR1YmxhZG8uanBn",
       "kind": "anime"
+    },
+    "class-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta": {
+      "slug": "class-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta",
+      "title": "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta. - Animes",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8wMS9DbGFzcy1uby1EYWlraXJhaS1uYS1Kb3NoaS10by1LZWtrb24tc3VydS1Lb3RvLW5pLU5hdHRhRXAuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1757,9 +1764,17 @@
     ],
     "bleach-sennen-kessen-hen-soukoku-tan-dublado": [
       6
+    ],
+    "class-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "class-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta",
+      "ep": 1,
+      "at": 1788047796046
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3271,5 +3286,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788047731681
+  "updatedAt": 1788047795247
 }
