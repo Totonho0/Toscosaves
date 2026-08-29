@@ -1021,6 +1021,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8yNnlFU0xtNzh0bkN4b29vUnJZYzB3NEEzRk4uanBn",
       "kind": "anime",
       "adult": false
+    },
+    "boku-no-hero-academia-2": {
+      "slug": "boku-no-hero-academia-2",
+      "title": "Boku no Hero Academia 2",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1ib2t1LW5vLWhlcm8tYWNhZGVtaWEtMi10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaW1lc2RpZ2l0YWwuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1664,9 +1671,17 @@
     ],
     "kusuriya-no-hitorigoto-2-dublado": [
       1
+    ],
+    "boku-no-hero-academia-2": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "boku-no-hero-academia-2",
+      "ep": 1,
+      "at": 1788045675919
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3083,5 +3098,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788045650549
+  "updatedAt": 1788045675195
 }
