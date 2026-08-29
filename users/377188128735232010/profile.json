@@ -1032,6 +1032,13 @@
       "title": "Miraculous — 5ª Temporada",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC8xSVBxOXZBckc4S1JSTUlNb21QVnRKTlVxazYuanBn",
       "kind": "anime"
+    },
+    "bang-dream-2nd-season": {
+      "slug": "bang-dream-2nd-season",
+      "title": "BanG Dream! 2nd Season Todos os Episódios",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1iYW5nLWRyZWFtLTJuZC1zZWFzb24tdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbmltZXNkaWdpdGFsLmpwZw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1690,9 +1697,17 @@
     ],
     "miraculous-t5": [
       1
+    ],
+    "bang-dream-2nd-season": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "bang-dream-2nd-season",
+      "ep": 1,
+      "at": 1788046562043
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3152,5 +3167,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788046532356
+  "updatedAt": 1788046561922
 }
