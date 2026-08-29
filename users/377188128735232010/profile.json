@@ -1053,6 +1053,13 @@
       "poster": "https://animesdrive.cloud/wp-content/uploads/2025/04/hBsy7irEeiSNRYuNopi2c7qdD4q.jpg",
       "kind": "anime",
       "adult": false
+    },
+    "ao-ashi-dublado": {
+      "slug": "ao-ashi-dublado",
+      "title": "Ao Ashi Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC80aXhoN1BOTldkMVZhb2h6S0Q3cGNQMzNTaU4uanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1721,9 +1728,17 @@
     ],
     "bye-bye-earth-2-dublado": [
       1
+    ],
+    "ao-ashi-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "ao-ashi-dublado",
+      "ep": 1,
+      "at": 1788047467735
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3203,5 +3218,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788047460167
+  "updatedAt": 1788047467283
 }
