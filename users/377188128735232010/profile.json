@@ -1039,6 +1039,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1iYW5nLWRyZWFtLTJuZC1zZWFzb24tdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbmltZXNkaWdpdGFsLmpwZw",
       "kind": "anime",
       "adult": false
+    },
+    "a-uma-musume-pretty-derby-season-3": {
+      "slug": "a-uma-musume-pretty-derby-season-3",
+      "title": "Uma Musume: Pretty Derby Season 3 - Animes",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8xMC9BLVVtYS1NdXN1bWUtUHJldHR5LURlcmJ5LVNlYXNvbi0zRXAuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1701,9 +1708,17 @@
     "bang-dream-2nd-season": [
       1,
       2
+    ],
+    "a-uma-musume-pretty-derby-season-3": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "a-uma-musume-pretty-derby-season-3",
+      "ep": 1,
+      "at": 1788046684737
+    },
     {
       "slug": "bang-dream-2nd-season",
       "ep": 2,
@@ -3173,5 +3188,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788046669094
+  "updatedAt": 1788046687230
 }
