@@ -1026,6 +1026,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1ib2t1LW5vLWhlcm8tYWNhZGVtaWEtMi10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaW1lc2RpZ2l0YWwuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "miraculous-t5": {
+      "slug": "miraculous-t5",
+      "title": "Miraculous — 5ª Temporada",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC8xSVBxOXZBckc4S1JSTUlNb21QVnRKTlVxazYuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1678,9 +1685,17 @@
     ],
     "boku-no-hero-academia-2": [
       1
+    ],
+    "miraculous-t5": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "miraculous-t5",
+      "ep": 1,
+      "at": 1788046021321
+    },
     {
       "slug": "badgirl",
       "ep": 1,
@@ -3124,5 +3139,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788045956417
+  "updatedAt": 1788046021213
 }
