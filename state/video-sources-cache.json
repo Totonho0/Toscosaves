@@ -12724,6 +12724,31 @@
         "poster": "https://www.anitube.zip/wp-content/uploads/Beatless.jpg",
         "episodeUrl": "https://www.anitube.zip/video/84100/"
       }
+    },
+    "anime:ao-ashi-dublado:1": {
+      "at": 1788047484491,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://eos.feralhosting.com/inazu/Letra-A/Ao Ashi/Dub/01.mp4",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Feos.feralhosting.com%2Finazu%2FLetra-A%2FAo%20Ashi%2FDub%2F01.mp4&ref=animeplay"
+          },
+          {
+            "type": "mp4",
+            "src": "https://animeflix.blog/Animes/Letra-A/Ao Ashi/Dub/01.mp4",
+            "label": "FHD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fanimeflix.blog%2FAnimes%2FLetra-A%2FAo%20Ashi%2FDub%2F01.mp4&ref=animeplay"
+          }
+        ],
+        "episode": 1,
+        "slug": "ao-ashi-dublado",
+        "kind": "anime",
+        "provider": "animeplay",
+        "poster": "https://image.tmdb.org/t/p/w780/4ixh7PNNWd1VaohzKD7pcP33SiN.jpg",
+        "episodeUrl": "https://animeplay.cloud/episodio/ao-ashi-dublado-episodio-01"
+      }
     }
   }
 }
