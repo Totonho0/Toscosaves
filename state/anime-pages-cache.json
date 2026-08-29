@@ -7128,7 +7128,24 @@
         "genres": [
           "Animação",
           "Comédia"
-        ]
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "alma-chan-wa-kazoku-ni-naritai",
+              "title": "Alma-chan wa Kazoku ni Naritai",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "alma-chan-wa-kazoku-ni-naritai-dublado",
+              "title": "Alma-chan wa Kazoku ni Naritai Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     },
     "cats-eye": {
@@ -9612,7 +9629,7 @@
       }
     },
     "bang-dream-ave-mujica": {
-      "at": 1788045759132,
+      "at": 1788047771451,
       "data": {
         "slug": "bang-dream-ave-mujica",
         "title": "BanG Dream! Ave Mujica",
@@ -9622,71 +9639,52 @@
           {
             "number": 1,
             "title": "Episódio 01 - Sub rosa",
-            "url": "https://animesonline.cloud/episodio/bang-dream-ave-mujica-episodio-01"
+            "url": "https://animesdrive.cloud/episodio/bang-dream-ave-mujica-episodio-01"
           },
           {
             "number": 2,
             "title": "Episódio 02 - Processo do julgamento.",
-            "url": "https://animesonline.cloud/episodio/bang-dream-ave-mujica-episodio-02"
+            "url": "https://animesdrive.cloud/episodio/bang-dream-ave-mujica-episodio-02"
           },
           {
             "number": 3,
             "title": "Episódio 03 - O que devo fazer?",
-            "url": "https://animesonline.cloud/episodio/bang-dream-ave-mujica-episodio-03"
+            "url": "https://animesdrive.cloud/episodio/bang-dream-ave-mujica-episodio-03"
           },
           {
             "number": 4,
             "title": "Episódio 04 - É uma história.",
-            "url": "https://animesonline.cloud/episodio/bang-dream-ave-mujica-episodio-04"
+            "url": "https://animesdrive.cloud/episodio/bang-dream-ave-mujica-episodio-04"
           },
           {
             "number": 5,
             "title": "Episódio 05 - Você foge do que foi feito, você quer fazer.",
-            "url": "https://animesonline.cloud/episodio/bang-dream-ave-mujica-episodio-05"
+            "url": "https://animesdrive.cloud/episodio/bang-dream-ave-mujica-episodio-05"
           },
           {
             "number": 6,
             "title": "Episódio 06 - As mentes dos reis.",
-            "url": "https://animesonline.cloud/episodio/bang-dream-ave-mujica-episodio-06"
+            "url": "https://animesdrive.cloud/episodio/bang-dream-ave-mujica-episodio-06"
           },
           {
             "number": 7,
             "title": "Episódio 07 - Atrás das nuvens, Febo.",
-            "url": "https://animesonline.cloud/episodio/bang-dream-ave-mujica-episodio-07"
+            "url": "https://animesdrive.cloud/episodio/bang-dream-ave-mujica-episodio-07"
           },
           {
             "number": 8,
             "title": "Episódio 08 - Você é o chefe de muitas pessoas.",
-            "url": "https://animesonline.cloud/episodio/bang-dream-ave-mujica-episodio-08"
+            "url": "https://animesdrive.cloud/episodio/bang-dream-ave-mujica-episodio-08"
           }
         ],
         "totalEpisodes": 8,
         "kind": "anime",
-        "provider": "aoc",
+        "provider": "animesdrive",
         "genres": [
-          "Legendado",
-          "Dublado",
           "Animação",
           "Drama",
           "Música"
-        ],
-        "audioVariants": {
-          "current": "default",
-          "variants": {
-            "default": {
-              "slug": "bang-dream-ave-mujica",
-              "title": "bang dream ave mujica",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "leg": {
-              "slug": "997822",
-              "title": "BanG Dream! Ave Mujica (Legendado)",
-              "audio": "leg",
-              "label": "Legendado"
-            }
-          }
-        }
+        ]
       }
     },
     "a-uma-musume-pretty-derby-season-3": {
