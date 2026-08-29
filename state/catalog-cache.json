@@ -23558,14 +23558,6 @@
             "provider": "animesdigital"
           },
           {
-            "title": "black torch",
-            "slug": "black-torch",
-            "url": "https://animesdigital.org/anime/a/black-torch",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/black-torch-thumbpadra1.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
             "title": "otome kaiju carameliser todos episodios",
             "slug": "otome-kaiju-carameliser-todos-episodios",
             "url": "https://animesdigital.org/anime/a/otome-kaiju-carameliser-todos-episodios",
@@ -23723,7 +23715,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1788045137226
+      "at": 1788045145793
     },
     "partner:animesdrive|todos|3||24": {
       "data": {
@@ -23733,7 +23725,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1788045137444
+      "at": 1788045145784
     },
     "partner:anitube|todos|3||24": {
       "data": {
@@ -23888,8 +23880,18 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1788045139538
+      "at": 1788045145796
+    },
+    "partner:animeplay|todos|3||24": {
+      "data": {
+        "items": [],
+        "category": "todos",
+        "page": 3,
+        "hasMore": true,
+        "partnerId": "animeplay"
+      },
+      "at": 1788045145789
     }
   },
-  "updatedAt": 1788045139538
+  "updatedAt": 1788045145796
 }
