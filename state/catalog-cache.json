@@ -23864,6 +23864,26 @@
             "poster": "https://animesdigital.org/wp-content/uploads/2023/03/assistir-boku-no-hero-academia-6-dublado-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
+          },
+          {
+            "title": "Boku no Hero Academia 7 Dublado",
+            "slug": "boku-no-hero-academia-7-dublado",
+            "url": "https://animesdigital.org/anime/a/boku-no-hero-academia-7-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2024/07/assistir-boku-no-hero-academia-7-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "boku-no-hero-academia-7-dublado"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "990577"
+              }
+            ]
           }
         ],
         "category": "dublado",
@@ -23871,7 +23891,7 @@
         "hasMore": true,
         "total": 69,
         "fromPool": true,
-        "cachedAt": 1788165162396,
+        "cachedAt": 1788193969823,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -23918,7 +23938,7 @@
           "fixHint": null
         }
       },
-      "at": 1788165163867
+      "at": 1788193973581
     },
     "dublado|3||120": {
       "data": {
@@ -24207,7 +24227,7 @@
         "page": 3,
         "hasMore": true,
         "total": 69,
-        "cachedAt": 1788165164745,
+        "cachedAt": 1788193974558,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -24254,7 +24274,7 @@
           "fixHint": null
         }
       },
-      "at": 1788165166178
+      "at": 1788193976249
     },
     "partner:animesdigital|lancamentos|1||24": {
       "data": {
@@ -94725,7 +94745,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1788165164264
+      "at": 1788193974636
     },
     "dublado|3||48": {
       "data": {
@@ -94734,7 +94754,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1788165164745
+      "at": 1788193974558
     },
     "partner:animesdrive|dublado|3||48": {
       "data": {
@@ -94744,7 +94764,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1788165165120
+      "at": 1788193974392
     },
     "partner:animeplay|dublado|3||48": {
       "data": {
@@ -94754,7 +94774,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1788165165518
+      "at": 1788193975568
     },
     "partner:animesdigital|dublado|3||48": {
       "data": {
@@ -95149,7 +95169,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1788165165573
+      "at": 1788193975104
     },
     "todos|3||24": {
       "data": {
@@ -95161,5 +95181,5 @@
       "at": 1788085469377
     }
   },
-  "updatedAt": 1788193970839
+  "updatedAt": 1788193976249
 }
