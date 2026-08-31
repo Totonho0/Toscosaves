@@ -25034,6 +25034,11 @@
                 "server": 4,
                 "provider": "animesdigital",
                 "slug": "assistir-azur-lane:-bisoku-zenshin!-ni!!"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1065772"
               }
             ]
           },
@@ -25120,6 +25125,11 @@
                 "server": 4,
                 "provider": "animesdigital",
                 "slug": "assistir-digimon-beatbreak"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1065778"
               }
             ]
           },
@@ -25333,10 +25343,27 @@
             "slug": "digimon-beatbreak",
             "episode": 45,
             "url": "https://animesonline.cloud/episodio/digimon-beatbreak-episodio-45",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/j4MJcpN2tVgofTWJMoWLWT3UpUh-300x170.jpg",
+            "poster": "https://animesdrive.cloud/wp-content/uploads/2026/08/A2DNVhHgsL6aoI18kfuijUkRHsm-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "isRelease": true
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "digimon-beatbreak"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "digimon-beatbreak"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "digimon-beatbreak"
+              }
+            ]
           },
           {
             "title": "Episódio 54",
@@ -25348,6 +25375,34 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
+          },
+          {
+            "title": "Episódio 6",
+            "epTitle": "Episódio 6",
+            "slug": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season-dublado",
+            "episode": 6,
+            "url": "https://animesonline.cloud/episodio/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season-dublado-episodio-06",
+            "poster": "https://animesdrive.cloud/wp-content/uploads/2026/08/ySQAiVQmcmESjlVererZvqLULhS-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season-dublado"
+              }
+            ]
           },
           {
             "title": "Episódio 7",
@@ -25499,6 +25554,16 @@
                 "slug": "lets-go-kaiki-gumi"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "azur-lane-bisoku-zenshin-ni"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nijuuseiki-denki-mokuroku-eureka-evrika"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu"
@@ -25577,6 +25642,16 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "lets-go-kaiki-gumi"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "azur-lane-bisoku-zenshin-ni"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "nijuuseiki-denki-mokuroku-eureka-evrika"
               }
             ]
           },
@@ -25756,6 +25831,29 @@
             ]
           },
           {
+            "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3",
+            "epTitle": "Episódio 9",
+            "slug": "1065760",
+            "episode": 9,
+            "url": "https://www.anitube.zip/video/1065760/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3-thumbpadra1.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1065760"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1065760"
+              }
+            ]
+          },
+          {
             "title": "Kimi wo Aisuru Ki wa Nai",
             "epTitle": "Episódio 9",
             "slug": "1065739",
@@ -25829,6 +25927,29 @@
                 "server": 4,
                 "provider": "animesdigital",
                 "slug": "assistir-koukaku-kidoutai-(2026)"
+              }
+            ]
+          },
+          {
+            "title": "Let’s Go Kaiki-gumi",
+            "epTitle": "Episódio 9",
+            "slug": "1065754",
+            "episode": 9,
+            "url": "https://www.anitube.zip/video/1065754/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/lets-go-kaiki-gumi-thumbpadra1.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1065754"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1065754"
               }
             ]
           },
@@ -25942,6 +26063,29 @@
             ]
           },
           {
+            "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "epTitle": "Episódio 10",
+            "slug": "1065762",
+            "episode": 10,
+            "url": "https://www.anitube.zip/video/1065762/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/mushoku-tensei-iii-thumbpadra1.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1065762"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1065762"
+              }
+            ]
+          },
+          {
             "title": "Neko to Ryuu",
             "epTitle": "Episódio 10",
             "slug": "1065718",
@@ -26004,6 +26148,11 @@
                 "server": 4,
                 "provider": "animesdigital",
                 "slug": "assistir-one-piece"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1065770"
               }
             ]
           },
@@ -26074,85 +26223,25 @@
             ]
           },
           {
-            "title": "Tai Ari Deshita Ojоu-sama wa Kakutоou Game Nante Shinai",
-            "slug": "assistir-tai-ari-deshita-ojоu-sama-wa-kakutоou-game-nante-shinai",
-            "url": "https://animesdigital.org/video/a/138637/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Tai-Ari-Deshita-Ojоu-sama-wa-Kakutоou-Game-Nante-ShinaiEp.jpg",
+            "title": "Seihantai na Kimi to Boku 2nd Season",
+            "epTitle": "Episódio 9",
+            "slug": "1065752",
+            "episode": 9,
+            "url": "https://www.anitube.zip/video/1065752/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/seihantai-na-kimi-to-boku-2nd-season-thumbpadra1.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "assistir-tai-ari-deshita-ojоu-sama-wa-kakutоou-game-nante-shinai"
-              },
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-tai-ari-deshita-ojоu-sama-wa-kakutоou-game-nante-shinai"
-              }
-            ]
-          },
-          {
-            "title": "Tefuda ga Oome no Victoria",
-            "slug": "assistir-tefuda-ga-oome-no-victoria",
-            "url": "https://animesdigital.org/video/a/138640/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Tefuda-ga-Oome-no-VictoriaEp.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "assistir-tefuda-ga-oome-no-victoria"
-              },
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-tefuda-ga-oome-no-victoria"
-              }
-            ]
-          },
-          {
-            "title": "Tenkou-saki no Seiso Karen na Bishoujo",
-            "slug": "assistir-tenkou-saki-no-seiso-karen-na-bishoujo",
-            "url": "https://animesdigital.org/video/a/138630/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Tenkou-saki-no-Seiso-Karen-na-BishoujoEp.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "assistir-tenkou-saki-no-seiso-karen-na-bishoujo"
-              },
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-tenkou-saki-no-seiso-karen-na-bishoujo"
-              }
-            ]
-          },
-          {
-            "title": "Episódio 45",
-            "epTitle": "Episódio 45",
-            "slug": "digimon-beatbreak",
-            "episode": 45,
-            "url": "https://animesdrive.cloud/episodio/digimon-beatbreak-episodio-45",
-            "poster": "https://animesdrive.cloud/wp-content/uploads/2026/08/A2DNVhHgsL6aoI18kfuijUkRHsm-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
             "isRelease": true,
             "animeSources": [
               {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "digimon-beatbreak"
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1065752"
               },
               {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "digimon-beatbreak"
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1065752"
               }
             ]
           }
@@ -26160,8 +26249,8 @@
         "category": "lancamentos",
         "page": 1,
         "hasMore": true,
-        "total": 53,
-        "cachedAt": 1788107533947,
+        "total": 57,
+        "cachedAt": 1788136372635,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -26208,7 +26297,7 @@
           "fixHint": null
         }
       },
-      "at": 1788107535550
+      "at": 1788136376579
     },
     "lancamentos|2||120": {
       "data": {
@@ -92073,6 +92162,72 @@
       "data": {
         "items": [
           {
+            "title": "Digimon Beatbreak",
+            "epTitle": "Episódio 45",
+            "slug": "1065778",
+            "episode": 45,
+            "url": "https://www.anitube.zip/video/1065778/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Digimon-Beatbreak.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "One Piece",
+            "epTitle": "Episódio 1176",
+            "slug": "1065770",
+            "episode": 1176,
+            "url": "https://www.anitube.zip/video/1065770/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/op-thumbpadra1.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Nijuuseiki Denki Mokuroku",
+            "epTitle": "Episódio 9",
+            "slug": "1065774",
+            "episode": 9,
+            "url": "https://www.anitube.zip/video/1065774/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/nijuuseiki-denki-mokuroku-eureka-evrika-thumbpadra1.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Azur Lane: Bisoku Zenshin! Ni!!",
+            "epTitle": "Episódio 9",
+            "slug": "1065772",
+            "episode": 9,
+            "url": "https://www.anitube.zip/video/1065772/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/azur-lane-bisoku-zenshin-ni-thumbpadra1.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Sayonara Lara",
+            "epTitle": "Episódio 9",
+            "slug": "1065768",
+            "episode": 9,
+            "url": "https://www.anitube.zip/video/1065768/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/sayonara-lara-thumbpadra1.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Kuroneko to Majo no Kyoushitsu",
+            "epTitle": "Episódio 21",
+            "slug": "1065766",
+            "episode": 21,
+            "url": "https://www.anitube.zip/video/1065766/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Kuroneko-to-Majo-no-Kyoushitsu.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
             "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
             "epTitle": "Episódio 10",
             "slug": "1065762",
@@ -92225,72 +92380,6 @@
             "kind": "anime",
             "provider": "anitube",
             "isRelease": true
-          },
-          {
-            "title": "Yomi no Tsugai",
-            "epTitle": "Episódio 21",
-            "slug": "1065729",
-            "episode": 21,
-            "url": "https://www.anitube.zip/video/1065729/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Yomi-no-TsugaiEp.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Bleach Final Season",
-            "epTitle": "Episódio 6",
-            "slug": "1065722",
-            "episode": 6,
-            "url": "https://www.anitube.zip/video/1065722/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Bleach-Final-SeasonEp.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Iwamoto-senpai no Suisen",
-            "epTitle": "Episódio 9",
-            "slug": "1065720",
-            "episode": 9,
-            "url": "https://www.anitube.zip/video/1065720/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/iwamoto-senpai-no-suisen-thumbpadra1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Neko to Ryuu",
-            "epTitle": "Episódio 10",
-            "slug": "1065718",
-            "episode": 10,
-            "url": "https://www.anitube.zip/video/1065718/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Neko-to-RyuuEp.jpeg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Black Torch",
-            "epTitle": "Episódio 9",
-            "slug": "1065716",
-            "episode": 9,
-            "url": "https://www.anitube.zip/video/1065716/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/black-torch-thumbpadra1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Mairimashita! Iruma-kun 4",
-            "epTitle": "Episódio 20",
-            "slug": "1065724",
-            "episode": 20,
-            "url": "https://www.anitube.zip/video/1065724/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Mairimashita-Iruma-kun-4Ep.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -92298,11 +92387,33 @@
         "hasMore": false,
         "partnerId": "anitube"
       },
-      "at": 1788107535937
+      "at": 1788136376977
     },
     "lancamentos|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 21",
+            "epTitle": "Episódio 21",
+            "slug": "yomi-no-tsugai",
+            "episode": 21,
+            "url": "https://animesonline.cloud/episodio/yomi-no-tsugai-episodio-21",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/be5n6OVaLIZhAzDjOoUGbEZXtiL-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 20",
+            "epTitle": "Episódio 20",
+            "slug": "yomi-no-tsugai",
+            "episode": 20,
+            "url": "https://animesonline.cloud/episodio/yomi-no-tsugai-episodio-20",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/foBPlsM3DqIDmNE9e2btj0QWnPJ-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
           {
             "title": "Episódio 20",
             "epTitle": "Episódio 20",
@@ -92335,28 +92446,39 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/qq2cc5cOhWBMGdUcbJgE8D2BX0o-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 2,
         "hasMore": true
       },
-      "at": 1788107536427
+      "at": 1788136377612
     },
     "partner:animesdrive|lancamentos|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 21",
+            "epTitle": "Episódio 21",
+            "slug": "yomi-no-tsugai",
+            "episode": 21,
+            "url": "https://animesdrive.cloud/episodio/yomi-no-tsugai-episodio-21",
+            "poster": "https://animesdrive.cloud/wp-content/uploads/2026/08/be5n6OVaLIZhAzDjOoUGbEZXtiL-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 20",
+            "epTitle": "Episódio 20",
+            "slug": "yomi-no-tsugai",
+            "episode": 20,
+            "url": "https://animesdrive.cloud/episodio/yomi-no-tsugai-episodio-20",
+            "poster": "https://animesdrive.cloud/wp-content/uploads/2026/08/foBPlsM3DqIDmNE9e2btj0QWnPJ-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
           {
             "title": "Episódio 20",
             "epTitle": "Episódio 20",
@@ -92389,17 +92511,6 @@
             "kind": "anime",
             "provider": "animesdrive",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru",
-            "episode": 9,
-            "url": "https://animesdrive.cloud/episodio/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru-episodio-09",
-            "poster": "https://animesdrive.cloud/wp-content/uploads/2026/08/qq2cc5cOhWBMGdUcbJgE8D2BX0o-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -92407,11 +92518,33 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1788107536489
+      "at": 1788136377946
     },
     "partner:animeplay|lancamentos|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 21",
+            "epTitle": "Episódio 21",
+            "slug": "yomi-no-tsugai",
+            "episode": 21,
+            "url": "https://animeplay.cloud/episodio/yomi-no-tsugai-episodio-21",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/08/be5n6OVaLIZhAzDjOoUGbEZXtiL-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 20",
+            "epTitle": "Episódio 20",
+            "slug": "yomi-no-tsugai",
+            "episode": 20,
+            "url": "https://animeplay.cloud/episodio/yomi-no-tsugai-episodio-20",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/08/foBPlsM3DqIDmNE9e2btj0QWnPJ-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
           {
             "title": "Episódio 20",
             "epTitle": "Episódio 20",
@@ -92444,17 +92577,6 @@
             "kind": "anime",
             "provider": "animeplay",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru",
-            "episode": 9,
-            "url": "https://animeplay.cloud/episodio/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru-episodio-09",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/08/qq2cc5cOhWBMGdUcbJgE8D2BX0o-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -92462,7 +92584,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1788107537238
+      "at": 1788136378236
     },
     "legendado|1||48": {
       "data": {
@@ -94731,5 +94853,5 @@
       "at": 1788085469377
     }
   },
-  "updatedAt": 1788136373032
+  "updatedAt": 1788136378236
 }
