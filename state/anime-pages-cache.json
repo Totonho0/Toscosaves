@@ -947,7 +947,7 @@
       }
     },
     "63446": {
-      "at": 1788300231758,
+      "at": 1788300581939,
       "data": {
         "slug": "63446",
         "title": "Big Order",
@@ -2090,7 +2090,7 @@
       }
     },
     "63514": {
-      "at": 1788300229774,
+      "at": 1788300581342,
       "data": {
         "slug": "63514",
         "title": "Beyblade Burst",
@@ -2410,7 +2410,7 @@
       }
     },
     "63678": {
-      "at": 1788300229080,
+      "at": 1788300582071,
       "data": {
         "slug": "63678",
         "title": "Beyblade (Dublado)",
@@ -2726,24 +2726,7 @@
         ],
         "totalEpisodes": 51,
         "kind": "anime",
-        "provider": "anitube",
-        "audioVariants": {
-          "current": "dub",
-          "variants": {
-            "default": {
-              "slug": "beyblade",
-              "title": "beyblade",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "63678",
-              "title": "Beyblade (Dublado)",
-              "audio": "dub",
-              "label": "Dublado"
-            }
-          }
-        }
+        "provider": "anitube"
       }
     },
     "64780": {
