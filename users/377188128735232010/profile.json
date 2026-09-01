@@ -1089,6 +1089,13 @@
       "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9qOWZSSWltb3IwQU1GSlI5a2padWJYY0FCelouanBn",
       "kind": "anime"
+    },
+    "akujiki-reijou-to-kyouketsu-koushaku-dublado": {
+      "slug": "akujiki-reijou-to-kyouketsu-koushaku-dublado",
+      "title": "Akujiki Reijou to Kyouketsu Koushaku Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC93MUhiZVByb0lhaGswN0tzajVZMk9WbzVaeHguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1907,9 +1914,17 @@
     "mushoku-tensei-iii-isekai-ittara-honki-dasu": [
       1,
       3
+    ],
+    "akujiki-reijou-to-kyouketsu-koushaku-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "akujiki-reijou-to-kyouketsu-koushaku-dublado",
+      "ep": 1,
+      "at": 1788300959941
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3463,5 +3478,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788300956160
+  "updatedAt": 1788300958923
 }
