@@ -22643,7 +22643,7 @@
         "page": 1,
         "hasMore": true,
         "total": 54,
-        "cachedAt": 1788251538275,
+        "cachedAt": 1788280342953,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -22690,7 +22690,7 @@
           "fixHint": null
         }
       },
-      "at": 1788251541717
+      "at": 1788280346207
     },
     "legendado|2||120": {
       "data": {
@@ -22862,7 +22862,7 @@
         "hasMore": true,
         "total": 54,
         "fromPool": true,
-        "cachedAt": 1788251542792,
+        "cachedAt": 1788280347297,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
@@ -22909,7 +22909,7 @@
           "fixHint": null
         }
       },
-      "at": 1788251545322
+      "at": 1788280349231
     },
     "legendado|3||120": {
       "data": {
@@ -23055,7 +23055,7 @@
         "page": 3,
         "hasMore": true,
         "total": 54,
-        "cachedAt": 1788251546305,
+        "cachedAt": 1788280350193,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -23102,7 +23102,7 @@
           "fixHint": null
         }
       },
-      "at": 1788251548500
+      "at": 1788280352385
     },
     "dublado|1||120": {
       "data": {
@@ -25181,6 +25181,11 @@
                 "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu"
               },
               {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "world-is-dancing"
+              },
+              {
                 "server": 2,
                 "provider": "animesdrive",
                 "slug": "tenmaku-no-jaadugar"
@@ -25196,6 +25201,11 @@
                 "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "world-is-dancing"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "tenmaku-no-jaadugar"
@@ -25209,6 +25219,11 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "world-is-dancing"
               }
             ]
           },
@@ -25394,6 +25409,29 @@
             ]
           },
           {
+            "title": "Episódio 25",
+            "epTitle": "Episódio 25",
+            "slug": "lion-man",
+            "episode": 25,
+            "url": "https://animeplay.cloud/episodio/lion-man-episodio-25",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/09/gQlKwfKH9LgOKdKn1xDhed7mah9-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "lion-man"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "lion-man"
+              }
+            ]
+          },
+          {
             "title": "Episódio 35",
             "epTitle": "Episódio 45",
             "slug": "digimon-beatbreak",
@@ -25446,6 +25484,34 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "flashman"
+              }
+            ]
+          },
+          {
+            "title": "Episódio 52",
+            "epTitle": "Episódio 52",
+            "slug": "jiban",
+            "episode": 52,
+            "url": "https://animeplay.cloud/episodio/jiban-episodio-52",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/09/yL3HbKUlaI84OvdMeZHS7CAsj5h-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "jiban"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "jiban"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "jiban"
               }
             ]
           },
@@ -25505,9 +25571,19 @@
                 "slug": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "seihantai-na-kimi-to-boku-2nd-season-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "seihantai-na-kimi-to-boku-2nd-season-dublado"
               }
             ]
           },
@@ -25706,6 +25782,21 @@
                 "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kimi-ga-shinu-made-koi-wo-shitai"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu"
@@ -25824,6 +25915,21 @@
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kimi-ga-shinu-made-koi-wo-shitai"
               }
             ]
           },
@@ -26024,6 +26130,11 @@
                 "server": 4,
                 "provider": "animesdigital",
                 "slug": "assistir-kimi-ga-shinu-made-koi-wo-shitai"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1065797"
               }
             ]
           },
@@ -26224,130 +26335,6 @@
             ]
           },
           {
-            "title": "Mahou Shoujo Lyrical Nanoha EXCEEDS",
-            "epTitle": "Episódio 9",
-            "slug": "1065735",
-            "episode": 9,
-            "url": "https://www.anitube.zip/video/1065735/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/mahou-shoujo-lyrical-nanoha-exceed-thumbpadra1.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "1065735"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1065735"
-              }
-            ]
-          },
-          {
-            "title": "Mairimashita! Iruma-kun 4",
-            "epTitle": "Episódio 20",
-            "slug": "1065724",
-            "episode": 20,
-            "url": "https://www.anitube.zip/video/1065724/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Mairimashita-Iruma-kun-4Ep.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "1065724"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1065724"
-              }
-            ]
-          },
-          {
-            "title": "MAO",
-            "epTitle": "Episódio 22",
-            "slug": "1065750",
-            "episode": 22,
-            "url": "https://www.anitube.zip/video/1065750/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/MAOEp-1.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "1065750"
-              },
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-mao"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1065750"
-              }
-            ]
-          },
-          {
-            "title": "Episódio 45",
-            "epTitle": "Episódio 45",
-            "slug": "digimon-beatbreak",
-            "episode": 45,
-            "url": "https://animesdrive.cloud/episodio/digimon-beatbreak-episodio-45",
-            "poster": "https://animesdrive.cloud/wp-content/uploads/2026/08/A2DNVhHgsL6aoI18kfuijUkRHsm-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 52",
-            "epTitle": "Episódio 52",
-            "slug": "jiban",
-            "episode": 52,
-            "url": "https://animeplay.cloud/episodio/jiban-episodio-52",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/09/yL3HbKUlaI84OvdMeZHS7CAsj5h-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "jiban"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "jiban"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "jiban"
-              }
-            ]
-          },
-          {
-            "title": "Episódio 25",
-            "epTitle": "Episódio 25",
-            "slug": "lion-man",
-            "episode": 25,
-            "url": "https://animeplay.cloud/episodio/lion-man-episodio-25",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/09/gQlKwfKH9LgOKdKn1xDhed7mah9-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
             "title": "Nijuuseiki Denki Mokuroku",
             "slug": "assistir-nijuuseiki-denki-mokuroku",
             "url": "https://animesdigital.org/video/a/138701/",
@@ -26391,13 +26378,87 @@
                 "slug": "1065768"
               }
             ]
+          },
+          {
+            "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "slug": "assistir-mushoku-tensei-iii:-isekai-ittara-honki-dasu",
+            "url": "https://animesdigital.org/video/a/138696/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-mushoku-tensei-iii-isekai-ittara-honki-dasu-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1065762"
+              },
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "assistir-mushoku-tensei-iii:-isekai-ittara-honki-dasu"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1065762"
+              }
+            ]
+          },
+          {
+            "title": "Sekai Saikyou no Kouei",
+            "slug": "assistir-sekai-saikyou-no-kouei",
+            "url": "https://animesdigital.org/video/a/138693/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Tetsunabe no Jan!",
+            "slug": "assistir-tetsunabe-no-jan!",
+            "url": "https://animesdigital.org/video/a/138692/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-tetsunabe-no-jan-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Seihantai na Kimi to Boku 2nd Season",
+            "slug": "assistir-seihantai-na-kimi-to-boku-2nd-season",
+            "url": "https://animesdigital.org/video/a/138690/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-seihantai-na-kimi-to-boku-2nd-season-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "MAO",
+            "slug": "assistir-mao",
+            "url": "https://animesdigital.org/video/a/138689/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/MAOEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1065750"
+              },
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "assistir-mao"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1065750"
+              }
+            ]
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": true,
-        "total": 66,
-        "cachedAt": 1788251534197,
+        "total": 68,
+        "cachedAt": 1788280337637,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -26444,45 +26505,24 @@
           "fixHint": null
         }
       },
-      "at": 1788251535642
+      "at": 1788280340161
     },
     "lancamentos|2||120": {
       "data": {
         "items": [
           {
-            "title": "Mairimashita! Iruma-kun 4",
-            "epTitle": "Episódio 20",
-            "slug": "1065724",
-            "episode": 20,
-            "url": "https://www.anitube.zip/video/1065724/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Mairimashita-Iruma-kun-4Ep.jpg",
+            "title": "MAO",
+            "slug": "assistir-mao",
+            "url": "https://animesdigital.org/video/a/138689/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/MAOEp.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "isRelease": true,
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "1065724"
+                "slug": "assistir-mao"
               },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1065724"
-              }
-            ]
-          },
-          {
-            "title": "MAO",
-            "epTitle": "Episódio 22",
-            "slug": "1065750",
-            "episode": 22,
-            "url": "https://www.anitube.zip/video/1065750/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/MAOEp-1.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true,
-            "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
@@ -26502,15 +26542,17 @@
           },
           {
             "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
-            "epTitle": "Episódio 10",
-            "slug": "1065762",
-            "episode": 10,
-            "url": "https://www.anitube.zip/video/1065762/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/mushoku-tensei-iii-thumbpadra1.jpg",
+            "slug": "assistir-mushoku-tensei-iii:-isekai-ittara-honki-dasu",
+            "url": "https://animesdigital.org/video/a/138696/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-mushoku-tensei-iii-isekai-ittara-honki-dasu-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "isRelease": true,
             "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "assistir-mushoku-tensei-iii:-isekai-ittara-honki-dasu"
+              },
               {
                 "server": 1,
                 "provider": "aoc",
@@ -26738,46 +26780,40 @@
           },
           {
             "title": "Seihantai na Kimi to Boku 2nd Season",
-            "epTitle": "Episódio 9",
-            "slug": "1065752",
-            "episode": 9,
-            "url": "https://www.anitube.zip/video/1065752/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/seihantai-na-kimi-to-boku-2nd-season-thumbpadra1.jpg",
+            "slug": "assistir-seihantai-na-kimi-to-boku-2nd-season",
+            "url": "https://animesdigital.org/video/a/138690/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-seihantai-na-kimi-to-boku-2nd-season-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "isRelease": true,
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "1065752"
+                "slug": "assistir-seihantai-na-kimi-to-boku-2nd-season"
               },
               {
-                "server": 6,
-                "provider": "anitube",
+                "server": 1,
+                "provider": "aoc",
                 "slug": "1065752"
               }
             ]
           },
           {
             "title": "Sekai Saikyou no Kouei",
-            "epTitle": "Episódio 9",
-            "slug": "1065758",
-            "episode": 9,
-            "url": "https://www.anitube.zip/video/1065758/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/sekai-saikyou-no-kouei-thumbpadra1.jpg",
+            "slug": "assistir-sekai-saikyou-no-kouei",
+            "url": "https://animesdigital.org/video/a/138693/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "isRelease": true,
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "1065758"
+                "slug": "assistir-sekai-saikyou-no-kouei"
               },
               {
-                "server": 6,
-                "provider": "anitube",
+                "server": 1,
+                "provider": "aoc",
                 "slug": "1065758"
               }
             ]
@@ -26830,23 +26866,20 @@
           },
           {
             "title": "Tetsunabe no Jan!",
-            "epTitle": "Episódio 9",
-            "slug": "1065756",
-            "episode": 9,
-            "url": "https://www.anitube.zip/video/1065756/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/tetsunabe-no-jan-thumbpadra1.jpg",
+            "slug": "assistir-tetsunabe-no-jan!",
+            "url": "https://animesdigital.org/video/a/138692/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-tetsunabe-no-jan-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "isRelease": true,
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "1065756"
+                "slug": "assistir-tetsunabe-no-jan!"
               },
               {
-                "server": 6,
-                "provider": "anitube",
+                "server": 1,
+                "provider": "aoc",
                 "slug": "1065756"
               }
             ]
@@ -26923,12 +26956,12 @@
             ]
           },
           {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu",
-            "episode": 9,
-            "url": "https://animesdrive.cloud/episodio/kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu-episodio-09",
-            "poster": "https://animesdrive.cloud/wp-content/uploads/2026/08/sUKfV1vJeWhcLejj5tFCyfdg9Ww-300x170.jpg",
+            "title": "Episódio 45",
+            "epTitle": "Episódio 45",
+            "slug": "digimon-beatbreak",
+            "episode": 45,
+            "url": "https://animesdrive.cloud/episodio/digimon-beatbreak-episodio-45",
+            "poster": "https://animesdrive.cloud/wp-content/uploads/2026/08/A2DNVhHgsL6aoI18kfuijUkRHsm-300x170.jpg",
             "kind": "anime",
             "provider": "animesdrive",
             "isRelease": true,
@@ -26936,102 +26969,12 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
-                "slug": "kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "oni-no-hanayome"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "grow-up-show-himawari-no-circus-dan"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "iwamoto-senpai-no-suisen"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "black-torch"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "uchi-no-otouto-domo-ga-sumimasen"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita"
-              },
-              {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "ryoumin-0-nin-start-no-henkyou-ryoushu-sama"
+                "slug": "digimon-beatbreak"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "seihantai-na-kimi-to-boku-2nd-season"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "lets-go-kaiki-gumi"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "oni-no-hanayome"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "grow-up-show-himawari-no-circus-dan"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "iwamoto-senpai-no-suisen"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "black-torch"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "uchi-no-otouto-domo-ga-sumimasen"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season"
+                "slug": "digimon-beatbreak"
               }
             ]
           },
@@ -27052,9 +26995,9 @@
                 "slug": "yomi-no-tsugai"
               },
               {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "kami-no-shizuku"
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kuroneko-to-majo-no-kyoushitsu"
               },
               {
                 "server": 3,
@@ -27085,54 +27028,82 @@
                 "slug": "mairimashita-iruma-kun-4"
               },
               {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "tensei-shitara-slime-datta-ken-4th-season"
-              },
-              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "yomi-no-tsugai"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "mairimashita-iruma-kun-4"
               }
             ]
           },
           {
-            "title": "Episódio 7",
-            "epTitle": "Episódio 7",
-            "slug": "nige-jouzu-no-wakagimi-2nd",
-            "episode": 7,
-            "url": "https://animesdrive.cloud/episodio/nige-jouzu-no-wakagimi-2nd-episodio-07",
-            "poster": "https://animesdrive.cloud/wp-content/uploads/2026/08/2326xr1L55Hs5xFYbnqwZ3VB4bJ-300x170.jpg",
+            "title": "Yoroi Shin Den Samurai Troopers II Parte 2",
+            "epTitle": "Episódio 9",
+            "slug": "1065804",
+            "episode": 9,
+            "url": "https://www.anitube.zip/video/1065804/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Yoroi-Shin-Den-Samurai-Troopers-II-Parte-2Ep.jpg",
             "kind": "anime",
-            "provider": "animesdrive",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Tefuda ga Oome no Victoria",
+            "epTitle": "Episódio 9",
+            "slug": "1065802",
+            "episode": 9,
+            "url": "https://www.anitube.zip/video/1065802/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Tefuda-ga-Oome-no-VictoriaEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
+            "epTitle": "Episódio 10",
+            "slug": "1065800",
+            "episode": 10,
+            "url": "https://www.anitube.zip/video/1065800/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Mujikaku-Seijo-wa-Kyou-mo-Muishiki-ni-Chikara-wo-TarenagasuEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Kimi ga Shinu made Koi wo Shitai",
+            "epTitle": "Episódio 9",
+            "slug": "1065797",
+            "episode": 9,
+            "url": "https://www.anitube.zip/video/1065797/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Kimi-ga-Shinu-made-Koi-wo-ShitaiEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
             "isRelease": true,
             "animeSources": [
               {
-                "server": 2,
-                "provider": "animesdrive",
-                "slug": "nige-jouzu-no-wakagimi-2nd"
+                "server": 1,
+                "provider": "aoc",
+                "slug": "assistir-kimi-ga-shinu-made-koi-wo-shitai"
               },
               {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "nige-jouzu-no-wakagimi-2nd"
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "assistir-kimi-ga-shinu-made-koi-wo-shitai"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1065797"
               }
             ]
           },
           {
-            "title": "Episódio 45",
-            "epTitle": "Episódio 45",
-            "slug": "digimon-beatbreak",
-            "episode": 45,
-            "url": "https://animeplay.cloud/episodio/digimon-beatbreak-episodio-45",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/08/A2DNVhHgsL6aoI18kfuijUkRHsm-300x170.jpg",
+            "title": "Tai Ari Deshita Ojоu-sama wa Kakutоou Game Nante Shinai",
+            "epTitle": "Episódio 9",
+            "slug": "1065794",
+            "episode": 9,
+            "url": "https://www.anitube.zip/video/1065794/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Tai-Ari-Deshita-Ojоu-sama-wa-Kakutоou-Game-Nante-ShinaiEp.jpg",
             "kind": "anime",
-            "provider": "animeplay",
+            "provider": "anitube",
             "isRelease": true
           },
           {
@@ -27388,41 +27359,13 @@
                 "slug": "1065760"
               }
             ]
-          },
-          {
-            "title": "Let’s Go Kaiki-gumi",
-            "epTitle": "Episódio 9",
-            "slug": "1065754",
-            "episode": 9,
-            "url": "https://www.anitube.zip/video/1065754/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/lets-go-kaiki-gumi-thumbpadra1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "1065754"
-              },
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-let’s-go-kaiki-gumi"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1065754"
-              }
-            ]
           }
         ],
         "category": "lancamentos",
         "page": 2,
         "hasMore": true,
-        "total": 69,
-        "cachedAt": 1788251536665,
+        "total": 71,
+        "cachedAt": 1788280341071,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -27469,7 +27412,7 @@
           "fixHint": null
         }
       },
-      "at": 1788251537779
+      "at": 1788280342528
     },
     "lancamentos|1||24": {
       "data": {
@@ -92757,11 +92700,66 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1788251535041
+      "at": 1788280339784
     },
     "partner:anitube|lancamentos|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Yoroi Shin Den Samurai Troopers II Parte 2",
+            "epTitle": "Episódio 9",
+            "slug": "1065804",
+            "episode": 9,
+            "url": "https://www.anitube.zip/video/1065804/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Yoroi-Shin-Den-Samurai-Troopers-II-Parte-2Ep.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Tefuda ga Oome no Victoria",
+            "epTitle": "Episódio 9",
+            "slug": "1065802",
+            "episode": 9,
+            "url": "https://www.anitube.zip/video/1065802/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Tefuda-ga-Oome-no-VictoriaEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
+            "epTitle": "Episódio 10",
+            "slug": "1065800",
+            "episode": 10,
+            "url": "https://www.anitube.zip/video/1065800/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Mujikaku-Seijo-wa-Kyou-mo-Muishiki-ni-Chikara-wo-TarenagasuEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Kimi ga Shinu made Koi wo Shitai",
+            "epTitle": "Episódio 9",
+            "slug": "1065797",
+            "episode": 9,
+            "url": "https://www.anitube.zip/video/1065797/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Kimi-ga-Shinu-made-Koi-wo-ShitaiEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
+          {
+            "title": "Tai Ari Deshita Ojоu-sama wa Kakutоou Game Nante Shinai",
+            "epTitle": "Episódio 9",
+            "slug": "1065794",
+            "episode": 9,
+            "url": "https://www.anitube.zip/video/1065794/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Tai-Ari-Deshita-Ojоu-sama-wa-Kakutоou-Game-Nante-ShinaiEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true
+          },
           {
             "title": "Liar Game",
             "epTitle": "Episódio 22",
@@ -92926,61 +92924,6 @@
             "kind": "anime",
             "provider": "anitube",
             "isRelease": true
-          },
-          {
-            "title": "Sekai Saikyou no Kouei",
-            "epTitle": "Episódio 9",
-            "slug": "1065758",
-            "episode": 9,
-            "url": "https://www.anitube.zip/video/1065758/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/sekai-saikyou-no-kouei-thumbpadra1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Tetsunabe no Jan!",
-            "epTitle": "Episódio 9",
-            "slug": "1065756",
-            "episode": 9,
-            "url": "https://www.anitube.zip/video/1065756/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/tetsunabe-no-jan-thumbpadra1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Let’s Go Kaiki-gumi",
-            "epTitle": "Episódio 9",
-            "slug": "1065754",
-            "episode": 9,
-            "url": "https://www.anitube.zip/video/1065754/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/lets-go-kaiki-gumi-thumbpadra1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "Seihantai na Kimi to Boku 2nd Season",
-            "epTitle": "Episódio 9",
-            "slug": "1065752",
-            "episode": 9,
-            "url": "https://www.anitube.zip/video/1065752/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/seihantai-na-kimi-to-boku-2nd-season-thumbpadra1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
-          },
-          {
-            "title": "MAO",
-            "epTitle": "Episódio 22",
-            "slug": "1065750",
-            "episode": 22,
-            "url": "https://www.anitube.zip/video/1065750/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/MAOEp-1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -92988,11 +92931,33 @@
         "hasMore": false,
         "partnerId": "anitube"
       },
-      "at": 1788251536017
+      "at": 1788280340560
     },
     "lancamentos|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "lets-go-kaiki-gumi",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/lets-go-kaiki-gumi-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/6argzZTV0L89SkFoshTNXqKW5WQ-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 45",
+            "epTitle": "Episódio 45",
+            "slug": "digimon-beatbreak",
+            "episode": 45,
+            "url": "https://animesonline.cloud/episodio/digimon-beatbreak-episodio-45",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/A2DNVhHgsL6aoI18kfuijUkRHsm-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
           {
             "title": "Episódio 9",
             "epTitle": "Episódio 9",
@@ -93036,39 +93001,39 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 7",
-            "epTitle": "Episódio 7",
-            "slug": "nige-jouzu-no-wakagimi-2nd",
-            "episode": 7,
-            "url": "https://animesonline.cloud/episodio/nige-jouzu-no-wakagimi-2nd-episodio-07",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/2326xr1L55Hs5xFYbnqwZ3VB4bJ-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "ryoumin-0-nin-start-no-henkyou-ryoushu-sama",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/ryoumin-0-nin-start-no-henkyou-ryoushu-sama-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/gs9r9sVk7NRkxgvwhty4tzmAgCl-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 2,
         "hasMore": true
       },
-      "at": 1788251536665
+      "at": 1788280341071
     },
     "partner:animesdrive|lancamentos|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "lets-go-kaiki-gumi",
+            "episode": 9,
+            "url": "https://animesdrive.cloud/episodio/lets-go-kaiki-gumi-episodio-09",
+            "poster": "https://animesdrive.cloud/wp-content/uploads/2026/08/6argzZTV0L89SkFoshTNXqKW5WQ-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 45",
+            "epTitle": "Episódio 45",
+            "slug": "digimon-beatbreak",
+            "episode": 45,
+            "url": "https://animesdrive.cloud/episodio/digimon-beatbreak-episodio-45",
+            "poster": "https://animesdrive.cloud/wp-content/uploads/2026/08/A2DNVhHgsL6aoI18kfuijUkRHsm-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
           {
             "title": "Episódio 9",
             "epTitle": "Episódio 9",
@@ -93112,28 +93077,6 @@
             "kind": "anime",
             "provider": "animesdrive",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 7",
-            "epTitle": "Episódio 7",
-            "slug": "nige-jouzu-no-wakagimi-2nd",
-            "episode": 7,
-            "url": "https://animesdrive.cloud/episodio/nige-jouzu-no-wakagimi-2nd-episodio-07",
-            "poster": "https://animesdrive.cloud/wp-content/uploads/2026/08/2326xr1L55Hs5xFYbnqwZ3VB4bJ-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "ryoumin-0-nin-start-no-henkyou-ryoushu-sama",
-            "episode": 9,
-            "url": "https://animesdrive.cloud/episodio/ryoumin-0-nin-start-no-henkyou-ryoushu-sama-episodio-09",
-            "poster": "https://animesdrive.cloud/wp-content/uploads/2026/08/gs9r9sVk7NRkxgvwhty4tzmAgCl-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -93141,11 +93084,22 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1788251536741
+      "at": 1788280341142
     },
     "partner:animeplay|lancamentos|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu",
+            "episode": 10,
+            "url": "https://animeplay.cloud/episodio/mushoku-tensei-iii-isekai-ittara-honki-dasu-episodio-10",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/08/rKg2DyJCMo8yLhkBqgOWXP7k5x0-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
           {
             "title": "Episódio 9",
             "epTitle": "Episódio 9",
@@ -93200,28 +93154,6 @@
             "kind": "anime",
             "provider": "animeplay",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 20",
-            "epTitle": "Episódio 20",
-            "slug": "mairimashita-iruma-kun-4",
-            "episode": 20,
-            "url": "https://animeplay.cloud/episodio/mairimashita-iruma-kun-4-episodio-20",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/08/a0vIlrnofzRr9XQKC39rdmXcXBf-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 7",
-            "epTitle": "Episódio 7",
-            "slug": "nige-jouzu-no-wakagimi-2nd",
-            "episode": 7,
-            "url": "https://animeplay.cloud/episodio/nige-jouzu-no-wakagimi-2nd-episodio-07",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/08/2326xr1L55Hs5xFYbnqwZ3VB4bJ-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -93229,7 +93161,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1788251537238
+      "at": 1788280341743
     },
     "legendado|1||48": {
       "data": {
@@ -93238,7 +93170,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1788251538275
+      "at": 1788280342953
     },
     "partner:anitube|legendado|1||48": {
       "data": {
@@ -93393,7 +93325,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1788251538156
+      "at": 1788280342897
     },
     "partner:animesdrive|legendado|1||48": {
       "data": {
@@ -93403,7 +93335,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1788251538216
+      "at": 1788280343105
     },
     "partner:animeplay|legendado|1||48": {
       "data": {
@@ -93413,7 +93345,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1788251538692
+      "at": 1788280343478
     },
     "partner:anitube|legendado|2||48": {
       "data": {
@@ -93568,7 +93500,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1788251542110
+      "at": 1788280346610
     },
     "legendado|2||48": {
       "data": {
@@ -93577,7 +93509,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1788251542792
+      "at": 1788280347297
     },
     "partner:animesdrive|legendado|2||48": {
       "data": {
@@ -93587,7 +93519,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1788251542647
+      "at": 1788280347498
     },
     "partner:animeplay|legendado|2||48": {
       "data": {
@@ -93597,7 +93529,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1788251543799
+      "at": 1788280348038
     },
     "partner:anitube|legendado|3||48": {
       "data": {
@@ -93752,7 +93684,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1788251545688
+      "at": 1788280349617
     },
     "legendado|3||48": {
       "data": {
@@ -93761,7 +93693,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1788251546305
+      "at": 1788280350193
     },
     "partner:animesdrive|legendado|3||48": {
       "data": {
@@ -93771,7 +93703,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1788251546220
+      "at": 1788280350542
     },
     "partner:animeplay|legendado|3||48": {
       "data": {
@@ -93781,7 +93713,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1788251546948
+      "at": 1788280350783
     },
     "dublado|1||48": {
       "data": {
@@ -93790,7 +93722,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1788251549042
+      "at": 1788280352752
     },
     "partner:anitube|dublado|1||48": {
       "data": {
@@ -93945,7 +93877,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1788251548875
+      "at": 1788280352818
     },
     "partner:animesdrive|dublado|1||48": {
       "data": {
@@ -93955,7 +93887,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1788251548959
+      "at": 1788280352888
     },
     "partner:animeplay|dublado|1||48": {
       "data": {
@@ -93965,7 +93897,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1788251549500
+      "at": 1788280353301
     },
     "partner:animesdigital|dublado|1||48": {
       "data": {
@@ -95498,5 +95430,5 @@
       "at": 1788085469377
     }
   },
-  "updatedAt": 1788280338092
+  "updatedAt": 1788280353301
 }
