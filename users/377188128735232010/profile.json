@@ -1083,6 +1083,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNC8wNC9NdXNob2t1LVRlbnNlaS1JSS1Jc2VrYWktSXR0YXJhLUhvbmtpLURhc3UtUGFydC0yRXAuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "mushoku-tensei-iii-isekai-ittara-honki-dasu": {
+      "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu",
+      "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9qOWZSSWltb3IwQU1GSlI5a2padWJYY0FCelouanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1894,9 +1901,17 @@
     ],
     "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2": [
       1
+    ],
+    "mushoku-tensei-iii-isekai-ittara-honki-dasu": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu",
+      "ep": 1,
+      "at": 1788300733146
+    },
     {
       "slug": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
       "ep": 1,
@@ -3429,5 +3444,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788300718394
+  "updatedAt": 1788300733250
 }
