@@ -1076,6 +1076,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8wMS9DbGFzcy1uby1EYWlraXJhaS1uYS1Kb3NoaS10by1LZWtrb24tc3VydS1Lb3RvLW5pLU5hdHRhRXAuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2": {
+      "slug": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
+      "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2 - Animes",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNC8wNC9NdXNob2t1LVRlbnNlaS1JSS1Jc2VrYWktSXR0YXJhLUhvbmtpLURhc3UtUGFydC0yRXAuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1884,9 +1891,17 @@
     ],
     "filmes/juntos": [
       1
+    ],
+    "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
+      "ep": 1,
+      "at": 1788300715341
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3414,5 +3429,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788300534861
+  "updatedAt": 1788300718394
 }
