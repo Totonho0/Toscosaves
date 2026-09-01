@@ -25184,7 +25184,7 @@
         "hasMore": false,
         "genreId": "romance"
       },
-      "at": 1788144437326
+      "at": 1788244117135
     },
     "genre-row:acao": {
       "data": {
@@ -25204,7 +25204,7 @@
         "hasMore": false,
         "genreId": "comedia"
       },
-      "at": 1788144436468
+      "at": 1788244115272
     },
     "lancamentos|1||120": {
       "data": {
@@ -27583,6 +27583,17 @@
       "data": {
         "items": [
           {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/1OpoAVPhD2VbUVvaXObASVMgp4C-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
             "title": "Episódio 6",
             "epTitle": "Episódio 6",
             "slug": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season-dublado",
@@ -27625,24 +27636,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/08/sUKfV1vJeWhcLejj5tFCyfdg9Ww-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1788144443993
+      "at": 1788244116221
     },
     "partner:animesdrive|lancamentos|1||24": {
       "data": {
@@ -95395,5 +95395,5 @@
       "at": 1788085469377
     }
   },
-  "updatedAt": 1788244112531
+  "updatedAt": 1788244117135
 }
