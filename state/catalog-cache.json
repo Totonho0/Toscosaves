@@ -24222,12 +24222,12 @@
       "data": {
         "items": [
           {
-            "title": "Liar Game",
-            "epTitle": "Episódio 22",
-            "slug": "1065792",
-            "episode": 22,
-            "url": "https://www.anitube.zip/video/1065792/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Liar-GameEp.jpg",
+            "title": "Let’s Go Kaiki-gumi",
+            "epTitle": "Episódio 9",
+            "slug": "1065754",
+            "episode": 9,
+            "url": "https://www.anitube.zip/video/1065754/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/lets-go-kaiki-gumi-thumbpadra1.jpg",
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true,
@@ -24235,12 +24235,37 @@
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "1065792"
+                "slug": "1065754"
               },
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "assistir-let’s-go-kaiki-gumi"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1065754"
+              }
+            ]
+          },
+          {
+            "title": "Liar Game",
+            "slug": "assistir-liar-game",
+            "url": "https://animesdigital.org/video/a/138632/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Liar-GameEp.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
                 "slug": "assistir-liar-game"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "1065792"
               },
               {
                 "server": 4,
@@ -24473,6 +24498,56 @@
                 "server": 6,
                 "provider": "anitube",
                 "slug": "1065737"
+              }
+            ]
+          },
+          {
+            "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
+            "slug": "assistir-otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2",
+            "url": "https://animesdigital.org/video/a/138733/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Otome-Game-Sekai-wa-Mob-ni-Kibishii-Sekai-desu-2.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "assistir-otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2"
+              },
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "assistir-otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1065818"
+              }
+            ]
+          },
+          {
+            "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
+            "slug": "assistir-re:zero-kara-hajimeru-isekai-seikatsu-4",
+            "url": "https://animesdigital.org/video/a/138730/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Re-Zero-kara-Hajimeru-Isekai-Seikatsu-4Ep.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "assistir-re:zero-kara-hajimeru-isekai-seikatsu-4"
+              },
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "assistir-re:zero-kara-hajimeru-isekai-seikatsu-4"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1065812"
               }
             ]
           },
@@ -24862,6 +24937,31 @@
             ]
           },
           {
+            "title": "Youjo Senki 2",
+            "slug": "assistir-youjo-senki-2",
+            "url": "https://animesdigital.org/video/a/138729/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/07/Youjo-Senki-2eP.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "assistir-youjo-senki-2"
+              },
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "assistir-youjo-senki-2"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1065810"
+              }
+            ]
+          },
+          {
             "title": "Episódio 10",
             "epTitle": "Episódio 10",
             "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu",
@@ -24875,7 +24975,17 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "aishiteru-game-wo-owarasetai"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
                 "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu"
+              },
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "world-is-dancing"
               },
               {
                 "server": 2,
@@ -24883,9 +24993,49 @@
                 "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tenmaku-no-jaadugar"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "neko-to-ryuu"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "world-is-dancing"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tenmaku-no-jaadugar"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "neko-to-ryuu"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "world-is-dancing"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu"
               }
             ]
           },
@@ -25300,6 +25450,52 @@
             "isRelease": true
           },
           {
+            "title": "Heroine? Seijo? Iie All Works Maid desu",
+            "epTitle": "Episódio 11",
+            "slug": "1065814",
+            "episode": 11,
+            "url": "https://www.anitube.zip/video/1065814/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Heroine-Seijo-Iie-All-Works-Maid-desuEp.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "assistir-heroine?-seijo?-iie-all-works-maid-desu"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1065814"
+              }
+            ]
+          },
+          {
+            "title": "Clevatess 2",
+            "epTitle": "Episódio 9",
+            "slug": "1065808",
+            "episode": 9,
+            "url": "https://www.anitube.zip/video/1065808/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/Clevatess-2Ep.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 4,
+                "provider": "animesdigital",
+                "slug": "assistir-clevatess-2"
+              },
+              {
+                "server": 6,
+                "provider": "anitube",
+                "slug": "1065808"
+              }
+            ]
+          },
+          {
             "title": "Kimi ga Shinu made Koi wo Shitai",
             "epTitle": "Episódio 9",
             "slug": "1065797",
@@ -25463,73 +25659,12 @@
                 "slug": "1065778"
               }
             ]
-          },
-          {
-            "title": "Azur Lane: Bisoku Zenshin! Ni!!",
-            "epTitle": "Episódio 9",
-            "slug": "1065772",
-            "episode": 9,
-            "url": "https://www.anitube.zip/video/1065772/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/azur-lane-bisoku-zenshin-ni-thumbpadra1.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "assistir-azur-lane:-bisoku-zenshin!-ni!!"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "1065772"
-              },
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-azur-lane:-bisoku-zenshin!-ni!!"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1065772"
-              }
-            ]
-          },
-          {
-            "title": "Kuroneko to Majo no Kyoushitsu",
-            "epTitle": "Episódio 21",
-            "slug": "1065766",
-            "episode": 21,
-            "url": "https://www.anitube.zip/video/1065766/",
-            "poster": "https://www.anitube.zip/wp-content/uploads/Kuroneko-to-Majo-no-Kyoushitsu.jpg",
-            "kind": "anime",
-            "provider": "anitube",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "1065766"
-              },
-              {
-                "server": 4,
-                "provider": "animesdigital",
-                "slug": "assistir-kuroneko-to-majo-no-kyoushitsu"
-              },
-              {
-                "server": 6,
-                "provider": "anitube",
-                "slug": "1065766"
-              }
-            ]
           }
         ],
         "category": "lancamentos",
         "page": 2,
         "hasMore": true,
-        "total": 76,
+        "total": 77,
         "cachedAt": 1788309152088,
         "aocCircuitOpen": false,
         "aocDegraded": false,
@@ -25577,7 +25712,7 @@
           "fixHint": null
         }
       },
-      "at": 1788337847373
+      "at": 1788366706805
     },
     "lancamentos|1||24": {
       "data": {
@@ -92308,7 +92443,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1788337847787
+      "at": 1788366707832
     },
     "partner:animesdrive|legendado|1||48": {
       "data": {
@@ -97555,5 +97690,5 @@
       "at": 1788300696996
     }
   },
-  "updatedAt": 1788366698971
+  "updatedAt": 1788366707832
 }
