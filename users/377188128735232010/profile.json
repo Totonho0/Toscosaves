@@ -17,6 +17,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUudG8vd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDQvYXJhaXlhLXNhbi1vcmUtdG8tYWl0c3UtZ2Etb25uYXl1LWRlLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtZ295YWJ1LmpwZw",
       "kind": "anime"
     },
+    "2711": {
+      "slug": "2711",
+      "title": "Black Clover",
+      "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUudG8vd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDQvQmxhY2stQ2xvdmVyLVRvZG9zLW9zLUVwaXNvZGlvcy1PbmxpbmUtZ295YWJ1LnRvXy5qcGc",
+      "kind": "anime",
+      "adult": false
+    },
     "2743": {
       "slug": "2743",
       "title": "100-man no Inochi no Ue ni Ore wa Tatte Iru 2 Dublado",
@@ -1369,6 +1376,9 @@
     "1597": [
       1
     ],
+    "2711": [
+      1
+    ],
     "2743": [
       1
     ],
@@ -2131,6 +2141,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "2711",
+      "ep": 1,
+      "at": 1788476529862
+    },
     {
       "slug": "5179",
       "ep": 1,
@@ -3863,5 +3878,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788476514124
+  "updatedAt": 1788476530339
 }
