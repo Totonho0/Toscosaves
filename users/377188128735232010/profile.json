@@ -25,6 +25,13 @@
       "kind": "anime",
       "adult": false
     },
+    "5217": {
+      "slug": "5217",
+      "title": "Trigun Stargaze Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUuaW8vd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDgvNjk2NTFkMWJkMjk2My1zY2FsZWQud2VicA",
+      "kind": "anime",
+      "adult": false
+    },
     "8029": {
       "slug": "8029",
       "title": "Yosuga no Sora",
@@ -1255,6 +1262,9 @@
     "5205": [
       1
     ],
+    "5217": [
+      2
+    ],
     "8029": [
       1,
       2,
@@ -1954,6 +1964,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "5217",
+      "ep": 2,
+      "at": 1788473261223
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3537,5 +3552,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788473238763
+  "updatedAt": 1788473264436
 }
