@@ -65,6 +65,13 @@
       "kind": "anime",
       "adult": false
     },
+    "5204": {
+      "slug": "5204",
+      "title": "Draw This and Die",
+      "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUuaW8vd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDcvNmE0ODAzZTQ4NGY4Yi1zY2FsZWQud2VicA",
+      "kind": "anime",
+      "adult": false
+    },
     "5205": {
       "slug": "5205",
       "title": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
@@ -1347,6 +1354,9 @@
     "5197": [
       1
     ],
+    "5204": [
+      1
+    ],
     "5205": [
       1
     ],
@@ -2065,6 +2075,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "5204",
+      "ep": 1,
+      "at": 1788475766453
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3741,5 +3756,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788475760532
+  "updatedAt": 1788475769225
 }
