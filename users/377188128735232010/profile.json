@@ -32,6 +32,12 @@
       "kind": "anime",
       "adult": false
     },
+    "5120": {
+      "slug": "5120",
+      "title": "Re:ZERO 4 Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUuaW8vd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDQvNjlkNjkxODc1MTk3Mi53ZWJw",
+      "kind": "anime"
+    },
     "5197": {
       "slug": "5197",
       "title": "Dara-san of the Reiwa Era",
@@ -50,8 +56,7 @@
       "slug": "5217",
       "title": "Trigun Stargaze Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUuaW8vd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDgvNjk2NTFkMWJkMjk2My1zY2FsZWQud2VicA",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "8029": {
       "slug": "8029",
@@ -1148,6 +1153,9 @@
     }
   },
   "watched": {
+    "5120": [
+      7
+    ],
     "5197": [
       1
     ],
@@ -2006,6 +2014,161 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "maou-sama-retry",
+      "ep": 1,
+      "at": 1788474044123
+    },
+    {
+      "slug": "tongari-boushi-no-atelier-dublado",
+      "ep": 3,
+      "at": 1788474044123
+    },
+    {
+      "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
+      "ep": 1,
+      "at": 1788474044123
+    },
+    {
+      "slug": "darwin-jihen-dublado",
+      "ep": 1,
+      "at": 1788474044123
+    },
+    {
+      "slug": "chainsmoker-cat",
+      "ep": 1,
+      "at": 1788474044123
+    },
+    {
+      "slug": "sword-art-online-2-dublado",
+      "ep": 1,
+      "at": 1788474044123
+    },
+    {
+      "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado",
+      "ep": 6,
+      "at": 1788474044122
+    },
+    {
+      "slug": "0-saiji-start-dash-monogatari",
+      "ep": 1,
+      "at": 1788474044122
+    },
+    {
+      "slug": "azumanga-daioh",
+      "ep": 1,
+      "at": 1788474044122
+    },
+    {
+      "slug": "black-clover",
+      "ep": 1,
+      "at": 1788474044122
+    },
+    {
+      "slug": "dead-account",
+      "ep": 1,
+      "at": 1788474044122
+    },
+    {
+      "slug": "busu-ni-hanataba-wo",
+      "ep": 1,
+      "at": 1788474044122
+    },
+    {
+      "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
+      "ep": 10,
+      "at": 1788474044122
+    },
+    {
+      "slug": "black-clover-dublado",
+      "ep": 119,
+      "at": 1788474044122
+    },
+    {
+      "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season",
+      "ep": 3,
+      "at": 1788474044122
+    },
+    {
+      "slug": "badgirl",
+      "ep": 1,
+      "at": 1788474044122
+    },
+    {
+      "slug": "miraculous-t5",
+      "ep": 1,
+      "at": 1788474044122
+    },
+    {
+      "slug": "ao-ashi-dublado",
+      "ep": 1,
+      "at": 1788474044122
+    },
+    {
+      "slug": "chainsaw-man-movie-reze-hen",
+      "ep": 2,
+      "at": 1788474044122
+    },
+    {
+      "slug": "kaguya-sama-wa-kokurasetai-otona-e-no-kaidan",
+      "ep": 1,
+      "at": 1788474044122
+    },
+    {
+      "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu",
+      "ep": 3,
+      "at": 1788474044122
+    },
+    {
+      "slug": "1062417",
+      "ep": 1,
+      "at": 1788474044122
+    },
+    {
+      "slug": "1062098",
+      "ep": 2,
+      "at": 1788474044122
+    },
+    {
+      "slug": "1062030",
+      "ep": 2,
+      "at": 1788474044122
+    },
+    {
+      "slug": "1030445",
+      "ep": 1,
+      "at": 1788474044122
+    },
+    {
+      "slug": "946662",
+      "ep": 95,
+      "at": 1788474044122
+    },
+    {
+      "slug": "83951",
+      "ep": 1,
+      "at": 1788474044122
+    },
+    {
+      "slug": "67043",
+      "ep": 1,
+      "at": 1788474044122
+    },
+    {
+      "slug": "8029",
+      "ep": 1,
+      "at": 1788474044122
+    },
+    {
+      "slug": "5217",
+      "ep": 2,
+      "at": 1788474044122
+    },
+    {
+      "slug": "5120",
+      "ep": 7,
+      "at": 1788474044122
+    },
+    {
       "slug": "5120",
       "ep": 1,
       "at": 1788473948469
@@ -2019,161 +2182,6 @@
       "slug": "2743",
       "ep": 1,
       "at": 1788473797120
-    },
-    {
-      "slug": "maou-sama-retry",
-      "ep": 1,
-      "at": 1788473772469
-    },
-    {
-      "slug": "tongari-boushi-no-atelier-dublado",
-      "ep": 3,
-      "at": 1788473772469
-    },
-    {
-      "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
-      "ep": 1,
-      "at": 1788473772469
-    },
-    {
-      "slug": "darwin-jihen-dublado",
-      "ep": 1,
-      "at": 1788473772469
-    },
-    {
-      "slug": "chainsmoker-cat",
-      "ep": 1,
-      "at": 1788473772469
-    },
-    {
-      "slug": "sword-art-online-2-dublado",
-      "ep": 1,
-      "at": 1788473772469
-    },
-    {
-      "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado",
-      "ep": 6,
-      "at": 1788473772469
-    },
-    {
-      "slug": "0-saiji-start-dash-monogatari",
-      "ep": 1,
-      "at": 1788473772469
-    },
-    {
-      "slug": "azumanga-daioh",
-      "ep": 1,
-      "at": 1788473772469
-    },
-    {
-      "slug": "black-clover",
-      "ep": 1,
-      "at": 1788473772469
-    },
-    {
-      "slug": "dead-account",
-      "ep": 1,
-      "at": 1788473772469
-    },
-    {
-      "slug": "busu-ni-hanataba-wo",
-      "ep": 1,
-      "at": 1788473772468
-    },
-    {
-      "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
-      "ep": 10,
-      "at": 1788473772468
-    },
-    {
-      "slug": "black-clover-dublado",
-      "ep": 119,
-      "at": 1788473772468
-    },
-    {
-      "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season",
-      "ep": 3,
-      "at": 1788473772468
-    },
-    {
-      "slug": "badgirl",
-      "ep": 1,
-      "at": 1788473772468
-    },
-    {
-      "slug": "miraculous-t5",
-      "ep": 1,
-      "at": 1788473772468
-    },
-    {
-      "slug": "ao-ashi-dublado",
-      "ep": 1,
-      "at": 1788473772468
-    },
-    {
-      "slug": "chainsaw-man-movie-reze-hen",
-      "ep": 2,
-      "at": 1788473772468
-    },
-    {
-      "slug": "kaguya-sama-wa-kokurasetai-otona-e-no-kaidan",
-      "ep": 1,
-      "at": 1788473772468
-    },
-    {
-      "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu",
-      "ep": 3,
-      "at": 1788473772468
-    },
-    {
-      "slug": "1062417",
-      "ep": 1,
-      "at": 1788473772468
-    },
-    {
-      "slug": "1062098",
-      "ep": 2,
-      "at": 1788473772468
-    },
-    {
-      "slug": "1062030",
-      "ep": 2,
-      "at": 1788473772468
-    },
-    {
-      "slug": "1030445",
-      "ep": 1,
-      "at": 1788473772468
-    },
-    {
-      "slug": "946662",
-      "ep": 95,
-      "at": 1788473772468
-    },
-    {
-      "slug": "83951",
-      "ep": 1,
-      "at": 1788473772468
-    },
-    {
-      "slug": "67043",
-      "ep": 1,
-      "at": 1788473772468
-    },
-    {
-      "slug": "8029",
-      "ep": 1,
-      "at": 1788473772468
-    },
-    {
-      "slug": "5217",
-      "ep": 2,
-      "at": 1788473772468
-    },
-    {
-      "slug": "5120",
-      "ep": 7,
-      "at": 1788473326519
     },
     {
       "slug": "5115",
@@ -3645,5 +3653,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788474039883
+  "updatedAt": 1788474043693
 }
