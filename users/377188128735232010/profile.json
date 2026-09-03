@@ -18,6 +18,13 @@
       "kind": "anime",
       "adult": false
     },
+    "5205": {
+      "slug": "5205",
+      "title": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
+      "poster": "https://goyabu.io/wp-content/uploads/2026/07/6a513862870fb-scaled.webp",
+      "kind": "anime",
+      "adult": false
+    },
     "8029": {
       "slug": "8029",
       "title": "Yosuga no Sora",
@@ -1245,6 +1252,9 @@
     "3482": [
       1
     ],
+    "5205": [
+      1
+    ],
     "8029": [
       1,
       2,
@@ -1944,6 +1954,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "5205",
+      "ep": 1,
+      "at": 1788471895262
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3522,5 +3537,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788471884634
+  "updatedAt": 1788471898521
 }
