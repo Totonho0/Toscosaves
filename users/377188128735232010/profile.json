@@ -32,6 +32,13 @@
       "kind": "anime",
       "adult": false
     },
+    "5197": {
+      "slug": "5197",
+      "title": "Dara-san of the Reiwa Era",
+      "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUuaW8vd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDcvNmE0N2UxYTAyMzk4Mi53ZWJw",
+      "kind": "anime",
+      "adult": false
+    },
     "5205": {
       "slug": "5205",
       "title": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
@@ -1286,6 +1293,9 @@
     "5120": [
       7
     ],
+    "5197": [
+      1
+    ],
     "5205": [
       1
     ],
@@ -1991,6 +2001,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "5197",
+      "ep": 1,
+      "at": 1788473851792
+    },
     {
       "slug": "2743",
       "ep": 1,
@@ -3610,5 +3625,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788473839301
+  "updatedAt": 1788473854615
 }
