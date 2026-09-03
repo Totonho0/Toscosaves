@@ -1096,6 +1096,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC93MUhiZVByb0lhaGswN0tzajVZMk9WbzVaeHguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "shikkakumon-no-saikyou-kenja": {
+      "slug": "shikkakumon-no-saikyou-kenja",
+      "title": "Shikkakumon no Saikyou Kenja - Animes",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMi8wMS9hc3Npc3Rpci1zaGlra2FrdW1vbi1uby1zYWlreW91LWtlbmphLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pbWVzLW9ubGluZS5qcGc",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1921,9 +1928,17 @@
     "akujiki-reijou-to-kyouketsu-koushaku-dublado": [
       1,
       2
+    ],
+    "shikkakumon-no-saikyou-kenja": [
+      15
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "shikkakumon-no-saikyou-kenja",
+      "ep": 15,
+      "at": 1788444467129
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3492,5 +3507,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788444336026
+  "updatedAt": 1788444468265
 }
