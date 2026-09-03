@@ -58,6 +58,13 @@
       "kind": "anime",
       "adult": false
     },
+    "5179": {
+      "slug": "5179",
+      "title": "Tenmaku no Jaadugar",
+      "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUuaW8vd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDcvNmE0OTY1MTc3MmExOS1zY2FsZWQud2VicA",
+      "kind": "anime",
+      "adult": false
+    },
     "5192": {
       "slug": "5192",
       "title": "Katainaka no Ossan Kensei ni Naru 2",
@@ -1382,6 +1389,9 @@
     "5172": [
       1
     ],
+    "5179": [
+      1
+    ],
     "5192": [
       1
     ],
@@ -2121,6 +2131,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "5179",
+      "ep": 1,
+      "at": 1788476511984
+    },
     {
       "slug": "5194",
       "ep": 1,
@@ -3848,5 +3863,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788476497253
+  "updatedAt": 1788476514124
 }
