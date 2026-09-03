@@ -58,6 +58,13 @@
       "kind": "anime",
       "adult": false
     },
+    "5192": {
+      "slug": "5192",
+      "title": "Katainaka no Ossan Kensei ni Naru 2",
+      "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUuaW8vd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDcvNmE0ZTdlODdiZDY2OS1zY2FsZWQud2VicA",
+      "kind": "anime",
+      "adult": false
+    },
     "5197": {
       "slug": "5197",
       "title": "Dara-san of the Reiwa Era",
@@ -1351,6 +1358,9 @@
     "5172": [
       1
     ],
+    "5192": [
+      1
+    ],
     "5197": [
       1
     ],
@@ -2077,6 +2087,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "5192",
+      "ep": 1,
+      "at": 1788476325857
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3768,5 +3783,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788476309180
+  "updatedAt": 1788476349447
 }
