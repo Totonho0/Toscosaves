@@ -65,6 +65,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUuaW8vd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDgvNjk2NTFkMWJkMjk2My1zY2FsZWQud2VicA",
       "kind": "anime"
     },
+    "5218": {
+      "slug": "5218",
+      "title": "Skeleton Knight in Another World 2",
+      "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUuaW8vd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDcvNmE0OTRjMzQ3NTlmYy53ZWJw",
+      "kind": "anime",
+      "adult": false
+    },
     "8029": {
       "slug": "8029",
       "title": "Yosuga no Sora",
@@ -1324,6 +1331,9 @@
     "5217": [
       2
     ],
+    "5218": [
+      3
+    ],
     "8029": [
       1,
       2,
@@ -2023,6 +2033,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "5218",
+      "ep": 3,
+      "at": 1788474418825
+    },
     {
       "slug": "1597",
       "ep": 1,
@@ -3668,5 +3683,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788474331498
+  "updatedAt": 1788474429594
 }
