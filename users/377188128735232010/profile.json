@@ -11,6 +11,13 @@
   "watchLater": [],
   "mangaFavorites": [],
   "library": {
+    "2743": {
+      "slug": "2743",
+      "title": "100-man no Inochi no Ue ni Ore wa Tatte Iru 2 Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUudG8vd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDcvMTAwLW1hbi1uby1Jbm9jaGktbm8tVWUtbmktT3JlLXdhLVRhdHRlLUlydS0yLUR1YmxhZG8uanBn",
+      "kind": "anime",
+      "adult": false
+    },
     "3482": {
       "slug": "3482",
       "title": "#Compass 2.0: Sentou Setsuri Kaiseki System",
@@ -1265,6 +1272,9 @@
     ]
   },
   "started": {
+    "2743": [
+      1
+    ],
     "3482": [
       1
     ],
@@ -1980,6 +1990,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "2743",
+      "ep": 1,
+      "at": 1788473797120
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3594,5 +3609,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788473772195
+  "updatedAt": 1788473802513
 }
