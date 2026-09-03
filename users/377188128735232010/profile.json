@@ -24,6 +24,13 @@
       "kind": "anime",
       "adult": false
     },
+    "2713": {
+      "slug": "2713",
+      "title": "Mushoku Tensei 2: Isekai Ittara Honki Dasu",
+      "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUudG8vd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDYvYXNzaXN0aXItbXVzaG9rdS10ZW5zZWktaWktaXNla2FpLWl0dGFyYS1ob25raS1kYXN1LXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtZ295YWJ1LmpwZw",
+      "kind": "anime",
+      "adult": false
+    },
     "2743": {
       "slug": "2743",
       "title": "100-man no Inochi no Ue ni Ore wa Tatte Iru 2 Dublado",
@@ -1386,6 +1393,9 @@
       1,
       161
     ],
+    "2713": [
+      1
+    ],
     "2743": [
       1
     ],
@@ -2151,6 +2161,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "2713",
+      "ep": 1,
+      "at": 1788476628274
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3898,5 +3913,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788476583793
+  "updatedAt": 1788476629379
 }
