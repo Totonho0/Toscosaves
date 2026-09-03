@@ -11,6 +11,13 @@
   "watchLater": [],
   "mangaFavorites": [],
   "library": {
+    "3482": {
+      "slug": "3482",
+      "title": "#Compass 2.0: Sentou Setsuri Kaiseki System",
+      "poster": "/api/poster/r/aHR0cHM6Ly9jZG4ubXlhbmltZWxpc3QubmV0L2ltYWdlcy9hbmltZS80LzE5NjQ0bC5qcGc",
+      "kind": "anime",
+      "adult": false
+    },
     "8029": {
       "slug": "8029",
       "title": "Yosuga no Sora",
@@ -1235,6 +1242,9 @@
     ]
   },
   "started": {
+    "3482": [
+      1
+    ],
     "8029": [
       1,
       2,
@@ -1934,6 +1944,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "3482",
+      "ep": 1,
+      "at": 1788471291709
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3507,5 +3522,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788471276388
+  "updatedAt": 1788471291924
 }
