@@ -140,6 +140,13 @@
       "kind": "anime",
       "adult": false
     },
+    "5216": {
+      "slug": "5216",
+      "title": "Agents of the Four Seasons: Dance of Spring Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUuaW8vd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDgvNjljOTdjZDJjNmJjNC53ZWJw",
+      "kind": "anime",
+      "adult": false
+    },
     "5217": {
       "slug": "5217",
       "title": "Trigun Stargaze Dublado",
@@ -1462,6 +1469,9 @@
       2,
       3
     ],
+    "5216": [
+      1
+    ],
     "5217": [
       2
     ],
@@ -2180,6 +2190,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "5216",
+      "ep": 1,
+      "at": 1788477135912
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3942,5 +3957,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788477133226
+  "updatedAt": 1788477135635
 }
