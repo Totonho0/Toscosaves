@@ -38,6 +38,13 @@
       "kind": "anime",
       "adult": false
     },
+    "3232": {
+      "slug": "3232",
+      "title": "Mushoku Tensei 2: Isekai Ittara Honki Dasu Part 2 Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUudG8vd3AtY29udGVudC91cGxvYWRzLzIwMjQvMDYvTXVzaG9rdS1UZW5zZWktMi1Jc2VrYWktSXR0YXJhLUhvbmtpLURhc3UtUGFydC0yLUR1YmxhZG8tVG9kb3Mtb3MtRXBzaW9kaW9zLU9ubGluZS1Hb3lhYnUuanBn",
+      "kind": "anime",
+      "adult": false
+    },
     "3482": {
       "slug": "3482",
       "title": "#Compass 2.0: Sentou Setsuri Kaiseki System",
@@ -1402,6 +1409,9 @@
     "2851": [
       1
     ],
+    "3232": [
+      1
+    ],
     "3482": [
       1
     ],
@@ -2164,6 +2174,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "3232",
+      "ep": 1,
+      "at": 1788476667498
+    },
     {
       "slug": "2851",
       "ep": 1,
@@ -3921,5 +3936,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788476647271
+  "updatedAt": 1788476669931
 }
