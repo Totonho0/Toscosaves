@@ -72,6 +72,13 @@
       "kind": "anime",
       "adult": false
     },
+    "5200": {
+      "slug": "5200",
+      "title": "Yani neko",
+      "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUuaW8vd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDcvNmE0NmFhOGRiYWJlNy53ZWJw",
+      "kind": "anime",
+      "adult": false
+    },
     "5204": {
       "slug": "5204",
       "title": "Draw This and Die",
@@ -1371,6 +1378,9 @@
     "5197": [
       1
     ],
+    "5200": [
+      1
+    ],
     "5204": [
       1
     ],
@@ -2097,6 +2107,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "5200",
+      "ep": 1,
+      "at": 1788476354382
+    },
     {
       "slug": "5223",
       "ep": 1,
@@ -3798,5 +3813,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788476355072
+  "updatedAt": 1788476357143
 }
