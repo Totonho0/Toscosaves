@@ -78143,7 +78143,19 @@
             "url": "https://animeplay.cloud/anime/overlord",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/05/6l6yukaVkE3r2fH4PcFEApKlpYi-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animeplay",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "overlord"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "overlord"
+              }
+            ]
           },
           {
             "title": "Danganronpa 3: The End of Kibougamine Gakuen – Mirai-hen – (Legendado)",
@@ -78293,12 +78305,12 @@
         "category": "todos",
         "page": 39,
         "hasMore": true,
-        "total": 1424,
+        "total": 1303,
         "cachedAt": 1788309117147,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
-        "aocReachable": false,
+        "aocReachable": true,
         "aocCircuit": {
           "open": false,
           "openUntil": 0,
@@ -78313,9 +78325,9 @@
           "timeoutStreak": 0
         },
         "aocReachability": {
-          "reachable": false,
-          "lastProbeAt": 1788424172386,
-          "lastProbeOk": false,
+          "reachable": true,
+          "lastProbeAt": 1788427954012,
+          "lastProbeOk": true,
           "cookieOnly": true
         },
         "cookieConfigured": true,
@@ -78341,7 +78353,7 @@
           "fixHint": null
         }
       },
-      "at": 1788424234471
+      "at": 1788453095870
     },
     "partner:anitube|todos|40||48": {
       "data": {
@@ -78496,7 +78508,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1788424234882
+      "at": 1788453096697
     },
     "todos|40||48": {
       "data": {
@@ -79929,12 +79941,12 @@
         "category": "todos",
         "page": 40,
         "hasMore": true,
-        "total": 1424,
+        "total": 1303,
         "cachedAt": 1788309119395,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
-        "aocReachable": false,
+        "aocReachable": true,
         "aocCircuit": {
           "open": false,
           "openUntil": 0,
@@ -79949,9 +79961,9 @@
           "timeoutStreak": 0
         },
         "aocReachability": {
-          "reachable": false,
-          "lastProbeAt": 1788424172386,
-          "lastProbeOk": false,
+          "reachable": true,
+          "lastProbeAt": 1788427954012,
+          "lastProbeOk": true,
           "cookieOnly": true
         },
         "cookieConfigured": true,
@@ -79977,7 +79989,7 @@
           "fixHint": null
         }
       },
-      "at": 1788424235079
+      "at": 1788453097724
     },
     "partner:anitube|todos|41||48": {
       "data": {
@@ -80132,7 +80144,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1788424235519
+      "at": 1788453098141
     },
     "todos|41||48": {
       "data": {
@@ -102751,5 +102763,5 @@
       "at": 1788444264980
     }
   },
-  "updatedAt": 1788453083457
+  "updatedAt": 1788453098141
 }
