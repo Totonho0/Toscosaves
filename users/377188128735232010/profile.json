@@ -99,6 +99,13 @@
       "kind": "anime",
       "adult": false
     },
+    "5223": {
+      "slug": "5223",
+      "title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama",
+      "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUuaW8vd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDcvNmE0OTk2Y2IwMTUzNS53ZWJw",
+      "kind": "anime",
+      "adult": false
+    },
     "8029": {
       "slug": "8029",
       "title": "Yosuga no Sora",
@@ -1379,6 +1386,9 @@
       1,
       3
     ],
+    "5223": [
+      1
+    ],
     "8029": [
       1,
       2,
@@ -2087,6 +2097,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "5223",
+      "ep": 1,
+      "at": 1788476344422
+    },
     {
       "slug": "5192",
       "ep": 1,
@@ -3783,5 +3798,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788476349447
+  "updatedAt": 1788476355072
 }
