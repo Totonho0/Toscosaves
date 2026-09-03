@@ -26,8 +26,7 @@
       "slug": "1597",
       "title": "Araiya-san!: Ore To Aitsu Ga Onnayu De!?",
       "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUudG8vd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDQvYXJhaXlhLXNhbi1vcmUtdG8tYWl0c3UtZ2Etb25uYXl1LWRlLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtZ295YWJ1LmpwZw",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "1034362": {
       "slug": "1034362",
@@ -77,6 +76,9 @@
     }
   },
   "watched": {
+    "1597": [
+      1
+    ],
     "1034362": [
       3,
       4
@@ -120,24 +122,24 @@
   },
   "watchHistoryLog": [
     {
-      "slug": "1597",
-      "ep": 1,
-      "at": 1788475253460
-    },
-    {
       "slug": "rezero-kara-hajimeru-isekai-seikatsu-4-dublado",
       "ep": 1,
-      "at": 1788475251599
+      "at": 1788475773796
     },
     {
       "slug": "super-no-ura-de-yani-suu-futari-dublado",
       "ep": 1,
-      "at": 1788475251599
+      "at": 1788475773796
     },
     {
       "slug": "1034362",
       "ep": 4,
-      "at": 1788475251599
+      "at": 1788475773796
+    },
+    {
+      "slug": "1597",
+      "ep": 1,
+      "at": 1788475773796
     },
     {
       "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-dublado",
@@ -229,5 +231,5 @@
   },
   "filmePlayback": {},
   "customLists": {},
-  "updatedAt": 1788475312330
+  "updatedAt": 1788475776234
 }
