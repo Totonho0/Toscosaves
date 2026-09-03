@@ -20755,7 +20755,7 @@
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
-        "aocReachable": true,
+        "aocReachable": false,
         "aocCircuit": {
           "open": false,
           "openUntil": 0,
@@ -20770,9 +20770,9 @@
           "timeoutStreak": 0
         },
         "aocReachability": {
-          "reachable": true,
-          "lastProbeAt": 1788049802062,
-          "lastProbeOk": true,
+          "reachable": false,
+          "lastProbeAt": 1788395368183,
+          "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
@@ -20798,7 +20798,7 @@
           "fixHint": null
         }
       },
-      "at": 1788366731429
+      "at": 1788395446028
     },
     "dublado|2||120": {
       "data": {
@@ -21231,7 +21231,7 @@
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
-        "aocReachable": true,
+        "aocReachable": false,
         "aocCircuit": {
           "open": false,
           "openUntil": 0,
@@ -21246,9 +21246,9 @@
           "timeoutStreak": 0
         },
         "aocReachability": {
-          "reachable": true,
-          "lastProbeAt": 1788049802062,
-          "lastProbeOk": true,
+          "reachable": false,
+          "lastProbeAt": 1788395368183,
+          "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
@@ -21274,7 +21274,7 @@
           "fixHint": null
         }
       },
-      "at": 1788366733302
+      "at": 1788395447407
     },
     "dublado|3||120": {
       "data": {
@@ -21787,7 +21787,7 @@
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
-        "aocReachable": true,
+        "aocReachable": false,
         "aocCircuit": {
           "open": false,
           "openUntil": 0,
@@ -21802,9 +21802,9 @@
           "timeoutStreak": 0
         },
         "aocReachability": {
-          "reachable": true,
-          "lastProbeAt": 1788049802062,
-          "lastProbeOk": true,
+          "reachable": false,
+          "lastProbeAt": 1788395368183,
+          "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
@@ -21830,7 +21830,7 @@
           "fixHint": null
         }
       },
-      "at": 1788366735329
+      "at": 1788395448179
     },
     "partner:animesdigital|lancamentos|1||24": {
       "data": {
@@ -93934,7 +93934,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1788366730826
+      "at": 1788395445434
     },
     "partner:anitube|dublado|2||48": {
       "data": {
@@ -94089,7 +94089,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1788366731852
+      "at": 1788395446414
     },
     "dublado|2||48": {
       "data": {
@@ -94495,7 +94495,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1788366732552
+      "at": 1788395447049
     },
     "partner:animeplay|dublado|2||48": {
       "data": {
@@ -94660,7 +94660,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1788366733717
+      "at": 1788395447796
     },
     "dublado|3||48": {
       "data": {
@@ -95084,7 +95084,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1788366734423
+      "at": 1788395448005
     },
     "todos|3||24": {
       "data": {
@@ -98238,5 +98238,5 @@
       "at": 1788300696996
     }
   },
-  "updatedAt": 1788395442768
+  "updatedAt": 1788395448179
 }
