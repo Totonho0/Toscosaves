@@ -44,6 +44,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUuaW8vd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDQvNjlkNjkxODc1MTk3Mi53ZWJw",
       "kind": "anime"
     },
+    "5172": {
+      "slug": "5172",
+      "title": "Let’s Go Kaiki-gumi",
+      "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUuaW8vd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDcvNmE0YmVkOTVjMDUzMy53ZWJw",
+      "kind": "anime",
+      "adult": false
+    },
     "5197": {
       "slug": "5197",
       "title": "Dara-san of the Reiwa Era",
@@ -1324,6 +1331,9 @@
       1,
       7
     ],
+    "5172": [
+      1
+    ],
     "5197": [
       1
     ],
@@ -2045,6 +2055,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "5172",
+      "ep": 1,
+      "at": 1788475633909
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3711,5 +3726,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788475616317
+  "updatedAt": 1788475636812
 }
