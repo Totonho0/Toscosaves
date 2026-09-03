@@ -11,6 +11,13 @@
   "watchLater": [],
   "mangaFavorites": [],
   "library": {
+    "1597": {
+      "slug": "1597",
+      "title": "Araiya-san!: Ore To Aitsu Ga Onnayu De!?",
+      "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUudG8vd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDQvYXJhaXlhLXNhbi1vcmUtdG8tYWl0c3UtZ2Etb25uYXl1LWRlLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtZ295YWJ1LmpwZw",
+      "kind": "anime",
+      "adult": true
+    },
     "2743": {
       "slug": "2743",
       "title": "100-man no Inochi no Ue ni Ore wa Tatte Iru 2 Dublado",
@@ -1291,6 +1298,9 @@
     ]
   },
   "started": {
+    "1597": [
+      1
+    ],
     "2743": [
       1
     ],
@@ -2013,6 +2023,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "1597",
+      "ep": 1,
+      "at": 1788474327659
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3653,5 +3668,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788474319570
+  "updatedAt": 1788474331498
 }
