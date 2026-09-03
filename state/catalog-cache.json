@@ -20399,7 +20399,7 @@
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
-        "aocReachable": false,
+        "aocReachable": true,
         "aocCircuit": {
           "open": false,
           "openUntil": 0,
@@ -20411,12 +20411,12 @@
         "aocDegradedStatus": {
           "slowMode": false,
           "slowUntil": 0,
-          "timeoutStreak": 0
+          "timeoutStreak": 1
         },
         "aocReachability": {
-          "reachable": false,
-          "lastProbeAt": 1788424172386,
-          "lastProbeOk": false,
+          "reachable": true,
+          "lastProbeAt": 1788427954012,
+          "lastProbeOk": true,
           "cookieOnly": true
         },
         "cookieConfigured": true,
@@ -20442,7 +20442,7 @@
           "fixHint": null
         }
       },
-      "at": 1788424247303
+      "at": 1788453201410
     },
     "dublado|2||120": {
       "data": {
@@ -20875,7 +20875,7 @@
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
-        "aocReachable": false,
+        "aocReachable": true,
         "aocCircuit": {
           "open": false,
           "openUntil": 0,
@@ -20887,12 +20887,12 @@
         "aocDegradedStatus": {
           "slowMode": false,
           "slowUntil": 0,
-          "timeoutStreak": 0
+          "timeoutStreak": 1
         },
         "aocReachability": {
-          "reachable": false,
-          "lastProbeAt": 1788424172386,
-          "lastProbeOk": false,
+          "reachable": true,
+          "lastProbeAt": 1788427954012,
+          "lastProbeOk": true,
           "cookieOnly": true
         },
         "cookieConfigured": true,
@@ -20918,7 +20918,7 @@
           "fixHint": null
         }
       },
-      "at": 1788424248215
+      "at": 1788453203357
     },
     "dublado|3||120": {
       "data": {
@@ -20963,7 +20963,17 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
+                "slug": "dragon-ball-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "dragon-ball"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dragon-ball-dublado"
               },
               {
                 "server": 3,
@@ -21001,7 +21011,17 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
+                "slug": "dragon-ball-gt-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "dragon-ball-gt"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dragon-ball-gt-dublado"
               }
             ]
           },
@@ -21062,7 +21082,17 @@
               {
                 "server": 2,
                 "provider": "animesdrive",
+                "slug": "dragon-ball-z-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "dragon-ball-z"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dragon-ball-z-dublado"
               },
               {
                 "server": 3,
@@ -21431,7 +21461,7 @@
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": true,
-        "aocReachable": false,
+        "aocReachable": true,
         "aocCircuit": {
           "open": false,
           "openUntil": 0,
@@ -21443,12 +21473,12 @@
         "aocDegradedStatus": {
           "slowMode": false,
           "slowUntil": 0,
-          "timeoutStreak": 0
+          "timeoutStreak": 1
         },
         "aocReachability": {
-          "reachable": false,
-          "lastProbeAt": 1788424172386,
-          "lastProbeOk": false,
+          "reachable": true,
+          "lastProbeAt": 1788427954012,
+          "lastProbeOk": true,
           "cookieOnly": true
         },
         "cookieConfigured": true,
@@ -21474,7 +21504,7 @@
           "fixHint": null
         }
       },
-      "at": 1788424248984
+      "at": 1788453204732
     },
     "partner:animesdigital|lancamentos|1||24": {
       "data": {
@@ -97476,7 +97506,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1788424246617
+      "at": 1788453200580
     },
     "partner:anitube|dublado|2||48": {
       "data": {
@@ -97631,7 +97661,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1788424247685
+      "at": 1788453201763
     },
     "dublado|2||48": {
       "data": {
@@ -98037,7 +98067,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1788424247902
+      "at": 1788453202740
     },
     "partner:animeplay|dublado|2||48": {
       "data": {
@@ -98202,7 +98232,7 @@
         "hasMore": true,
         "partnerId": "anitube"
       },
-      "at": 1788424248606
+      "at": 1788453203703
     },
     "dublado|3||48": {
       "data": {
@@ -98626,7 +98656,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1788424248798
+      "at": 1788453204227
     },
     "todos|3||24": {
       "data": {
@@ -102729,5 +102759,5 @@
       "at": 1788444264980
     }
   },
-  "updatedAt": 1788453198488
+  "updatedAt": 1788453204732
 }
