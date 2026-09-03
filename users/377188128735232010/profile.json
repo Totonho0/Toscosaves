@@ -18,6 +18,13 @@
       "kind": "anime",
       "adult": false
     },
+    "5115": {
+      "slug": "5115",
+      "title": "Re:ZERO 4",
+      "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUuaW8vd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDQvNjlkNjkxN2Q2YzdlNy53ZWJw",
+      "kind": "anime",
+      "adult": false
+    },
     "5205": {
       "slug": "5205",
       "title": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
@@ -1259,6 +1266,9 @@
     "3482": [
       1
     ],
+    "5115": [
+      1
+    ],
     "5205": [
       1
     ],
@@ -1964,6 +1974,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "5115",
+      "ep": 1,
+      "at": 1788473312669
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3563,5 +3578,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788473295489
+  "updatedAt": 1788473315538
 }
