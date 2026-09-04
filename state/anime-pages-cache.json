@@ -10053,7 +10053,7 @@
       }
     },
     "5147": {
-      "at": 1788557335003,
+      "at": 1788557577302,
       "data": {
         "slug": "5147",
         "title": "Black Torch Dublado",
@@ -10118,23 +10118,18 @@
           "Ação",
           "Sobrenatural"
         ],
-        "audioVariants": {
-          "current": "dub",
-          "variants": {
-            "default": {
-              "slug": "5208",
-              "title": "Black Torch",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "5147",
-              "title": "Black Torch Dublado",
-              "audio": "dub",
-              "label": "Dublado"
-            }
+        "animeSources": [
+          {
+            "server": 1,
+            "provider": "otakuplay",
+            "slug": "5147"
+          },
+          {
+            "server": 2,
+            "provider": "anitube",
+            "slug": "1061503"
           }
-        }
+        ]
       }
     },
     "5152": {
