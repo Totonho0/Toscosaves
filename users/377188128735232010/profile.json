@@ -1314,6 +1314,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9jZG4zMi5vZmZpY2VmYWN0b3J5LmNjL3Rlc3RtZS9kbGUyL3Bvc3RzLzIwMjQtMDMvZG43dTVLdVVldU5Tbkd4Q1NHbXc3VTJtT2VnLmpwZw",
       "kind": "serie",
       "adult": false
+    },
+    "filmes/assistir-online-os-pinguins-de-madagascar-o-filme": {
+      "slug": "filmes/assistir-online-os-pinguins-de-madagascar-o-filme",
+      "title": "Os Pinguins de Madagascar - O Filme",
+      "poster": "/api/poster/r/aHR0cHM6Ly9jZG4zMi5vZmZpY2VmYWN0b3J5LmNjL3Rlc3RtZS9kbGUyL3Bvc3RzLzIwMjYtMDgvdzlqbm8weVNhbW1JU1JHdmMwUlpSRWpZVXZnLmpwZw",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -2279,9 +2286,17 @@
     ],
     "series/assistir-online-x-men-97": [
       1
+    ],
+    "filmes/assistir-online-os-pinguins-de-madagascar-o-filme": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "filmes/assistir-online-os-pinguins-de-madagascar-o-filme",
+      "ep": 1,
+      "at": 1788564432249
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4120,5 +4135,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788564403682
+  "updatedAt": 1788564432644
 }
