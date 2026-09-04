@@ -72729,7 +72729,33 @@
         "provider": "otakuplay"
       },
       "at": 1788555913395
+    },
+    "partner:anitube|search-hits|1||48": {
+      "data": {
+        "items": [
+          {
+            "title": "07-Ghost (Legendado)",
+            "slug": "77672",
+            "url": "https://www.anitube.zip/video/77672/",
+            "poster": "https://www.anitube.zip/wp-content/uploads/assistir-07-ghost-todos-os-episodios-todos-os-episodios-online-anitube.jpg",
+            "kind": "anime",
+            "provider": "anitube",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "anitube",
+                "slug": "77672"
+              }
+            ]
+          }
+        ],
+        "category": "search-hits",
+        "page": 1,
+        "hasMore": false,
+        "partnerId": "anitube"
+      },
+      "at": 1788556139365
     }
   },
-  "updatedAt": 1788556075764
+  "updatedAt": 1788556139365
 }
