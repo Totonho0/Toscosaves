@@ -140,6 +140,13 @@
       "kind": "anime",
       "adult": false
     },
+    "5213": {
+      "slug": "5213",
+      "title": "BLEACH: Sennen Kessen-hen - Kashin-tan",
+      "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUuaW8vd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDgvNmE2NGY5ZTVkNzQ1ZC53ZWJw",
+      "kind": "anime",
+      "adult": false
+    },
     "5216": {
       "slug": "5216",
       "title": "Agents of the Four Seasons: Dance of Spring Dublado",
@@ -1469,6 +1476,9 @@
       2,
       3
     ],
+    "5213": [
+      1
+    ],
     "5216": [
       1
     ],
@@ -2190,6 +2200,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "5213",
+      "ep": 1,
+      "at": 1788525002477
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3957,5 +3972,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788524965870
+  "updatedAt": 1788525003168
 }
