@@ -1307,6 +1307,13 @@
       "poster": "https://cdn32.officefactory.cc/testme/dle2/posts/2026-08/hhoKhsyJ3hFaxEm5pMdZRiTu2lJ.jpg",
       "kind": "filme",
       "adult": false
+    },
+    "series/assistir-online-x-men-97": {
+      "slug": "series/assistir-online-x-men-97",
+      "title": "X-Men \\'97",
+      "poster": "https://cdn32.officefactory.cc/testme/dle2/posts/2024-03/dn7u5KuUeuNSnGxCSGmw7U2mOeg.jpg",
+      "kind": "serie",
+      "adult": false
     }
   },
   "watched": {
@@ -2269,9 +2276,17 @@
     ],
     "filmes/assistir-online-a-viagem-de-chihiro": [
       1
+    ],
+    "series/assistir-online-x-men-97": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "series/assistir-online-x-men-97",
+      "ep": 1,
+      "at": 1788563663662
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4105,5 +4120,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788563647781
+  "updatedAt": 1788563664221
 }
