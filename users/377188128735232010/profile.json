@@ -58,6 +58,13 @@
       "kind": "anime",
       "adult": false
     },
+    "3474": {
+      "slug": "3474",
+      "title": "Kakushite! Makina-san!! (Sem Censura)",
+      "poster": "/api/poster/r/aHR0cHM6Ly9jZG4ubXlhbmltZWxpc3QubmV0L2ltYWdlcy9hbmltZS8xODQzLzE0NjkzNWwuanBn",
+      "kind": "anime",
+      "adult": true
+    },
     "3482": {
       "slug": "3482",
       "title": "#Compass 2.0: Sentou Setsuri Kaiseki System",
@@ -1443,6 +1450,9 @@
     "3232": [
       1
     ],
+    "3474": [
+      1
+    ],
     "3482": [
       1
     ],
@@ -2211,6 +2221,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "3474",
+      "ep": 1,
+      "at": 1788552004580
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3993,5 +4008,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788551916265
+  "updatedAt": 1788552024733
 }
