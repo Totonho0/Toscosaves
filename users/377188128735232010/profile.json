@@ -111,6 +111,13 @@
       "kind": "anime",
       "adult": false
     },
+    "5176": {
+      "slug": "5176",
+      "title": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+      "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUuaW8vd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDcvNmE0OTk2OTQwYzRkNC53ZWJw",
+      "kind": "anime",
+      "adult": false
+    },
     "5179": {
       "slug": "5179",
       "title": "Tenmaku no Jaadugar",
@@ -1527,6 +1534,9 @@
       1,
       2
     ],
+    "5176": [
+      1
+    ],
     "5179": [
       1
     ],
@@ -2293,6 +2303,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "5176",
+      "ep": 1,
+      "at": 1788564626249
+    },
     {
       "slug": "5197",
       "ep": 2,
@@ -4141,5 +4156,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788564603424
+  "updatedAt": 1788564631508
 }
