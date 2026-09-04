@@ -3259,7 +3259,7 @@
       }
     },
     "2628": {
-      "at": 1788557559601,
+      "at": 1788558754778,
       "data": {
         "slug": "2628",
         "title": ".hack//Sign",
@@ -4037,7 +4037,7 @@
       }
     },
     "2846": {
-      "at": 1788558742081,
+      "at": 1788558748999,
       "data": {
         "slug": "2846",
         "title": "Hirogaru Sky! Precure",
@@ -4484,7 +4484,7 @@
       }
     },
     "3059": {
-      "at": 1788558742427,
+      "at": 1788558747582,
       "data": {
         "slug": "3059",
         "title": "Buta no Liver wa Kanetsu Shiro",
@@ -4595,28 +4595,11 @@
             "provider": "anitube",
             "slug": "936240"
           }
-        ],
-        "audioVariants": {
-          "current": "default",
-          "variants": {
-            "default": {
-              "slug": "3059",
-              "title": "Buta no Liver wa Kanetsu Shiro",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "leg": {
-              "slug": "936240",
-              "title": "Buta no Liver wa Kanetsu Shiro (Legendado)",
-              "audio": "leg",
-              "label": "Legendado"
-            }
-          }
-        }
+        ]
       }
     },
     "3263": {
-      "at": 1788557558884,
+      "at": 1788558754726,
       "data": {
         "slug": "3263",
         "title": "0-saiji Start Dash Monogatari",
@@ -4868,7 +4851,7 @@
       }
     },
     "3482": {
-      "at": 1788557562941,
+      "at": 1788558753416,
       "data": {
         "slug": "3482",
         "title": "#Compass 2.0: Sentou Setsuri Kaiseki System",
@@ -4967,6 +4950,18 @@
         "genres": [
           "Ação",
           "Jogo"
+        ],
+        "animeSources": [
+          {
+            "server": 1,
+            "provider": "otakuplay",
+            "slug": "3482"
+          },
+          {
+            "server": 2,
+            "provider": "anitube",
+            "slug": "1001116"
+          }
         ]
       }
     },
@@ -19983,6 +19978,221 @@
             "slug": "919548"
           }
         ]
+      }
+    },
+    "936240": {
+      "at": 1788558750989,
+      "data": {
+        "slug": "936240",
+        "title": "Buta no Liver wa Kanetsu Shiro",
+        "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWJ1dGEtbm8tbGl2ZXItd2Eta2FuZXRzdS1zaGlyby10b2Rvcy1vcy1lcGlzb2Rpb3MtdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbml0dWJlLmpwZw",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Buta no Liver wa Kanetsu Shiro – Episódio 01",
+            "url": "https://www.anitube.zip/video/936242/",
+            "videoId": "936242"
+          },
+          {
+            "number": 2,
+            "title": "Buta no Liver wa Kanetsu Shiro – Episódio 02",
+            "url": "https://www.anitube.zip/video/945594/",
+            "videoId": "945594"
+          },
+          {
+            "number": 3,
+            "title": "Buta no Liver wa Kanetsu Shiro – Episódio 03",
+            "url": "https://www.anitube.zip/video/948369/",
+            "videoId": "948369"
+          },
+          {
+            "number": 4,
+            "title": "Buta no Liver wa Kanetsu Shiro – Episódio 04",
+            "url": "https://www.anitube.zip/video/949645/",
+            "videoId": "949645"
+          },
+          {
+            "number": 5,
+            "title": "Buta no Liver wa Kanetsu Shiro – Episódio 05",
+            "url": "https://www.anitube.zip/video/951549/",
+            "videoId": "951549"
+          },
+          {
+            "number": 6,
+            "title": "Buta no Liver wa Kanetsu Shiro – Episódio 06",
+            "url": "https://www.anitube.zip/video/957052/",
+            "videoId": "957052"
+          },
+          {
+            "number": 7,
+            "title": "Buta no Liver wa Kanetsu Shiro – Episódio 07",
+            "url": "https://www.anitube.zip/video/959636/",
+            "videoId": "959636"
+          },
+          {
+            "number": 8,
+            "title": "Buta no Liver wa Kanetsu Shiro – Episódio 08",
+            "url": "https://www.anitube.zip/video/962885/",
+            "videoId": "962885"
+          },
+          {
+            "number": 9,
+            "title": "Buta no Liver wa Kanetsu Shiro – Episódio 09",
+            "url": "https://www.anitube.zip/video/967561/",
+            "videoId": "967561"
+          },
+          {
+            "number": 10,
+            "title": "Buta no Liver wa Kanetsu Shiro – Episódio 10",
+            "url": "https://www.anitube.zip/video/967890/",
+            "videoId": "967890"
+          },
+          {
+            "number": 11,
+            "title": "Buta no Liver wa Kanetsu Shiro – Episódio 11",
+            "url": "https://www.anitube.zip/video/968376/",
+            "videoId": "968376"
+          },
+          {
+            "number": 12,
+            "title": "Buta no Liver wa Kanetsu Shiro – Episódio 12",
+            "url": "https://www.anitube.zip/video/976327/",
+            "videoId": "976327"
+          }
+        ],
+        "totalEpisodes": 12,
+        "defaultEpisode": 1,
+        "kind": "anime",
+        "provider": "anitube",
+        "animeSources": [
+          {
+            "server": 1,
+            "provider": "otakuplay",
+            "slug": "3059"
+          },
+          {
+            "server": 2,
+            "provider": "anitube",
+            "slug": "936240"
+          }
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "3059",
+              "title": "Buta no Liver wa Kanetsu Shiro",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "leg": {
+              "slug": "936240",
+              "title": "Buta no Liver wa Kanetsu Shiro (Legendado)",
+              "audio": "leg",
+              "label": "Legendado"
+            }
+          }
+        }
+      }
+    },
+    "937221": {
+      "at": 1788558754663,
+      "data": {
+        "slug": "937221",
+        "title": "Gintama.: Shirogane no Tamashii-hen – Kouhan-sen (8ª Temporada)",
+        "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLWdpbnRhbWEtc2hpcm9nYW5lLW5vLXRhbWFzaGlpLWhlbi1rb3VoYW4tc2VuLXNlYXNvbi04LXRvZG9zLW9zLWVwaXNvZGlvcy10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaXR1YmUuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Gintama.: Shirogane no Tamashii-hen – Kouhan-sen – Episódio 01",
+            "url": "https://www.anitube.zip/video/937236/",
+            "videoId": "937236"
+          },
+          {
+            "number": 2,
+            "title": "Gintama.: Shirogane no Tamashii-hen – Kouhan-sen – Episódio 02",
+            "url": "https://www.anitube.zip/video/937235/",
+            "videoId": "937235"
+          },
+          {
+            "number": 3,
+            "title": "Gintama.: Shirogane no Tamashii-hen – Kouhan-sen – Episódio 03",
+            "url": "https://www.anitube.zip/video/937234/",
+            "videoId": "937234"
+          },
+          {
+            "number": 4,
+            "title": "Gintama.: Shirogane no Tamashii-hen – Kouhan-sen – Episódio 04",
+            "url": "https://www.anitube.zip/video/937233/",
+            "videoId": "937233"
+          },
+          {
+            "number": 5,
+            "title": "Gintama.: Shirogane no Tamashii-hen – Kouhan-sen – Episódio 05",
+            "url": "https://www.anitube.zip/video/937232/",
+            "videoId": "937232"
+          },
+          {
+            "number": 6,
+            "title": "Gintama.: Shirogane no Tamashii-hen – Kouhan-sen – Episódio 06",
+            "url": "https://www.anitube.zip/video/937231/",
+            "videoId": "937231"
+          },
+          {
+            "number": 7,
+            "title": "Gintama.: Shirogane no Tamashii-hen – Kouhan-sen – Episódio 07",
+            "url": "https://www.anitube.zip/video/937230/",
+            "videoId": "937230"
+          },
+          {
+            "number": 8,
+            "title": "Gintama.: Shirogane no Tamashii-hen – Kouhan-sen – Episódio 08",
+            "url": "https://www.anitube.zip/video/937229/",
+            "videoId": "937229"
+          },
+          {
+            "number": 9,
+            "title": "Gintama.: Shirogane no Tamashii-hen – Kouhan-sen – Episódio 09",
+            "url": "https://www.anitube.zip/video/937228/",
+            "videoId": "937228"
+          },
+          {
+            "number": 10,
+            "title": "Gintama.: Shirogane no Tamashii-hen – Kouhan-sen – Episódio 10",
+            "url": "https://www.anitube.zip/video/937227/",
+            "videoId": "937227"
+          },
+          {
+            "number": 11,
+            "title": "Gintama.: Shirogane no Tamashii-hen – Kouhan-sen – Episódio 11",
+            "url": "https://www.anitube.zip/video/937226/",
+            "videoId": "937226"
+          },
+          {
+            "number": 12,
+            "title": "Gintama.: Shirogane no Tamashii-hen – Kouhan-sen – Episódio 12",
+            "url": "https://www.anitube.zip/video/937225/",
+            "videoId": "937225"
+          },
+          {
+            "number": 13,
+            "title": "Gintama.: Shirogane no Tamashii-hen – Kouhan-sen – Episódio 13",
+            "url": "https://www.anitube.zip/video/937224/",
+            "videoId": "937224"
+          },
+          {
+            "number": 14,
+            "title": "Gintama.: Shirogane no Tamashii-hen – Kouhan-sen – Episódio 14",
+            "url": "https://www.anitube.zip/video/937223/",
+            "videoId": "937223"
+          }
+        ],
+        "totalEpisodes": 14,
+        "defaultEpisode": 1,
+        "kind": "anime",
+        "provider": "anitube"
       }
     },
     "1030445": {
