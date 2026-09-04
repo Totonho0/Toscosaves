@@ -1300,6 +1300,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMi8wMS9hc3Npc3Rpci1zaGlra2FrdW1vbi1uby1zYWlreW91LWtlbmphLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pbWVzLW9ubGluZS5qcGc",
       "kind": "anime",
       "adult": false
+    },
+    "filmes/assistir-online-a-viagem-de-chihiro": {
+      "slug": "filmes/assistir-online-a-viagem-de-chihiro",
+      "title": "A Viagem de Chihiro",
+      "poster": "https://cdn32.officefactory.cc/testme/dle2/posts/2026-08/hhoKhsyJ3hFaxEm5pMdZRiTu2lJ.jpg",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -2259,9 +2266,17 @@
     ],
     "boruto-naruto-the-movie-2": [
       13
+    ],
+    "filmes/assistir-online-a-viagem-de-chihiro": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "filmes/assistir-online-a-viagem-de-chihiro",
+      "ep": 1,
+      "at": 1788563514843
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4090,5 +4105,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788563500523
+  "updatedAt": 1788563515805
 }
