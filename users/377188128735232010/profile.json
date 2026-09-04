@@ -160,6 +160,13 @@
       "kind": "anime",
       "adult": false
     },
+    "5208": {
+      "slug": "5208",
+      "title": "Black Torch",
+      "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUuaW8vd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDcvNmE0OTNmMGM2NWI2Ny1zY2FsZWQud2VicA",
+      "kind": "anime",
+      "adult": false
+    },
     "5213": {
       "slug": "5213",
       "title": "BLEACH: Sennen Kessen-hen - Kashin-tan",
@@ -1514,6 +1521,9 @@
       2,
       3
     ],
+    "5208": [
+      1
+    ],
     "5213": [
       1
     ],
@@ -2240,6 +2250,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "5208",
+      "ep": 1,
+      "at": 1788557557607
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4047,5 +4062,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788557554053
+  "updatedAt": 1788557558288
 }
