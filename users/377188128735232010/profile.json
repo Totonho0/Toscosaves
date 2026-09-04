@@ -11,6 +11,13 @@
   "watchLater": [],
   "mangaFavorites": [],
   "library": {
+    "1024": {
+      "slug": "1024",
+      "title": "Bleach",
+      "poster": "/api/poster/r/aHR0cHM6Ly9nb3lhYnUudG8vd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDQvQmxlYWNoLVRvZG9zLW9zLUVwaXNvZGlvcy1PbmxpbmUtR295YWJ1LmpwZw",
+      "kind": "anime",
+      "adult": false
+    },
     "1597": {
       "slug": "1597",
       "title": "Araiya-san!: Ore To Aitsu Ga Onnayu De!?",
@@ -1413,6 +1420,9 @@
     ]
   },
   "started": {
+    "1024": [
+      1
+    ],
     "1597": [
       1
     ],
@@ -2200,6 +2210,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "1024",
+      "ep": 1,
+      "at": 1788551353393
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -3972,5 +3987,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788551323760
+  "updatedAt": 1788551356834
 }
