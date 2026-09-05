@@ -1578,6 +1578,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9mYXRlLWFwb2NyeXBoYS1kdWJsYWRvLndlYnA",
       "kind": "anime",
       "adult": false
+    },
+    "bleach-sennen-kessen-hen-ketsubetsu-tan": {
+      "slug": "bleach-sennen-kessen-hen-ketsubetsu-tan",
+      "title": "bleach sennen kessen hen ketsubetsu tan",
+      "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDE1OTMyMi1TcDFHZmxSaEU2UG8uanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2688,9 +2695,17 @@
     ],
     "fate-apocrypha-dublado": [
       1
+    ],
+    "bleach-sennen-kessen-hen-ketsubetsu-tan": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "bleach-sennen-kessen-hen-ketsubetsu-tan",
+      "ep": 1,
+      "at": 1788638467386
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4812,5 +4827,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788638456029
+  "updatedAt": 1788638470012
 }
