@@ -1480,6 +1480,13 @@
       "title": "Bleach: Sennen Kessen-hen",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC9ndXlTMjhBNEl4d29NWElxM1hqOUFzek1lZlAuanBn",
       "kind": "anime"
+    },
+    "bleach-final-season-todos-episodios": {
+      "slug": "bleach-final-season-todos-episodios",
+      "title": "bleach final season todos episodios",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wNy9CbGVhY2gtRmluYWwtU2Vhc29uRXAuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2538,9 +2545,17 @@
     ],
     "bleach-sennen-kessen-hen": [
       1
+    ],
+    "bleach-final-season-todos-episodios": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "bleach-final-season-todos-episodios",
+      "ep": 1,
+      "at": 1788620808250
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4530,5 +4545,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788620800419
+  "updatedAt": 1788620809326
 }
