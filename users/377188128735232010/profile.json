@@ -1564,6 +1564,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDExNDMzLUtMRXpaZUs2RDQ2Zy5qcGc",
       "kind": "anime",
       "adult": false
+    },
+    "re-zero-kara-hajimeru-isekai-seikatsu-2nd-season-dublado": {
+      "slug": "re-zero-kara-hajimeru-isekai-seikatsu-2nd-season-dublado",
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season (Dublado)",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9yZS16ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LTJuZC1zZWFzb24tZHVibGFkby53ZWJw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2668,9 +2675,17 @@
     ],
     "ano-natsu-de-matteru": [
       1
+    ],
+    "re-zero-kara-hajimeru-isekai-seikatsu-2nd-season-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "re-zero-kara-hajimeru-isekai-seikatsu-2nd-season-dublado",
+      "ep": 1,
+      "at": 1788637630428
+    },
     {
       "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado",
       "ep": 24,
@@ -4782,5 +4797,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788637612269
+  "updatedAt": 1788637630002
 }
