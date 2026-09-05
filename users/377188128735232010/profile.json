@@ -1377,6 +1377,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC9kdGsyR3JRbUJiTG9mczZVZmJqeVB2a1ExSDguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "link-click": {
+      "slug": "link-click",
+      "title": "Link Click",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tZXVzYW5pbWVzLmJsb2cvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDgvYXU1TG1uT1hISWUyaVVUUHlkRzFRSVpNRDVQLmpwZw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2374,9 +2381,17 @@
     ],
     "is-infinite-stratos-2": [
       1
+    ],
+    "link-click": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "link-click",
+      "ep": 1,
+      "at": 1788601761926
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4270,5 +4285,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788601728640
+  "updatedAt": 1788601765577
 }
