@@ -1585,6 +1585,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDE1OTMyMi1TcDFHZmxSaEU2UG8uanBn",
       "kind": "anime",
       "adult": false
+    },
+    "bleach-sennen-kessen-hen-dublado": {
+      "slug": "bleach-sennen-kessen-hen-dublado",
+      "title": "bleach sennen kessen hen dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDExNjY3NC1wM3pLNFBVWDJBYWcuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2705,9 +2712,17 @@
     "bleach-sennen-kessen-hen-ketsubetsu-tan": [
       1,
       13
+    ],
+    "bleach-sennen-kessen-hen-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "bleach-sennen-kessen-hen-dublado",
+      "ep": 1,
+      "at": 1788640804993
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4871,5 +4886,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788640790159
+  "updatedAt": 1788640804500
 }
