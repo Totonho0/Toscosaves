@@ -1391,6 +1391,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9tZXVzYW5pbWVzLmJsb2cvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDcvc2RXTnF0Y1BKcHVkUEl0UEczekJkeUd5elRILmpwZw",
       "kind": "anime",
       "adult": false
+    },
+    "moonrise": {
+      "slug": "moonrise",
+      "title": "Moonrise",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tZXVzYW5pbWVzLmJsb2cvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDgvbjVGNWtFdklRdlNxT08zSDNveFRoUDlEZ04yLmpwZw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2395,9 +2402,17 @@
     ],
     "futsutsuka-na-akujo-dewa-gozaimasu-ga-dublado": [
       1
+    ],
+    "moonrise": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "moonrise",
+      "ep": 1,
+      "at": 1788603245989
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4306,5 +4321,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788603234588
+  "updatedAt": 1788603249176
 }
