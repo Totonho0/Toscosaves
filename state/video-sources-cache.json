@@ -2853,6 +2853,28 @@
         "fallbackProvider": "animesdigital",
         "requestedSlug": "ano-natsu-de-matteru"
       }
+    },
+    "anime:rezero-kara-hajimeru-isekai-seikatsu-dublado:23": {
+      "at": 1788637862876,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/r/re-zero-dublado/23.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/135547/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fr%2Fre-zero-dublado%2F23.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 23,
+        "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2026/04/ReZero-Dublado-categoria.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/135547/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "rezero-kara-hajimeru-isekai-seikatsu-dublado"
+      }
     }
   }
 }
