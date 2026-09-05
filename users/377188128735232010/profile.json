@@ -1603,6 +1603,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9kNGRqLWZpcnN0LW1peC53ZWJw",
       "kind": "anime",
       "adult": false
+    },
+    "avatar-a-lenda-de-korra-livro-2-dublado": {
+      "slug": "avatar-a-lenda-de-korra-livro-2-dublado",
+      "title": "Avatar A Lenda De Korra Livro 2 Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9hdmF0YXItYS1sZW5kYS1kZS1rb3JyYS1saXZyby0yLWR1YmxhZG8ud2VicA",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2733,9 +2740,17 @@
     ],
     "d4dj-first-mix": [
       1
+    ],
+    "avatar-a-lenda-de-korra-livro-2-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "avatar-a-lenda-de-korra-livro-2-dublado",
+      "ep": 1,
+      "at": 1788641058805
+    },
     {
       "slug": "d4dj-first-mix",
       "ep": 1,
@@ -4919,5 +4934,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788641037976
+  "updatedAt": 1788641058297
 }
