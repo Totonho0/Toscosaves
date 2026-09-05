@@ -1384,6 +1384,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9tZXVzYW5pbWVzLmJsb2cvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDgvYXU1TG1uT1hISWUyaVVUUHlkRzFRSVpNRDVQLmpwZw",
       "kind": "anime",
       "adult": false
+    },
+    "futsutsuka-na-akujo-dewa-gozaimasu-ga-dublado": {
+      "slug": "futsutsuka-na-akujo-dewa-gozaimasu-ga-dublado",
+      "title": "Futsutsuka na Akujo dewa Gozaimasu ga Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tZXVzYW5pbWVzLmJsb2cvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDcvc2RXTnF0Y1BKcHVkUEl0UEczekJkeUd5elRILmpwZw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2385,9 +2392,17 @@
     "link-click": [
       1,
       2
+    ],
+    "futsutsuka-na-akujo-dewa-gozaimasu-ga-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "futsutsuka-na-akujo-dewa-gozaimasu-ga-dublado",
+      "ep": 1,
+      "at": 1788601814501
+    },
     {
       "slug": "link-click",
       "ep": 2,
@@ -4291,5 +4306,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788601771705
+  "updatedAt": 1788601814910
 }
