@@ -1447,6 +1447,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9iZWFzdGFycy0ybmQtc2Vhc29uLndlYnA",
       "kind": "anime",
       "adult": false
+    },
+    "akatsuki-no-yona": {
+      "slug": "akatsuki-no-yona",
+      "title": "Akatsuki No Yona",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9ha2F0c3VraS1uby15b25hLndlYnA",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2487,9 +2494,17 @@
     ],
     "beastars-2nd-season": [
       1
+    ],
+    "akatsuki-no-yona": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "akatsuki-no-yona",
+      "ep": 1,
+      "at": 1788609550628
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4443,5 +4458,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788609539530
+  "updatedAt": 1788609552102
 }
