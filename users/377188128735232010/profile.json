@@ -1596,6 +1596,13 @@
       "poster": "https://meusanimes.blog/wp-content/uploads/2025/10/hbLDwYri1pyiEIMpICgftu7s8NE.jpg",
       "kind": "anime",
       "adult": false
+    },
+    "d4dj-first-mix": {
+      "slug": "d4dj-first-mix",
+      "title": "D4DJ: First Mix",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9kNGRqLWZpcnN0LW1peC53ZWJw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2723,9 +2730,17 @@
     ],
     "cowboy-bebop-dublado": [
       1
+    ],
+    "d4dj-first-mix": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "d4dj-first-mix",
+      "ep": 1,
+      "at": 1788641037907
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4904,5 +4919,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788640991367
+  "updatedAt": 1788641037976
 }
