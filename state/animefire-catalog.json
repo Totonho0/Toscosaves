@@ -12212,7 +12212,35 @@
       "title": "86",
       "poster": "https://animefire.io/img/animes/86.webp",
       "kind": "anime",
-      "provider": "animefire"
+      "provider": "animefire",
+      "genres": []
+    },
+    {
+      "slug": "bleach",
+      "title": "Bleach",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
+      "kind": "anime",
+      "provider": "animefire",
+      "genres": [
+        "acao",
+        "aventura",
+        "shounen",
+        "sobrenatural"
+      ]
+    },
+    {
+      "slug": "bleach-dublado",
+      "title": "Bleach (Dublado)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
+      "kind": "anime",
+      "provider": "animefire",
+      "genres": [
+        "acao",
+        "aventura",
+        "shounen",
+        "sobrenatural"
+      ],
+      "audioHint": "dub"
     }
   ],
   "updatedAt": 1788615883334,
