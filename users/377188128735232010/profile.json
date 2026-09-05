@@ -1494,6 +1494,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC9oaG9LaHN5SjNoRmF4RW01cE1kWlJpVHUybEouanBn",
       "kind": "filme",
       "adult": false
+    },
+    "7-seeds": {
+      "slug": "7-seeds",
+      "title": "7 seeds",
+      "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDEwNTgwNy1JdmQ3eGM0MFhkR0YuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2559,9 +2566,17 @@
     ],
     "tmdb-129": [
       1
+    ],
+    "7-seeds": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "7-seeds",
+      "ep": 1,
+      "at": 1788633839097
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4577,5 +4592,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788633794017
+  "updatedAt": 1788633838763
 }
