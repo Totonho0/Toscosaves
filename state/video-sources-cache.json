@@ -2679,6 +2679,35 @@
         "fallbackProvider": "animesdigital",
         "requestedSlug": "rezero-kara-hajimeru-isekai-seikatsu-dublado"
       }
+    },
+    "anime:amagami-ss:1": {
+      "at": 1788636733406,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/a/amagami-ss/01.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/78413/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fa%2Famagami-ss%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          },
+          {
+            "type": "mp4",
+            "src": "https://rr4---sn-n4v7snee.googlevideo.com/videoplayback?expire=1788665527&ei=N26catKTK8GJ-eUPgqKuqAo&ip=152.55.176.233&id=5f2d2d2a6ae9cbe6&itag=22&source=blogger&requiressl=yes&xpc=Egho7Zf3LnoBAQ==&cps=84&met=1788636727,&mh=dV&mm=31&mn=sn-n4v7snee&ms=au&mv=m&mvi=4&pl=22&rms=au,au&susc=bl&svpuc=1&eaua=uN7j3T-ZPmc&mime=video/mp4&vprv=1&rqh=1&dur=1451.966&lmt=1659796472870416&mt=1788636307&txp=1311224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,svpuc,eaua,mime,vprv,rqh,dur,lmt&sig=AE0s2JYwRAIgW8wCxm3AZmlm8-f0OCldi1r2351XHzWp3qoBv6gjmaECIBuRnHg2Nn-pA0ApTApFUHgWTZwdaNltRHGprrCQeRJz&lsparams=cps,met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRgIhANPXeMnqiG3Ek7TsjSzv2OWf32DrvZpTm5glg3IuRR9nAiEAvE8dh327tdndufMgMcDuAtp9MGgZdLtcQh2fAdoF25s=",
+            "label": "Servidor 2",
+            "referer": "https://animesdigital.org/video/a/78413/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Frr4---sn-n4v7snee.googlevideo.com%2Fvideoplayback%3Fexpire%3D1788665527%26ei%3DN26catKTK8GJ-eUPgqKuqAo%26ip%3D152.55.176.233%26id%3D5f2d2d2a6ae9cbe6%26itag%3D22%26source%3Dblogger%26requiressl%3Dyes%26xpc%3DEgho7Zf3LnoBAQ%3D%3D%26cps%3D84%26met%3D1788636727%2C%26mh%3DdV%26mm%3D31%26mn%3Dsn-n4v7snee%26ms%3Dau%26mv%3Dm%26mvi%3D4%26pl%3D22%26rms%3Dau%2Cau%26susc%3Dbl%26svpuc%3D1%26eaua%3DuN7j3T-ZPmc%26mime%3Dvideo%2Fmp4%26vprv%3D1%26rqh%3D1%26dur%3D1451.966%26lmt%3D1659796472870416%26mt%3D1788636307%26txp%3D1311224%26sparams%3Dexpire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Csusc%2Csvpuc%2Ceaua%2Cmime%2Cvprv%2Crqh%2Cdur%2Clmt%26sig%3DAE0s2JYwRAIgW8wCxm3AZmlm8-f0OCldi1r2351XHzWp3qoBv6gjmaECIBuRnHg2Nn-pA0ApTApFUHgWTZwdaNltRHGprrCQeRJz%26lsparams%3Dcps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%26lsig%3DAPaTxxMwRgIhANPXeMnqiG3Ek7TsjSzv2OWf32DrvZpTm5glg3IuRR9nAiEAvE8dh327tdndufMgMcDuAtp9MGgZdLtcQh2fAdoF25s%3D&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "amagami-ss",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2023/05/assistir-amagami-ss-todos-os-episodios-online-animes-online.jpeg",
+        "episodeUrl": "https://animesdigital.org/video/a/78413/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "amagami-ss"
+      }
     }
   }
 }
