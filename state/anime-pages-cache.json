@@ -17390,6 +17390,46 @@
         "kind": "anime",
         "provider": "animesdigital"
       }
+    },
+    "cowboy-bebop": {
+      "at": 1788640910352,
+      "data": {
+        "slug": "cowboy-bebop",
+        "title": "cowboy bebop",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNC8wMS9Db3dib3ktQmVib3AtZmlsbWUtY2F0ZWdvcmlhLmpwZw",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Cowboy Bebop: Tengoku no Tobira Episódio 01 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/110878/",
+            "videoId": "110878",
+            "season": 1,
+            "epInSeason": 1
+          }
+        ],
+        "totalEpisodes": 1,
+        "defaultEpisode": 1,
+        "kind": "anime",
+        "provider": "animesdigital",
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "cowboy-bebop",
+              "title": "Cowboy Bebop",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "cowboy-bebop-dublado",
+              "title": "Cowboy Bebop (Dublado)",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
     }
   }
 }
