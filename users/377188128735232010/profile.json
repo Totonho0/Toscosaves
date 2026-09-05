@@ -1461,6 +1461,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9hbnNhdHN1LWt5b3VzaGl0c3UtMm5kLXNlYXNvbi53ZWJw",
       "kind": "anime",
       "adult": false
+    },
+    "adachi-to-shimamura": {
+      "slug": "adachi-to-shimamura",
+      "title": "Adachi To Shimamura",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9hZGFjaGktdG8tc2hpbWFtdXJhLndlYnA",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2507,9 +2514,17 @@
     ],
     "ansatsu-kyoushitsu-2nd-season": [
       1
+    ],
+    "adachi-to-shimamura": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "adachi-to-shimamura",
+      "ep": 1,
+      "at": 1788615888208
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4473,5 +4488,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788615884055
+  "updatedAt": 1788615889316
 }
