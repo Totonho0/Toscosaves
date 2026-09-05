@@ -2383,10 +2383,16 @@
       1
     ],
     "link-click": [
-      1
+      1,
+      2
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "link-click",
+      "ep": 2,
+      "at": 1788601771283
+    },
     {
       "slug": "link-click",
       "ep": 1,
@@ -4285,5 +4291,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788601765577
+  "updatedAt": 1788601771705
 }
