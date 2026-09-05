@@ -1048,6 +1048,34 @@
         "episodeUrl": "https://topanimes.net/episodio/bleach-sennen-kessen-hen-soukoku-tan-episodio-2/",
         "title": "Bleach: Sennen Kessen-hen – Soukoku-tan"
       }
+    },
+    "anime:senran-kagura:1": {
+      "at": 1788598608836,
+      "data": {
+        "sources": [
+          {
+            "type": "embed",
+            "src": "https://sk-api.alibabacdn.net/?id=KYXak1NxZzg7BVjbungl1-Senran-Kagura/1&img=https://image.tmdb.org/t/p/w1280/y3oVhe22zAgVCrh4pluLGeIalIk.jpg",
+            "playUrl": "https://sk-api.alibabacdn.net/?id=KYXak1NxZzg7BVjbungl1-Senran-Kagura/1&img=https://image.tmdb.org/t/p/w1280/y3oVhe22zAgVCrh4pluLGeIalIk.jpg",
+            "label": "Vidstreaming",
+            "referer": "https://topanimes.net/episodio/senran-kagura-episodio-1/"
+          },
+          {
+            "type": "embed",
+            "src": "https://sk-api.alibabacdn.net/?id=KYXak1NxZzg7BVjbungl1-Senran-Kagura/1&img=https://image.tmdb.org/t/p/original/y3oVhe22zAgVCrh4pluLGeIalIk.jpg",
+            "playUrl": "https://sk-api.alibabacdn.net/?id=KYXak1NxZzg7BVjbungl1-Senran-Kagura/1&img=https://image.tmdb.org/t/p/original/y3oVhe22zAgVCrh4pluLGeIalIk.jpg",
+            "label": "Embed",
+            "referer": "https://topanimes.net/episodio/senran-kagura-episodio-1/"
+          }
+        ],
+        "episode": 1,
+        "slug": "senran-kagura",
+        "kind": "anime",
+        "provider": "topanimes",
+        "poster": "https://image.tmdb.org/t/p/w500/s7YVn2EMkQNt23nD7WEZO0fjegN.jpg",
+        "episodeUrl": "https://topanimes.net/episodio/senran-kagura-episodio-1/",
+        "title": "Senran Kagura"
+      }
     }
   }
 }
