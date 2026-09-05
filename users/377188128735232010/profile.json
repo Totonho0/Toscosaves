@@ -1549,6 +1549,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8wNS9hc3Npc3Rpci1hbWFnYW1pLXNzLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pbWVzLW9ubGluZS5qcGVn",
       "kind": "anime",
       "adult": false
+    },
+    "re-zero-kara-hajimeru-isekai-seikatsu-3rd-season": {
+      "slug": "re-zero-kara-hajimeru-isekai-seikatsu-3rd-season",
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9yZS16ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LTNyZC1zZWFzb24ud2VicA",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2644,9 +2651,17 @@
     ],
     "amagami-ss": [
       1
+    ],
+    "re-zero-kara-hajimeru-isekai-seikatsu-3rd-season": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "re-zero-kara-hajimeru-isekai-seikatsu-3rd-season",
+      "ep": 1,
+      "at": 1788637523490
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4733,5 +4748,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788637504134
+  "updatedAt": 1788637523067
 }
