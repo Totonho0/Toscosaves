@@ -1419,6 +1419,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy8xMDAtbWFuLW5vLWlub2NoaS1uby11ZS1uaS1vcmUtd2EtdGF0dGVpcnUtMm5kLXNlYXNvbi53ZWJw",
       "kind": "anime",
       "adult": false
+    },
+    "aa-megami-sama": {
+      "slug": "aa-megami-sama",
+      "title": "Aa! Megami-sama!",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9hYS1tZWdhbWktc2FtYS53ZWJw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2447,9 +2454,17 @@
     ],
     "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2nd-season": [
       1
+    ],
+    "aa-megami-sama": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "aa-megami-sama",
+      "ep": 1,
+      "at": 1788608126370
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4383,5 +4398,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788608114249
+  "updatedAt": 1788608126857
 }
