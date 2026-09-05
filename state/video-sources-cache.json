@@ -2897,6 +2897,50 @@
         "fallbackProvider": "animesdigital",
         "requestedSlug": "rezero-kara-hajimeru-isekai-seikatsu-dublado"
       }
+    },
+    "anime:rezero-kara-hajimeru-isekai-seikatsu-dublado:7": {
+      "at": 1788637869134,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/r/re-zero-dublado/07.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/135531/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fr%2Fre-zero-dublado%2F07.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 7,
+        "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2026/04/ReZero-Dublado-categoria.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/135531/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "rezero-kara-hajimeru-isekai-seikatsu-dublado"
+      }
+    },
+    "anime:rezero-kara-hajimeru-isekai-seikatsu-dublado:25": {
+      "at": 1788637869514,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/r/re-zero-dublado/25.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/135549/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fr%2Fre-zero-dublado%2F25.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 25,
+        "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2026/04/ReZero-Dublado-categoria.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/135549/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "rezero-kara-hajimeru-isekai-seikatsu-dublado"
+      }
     }
   }
 }
