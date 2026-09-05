@@ -1433,6 +1433,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9haXItbWFzdGVyLndlYnA",
       "kind": "anime",
       "adult": false
+    },
+    "amagi-brilliant-park": {
+      "slug": "amagi-brilliant-park",
+      "title": "Amagi Brilliant Park",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9hbWFnaS1icmlsbGlhbnQtcGFyay53ZWJw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2467,9 +2474,17 @@
     ],
     "air-master": [
       1
+    ],
+    "amagi-brilliant-park": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "amagi-brilliant-park",
+      "ep": 1,
+      "at": 1788608377339
+    },
     {
       "slug": "air-master",
       "ep": 1,
@@ -4413,5 +4428,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788608339481
+  "updatedAt": 1788608377683
 }
