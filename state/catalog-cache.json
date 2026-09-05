@@ -909,13 +909,14 @@
             ]
           }
         ],
+        "category": "todos",
         "page": 1,
         "hasMore": true,
         "total": 2630,
-        "category": "todos",
-        "provider": "otakuplay"
+        "provider": "otakuplay",
+        "catalogFromCache": true
       },
-      "at": 1788583223772
+      "at": 1788595819943
     },
     "todos|1||120": {
       "data": {
@@ -107487,5 +107488,5 @@
       "at": 1788595787778
     }
   },
-  "updatedAt": 1788595787778
+  "updatedAt": 1788595819943
 }
