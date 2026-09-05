@@ -1523,6 +1523,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9yZS16ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LTR0aC1zZWFzb24ud2VicA",
       "kind": "anime",
       "adult": false
+    },
+    "rezero-kara-hajimeru-isekai-seikatsu-shin-henshuu-ban": {
+      "slug": "rezero-kara-hajimeru-isekai-seikatsu-shin-henshuu-ban",
+      "title": "rezero kara hajimeru isekai seikatsu shin henshuu ban",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1yZXplcm8ta2FyYS1oYWppbWVydS1pc2VrYWktc2Vpa2F0c3Utc2hpbi1oZW5zaHV1LWJhbi10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaW1lc2RpZ2l0YWwuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2601,9 +2608,17 @@
     ],
     "re-zero-kara-hajimeru-isekai-seikatsu-4th-season": [
       1
+    ],
+    "rezero-kara-hajimeru-isekai-seikatsu-shin-henshuu-ban": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "rezero-kara-hajimeru-isekai-seikatsu-shin-henshuu-ban",
+      "ep": 1,
+      "at": 1788634647320
+    },
     {
       "slug": "re-zero-kara-hajimeru-isekai-seikatsu-4th-season",
       "ep": 1,
@@ -4649,5 +4664,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788634634643
+  "updatedAt": 1788634646962
 }
