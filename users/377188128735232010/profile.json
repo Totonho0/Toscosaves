@@ -1440,6 +1440,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9hbWFnaS1icmlsbGlhbnQtcGFyay53ZWJw",
       "kind": "anime",
       "adult": false
+    },
+    "beastars-2nd-season": {
+      "slug": "beastars-2nd-season",
+      "title": "Beastars 2nd Season",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9iZWFzdGFycy0ybmQtc2Vhc29uLndlYnA",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2477,9 +2484,17 @@
     ],
     "amagi-brilliant-park": [
       1
+    ],
+    "beastars-2nd-season": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "beastars-2nd-season",
+      "ep": 1,
+      "at": 1788608403699
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4428,5 +4443,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788608394607
+  "updatedAt": 1788608404628
 }
