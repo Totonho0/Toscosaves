@@ -1556,6 +1556,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9yZS16ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LTNyZC1zZWFzb24ud2VicA",
       "kind": "anime",
       "adult": false
+    },
+    "ano-natsu-de-matteru": {
+      "slug": "ano-natsu-de-matteru",
+      "title": "ano natsu de matteru",
+      "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDExNDMzLUtMRXpaZUs2RDQ2Zy5qcGc",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2654,9 +2661,17 @@
     ],
     "re-zero-kara-hajimeru-isekai-seikatsu-3rd-season": [
       1
+    ],
+    "ano-natsu-de-matteru": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "ano-natsu-de-matteru",
+      "ep": 1,
+      "at": 1788637540182
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4748,5 +4763,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788637532947
+  "updatedAt": 1788637540272
 }
