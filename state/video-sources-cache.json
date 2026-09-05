@@ -1272,6 +1272,34 @@
         "episodeUrl": "https://topanimes.net/episodio/bleach-dublado-episodio-1/",
         "title": "Bleach Dublado"
       }
+    },
+    "anime:bleach-dublado:2": {
+      "at": 1788600547331,
+      "data": {
+        "sources": [
+          {
+            "type": "embed",
+            "src": "https://sk-api.alibabacdn.net/?id=AYmQ3HIGjsyVyARh8pntm-Bleach/2&img=https://image.tmdb.org/t/p/w1280/gxi29dkEwdfgVkDzvHn26mw3mYV.jpg",
+            "playUrl": "https://sk-api.alibabacdn.net/?id=AYmQ3HIGjsyVyARh8pntm-Bleach/2&img=https://image.tmdb.org/t/p/w1280/gxi29dkEwdfgVkDzvHn26mw3mYV.jpg",
+            "label": "Vidstreaming",
+            "referer": "https://topanimes.net/episodio/bleach-dublado-episodio-2/"
+          },
+          {
+            "type": "embed",
+            "src": "https://sk-api.alibabacdn.net/?id=AYmQ3HIGjsyVyARh8pntm-Bleach/2&img=https://image.tmdb.org/t/p/original/gxi29dkEwdfgVkDzvHn26mw3mYV.jpg",
+            "playUrl": "https://sk-api.alibabacdn.net/?id=AYmQ3HIGjsyVyARh8pntm-Bleach/2&img=https://image.tmdb.org/t/p/original/gxi29dkEwdfgVkDzvHn26mw3mYV.jpg",
+            "label": "Embed",
+            "referer": "https://topanimes.net/episodio/bleach-dublado-episodio-2/"
+          }
+        ],
+        "episode": 2,
+        "slug": "bleach-dublado",
+        "kind": "anime",
+        "provider": "topanimes",
+        "poster": "https://image.tmdb.org/t/p/w500/e0kKmeM8R7Kersh5N2PPzIRNRhr.jpg",
+        "episodeUrl": "https://topanimes.net/episodio/bleach-dublado-episodio-2/",
+        "title": "Bleach Dublado"
+      }
     }
   }
 }
