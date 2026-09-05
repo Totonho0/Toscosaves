@@ -1160,6 +1160,48 @@
         "episodeUrl": "https://topanimes.net/episodio/naruto-episodio-2/",
         "title": "Naruto"
       }
+    },
+    "anime:dandadan:1": {
+      "at": 1788599035407,
+      "data": {
+        "sources": [
+          {
+            "type": "embed",
+            "src": "https://sk-api.alibabacdn.net/?id=plznH6OxSEBACGPKKcBRE-Dandadan/1&img=https://image.tmdb.org/t/p/w1280/on32DTesQ67OHbMli7yNOPm2WLS.jpg",
+            "playUrl": "https://sk-api.alibabacdn.net/?id=plznH6OxSEBACGPKKcBRE-Dandadan/1&img=https://image.tmdb.org/t/p/w1280/on32DTesQ67OHbMli7yNOPm2WLS.jpg",
+            "label": "NOA",
+            "referer": "https://topanimes.net/episodio/dandadan-episodio-1/"
+          },
+          {
+            "type": "embed",
+            "src": "https://csst.online/embed/827402",
+            "playUrl": "https://csst.online/embed/827402",
+            "label": "Ruplay",
+            "referer": "https://topanimes.net/episodio/dandadan-episodio-1/"
+          },
+          {
+            "type": "embed",
+            "src": "https://sk-api.alibabacdn.net/?id=plznH6OxSEBACGPKKcBRE-Dandadan/1&img=https://image.tmdb.org/t/p/original/on32DTesQ67OHbMli7yNOPm2WLS.jpg",
+            "playUrl": "https://sk-api.alibabacdn.net/?id=plznH6OxSEBACGPKKcBRE-Dandadan/1&img=https://image.tmdb.org/t/p/original/on32DTesQ67OHbMli7yNOPm2WLS.jpg",
+            "label": "Embed",
+            "referer": "https://topanimes.net/episodio/dandadan-episodio-1/"
+          },
+          {
+            "type": "embed",
+            "src": "https://csst.online/embed/827402&poster=https://image.tmdb.org/t/p/original/on32DTesQ67OHbMli7yNOPm2WLS.jpg",
+            "playUrl": "https://csst.online/embed/827402&poster=https://image.tmdb.org/t/p/original/on32DTesQ67OHbMli7yNOPm2WLS.jpg",
+            "label": "Embed",
+            "referer": "https://topanimes.net/episodio/dandadan-episodio-1/"
+          }
+        ],
+        "episode": 1,
+        "slug": "dandadan",
+        "kind": "anime",
+        "provider": "topanimes",
+        "poster": "https://image.tmdb.org/t/p/w500/vtQug1eOyeU2VXIpNoDF1lTlcH4.jpg",
+        "episodeUrl": "https://topanimes.net/episodio/dandadan-episodio-1/",
+        "title": "Dandadan"
+      }
     }
   }
 }
