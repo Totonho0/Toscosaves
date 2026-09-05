@@ -1516,6 +1516,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDExNjI0Mi1KWTgxS2htYnF5c24uanBn",
       "kind": "anime",
       "adult": false
+    },
+    "re-zero-kara-hajimeru-isekai-seikatsu-4th-season": {
+      "slug": "re-zero-kara-hajimeru-isekai-seikatsu-4th-season",
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9yZS16ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LTR0aC1zZWFzb24ud2VicA",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2591,9 +2598,17 @@
     ],
     "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-dublado": [
       1
+    ],
+    "re-zero-kara-hajimeru-isekai-seikatsu-4th-season": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "re-zero-kara-hajimeru-isekai-seikatsu-4th-season",
+      "ep": 1,
+      "at": 1788634634992
+    },
     {
       "slug": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-dublado",
       "ep": 1,
@@ -4634,5 +4649,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788634617507
+  "updatedAt": 1788634634643
 }
