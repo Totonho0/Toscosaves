@@ -827,31 +827,32 @@
       }
     },
     "anime:bleach:2": {
-      "at": 1788598300595,
+      "at": 1788617744731,
       "data": {
         "sources": [
           {
-            "type": "embed",
-            "src": "https://rogeriobetin.com/bg/?id=AD6v5dzoILRz-jplA8WKuvSjDx04ECQFoJPBIhVjWlVvIRM2A-r_EOQa6srYzzFZTZNL9zLQxZ8RuAXtdJhEpnz0KOffUBAFOOh1IObnVWCXJJoMDbLT3AaDMCnwW-GOye7UQ0GPibk&img=https://image.tmdb.org/t/p/w1280/eXeX0NFS3hYQ3KXUaHykyTZhSDF.jpg",
-            "playUrl": "https://rogeriobetin.com/bg/?id=AD6v5dzoILRz-jplA8WKuvSjDx04ECQFoJPBIhVjWlVvIRM2A-r_EOQa6srYzzFZTZNL9zLQxZ8RuAXtdJhEpnz0KOffUBAFOOh1IObnVWCXJJoMDbLT3AaDMCnwW-GOye7UQ0GPibk&img=https://image.tmdb.org/t/p/w1280/eXeX0NFS3hYQ3KXUaHykyTZhSDF.jpg",
-            "label": "NOA",
-            "referer": "https://topanimes.net/episodio/bleach-episodio-2/"
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/b/bleach/02.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/2599z001",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fb%2Fbleach%2F02.mp4%2Findex.m3u8&ref=animesdigital"
           },
           {
-            "type": "embed",
-            "src": "https://www.blogger.com/video.g?token=AD6v5dzoILRz-jplA8WKuvSjDx04ECQFoJPBIhVjWlVvIRM2A-r_EOQa6srYzzFZTZNL9zLQxZ8RuAXtdJhEpnz0KOffUBAFOOh1IObnVWCXJJoMDbLT3AaDMCnwW-GOye7UQ0GPibk&img=https://image.tmdb.org/t/p/original/eXeX0NFS3hYQ3KXUaHykyTZhSDF.jpg",
-            "playUrl": "https://www.blogger.com/video.g?token=AD6v5dzoILRz-jplA8WKuvSjDx04ECQFoJPBIhVjWlVvIRM2A-r_EOQa6srYzzFZTZNL9zLQxZ8RuAXtdJhEpnz0KOffUBAFOOh1IObnVWCXJJoMDbLT3AaDMCnwW-GOye7UQ0GPibk&img=https://image.tmdb.org/t/p/original/eXeX0NFS3hYQ3KXUaHykyTZhSDF.jpg",
-            "label": "Embed",
-            "referer": "https://topanimes.net/episodio/bleach-episodio-2/"
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/b/bleach/02.mp4/index.m3u8",
+            "label": "Servidor 3",
+            "referer": "https://animesdigital.org/video/a/2599z001",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fb%2Fbleach%2F02.mp4%2Findex.m3u8&ref=animesdigital"
           }
         ],
         "episode": 2,
         "slug": "bleach",
         "kind": "anime",
-        "provider": "topanimes",
-        "poster": "https://image.tmdb.org/t/p/w500/nbTaqrzUdVKtQfMk6Q8WqOFwBs9.jpg",
-        "episodeUrl": "https://topanimes.net/episodio/bleach-episodio-2/",
-        "title": "Bleach"
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-bleach-todos-os-episodios-online-animesdigital.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/2599z001",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "bleach"
       }
     },
     "anime:is-infinite-stratos-2:1": {
