@@ -1610,6 +1610,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9hdmF0YXItYS1sZW5kYS1kZS1rb3JyYS1saXZyby0yLWR1YmxhZG8ud2VicA",
       "kind": "anime",
       "adult": false
+    },
+    "ame-wo-tsugeru-hyouryuu-danchi": {
+      "slug": "ame-wo-tsugeru-hyouryuu-danchi",
+      "title": "ame wo tsugeru hyouryuu danchi",
+      "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDEzOTY0My1IeldjZTdYSjJ3NkcuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2743,9 +2750,17 @@
     ],
     "avatar-a-lenda-de-korra-livro-2-dublado": [
       1
+    ],
+    "ame-wo-tsugeru-hyouryuu-danchi": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "ame-wo-tsugeru-hyouryuu-danchi",
+      "ep": 1,
+      "at": 1788641148748
+    },
     {
       "slug": "avatar-a-lenda-de-korra-livro-2-dublado",
       "ep": 1,
@@ -4934,5 +4949,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788641058297
+  "updatedAt": 1788641148287
 }
