@@ -1487,6 +1487,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wNy9CbGVhY2gtRmluYWwtU2Vhc29uRXAuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "tmdb-129": {
+      "slug": "tmdb-129",
+      "title": "A Viagem de Chihiro (2001)",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC9oaG9LaHN5SjNoRmF4RW01cE1kWlJpVHUybEouanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -2549,9 +2556,17 @@
     "bleach-final-season-todos-episodios": [
       1,
       5
+    ],
+    "tmdb-129": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "tmdb-129",
+      "ep": 1,
+      "at": 1788624535972
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4551,5 +4566,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788624530947
+  "updatedAt": 1788624537071
 }
