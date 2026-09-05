@@ -1468,6 +1468,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9hZGFjaGktdG8tc2hpbWFtdXJhLndlYnA",
       "kind": "anime",
       "adult": false
+    },
+    "arifureta-shokugyou-de-sekai-saikyou": {
+      "slug": "arifureta-shokugyou-de-sekai-saikyou",
+      "title": "Arifureta Shokugyou De Sekai Saikyou",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9hcmlmdXJldGEtc2hva3VneW91LWRlLXNla2FpLXNhaWt5b3Uud2VicA",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2517,9 +2524,17 @@
     ],
     "adachi-to-shimamura": [
       1
+    ],
+    "arifureta-shokugyou-de-sekai-saikyou": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "arifureta-shokugyou-de-sekai-saikyou",
+      "ep": 1,
+      "at": 1788615906179
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4488,5 +4503,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788615899575
+  "updatedAt": 1788615907276
 }
