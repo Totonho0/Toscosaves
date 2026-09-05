@@ -1244,6 +1244,34 @@
         "episodeUrl": "https://topanimes.net/episodio/dandadan-episodio-2/",
         "title": "Dandadan"
       }
+    },
+    "anime:bleach-dublado:1": {
+      "at": 1788600536219,
+      "data": {
+        "sources": [
+          {
+            "type": "embed",
+            "src": "https://sk-api.alibabacdn.net/?id=AYmQ3HIGjsyVyARh8pntm-Bleach/1&img=https://image.tmdb.org/t/p/w1280/euMG2K90juZdDVq4rdOLUuMLmmQ.jpg",
+            "playUrl": "https://sk-api.alibabacdn.net/?id=AYmQ3HIGjsyVyARh8pntm-Bleach/1&img=https://image.tmdb.org/t/p/w1280/euMG2K90juZdDVq4rdOLUuMLmmQ.jpg",
+            "label": "Vidstreaming",
+            "referer": "https://topanimes.net/episodio/bleach-dublado-episodio-1/"
+          },
+          {
+            "type": "embed",
+            "src": "https://sk-api.alibabacdn.net/?id=AYmQ3HIGjsyVyARh8pntm-Bleach/1&img=https://image.tmdb.org/t/p/original/euMG2K90juZdDVq4rdOLUuMLmmQ.jpg",
+            "playUrl": "https://sk-api.alibabacdn.net/?id=AYmQ3HIGjsyVyARh8pntm-Bleach/1&img=https://image.tmdb.org/t/p/original/euMG2K90juZdDVq4rdOLUuMLmmQ.jpg",
+            "label": "Embed",
+            "referer": "https://topanimes.net/episodio/bleach-dublado-episodio-1/"
+          }
+        ],
+        "episode": 1,
+        "slug": "bleach-dublado",
+        "kind": "anime",
+        "provider": "topanimes",
+        "poster": "https://image.tmdb.org/t/p/w500/e0kKmeM8R7Kersh5N2PPzIRNRhr.jpg",
+        "episodeUrl": "https://topanimes.net/episodio/bleach-dublado-episodio-1/",
+        "title": "Bleach Dublado"
+      }
     }
   }
 }
