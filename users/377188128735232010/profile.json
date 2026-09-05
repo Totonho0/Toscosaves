@@ -1398,6 +1398,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9tZXVzYW5pbWVzLmJsb2cvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDgvbjVGNWtFdklRdlNxT08zSDNveFRoUDlEZ04yLmpwZw",
       "kind": "anime",
       "adult": false
+    },
+    "seihantai-na-kimi-to-boku-dublado": {
+      "slug": "seihantai-na-kimi-to-boku-dublado",
+      "title": "Seihantai na Kimi to Boku Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tZXVzYW5pbWVzLmJsb2cvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTIveHNxYVZmNGR0TVlNOWtjRWdtdGREaVRsa1FsLmpwZw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2411,9 +2418,17 @@
     ],
     "moonrise-dublado": [
       1
+    ],
+    "seihantai-na-kimi-to-boku-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "seihantai-na-kimi-to-boku-dublado",
+      "ep": 1,
+      "at": 1788603365808
+    },
     {
       "slug": "moonrise",
       "ep": 1,
@@ -4332,5 +4347,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788603337771
+  "updatedAt": 1788603366392
 }
