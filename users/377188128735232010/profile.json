@@ -221,6 +221,13 @@
       "kind": "anime",
       "adult": false
     },
+    "5221": {
+      "slug": "5221",
+      "title": "Nige Jouzu no Wakagimi 2nd Season",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL2Fzc2lzdGlyLW5pZ2Utam91enUtbm8td2FrYWdpbWktMm5kLXNlYXNvbi10b2Rvcy1vcy1lcGlzb2Rpb3MtdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbml0dWJlLmpwZw",
+      "kind": "anime",
+      "adult": false
+    },
     "5223": {
       "slug": "5223",
       "title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama",
@@ -1605,6 +1612,9 @@
     "5219": [
       1
     ],
+    "5221": [
+      1
+    ],
     "5223": [
       1
     ],
@@ -2327,6 +2337,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "5221",
+      "ep": 1,
+      "at": 1788568866391
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4195,5 +4210,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788568891686
+  "updatedAt": 1788568899955
 }
