@@ -1502,6 +1502,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDEwNTgwNy1JdmQ3eGM0MFhkR0YuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "rezero-kara-hajimeru-isekai-seikatsu-4-todos-episodios": {
+      "slug": "rezero-kara-hajimeru-isekai-seikatsu-4-todos-episodios",
+      "title": "rezero kara hajimeru isekai seikatsu 4 todos episodios",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wNC9SZS1aZXJvLWthcmEtSGFqaW1lcnUtSXNla2FpLVNlaWthdHN1LTRFcC5qcGc",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2489,6 +2496,7 @@
       15
     ],
     "rezero-kara-hajimeru-isekai-seikatsu-4-todos-episodios": [
+      1,
       15
     ],
     "boruto-naruto-the-movie-2": [
@@ -2573,6 +2581,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "rezero-kara-hajimeru-isekai-seikatsu-4-todos-episodios",
+      "ep": 1,
+      "at": 1788634505208
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4593,5 +4606,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788634477849
+  "updatedAt": 1788634504968
 }
