@@ -1363,6 +1363,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC85MzZXdDFLbllBM0JiUzZoYlVGTGMzNEVQOFYuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "senran-kagura": {
+      "slug": "senran-kagura",
+      "title": "Senran Kagura",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC9zN1lWbjJFTWtRTnQyM25EN1dFWk8wZmplZ04uanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2351,9 +2358,17 @@
     ],
     "bleach-sennen-kessen-hen-soukoku-tan": [
       1
+    ],
+    "senran-kagura": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "senran-kagura",
+      "ep": 1,
+      "at": 1788597496653
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4232,5 +4247,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788597480308
+  "updatedAt": 1788597497857
 }
