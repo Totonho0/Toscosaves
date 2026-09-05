@@ -1530,6 +1530,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1yZXplcm8ta2FyYS1oYWppbWVydS1pc2VrYWktc2Vpa2F0c3Utc2hpbi1oZW5zaHV1LWJhbi10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaW1lc2RpZ2l0YWwuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "rezero-kara-hajimeru-isekai-seikatsu": {
+      "slug": "rezero-kara-hajimeru-isekai-seikatsu",
+      "title": "rezero kara hajimeru isekai seikatsu",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8wMS9SZVplcm8ta2FyYS1IYWppbWVydS1Jc2VrYWktU2Vpa2F0c3UtY2F0ZWdvcmlhLmpwZw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2611,9 +2618,17 @@
     ],
     "rezero-kara-hajimeru-isekai-seikatsu-shin-henshuu-ban": [
       1
+    ],
+    "rezero-kara-hajimeru-isekai-seikatsu": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "rezero-kara-hajimeru-isekai-seikatsu",
+      "ep": 1,
+      "at": 1788634671282
+    },
     {
       "slug": "rezero-kara-hajimeru-isekai-seikatsu-shin-henshuu-ban",
       "ep": 1,
@@ -4664,5 +4679,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788634646962
+  "updatedAt": 1788634670926
 }
