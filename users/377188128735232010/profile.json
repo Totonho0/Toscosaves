@@ -1412,6 +1412,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9tZXVzYW5pbWVzLmJsb2cvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDYveFNuMVZROG52Zjd2SDRxTWgwazJGaUpNcnJ2LmpwZw",
       "kind": "anime",
       "adult": false
+    },
+    "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2nd-season": {
+      "slug": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2nd-season",
+      "title": "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy8xMDAtbWFuLW5vLWlub2NoaS1uby11ZS1uaS1vcmUtd2EtdGF0dGVpcnUtMm5kLXNlYXNvbi53ZWJw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2434,9 +2441,17 @@
     ],
     "koroshi-ai-dublado": [
       1
+    ],
+    "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2nd-season": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2nd-season",
+      "ep": 1,
+      "at": 1788607419732
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4365,5 +4380,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788607394480
+  "updatedAt": 1788607423029
 }
