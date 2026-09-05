@@ -1340,26 +1340,32 @@
       }
     },
     "anime:bleach:3": {
-      "at": 1788601704552,
+      "at": 1788640730576,
       "data": {
         "sources": [
           {
-            "type": "embed",
-            "src": "https://serv01.meusdoramas.club/#/video/30984/1/3/",
-            "playUrl": "https://serv01.meusdoramas.club/#/video/30984/1/3/",
-            "label": "Player",
-            "referer": "https://meusanimes.blog/e/bleach-1-episodio-3/"
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/b/bleach/03.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/2598/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fb%2Fbleach%2F03.mp4%2Findex.m3u8&ref=animesdigital"
+          },
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/b/bleach/03.mp4/index.m3u8",
+            "label": "Servidor 3",
+            "referer": "https://animesdigital.org/video/a/2598/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fb%2Fbleach%2F03.mp4%2Findex.m3u8&ref=animesdigital"
           }
         ],
         "episode": 3,
-        "season": 1,
-        "epInSeason": 3,
         "slug": "bleach",
         "kind": "anime",
-        "provider": "meusanimes",
-        "poster": "https://meusanimes.blog/wp-content/uploads/2025/10/8TiYvjfhQ7ToKRnC49RhPIl9npm.jpg",
-        "episodeUrl": "https://meusanimes.blog/e/bleach-1-episodio-3/",
-        "title": "Bleach"
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-bleach-todos-os-episodios-online-animesdigital.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/2598/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "bleach"
       }
     },
     "anime:bleach:5": {
@@ -3277,6 +3283,35 @@
         "provider": "animefire",
         "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-bleach-todos-os-episodios-online-animesdigital.jpg",
         "episodeUrl": "https://animesdigital.org/video/a/2430/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "bleach"
+      }
+    },
+    "anime:bleach:304": {
+      "at": 1788640732004,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/b/bleach/304.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/2366/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fb%2Fbleach%2F304.mp4%2Findex.m3u8&ref=animesdigital"
+          },
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/b/bleach/304.mp4/index.m3u8",
+            "label": "Servidor 3",
+            "referer": "https://animesdigital.org/video/a/2366/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fb%2Fbleach%2F304.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 304,
+        "slug": "bleach",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-bleach-todos-os-episodios-online-animesdigital.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/2366/",
         "fallbackProvider": "animesdigital",
         "requestedSlug": "bleach"
       }
