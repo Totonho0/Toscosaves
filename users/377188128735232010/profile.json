@@ -1592,6 +1592,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDExNjY3NC1wM3pLNFBVWDJBYWcuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "cowboy-bebop-dublado": {
+      "slug": "cowboy-bebop-dublado",
+      "title": "Cowboy Bebop (Dublado)",
+      "poster": "https://meusanimes.blog/wp-content/uploads/2025/10/hbLDwYri1pyiEIMpICgftu7s8NE.jpg",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2716,9 +2723,17 @@
     "bleach-sennen-kessen-hen-dublado": [
       1,
       13
+    ],
+    "cowboy-bebop-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "cowboy-bebop-dublado",
+      "ep": 1,
+      "at": 1788640913472
+    },
     {
       "slug": "bleach-sennen-kessen-hen-dublado",
       "ep": 13,
@@ -4892,5 +4907,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788640870526
+  "updatedAt": 1788640912968
 }
