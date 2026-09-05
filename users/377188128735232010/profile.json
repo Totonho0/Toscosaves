@@ -1617,6 +1617,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDEzOTY0My1IeldjZTdYSjJ3NkcuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "cardfight-vanguard-asia-circuit-hen": {
+      "slug": "cardfight-vanguard-asia-circuit-hen",
+      "title": "cardfight vanguard asia circuit hen",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1jYXJkZmlnaHQtdmFuZ3VhcmQtYXNpYS1jaXJjdWl0LWhlbi10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaW1lc2RpZ2l0YWwuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2753,9 +2760,17 @@
     ],
     "ame-wo-tsugeru-hyouryuu-danchi": [
       1
+    ],
+    "cardfight-vanguard-asia-circuit-hen": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "cardfight-vanguard-asia-circuit-hen",
+      "ep": 1,
+      "at": 1788641180685
+    },
     {
       "slug": "ame-wo-tsugeru-hyouryuu-danchi",
       "ep": 1,
@@ -4949,5 +4964,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788641148287
+  "updatedAt": 1788641180546
 }
