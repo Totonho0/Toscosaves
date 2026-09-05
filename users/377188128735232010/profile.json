@@ -1370,6 +1370,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC9zN1lWbjJFTWtRTnQyM25EN1dFWk8wZmplZ04uanBn",
       "kind": "anime",
       "adult": false
+    },
+    "is-infinite-stratos-2": {
+      "slug": "is-infinite-stratos-2",
+      "title": "IS: Infinite Stratos 2",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC9kdGsyR3JRbUJiTG9mczZVZmJqeVB2a1ExSDguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2361,9 +2368,17 @@
     ],
     "senran-kagura": [
       1
+    ],
+    "is-infinite-stratos-2": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "is-infinite-stratos-2",
+      "ep": 1,
+      "at": 1788598376564
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4247,5 +4262,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788598350260
+  "updatedAt": 1788598377457
 }
