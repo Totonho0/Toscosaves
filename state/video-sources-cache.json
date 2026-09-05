@@ -1202,6 +1202,48 @@
         "episodeUrl": "https://topanimes.net/episodio/dandadan-episodio-1/",
         "title": "Dandadan"
       }
+    },
+    "anime:dandadan:2": {
+      "at": 1788599040252,
+      "data": {
+        "sources": [
+          {
+            "type": "embed",
+            "src": "https://sk-api.alibabacdn.net/?id=plznH6OxSEBACGPKKcBRE-Dandadan/2&img=https://image.tmdb.org/t/p/w1280/aIgNMI3bAR1yauVFlozRzsRdmxj.jpg",
+            "playUrl": "https://sk-api.alibabacdn.net/?id=plznH6OxSEBACGPKKcBRE-Dandadan/2&img=https://image.tmdb.org/t/p/w1280/aIgNMI3bAR1yauVFlozRzsRdmxj.jpg",
+            "label": "NOA",
+            "referer": "https://topanimes.net/episodio/dandadan-episodio-2/"
+          },
+          {
+            "type": "embed",
+            "src": "https://csst.online/embed/829481",
+            "playUrl": "https://csst.online/embed/829481",
+            "label": "Ruplay",
+            "referer": "https://topanimes.net/episodio/dandadan-episodio-2/"
+          },
+          {
+            "type": "embed",
+            "src": "https://sk-api.alibabacdn.net/?id=plznH6OxSEBACGPKKcBRE-Dandadan/2&img=https://image.tmdb.org/t/p/original/aIgNMI3bAR1yauVFlozRzsRdmxj.jpg",
+            "playUrl": "https://sk-api.alibabacdn.net/?id=plznH6OxSEBACGPKKcBRE-Dandadan/2&img=https://image.tmdb.org/t/p/original/aIgNMI3bAR1yauVFlozRzsRdmxj.jpg",
+            "label": "Embed",
+            "referer": "https://topanimes.net/episodio/dandadan-episodio-2/"
+          },
+          {
+            "type": "embed",
+            "src": "https://csst.online/embed/829481&poster=https://image.tmdb.org/t/p/original/aIgNMI3bAR1yauVFlozRzsRdmxj.jpg",
+            "playUrl": "https://csst.online/embed/829481&poster=https://image.tmdb.org/t/p/original/aIgNMI3bAR1yauVFlozRzsRdmxj.jpg",
+            "label": "Embed",
+            "referer": "https://topanimes.net/episodio/dandadan-episodio-2/"
+          }
+        ],
+        "episode": 2,
+        "slug": "dandadan",
+        "kind": "anime",
+        "provider": "topanimes",
+        "poster": "https://image.tmdb.org/t/p/w500/vtQug1eOyeU2VXIpNoDF1lTlcH4.jpg",
+        "episodeUrl": "https://topanimes.net/episodio/dandadan-episodio-2/",
+        "title": "Dandadan"
+      }
     }
   }
 }
