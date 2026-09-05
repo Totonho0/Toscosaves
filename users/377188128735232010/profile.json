@@ -1426,6 +1426,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9hYS1tZWdhbWktc2FtYS53ZWJw",
       "kind": "anime",
       "adult": false
+    },
+    "air-master": {
+      "slug": "air-master",
+      "title": "Air Master",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9haXItbWFzdGVyLndlYnA",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2457,9 +2464,17 @@
     ],
     "aa-megami-sama": [
       1
+    ],
+    "air-master": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "air-master",
+      "ep": 1,
+      "at": 1788608338789
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4398,5 +4413,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788608330395
+  "updatedAt": 1788608339481
 }
