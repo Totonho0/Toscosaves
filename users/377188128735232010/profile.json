@@ -214,6 +214,13 @@
       "kind": "anime",
       "adult": false
     },
+    "5219": {
+      "slug": "5219",
+      "title": "Zero no Tsukaima",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYW5pdHViZS56aXAvd3AtY29udGVudC91cGxvYWRzL1plcm8tbm8tVHN1a2FpbWEuanBn",
+      "kind": "anime",
+      "adult": false
+    },
     "5223": {
       "slug": "5223",
       "title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama",
@@ -1592,6 +1599,9 @@
       1,
       3
     ],
+    "5219": [
+      1
+    ],
     "5223": [
       1
     ],
@@ -2314,6 +2324,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "5219",
+      "ep": 1,
+      "at": 1788567873620
+    },
     {
       "slug": "1024",
       "ep": 2,
@@ -4177,5 +4192,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788567846777
+  "updatedAt": 1788567888142
 }
