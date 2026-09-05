@@ -1076,6 +1076,34 @@
         "episodeUrl": "https://topanimes.net/episodio/senran-kagura-episodio-1/",
         "title": "Senran Kagura"
       }
+    },
+    "anime:senran-kagura:2": {
+      "at": 1788598613293,
+      "data": {
+        "sources": [
+          {
+            "type": "embed",
+            "src": "https://sk-api.alibabacdn.net/?id=KYXak1NxZzg7BVjbungl1-Senran-Kagura/2&img=https://image.tmdb.org/t/p/w1280/wpsLoxk4N5NvUbScYwgaMDKnHRU.jpg",
+            "playUrl": "https://sk-api.alibabacdn.net/?id=KYXak1NxZzg7BVjbungl1-Senran-Kagura/2&img=https://image.tmdb.org/t/p/w1280/wpsLoxk4N5NvUbScYwgaMDKnHRU.jpg",
+            "label": "Vidstreaming",
+            "referer": "https://topanimes.net/episodio/senran-kagura-episodio-2/"
+          },
+          {
+            "type": "embed",
+            "src": "https://sk-api.alibabacdn.net/?id=KYXak1NxZzg7BVjbungl1-Senran-Kagura/2&img=https://image.tmdb.org/t/p/original/wpsLoxk4N5NvUbScYwgaMDKnHRU.jpg",
+            "playUrl": "https://sk-api.alibabacdn.net/?id=KYXak1NxZzg7BVjbungl1-Senran-Kagura/2&img=https://image.tmdb.org/t/p/original/wpsLoxk4N5NvUbScYwgaMDKnHRU.jpg",
+            "label": "Embed",
+            "referer": "https://topanimes.net/episodio/senran-kagura-episodio-2/"
+          }
+        ],
+        "episode": 2,
+        "slug": "senran-kagura",
+        "kind": "anime",
+        "provider": "topanimes",
+        "poster": "https://image.tmdb.org/t/p/w500/s7YVn2EMkQNt23nD7WEZO0fjegN.jpg",
+        "episodeUrl": "https://topanimes.net/episodio/senran-kagura-episodio-2/",
+        "title": "Senran Kagura"
+      }
     }
   }
 }
