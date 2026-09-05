@@ -1475,6 +1475,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9hcmlmdXJldGEtc2hva3VneW91LWRlLXNla2FpLXNhaWt5b3Uud2VicA",
       "kind": "anime",
       "adult": false
+    },
+    "bleach-sennen-kessen-hen": {
+      "slug": "bleach-sennen-kessen-hen",
+      "title": "Bleach: Sennen Kessen-hen",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC9ndXlTMjhBNEl4d29NWElxM1hqOUFzek1lZlAuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2527,9 +2534,17 @@
     ],
     "arifureta-shokugyou-de-sekai-saikyou": [
       1
+    ],
+    "bleach-sennen-kessen-hen": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "bleach-sennen-kessen-hen",
+      "ep": 1,
+      "at": 1788616506387
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4503,5 +4518,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788616446549
+  "updatedAt": 1788616507505
 }
