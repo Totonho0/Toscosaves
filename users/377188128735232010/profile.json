@@ -1356,6 +1356,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC9uYlRhcXJ6VWRWS3RRZk1rNlE4V3FPRndCczkuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "bleach-sennen-kessen-hen-soukoku-tan": {
+      "slug": "bleach-sennen-kessen-hen-soukoku-tan",
+      "title": "Bleach: Sennen Kessen-hen – Soukoku-tan",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC85MzZXdDFLbllBM0JiUzZoYlVGTGMzNEVQOFYuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2341,9 +2348,17 @@
     ],
     "filmes/assistir-online-os-pinguins-de-madagascar-o-filme": [
       1
+    ],
+    "bleach-sennen-kessen-hen-soukoku-tan": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "bleach-sennen-kessen-hen-soukoku-tan",
+      "ep": 1,
+      "at": 1788597452748
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4217,5 +4232,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788597443528
+  "updatedAt": 1788597453716
 }
