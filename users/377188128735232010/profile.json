@@ -1509,6 +1509,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wNC9SZS1aZXJvLWthcmEtSGFqaW1lcnUtSXNla2FpLVNlaWthdHN1LTRFcC5qcGc",
       "kind": "anime",
       "adult": false
+    },
+    "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru": {
+      "slug": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru",
+      "title": "100 man no inochi no ue ni ore wa tatteiru",
+      "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDExNjI0Mi1KWTgxS2htYnF5c24uanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2578,9 +2585,17 @@
     ],
     "7-seeds": [
       1
+    ],
+    "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru",
+      "ep": 1,
+      "at": 1788634594336
+    },
     {
       "slug": "rezero-kara-hajimeru-isekai-seikatsu-4-todos-episodios",
       "ep": 7,
@@ -4611,5 +4626,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788634517643
+  "updatedAt": 1788634593979
 }
