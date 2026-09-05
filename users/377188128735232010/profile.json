@@ -1454,6 +1454,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9ha2F0c3VraS1uby15b25hLndlYnA",
       "kind": "anime",
       "adult": false
+    },
+    "ansatsu-kyoushitsu-2nd-season": {
+      "slug": "ansatsu-kyoushitsu-2nd-season",
+      "title": "Ansatsu Kyoushitsu 2nd Season",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9hbnNhdHN1LWt5b3VzaGl0c3UtMm5kLXNlYXNvbi53ZWJw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2497,9 +2504,17 @@
     ],
     "akatsuki-no-yona": [
       1
+    ],
+    "ansatsu-kyoushitsu-2nd-season": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "ansatsu-kyoushitsu-2nd-season",
+      "ep": 1,
+      "at": 1788609841337
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -4458,5 +4473,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788609806408
+  "updatedAt": 1788609842766
 }
