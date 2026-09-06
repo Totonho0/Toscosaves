@@ -1686,6 +1686,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNC8xMC9BY3JvLVRyaXBFcC5qcGc",
       "kind": "anime",
       "adult": false
+    },
+    "4-week-lovers": {
+      "slug": "4-week-lovers",
+      "title": "4 week lovers",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvNTAyMTQvcG9zdGVyX2ltYWdlL2xhcmdlLTA4ZThjNzU1YjcwZGE3MzAwMzc1MGRjNzY4OGEwNjcwLmpwZWc",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2856,9 +2863,17 @@
     ],
     "acro-trip": [
       1
+    ],
+    "4-week-lovers": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "4-week-lovers",
+      "ep": 1,
+      "at": 1788732579564
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -5133,5 +5148,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788732561146
+  "updatedAt": 1788732579934
 }
