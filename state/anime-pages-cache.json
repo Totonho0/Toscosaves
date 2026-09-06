@@ -1279,11 +1279,11 @@
       }
     },
     "11eyes": {
-      "at": 1788649750844,
+      "at": 1788719091621,
       "data": {
         "slug": "11eyes",
         "title": "11eyes",
-        "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDY2ODItWnB0Z0xzQ0NOSGpMLmpwZw",
+        "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvcG9zdGVyX2ltYWdlcy84NDk1L2xhcmdlLmpwZw",
         "synopsis": "",
         "episodes": [
           {
@@ -1369,9 +1369,16 @@
             "season": 1,
             "title": "Episódio 12",
             "url": "https://animefire.io/animes/11eyes/12"
+          },
+          {
+            "number": 13,
+            "epInSeason": 13,
+            "season": 1,
+            "title": "Episódio 13",
+            "url": "https://animefire.io/animes/11eyes/13"
           }
         ],
-        "totalEpisodes": 12,
+        "totalEpisodes": 13,
         "defaultEpisode": 1,
         "kind": "anime",
         "provider": "animesdigital",
@@ -1390,7 +1397,8 @@
               9,
               10,
               11,
-              12
+              12,
+              13
             ]
           }
         ]
@@ -1536,7 +1544,7 @@
       }
     },
     "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2nd-season": {
-      "at": 1788649751134,
+      "at": 1788719085781,
       "data": {
         "slug": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2nd-season",
         "title": "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season",
@@ -1632,6 +1640,30 @@
         "defaultEpisode": 1,
         "kind": "anime",
         "provider": "topanimes",
+        "relatedSeasons": [
+          {
+            "slug": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru",
+            "title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
+            "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116242-JY81Khmbqysn.jpg",
+            "season": 1,
+            "part": 0,
+            "final": false,
+            "named": "",
+            "dublado": false,
+            "label": "Temporada 1"
+          },
+          {
+            "slug": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2nd-season",
+            "title": "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season",
+            "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127366-nQRRRvVbPIDt.jpg",
+            "season": 2,
+            "part": 0,
+            "final": false,
+            "named": "",
+            "dublado": false,
+            "label": "Temporada 2"
+          }
+        ],
         "genres": [
           "Ação",
           "Artes Marciais",
@@ -1994,7 +2026,7 @@
       }
     },
     "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2-dublado": {
-      "at": 1788649751601,
+      "at": 1788719085819,
       "data": {
         "slug": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2-dublado",
         "title": "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season",
@@ -2090,6 +2122,30 @@
         "defaultEpisode": 1,
         "kind": "anime",
         "provider": "topanimes",
+        "relatedSeasons": [
+          {
+            "slug": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-dublado",
+            "title": "100-man no Inochi no Ue ni Ore wa Tatteiru (Dublado)",
+            "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116242-JY81Khmbqysn.jpg",
+            "season": 1,
+            "part": 0,
+            "final": false,
+            "named": "",
+            "dublado": true,
+            "label": "Temporada 1"
+          },
+          {
+            "slug": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2-dublado",
+            "title": "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season (Dublado)",
+            "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127366-nQRRRvVbPIDt.jpg",
+            "season": 2,
+            "part": 0,
+            "final": false,
+            "named": "",
+            "dublado": true,
+            "label": "Temporada 2"
+          }
+        ],
         "genres": [
           "Ação",
           "Artes Marciais",
@@ -3215,7 +3271,7 @@
       }
     },
     "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru": {
-      "at": 1788649752811,
+      "at": 1788719086231,
       "data": {
         "slug": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru",
         "title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -3311,6 +3367,30 @@
         "defaultEpisode": 1,
         "kind": "anime",
         "provider": "topanimes",
+        "relatedSeasons": [
+          {
+            "slug": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru",
+            "title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
+            "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116242-JY81Khmbqysn.jpg",
+            "season": 1,
+            "part": 0,
+            "final": false,
+            "named": "",
+            "dublado": false,
+            "label": "Temporada 1"
+          },
+          {
+            "slug": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2nd-season",
+            "title": "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season",
+            "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127366-nQRRRvVbPIDt.jpg",
+            "season": 2,
+            "part": 0,
+            "final": false,
+            "named": "",
+            "dublado": false,
+            "label": "Temporada 2"
+          }
+        ],
         "genres": [
           "Ação",
           "Artes Marciais",
@@ -3534,11 +3614,11 @@
       }
     },
     "3x3-eyes": {
-      "at": 1788649762826,
+      "at": 1788719090108,
       "data": {
         "slug": "3x3-eyes",
         "title": "3x3 eyes",
-        "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDMwMC1zMGZuS0M1cTBFVTQucG5n",
+        "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvcG9zdGVyX2ltYWdlcy8xMTAyL2xhcmdlLmpwZw",
         "synopsis": "",
         "episodes": [
           {
@@ -3561,16 +3641,9 @@
             "season": 1,
             "title": "Episódio 3",
             "url": "https://animefire.io/animes/3x3-eyes/3"
-          },
-          {
-            "number": 4,
-            "epInSeason": 4,
-            "season": 1,
-            "title": "Episódio 4",
-            "url": "https://animefire.io/animes/3x3-eyes/4"
           }
         ],
-        "totalEpisodes": 4,
+        "totalEpisodes": 3,
         "defaultEpisode": 1,
         "kind": "anime",
         "provider": "animesdigital",
@@ -3580,8 +3653,7 @@
             "episodes": [
               1,
               2,
-              3,
-              4
+              3
             ]
           }
         ]
@@ -3844,11 +3916,11 @@
       }
     },
     "86-dublado": {
-      "at": 1788649763687,
+      "at": 1788719094901,
       "data": {
         "slug": "86-dublado",
         "title": "86 dublado",
-        "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDExNjU4OS1LYXdYSEI2c0FwRnQuanBn",
+        "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvNDU1NDUvcG9zdGVyX2ltYWdlL2xhcmdlLWMwODBmYWQxYzY0Zjg2NWE3Mzc3NGZkNmJjZGYzYTU3LmpwZWc",
         "synopsis": "",
         "episodes": [
           {
@@ -3864,72 +3936,9 @@
             "season": 1,
             "title": "Episódio 2",
             "url": "https://animefire.io/animes/86-dublado/2"
-          },
-          {
-            "number": 3,
-            "epInSeason": 3,
-            "season": 1,
-            "title": "Episódio 3",
-            "url": "https://animefire.io/animes/86-dublado/3"
-          },
-          {
-            "number": 4,
-            "epInSeason": 4,
-            "season": 1,
-            "title": "Episódio 4",
-            "url": "https://animefire.io/animes/86-dublado/4"
-          },
-          {
-            "number": 5,
-            "epInSeason": 5,
-            "season": 1,
-            "title": "Episódio 5",
-            "url": "https://animefire.io/animes/86-dublado/5"
-          },
-          {
-            "number": 6,
-            "epInSeason": 6,
-            "season": 1,
-            "title": "Episódio 6",
-            "url": "https://animefire.io/animes/86-dublado/6"
-          },
-          {
-            "number": 7,
-            "epInSeason": 7,
-            "season": 1,
-            "title": "Episódio 7",
-            "url": "https://animefire.io/animes/86-dublado/7"
-          },
-          {
-            "number": 8,
-            "epInSeason": 8,
-            "season": 1,
-            "title": "Episódio 8",
-            "url": "https://animefire.io/animes/86-dublado/8"
-          },
-          {
-            "number": 9,
-            "epInSeason": 9,
-            "season": 1,
-            "title": "Episódio 9",
-            "url": "https://animefire.io/animes/86-dublado/9"
-          },
-          {
-            "number": 10,
-            "epInSeason": 10,
-            "season": 1,
-            "title": "Episódio 10",
-            "url": "https://animefire.io/animes/86-dublado/10"
-          },
-          {
-            "number": 11,
-            "epInSeason": 11,
-            "season": 1,
-            "title": "Episódio 11",
-            "url": "https://animefire.io/animes/86-dublado/11"
           }
         ],
-        "totalEpisodes": 11,
+        "totalEpisodes": 2,
         "defaultEpisode": 1,
         "kind": "anime",
         "provider": "animesdigital",
@@ -3938,27 +3947,18 @@
             "season": 1,
             "episodes": [
               1,
-              2,
-              3,
-              4,
-              5,
-              6,
-              7,
-              8,
-              9,
-              10,
-              11
+              2
             ]
           }
         ]
       }
     },
     "5-toubun-no-hanayome-movie": {
-      "at": 1788649763869,
+      "at": 1788719092258,
       "data": {
         "slug": "5-toubun-no-hanayome-movie",
         "title": "5 toubun no hanayome movie",
-        "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDEzMTUyMC04OVFmbzhKbkdISTMucG5n",
+        "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvNDQyMjkvcG9zdGVyX2ltYWdlL2xhcmdlLTQzZDI4MDg2NzEzNDM0NWNlNGFkNWQ5Yjk4NWE1NGNhLmpwZWc",
         "synopsis": "",
         "episodes": [
           {
@@ -3973,6 +3973,30 @@
         "defaultEpisode": 1,
         "kind": "anime",
         "provider": "animesdigital",
+        "relatedSeasons": [
+          {
+            "slug": "5-toubun-no-hanayome",
+            "title": "5-toubun no Hanayome∽",
+            "poster": "https://image.tmdb.org/t/p/w500/piAsKbSj0mW5a8ZY08ogUNWMYsV.jpg",
+            "season": 1,
+            "part": 0,
+            "final": false,
+            "named": "",
+            "dublado": false,
+            "label": "Temporada 1"
+          },
+          {
+            "slug": "5-toubun-no-hanayome-movie",
+            "title": "5 Toubun No Hanayome Movie",
+            "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131520-89Qfo8JnGHI3.png",
+            "season": 1,
+            "part": 0,
+            "final": false,
+            "named": "",
+            "dublado": false,
+            "label": "Temporada 1"
+          }
+        ],
         "seasons": [
           {
             "season": 1,
@@ -4229,99 +4253,207 @@
       }
     },
     "91-days": {
-      "at": 1788649764268,
+      "at": 1788719087589,
       "data": {
         "slug": "91-days",
         "title": "91 days",
-        "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDIxNzExLUVRTjRzQ0lYUmhLZi5wbmc",
+        "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvcG9zdGVyX2ltYWdlcy8xMjUxNS9sYXJnZS5qcGc",
         "synopsis": "",
         "episodes": [
           {
             "number": 1,
-            "epInSeason": 1,
+            "title": "Days Episódio 01 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79594/",
+            "videoId": "79594",
             "season": 1,
-            "title": "Episódio 1",
-            "url": "https://animefire.io/animes/91-days/1"
+            "epInSeason": 1
           },
           {
             "number": 2,
-            "epInSeason": 2,
+            "title": "Days Episódio 02 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79593/",
+            "videoId": "79593",
             "season": 1,
-            "title": "Episódio 2",
-            "url": "https://animefire.io/animes/91-days/2"
+            "epInSeason": 2
           },
           {
             "number": 3,
-            "epInSeason": 3,
+            "title": "Days Episódio 03 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79592/",
+            "videoId": "79592",
             "season": 1,
-            "title": "Episódio 3",
-            "url": "https://animefire.io/animes/91-days/3"
+            "epInSeason": 3
           },
           {
             "number": 4,
-            "epInSeason": 4,
+            "title": "Days Episódio 04 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79591/",
+            "videoId": "79591",
             "season": 1,
-            "title": "Episódio 4",
-            "url": "https://animefire.io/animes/91-days/4"
+            "epInSeason": 4
           },
           {
             "number": 5,
-            "epInSeason": 5,
+            "title": "Days Episódio 05 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79590/",
+            "videoId": "79590",
             "season": 1,
-            "title": "Episódio 5",
-            "url": "https://animefire.io/animes/91-days/5"
+            "epInSeason": 5
           },
           {
             "number": 6,
-            "epInSeason": 6,
+            "title": "Days Episódio 06 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79589/",
+            "videoId": "79589",
             "season": 1,
-            "title": "Episódio 6",
-            "url": "https://animefire.io/animes/91-days/6"
+            "epInSeason": 6
           },
           {
             "number": 7,
-            "epInSeason": 7,
+            "title": "Days Episódio 07 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79588/",
+            "videoId": "79588",
             "season": 1,
-            "title": "Episódio 7",
-            "url": "https://animefire.io/animes/91-days/7"
+            "epInSeason": 7
           },
           {
             "number": 8,
-            "epInSeason": 8,
+            "title": "Days Episódio 08 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79587/",
+            "videoId": "79587",
             "season": 1,
-            "title": "Episódio 8",
-            "url": "https://animefire.io/animes/91-days/8"
+            "epInSeason": 8
           },
           {
             "number": 9,
-            "epInSeason": 9,
+            "title": "Days Episódio 09 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79586/",
+            "videoId": "79586",
             "season": 1,
-            "title": "Episódio 9",
-            "url": "https://animefire.io/animes/91-days/9"
+            "epInSeason": 9
           },
           {
             "number": 10,
-            "epInSeason": 10,
+            "title": "Days Episódio 10 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79585/",
+            "videoId": "79585",
             "season": 1,
-            "title": "Episódio 10",
-            "url": "https://animefire.io/animes/91-days/10"
+            "epInSeason": 10
           },
           {
             "number": 11,
-            "epInSeason": 11,
+            "title": "Days Episódio 11 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79584/",
+            "videoId": "79584",
             "season": 1,
-            "title": "Episódio 11",
-            "url": "https://animefire.io/animes/91-days/11"
+            "epInSeason": 11
           },
           {
             "number": 12,
-            "epInSeason": 12,
+            "title": "Days Episódio 12 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79583/",
+            "videoId": "79583",
             "season": 1,
-            "title": "Episódio 12",
-            "url": "https://animefire.io/animes/91-days/12"
+            "epInSeason": 12
+          },
+          {
+            "number": 13,
+            "title": "Days Episódio 13 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79582/",
+            "videoId": "79582",
+            "season": 1,
+            "epInSeason": 13
+          },
+          {
+            "number": 14,
+            "title": "Days Episódio 14 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79581/",
+            "videoId": "79581",
+            "season": 1,
+            "epInSeason": 14
+          },
+          {
+            "number": 15,
+            "title": "Days Episódio 15 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79580/",
+            "videoId": "79580",
+            "season": 1,
+            "epInSeason": 15
+          },
+          {
+            "number": 16,
+            "title": "Days Episódio 16 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79579/",
+            "videoId": "79579",
+            "season": 1,
+            "epInSeason": 16
+          },
+          {
+            "number": 17,
+            "title": "Days Episódio 17 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79578/",
+            "videoId": "79578",
+            "season": 1,
+            "epInSeason": 17
+          },
+          {
+            "number": 18,
+            "title": "Days Episódio 18 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79577/",
+            "videoId": "79577",
+            "season": 1,
+            "epInSeason": 18
+          },
+          {
+            "number": 19,
+            "title": "Days Episódio 19 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79576/",
+            "videoId": "79576",
+            "season": 1,
+            "epInSeason": 19
+          },
+          {
+            "number": 20,
+            "title": "Days Episódio 20 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79575/",
+            "videoId": "79575",
+            "season": 1,
+            "epInSeason": 20
+          },
+          {
+            "number": 21,
+            "title": "Days Episódio 21 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79574/",
+            "videoId": "79574",
+            "season": 1,
+            "epInSeason": 21
+          },
+          {
+            "number": 22,
+            "title": "Days Episódio 22 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79573/",
+            "videoId": "79573",
+            "season": 1,
+            "epInSeason": 22
+          },
+          {
+            "number": 23,
+            "title": "Days Episódio 23 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79572/",
+            "videoId": "79572",
+            "season": 1,
+            "epInSeason": 23
+          },
+          {
+            "number": 24,
+            "title": "Days Episódio 24 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/79571/",
+            "videoId": "79571",
+            "season": 1,
+            "epInSeason": 24
           }
         ],
-        "totalEpisodes": 12,
+        "totalEpisodes": 24,
         "defaultEpisode": 1,
         "kind": "anime",
         "provider": "animesdigital",
@@ -4340,96 +4472,119 @@
               9,
               10,
               11,
-              12
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24
             ]
           }
         ]
       }
     },
     "86-eighty-six": {
-      "at": 1788649764302,
+      "at": 1788719083609,
       "data": {
         "slug": "86-eighty-six",
         "title": "86 eighty six",
-        "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDExNjU4OS1LYXdYSEI2c0FwRnQuanBn",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8wNC9hc3Npc3Rpci1laWdodHktc2l4LXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pbWVzLW9ubGluZS5qcGc",
         "synopsis": "",
         "episodes": [
           {
             "number": 1,
-            "epInSeason": 1,
+            "title": "Eighty Six Episódio 01 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/73716/",
+            "videoId": "73716",
             "season": 1,
-            "title": "Episódio 1",
-            "url": "https://animefire.io/animes/86-eighty-six/1"
+            "epInSeason": 1
           },
           {
             "number": 2,
-            "epInSeason": 2,
+            "title": "Eighty Six Episódio 02 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/73715/",
+            "videoId": "73715",
             "season": 1,
-            "title": "Episódio 2",
-            "url": "https://animefire.io/animes/86-eighty-six/2"
+            "epInSeason": 2
           },
           {
             "number": 3,
-            "epInSeason": 3,
+            "title": "Eighty Six Episódio 03 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/73714/",
+            "videoId": "73714",
             "season": 1,
-            "title": "Episódio 3",
-            "url": "https://animefire.io/animes/86-eighty-six/3"
+            "epInSeason": 3
           },
           {
             "number": 4,
-            "epInSeason": 4,
+            "title": "Eighty Six Episódio 04 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/73713/",
+            "videoId": "73713",
             "season": 1,
-            "title": "Episódio 4",
-            "url": "https://animefire.io/animes/86-eighty-six/4"
+            "epInSeason": 4
           },
           {
             "number": 5,
-            "epInSeason": 5,
+            "title": "Eighty Six Episódio 05 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/73712/",
+            "videoId": "73712",
             "season": 1,
-            "title": "Episódio 5",
-            "url": "https://animefire.io/animes/86-eighty-six/5"
+            "epInSeason": 5
           },
           {
             "number": 6,
-            "epInSeason": 6,
+            "title": "Eighty Six Episódio 06 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/73711/",
+            "videoId": "73711",
             "season": 1,
-            "title": "Episódio 6",
-            "url": "https://animefire.io/animes/86-eighty-six/6"
+            "epInSeason": 6
           },
           {
             "number": 7,
-            "epInSeason": 7,
+            "title": "Eighty Six Episódio 07 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/73710/",
+            "videoId": "73710",
             "season": 1,
-            "title": "Episódio 7",
-            "url": "https://animefire.io/animes/86-eighty-six/7"
+            "epInSeason": 7
           },
           {
             "number": 8,
-            "epInSeason": 8,
+            "title": "Eighty Six Episódio 08 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/73709/",
+            "videoId": "73709",
             "season": 1,
-            "title": "Episódio 8",
-            "url": "https://animefire.io/animes/86-eighty-six/8"
+            "epInSeason": 8
           },
           {
             "number": 9,
-            "epInSeason": 9,
+            "title": "Eighty Six Episódio 09 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/73708/",
+            "videoId": "73708",
             "season": 1,
-            "title": "Episódio 9",
-            "url": "https://animefire.io/animes/86-eighty-six/9"
+            "epInSeason": 9
           },
           {
             "number": 10,
-            "epInSeason": 10,
+            "title": "Eighty Six Episódio 10 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/73707/",
+            "videoId": "73707",
             "season": 1,
-            "title": "Episódio 10",
-            "url": "https://animefire.io/animes/86-eighty-six/10"
+            "epInSeason": 10
           },
           {
             "number": 11,
-            "epInSeason": 11,
+            "title": "Eighty Six Episódio 11 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/73706/",
+            "videoId": "73706",
             "season": 1,
-            "title": "Episódio 11",
-            "url": "https://animefire.io/animes/86-eighty-six/11"
+            "epInSeason": 11
           }
         ],
         "totalEpisodes": 11,
@@ -5957,96 +6112,108 @@
       }
     },
     "3-nen-z-gumi-ginpachi-sensei": {
-      "at": 1788649767382,
+      "at": 1788719083146,
       "data": {
         "slug": "3-nen-z-gumi-ginpachi-sensei",
         "title": "3 nen z gumi ginpachi sensei",
-        "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDE2Mjg5MC12RFJsbzFLdVJNNlcuanBn",
+        "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvNDc5NDcvcG9zdGVyX2ltYWdlL2xhcmdlLTkzNTEzZTQ0NGQ5NGFkNzIzM2ZjNWY4MmJmMjhlMmY5LmpwZWc",
         "synopsis": "",
         "episodes": [
           {
             "number": 1,
-            "epInSeason": 1,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 01 11 meses atrás",
+            "url": "https://animesdigital.org/video/a/132721/",
+            "videoId": "132721",
             "season": 1,
-            "title": "Episódio 1",
-            "url": "https://animefire.io/animes/3-nen-z-gumi-ginpachi-sensei/1"
+            "epInSeason": 1
           },
           {
             "number": 2,
-            "epInSeason": 2,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 02 11 meses atrás",
+            "url": "https://animesdigital.org/video/a/132841/",
+            "videoId": "132841",
             "season": 1,
-            "title": "Episódio 2",
-            "url": "https://animefire.io/animes/3-nen-z-gumi-ginpachi-sensei/2"
+            "epInSeason": 2
           },
           {
             "number": 3,
-            "epInSeason": 3,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 03 11 meses atrás",
+            "url": "https://animesdigital.org/video/a/132920/",
+            "videoId": "132920",
             "season": 1,
-            "title": "Episódio 3",
-            "url": "https://animefire.io/animes/3-nen-z-gumi-ginpachi-sensei/3"
+            "epInSeason": 3
           },
           {
             "number": 4,
-            "epInSeason": 4,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 04 10 meses atrás",
+            "url": "https://animesdigital.org/video/a/133002/",
+            "videoId": "133002",
             "season": 1,
-            "title": "Episódio 4",
-            "url": "https://animefire.io/animes/3-nen-z-gumi-ginpachi-sensei/4"
+            "epInSeason": 4
           },
           {
             "number": 5,
-            "epInSeason": 5,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 05 10 meses atrás",
+            "url": "https://animesdigital.org/video/a/133089/",
+            "videoId": "133089",
             "season": 1,
-            "title": "Episódio 5",
-            "url": "https://animefire.io/animes/3-nen-z-gumi-ginpachi-sensei/5"
+            "epInSeason": 5
           },
           {
             "number": 6,
-            "epInSeason": 6,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 06 10 meses atrás",
+            "url": "https://animesdigital.org/video/a/133199/",
+            "videoId": "133199",
             "season": 1,
-            "title": "Episódio 6",
-            "url": "https://animefire.io/animes/3-nen-z-gumi-ginpachi-sensei/6"
+            "epInSeason": 6
           },
           {
             "number": 7,
-            "epInSeason": 7,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 07 10 meses atrás",
+            "url": "https://animesdigital.org/video/a/133272/",
+            "videoId": "133272",
             "season": 1,
-            "title": "Episódio 7",
-            "url": "https://animefire.io/animes/3-nen-z-gumi-ginpachi-sensei/7"
+            "epInSeason": 7
           },
           {
             "number": 8,
-            "epInSeason": 8,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 08 10 meses atrás",
+            "url": "https://animesdigital.org/video/a/133341/",
+            "videoId": "133341",
             "season": 1,
-            "title": "Episódio 8",
-            "url": "https://animefire.io/animes/3-nen-z-gumi-ginpachi-sensei/8"
+            "epInSeason": 8
           },
           {
             "number": 9,
-            "epInSeason": 9,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 09 9 meses atrás",
+            "url": "https://animesdigital.org/video/a/133431/",
+            "videoId": "133431",
             "season": 1,
-            "title": "Episódio 9",
-            "url": "https://animefire.io/animes/3-nen-z-gumi-ginpachi-sensei/9"
+            "epInSeason": 9
           },
           {
             "number": 10,
-            "epInSeason": 10,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 10 9 meses atrás",
+            "url": "https://animesdigital.org/video/a/133528/",
+            "videoId": "133528",
             "season": 1,
-            "title": "Episódio 10",
-            "url": "https://animefire.io/animes/3-nen-z-gumi-ginpachi-sensei/10"
+            "epInSeason": 10
           },
           {
             "number": 11,
-            "epInSeason": 11,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 11 9 meses atrás",
+            "url": "https://animesdigital.org/video/a/133651/",
+            "videoId": "133651",
             "season": 1,
-            "title": "Episódio 11",
-            "url": "https://animefire.io/animes/3-nen-z-gumi-ginpachi-sensei/11"
+            "epInSeason": 11
           },
           {
             "number": 12,
-            "epInSeason": 12,
+            "title": "3-nen Z-gumi Ginpachi-sensei Episódio 12 9 meses atrás",
+            "url": "https://animesdigital.org/video/a/133726/",
+            "videoId": "133726",
             "season": 1,
-            "title": "Episódio 12",
-            "url": "https://animefire.io/animes/3-nen-z-gumi-ginpachi-sensei/12"
+            "epInSeason": 12
           }
         ],
         "totalEpisodes": 12,
@@ -6075,22 +6242,119 @@
       }
     },
     "22-7-8-3": {
-      "at": 1788649767595,
+      "at": 1788719090930,
       "data": {
         "slug": "22-7-8-3",
         "title": "22 7 8 3",
-        "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDExNDI0OS1JRjRjaEszVTk4MmEuanBn",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci0yMi03LXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pbWVzZGlnaXRhbC5qcGc",
         "synopsis": "",
         "episodes": [
           {
             "number": 1,
-            "epInSeason": 1,
+            "title": "22/7 Episódio 01 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3617/",
+            "videoId": "3617",
             "season": 1,
-            "title": "Episódio 1",
-            "url": "https://animefire.io/animes/22-7-8-3/1"
+            "epInSeason": 1
+          },
+          {
+            "number": 2,
+            "title": "22/7 Episódio 02 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3616/",
+            "videoId": "3616",
+            "season": 1,
+            "epInSeason": 2
+          },
+          {
+            "number": 3,
+            "title": "22/7 Episódio 03 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3615/",
+            "videoId": "3615",
+            "season": 1,
+            "epInSeason": 3
+          },
+          {
+            "number": 4,
+            "title": "22/7 Episódio 04 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3614/",
+            "videoId": "3614",
+            "season": 1,
+            "epInSeason": 4
+          },
+          {
+            "number": 5,
+            "title": "22/7 Episódio 05 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3613/",
+            "videoId": "3613",
+            "season": 1,
+            "epInSeason": 5
+          },
+          {
+            "number": 6,
+            "title": "22/7 Episódio 06 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3612/",
+            "videoId": "3612",
+            "season": 1,
+            "epInSeason": 6
+          },
+          {
+            "number": 7,
+            "title": "22/7 Episódio 07 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3611/",
+            "videoId": "3611",
+            "season": 1,
+            "epInSeason": 7
+          },
+          {
+            "number": 8,
+            "title": "22/7 Episódio 08 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3610/",
+            "videoId": "3610",
+            "season": 1,
+            "epInSeason": 8
+          },
+          {
+            "number": 9,
+            "title": "22/7 Episódio 09 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3609/",
+            "videoId": "3609",
+            "season": 1,
+            "epInSeason": 9
+          },
+          {
+            "number": 10,
+            "title": "22/7 Episódio 10 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3608/",
+            "videoId": "3608",
+            "season": 1,
+            "epInSeason": 10
+          },
+          {
+            "number": 11,
+            "title": "22/7 Episódio 11 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3607/",
+            "videoId": "3607",
+            "season": 1,
+            "epInSeason": 11
+          },
+          {
+            "number": 12,
+            "title": "22/7 Episódio 12 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3606/",
+            "videoId": "3606",
+            "season": 1,
+            "epInSeason": 12
+          },
+          {
+            "number": 13,
+            "title": "22/7 Episódio 13 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3605/",
+            "videoId": "3605",
+            "season": 1,
+            "epInSeason": 13
           }
         ],
-        "totalEpisodes": 1,
+        "totalEpisodes": 13,
         "defaultEpisode": 1,
         "kind": "anime",
         "provider": "animesdigital",
@@ -6098,103 +6362,127 @@
           {
             "season": 1,
             "episodes": [
-              1
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
             ]
           }
         ]
       }
     },
     "7-seeds": {
-      "at": 1788649767772,
+      "at": 1788719085351,
       "data": {
         "slug": "7-seeds",
         "title": "7 seeds",
-        "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDEwNTgwNy1JdmQ3eGM0MFhkR0YuanBn",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci03LXNlZWRzLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pbWVzZGlnaXRhbC5qcGc",
         "synopsis": "",
         "episodes": [
           {
             "number": 1,
-            "epInSeason": 1,
+            "title": "7 Seeds Episódio 01 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3602/",
+            "videoId": "3602",
             "season": 1,
-            "title": "Episódio 1",
-            "url": "https://animefire.io/animes/7-seeds/1"
+            "epInSeason": 1
           },
           {
             "number": 2,
-            "epInSeason": 2,
+            "title": "7 Seeds Episódio 02 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3601/",
+            "videoId": "3601",
             "season": 1,
-            "title": "Episódio 2",
-            "url": "https://animefire.io/animes/7-seeds/2"
+            "epInSeason": 2
           },
           {
             "number": 3,
-            "epInSeason": 3,
+            "title": "7 Seeds Episódio 03 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3600/",
+            "videoId": "3600",
             "season": 1,
-            "title": "Episódio 3",
-            "url": "https://animefire.io/animes/7-seeds/3"
+            "epInSeason": 3
           },
           {
             "number": 4,
-            "epInSeason": 4,
+            "title": "7 Seeds Episódio 04 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3599/",
+            "videoId": "3599",
             "season": 1,
-            "title": "Episódio 4",
-            "url": "https://animefire.io/animes/7-seeds/4"
+            "epInSeason": 4
           },
           {
             "number": 5,
-            "epInSeason": 5,
+            "title": "7 Seeds Episódio 05 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3598/",
+            "videoId": "3598",
             "season": 1,
-            "title": "Episódio 5",
-            "url": "https://animefire.io/animes/7-seeds/5"
+            "epInSeason": 5
           },
           {
             "number": 6,
-            "epInSeason": 6,
+            "title": "7 Seeds Episódio 06 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3597/",
+            "videoId": "3597",
             "season": 1,
-            "title": "Episódio 6",
-            "url": "https://animefire.io/animes/7-seeds/6"
+            "epInSeason": 6
           },
           {
             "number": 7,
-            "epInSeason": 7,
+            "title": "7 Seeds Episódio 07 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3596/",
+            "videoId": "3596",
             "season": 1,
-            "title": "Episódio 7",
-            "url": "https://animefire.io/animes/7-seeds/7"
+            "epInSeason": 7
           },
           {
             "number": 8,
-            "epInSeason": 8,
+            "title": "7 Seeds Episódio 08 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3595/",
+            "videoId": "3595",
             "season": 1,
-            "title": "Episódio 8",
-            "url": "https://animefire.io/animes/7-seeds/8"
+            "epInSeason": 8
           },
           {
             "number": 9,
-            "epInSeason": 9,
+            "title": "7 Seeds Episódio 09 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3594/",
+            "videoId": "3594",
             "season": 1,
-            "title": "Episódio 9",
-            "url": "https://animefire.io/animes/7-seeds/9"
+            "epInSeason": 9
           },
           {
             "number": 10,
-            "epInSeason": 10,
+            "title": "7 Seeds Episódio 10 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3593/",
+            "videoId": "3593",
             "season": 1,
-            "title": "Episódio 10",
-            "url": "https://animefire.io/animes/7-seeds/10"
+            "epInSeason": 10
           },
           {
             "number": 11,
-            "epInSeason": 11,
+            "title": "7 Seeds Episódio 11 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3592/",
+            "videoId": "3592",
             "season": 1,
-            "title": "Episódio 11",
-            "url": "https://animefire.io/animes/7-seeds/11"
+            "epInSeason": 11
           },
           {
             "number": 12,
-            "epInSeason": 12,
+            "title": "7 Seeds Episódio 12 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/3591/",
+            "videoId": "3591",
             "season": 1,
-            "title": "Episódio 12",
-            "url": "https://animefire.io/animes/7-seeds/12"
+            "epInSeason": 12
           }
         ],
         "totalEpisodes": 12,
@@ -6223,172 +6511,122 @@
       }
     },
     "3-gatsu-no-lion-2": {
-      "at": 1788649767944,
+      "at": 1788719088322,
       "data": {
         "slug": "3-gatsu-no-lion-2",
         "title": "3 gatsu no lion 2",
-        "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDk4NDc4LVl1YTVpTDl6YnJqaS5qcGc",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMS9hc3Npc3Rpci0zLWNob3VtZS1uby10YW1hLXVjaGktbm8tdGFtYS1zaGlyaW1hc2VuLWthLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pbWVzZGlnaXRhbC5qcGc",
         "synopsis": "",
         "episodes": [
           {
             "number": 1,
-            "epInSeason": 1,
+            "title": "3 Choume no Tama: Uchi no Tama Shirimasen ka? Episódio 01 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41478/",
+            "videoId": "41478",
             "season": 1,
-            "title": "Episódio 1",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion-2/1"
+            "epInSeason": 1
           },
           {
             "number": 2,
-            "epInSeason": 2,
+            "title": "3 Choume no Tama: Uchi no Tama Shirimasen ka? Episódio 02 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41477/",
+            "videoId": "41477",
             "season": 1,
-            "title": "Episódio 2",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion-2/2"
+            "epInSeason": 2
           },
           {
             "number": 3,
-            "epInSeason": 3,
+            "title": "3 Choume no Tama: Uchi no Tama Shirimasen ka? Episódio 03 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41476/",
+            "videoId": "41476",
             "season": 1,
-            "title": "Episódio 3",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion-2/3"
+            "epInSeason": 3
           },
           {
             "number": 4,
-            "epInSeason": 4,
+            "title": "3 Choume no Tama: Uchi no Tama Shirimasen ka? Episódio 04 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41475/",
+            "videoId": "41475",
             "season": 1,
-            "title": "Episódio 4",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion-2/4"
+            "epInSeason": 4
           },
           {
             "number": 5,
-            "epInSeason": 5,
+            "title": "3 Choume no Tama: Uchi no Tama Shirimasen ka? Episódio 05 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41474/",
+            "videoId": "41474",
             "season": 1,
-            "title": "Episódio 5",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion-2/5"
+            "epInSeason": 5
           },
           {
             "number": 6,
-            "epInSeason": 6,
+            "title": "3 Choume no Tama: Uchi no Tama Shirimasen ka? Episódio 06 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41473/",
+            "videoId": "41473",
             "season": 1,
-            "title": "Episódio 6",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion-2/6"
+            "epInSeason": 6
           },
           {
             "number": 7,
-            "epInSeason": 7,
+            "title": "3 Choume no Tama: Uchi no Tama Shirimasen ka? Episódio 07 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41472/",
+            "videoId": "41472",
             "season": 1,
-            "title": "Episódio 7",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion-2/7"
+            "epInSeason": 7
           },
           {
             "number": 8,
-            "epInSeason": 8,
+            "title": "3 Choume no Tama: Uchi no Tama Shirimasen ka? Episódio 08 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41471/",
+            "videoId": "41471",
             "season": 1,
-            "title": "Episódio 8",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion-2/8"
+            "epInSeason": 8
           },
           {
             "number": 9,
-            "epInSeason": 9,
+            "title": "3 Choume no Tama: Uchi no Tama Shirimasen ka? Episódio 09 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41470/",
+            "videoId": "41470",
             "season": 1,
-            "title": "Episódio 9",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion-2/9"
+            "epInSeason": 9
           },
           {
             "number": 10,
-            "epInSeason": 10,
+            "title": "3 Choume no Tama: Uchi no Tama Shirimasen ka? Episódio 10 5 anos atrás",
+            "url": "https://animesdigital.org/video/a/41469/",
+            "videoId": "41469",
             "season": 1,
-            "title": "Episódio 10",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion-2/10"
-          },
-          {
-            "number": 11,
-            "epInSeason": 11,
-            "season": 1,
-            "title": "Episódio 11",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion-2/11"
-          },
-          {
-            "number": 12,
-            "epInSeason": 12,
-            "season": 1,
-            "title": "Episódio 12",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion-2/12"
-          },
-          {
-            "number": 13,
-            "epInSeason": 13,
-            "season": 1,
-            "title": "Episódio 13",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion-2/13"
-          },
-          {
-            "number": 14,
-            "epInSeason": 14,
-            "season": 1,
-            "title": "Episódio 14",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion-2/14"
-          },
-          {
-            "number": 15,
-            "epInSeason": 15,
-            "season": 1,
-            "title": "Episódio 15",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion-2/15"
-          },
-          {
-            "number": 16,
-            "epInSeason": 16,
-            "season": 1,
-            "title": "Episódio 16",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion-2/16"
-          },
-          {
-            "number": 17,
-            "epInSeason": 17,
-            "season": 1,
-            "title": "Episódio 17",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion-2/17"
-          },
-          {
-            "number": 18,
-            "epInSeason": 18,
-            "season": 1,
-            "title": "Episódio 18",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion-2/18"
-          },
-          {
-            "number": 19,
-            "epInSeason": 19,
-            "season": 1,
-            "title": "Episódio 19",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion-2/19"
-          },
-          {
-            "number": 20,
-            "epInSeason": 20,
-            "season": 1,
-            "title": "Episódio 20",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion-2/20"
-          },
-          {
-            "number": 21,
-            "epInSeason": 21,
-            "season": 1,
-            "title": "Episódio 21",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion-2/21"
-          },
-          {
-            "number": 22,
-            "epInSeason": 22,
-            "season": 1,
-            "title": "Episódio 22",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion-2/22"
+            "epInSeason": 10
           }
         ],
-        "totalEpisodes": 22,
+        "totalEpisodes": 10,
         "defaultEpisode": 1,
         "kind": "anime",
         "provider": "animesdigital",
+        "relatedSeasons": [
+          {
+            "slug": "3-gatsu-no-lion",
+            "title": "3-gatsu no Lion",
+            "poster": "https://image.tmdb.org/t/p/w500/4LTg5dLXnHwbNcFyOTnXvMpSs4q.jpg",
+            "season": 1,
+            "part": 0,
+            "final": false,
+            "named": "",
+            "dublado": false,
+            "label": "Temporada 1"
+          },
+          {
+            "slug": "3-gatsu-no-lion-2",
+            "title": "3-gatsu no Lion 2",
+            "poster": "https://image.tmdb.org/t/p/w500/zC4QhC2RlrwFLy4mBtgee7vZ8oR.jpg",
+            "season": 2,
+            "part": 0,
+            "final": false,
+            "named": "",
+            "dublado": false,
+            "label": "Temporada 2"
+          }
+        ],
         "seasons": [
           {
             "season": 1,
@@ -6402,30 +6640,18 @@
               7,
               8,
               9,
-              10,
-              11,
-              12,
-              13,
-              14,
-              15,
-              16,
-              17,
-              18,
-              19,
-              20,
-              21,
-              22
+              10
             ]
           }
         ]
       }
     },
     "3-gatsu-no-lion": {
-      "at": 1788649768120,
+      "at": 1788719092840,
       "data": {
         "slug": "3-gatsu-no-lion",
         "title": "3 gatsu no lion",
-        "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDIxMzY2LTB3cllLMGtqS2VGbi5qcGc",
+        "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvNDc3ODUvcG9zdGVyX2ltYWdlL2xhcmdlLWQ3ZmI0NWJhMDBlNmE5MWI3YmZhNjI0ZWVjMjdhMzg0LmpwZWc",
         "synopsis": "",
         "episodes": [
           {
@@ -6497,96 +6723,36 @@
             "season": 1,
             "title": "Episódio 10",
             "url": "https://animefire.io/animes/3-gatsu-no-lion/10"
-          },
-          {
-            "number": 11,
-            "epInSeason": 11,
-            "season": 1,
-            "title": "Episódio 11",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion/11"
-          },
-          {
-            "number": 12,
-            "epInSeason": 12,
-            "season": 1,
-            "title": "Episódio 12",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion/12"
-          },
-          {
-            "number": 13,
-            "epInSeason": 13,
-            "season": 1,
-            "title": "Episódio 13",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion/13"
-          },
-          {
-            "number": 14,
-            "epInSeason": 14,
-            "season": 1,
-            "title": "Episódio 14",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion/14"
-          },
-          {
-            "number": 15,
-            "epInSeason": 15,
-            "season": 1,
-            "title": "Episódio 15",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion/15"
-          },
-          {
-            "number": 16,
-            "epInSeason": 16,
-            "season": 1,
-            "title": "Episódio 16",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion/16"
-          },
-          {
-            "number": 17,
-            "epInSeason": 17,
-            "season": 1,
-            "title": "Episódio 17",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion/17"
-          },
-          {
-            "number": 18,
-            "epInSeason": 18,
-            "season": 1,
-            "title": "Episódio 18",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion/18"
-          },
-          {
-            "number": 19,
-            "epInSeason": 19,
-            "season": 1,
-            "title": "Episódio 19",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion/19"
-          },
-          {
-            "number": 20,
-            "epInSeason": 20,
-            "season": 1,
-            "title": "Episódio 20",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion/20"
-          },
-          {
-            "number": 21,
-            "epInSeason": 21,
-            "season": 1,
-            "title": "Episódio 21",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion/21"
-          },
-          {
-            "number": 22,
-            "epInSeason": 22,
-            "season": 1,
-            "title": "Episódio 22",
-            "url": "https://animefire.io/animes/3-gatsu-no-lion/22"
           }
         ],
-        "totalEpisodes": 22,
+        "totalEpisodes": 10,
         "defaultEpisode": 1,
         "kind": "anime",
         "provider": "animesdigital",
+        "relatedSeasons": [
+          {
+            "slug": "3-gatsu-no-lion",
+            "title": "3-gatsu no Lion",
+            "poster": "https://image.tmdb.org/t/p/w500/4LTg5dLXnHwbNcFyOTnXvMpSs4q.jpg",
+            "season": 1,
+            "part": 0,
+            "final": false,
+            "named": "",
+            "dublado": false,
+            "label": "Temporada 1"
+          },
+          {
+            "slug": "3-gatsu-no-lion-2",
+            "title": "3-gatsu no Lion 2",
+            "poster": "https://image.tmdb.org/t/p/w500/zC4QhC2RlrwFLy4mBtgee7vZ8oR.jpg",
+            "season": 2,
+            "part": 0,
+            "final": false,
+            "named": "",
+            "dublado": false,
+            "label": "Temporada 2"
+          }
+        ],
         "seasons": [
           {
             "season": 1,
@@ -6600,30 +6766,18 @@
               7,
               8,
               9,
-              10,
-              11,
-              12,
-              13,
-              14,
-              15,
-              16,
-              17,
-              18,
-              19,
-              20,
-              21,
-              22
+              10
             ]
           }
         ]
       }
     },
     "4-cut-hero": {
-      "at": 1788649768295,
+      "at": 1788719094418,
       "data": {
         "slug": "4-cut-hero",
         "title": "4 cut hero",
-        "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDE1NjA5Ni1HTWhOaFl0c1hHaFYuanBn",
+        "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvNDY4MDEvcG9zdGVyX2ltYWdlL2xhcmdlLTNjOTY1ZTcyMTk1NzUzZjA2MjgzNTk1OWU2ZjQxNmU5LmpwZWc",
         "synopsis": "",
         "episodes": [
           {
@@ -6721,85 +6875,103 @@
       }
     },
     "4-week-lovers": {
-      "at": 1788649768473,
+      "at": 1788719093793,
       "data": {
         "slug": "4-week-lovers",
         "title": "4 week lovers",
-        "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9tZWRpdW0vYjE4NDI5MC14VGtPaHdjVDNHVDIuanBn",
+        "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvNTAyMTQvcG9zdGVyX2ltYWdlL2xhcmdlLTA4ZThjNzU1YjcwZGE3MzAwMzc1MGRjNzY4OGEwNjcwLmpwZWc",
         "synopsis": "",
         "episodes": [
           {
             "number": 1,
-            "epInSeason": 1,
+            "title": "4-nin wa Sorezore Uso wo Tsuku Episódio 01 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/64714/",
+            "videoId": "64714",
             "season": 1,
-            "title": "Episódio 1",
-            "url": "https://animefire.io/animes/4-week-lovers/1"
+            "epInSeason": 1
           },
           {
             "number": 2,
-            "epInSeason": 2,
+            "title": "4-nin wa Sorezore Uso wo Tsuku Episódio 02 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/65028/",
+            "videoId": "65028",
             "season": 1,
-            "title": "Episódio 2",
-            "url": "https://animefire.io/animes/4-week-lovers/2"
+            "epInSeason": 2
           },
           {
             "number": 3,
-            "epInSeason": 3,
+            "title": "4-nin wa Sorezore Uso wo Tsuku Episódio 03 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/65029/",
+            "videoId": "65029",
             "season": 1,
-            "title": "Episódio 3",
-            "url": "https://animefire.io/animes/4-week-lovers/3"
+            "epInSeason": 3
           },
           {
             "number": 4,
-            "epInSeason": 4,
+            "title": "4-nin wa Sorezore Uso wo Tsuku Episódio 04 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/65138/",
+            "videoId": "65138",
             "season": 1,
-            "title": "Episódio 4",
-            "url": "https://animefire.io/animes/4-week-lovers/4"
+            "epInSeason": 4
           },
           {
             "number": 5,
-            "epInSeason": 5,
+            "title": "4-nin wa Sorezore Uso wo Tsuku Episódio 05 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/65219/",
+            "videoId": "65219",
             "season": 1,
-            "title": "Episódio 5",
-            "url": "https://animefire.io/animes/4-week-lovers/5"
+            "epInSeason": 5
           },
           {
             "number": 6,
-            "epInSeason": 6,
+            "title": "4-nin wa Sorezore Uso wo Tsuku Episódio 06 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/65344/",
+            "videoId": "65344",
             "season": 1,
-            "title": "Episódio 6",
-            "url": "https://animefire.io/animes/4-week-lovers/6"
+            "epInSeason": 6
           },
           {
             "number": 7,
-            "epInSeason": 7,
+            "title": "4-nin wa Sorezore Uso wo Tsuku Episódio 07 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/65433/",
+            "videoId": "65433",
             "season": 1,
-            "title": "Episódio 7",
-            "url": "https://animefire.io/animes/4-week-lovers/7"
+            "epInSeason": 7
           },
           {
             "number": 8,
-            "epInSeason": 8,
+            "title": "4-nin wa Sorezore Uso wo Tsuku Episódio 08 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/65518/",
+            "videoId": "65518",
             "season": 1,
-            "title": "Episódio 8",
-            "url": "https://animefire.io/animes/4-week-lovers/8"
+            "epInSeason": 8
           },
           {
             "number": 9,
-            "epInSeason": 9,
+            "title": "4-nin wa Sorezore Uso wo Tsuku Episódio 09 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/65653/",
+            "videoId": "65653",
             "season": 1,
-            "title": "Episódio 9",
-            "url": "https://animefire.io/animes/4-week-lovers/9"
+            "epInSeason": 9
           },
           {
             "number": 10,
-            "epInSeason": 10,
+            "title": "4-nin wa Sorezore Uso wo Tsuku Episódio 10 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/65740/",
+            "videoId": "65740",
             "season": 1,
-            "title": "Episódio 10",
-            "url": "https://animefire.io/animes/4-week-lovers/10"
+            "epInSeason": 10
+          },
+          {
+            "number": 11,
+            "title": "4-nin wa Sorezore Uso wo Tsuku Episódio 11 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/65845/",
+            "videoId": "65845",
+            "season": 1,
+            "epInSeason": 11
           }
         ],
-        "totalEpisodes": 10,
+        "totalEpisodes": 11,
         "defaultEpisode": 1,
         "kind": "anime",
         "provider": "animesdigital",
@@ -6816,7 +6988,8 @@
               7,
               8,
               9,
-              10
+              10,
+              11
             ]
           }
         ]
