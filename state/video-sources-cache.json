@@ -4831,6 +4831,28 @@
         "fallbackProvider": "animesdigital",
         "requestedSlug": "absolute-duo"
       }
+    },
+    "anime:aharen-san-wa-hakarenai:1": {
+      "at": 1788688928415,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/a/aharen-san-wa-hakarenai/01.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/55965/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fa%2Faharen-san-wa-hakarenai%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "aharen-san-wa-hakarenai",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2022/04/assistir-aharen-san-wa-hakarenai-todos-os-episodios-online-animes-online.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/55965/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "aharen-san-wa-hakarenai"
+      }
     }
   }
 }
