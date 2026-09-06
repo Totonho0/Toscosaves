@@ -4926,6 +4926,28 @@
         "fallbackProvider": "animesdigital",
         "requestedSlug": "hack-sign"
       }
+    },
+    "anime:alice-to-therese-no-maboroshi-koujou:1": {
+      "at": 1788689087479,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/a/alice-to-therese-no-maboroshi-koujou/01.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/110654/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fa%2Falice-to-therese-no-maboroshi-koujou%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "alice-to-therese-no-maboroshi-koujou",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": null,
+        "episodeUrl": "https://animesdigital.org/video/a/110654/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "alice-to-therese-no-maboroshi-koujou"
+      }
     }
   }
 }
