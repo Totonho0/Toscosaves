@@ -4897,6 +4897,35 @@
         "fallbackProvider": "animesdigital",
         "requestedSlug": "aharen-san-wa-hakarenai"
       }
+    },
+    "anime:hack-sign:1": {
+      "at": 1788689038587,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/1/hack-sign-dublado/01.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/23481/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2F1%2Fhack-sign-dublado%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          },
+          {
+            "type": "mp4",
+            "src": "https://rr4---sn-n4v7snls.googlevideo.com/videoplayback?expire=1788717811&ei=czqdaqLEEc3fy9YPgMSw2As&ip=152.55.177.12&id=a256584ef49981ce&itag=22&source=blogger&requiressl=yes&xpc=Egho7Zf3LnoBAQ==&met=1788689011,&mh=nT&mm=31&mn=sn-n4v7snls&ms=au&mv=m&mvi=4&pl=22&rms=au,au&susc=bl&svpuc=1&eaua=uN7j3T-ZPmc&mime=video/mp4&vprv=1&rqh=1&dur=1423.847&lmt=1679922046548580&mt=1788688603&txp=1311224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,svpuc,eaua,mime,vprv,rqh,dur,lmt&sig=AE0s2JYwRAIgJPUejUeDzEzj5zlDFHO830rfDlJzjJhqS-T53qhfOJ0CIE-bMtW6Vy9l7E4_p_9qkDmWltwV4JdaXoPxVFHnReIo&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRQIgMPjgZ1sTBzCqlqUptyVCqtGl64Vjj_45ifAbnZCLJ7cCIQCYZ8TZFO7mySsiRpFc8nSuqgUeDjBxx-rS2-AIbGRQ0Q==",
+            "label": "Servidor 2",
+            "referer": "https://animesdigital.org/video/a/23481/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Frr4---sn-n4v7snls.googlevideo.com%2Fvideoplayback%3Fexpire%3D1788717811%26ei%3DczqdaqLEEc3fy9YPgMSw2As%26ip%3D152.55.177.12%26id%3Da256584ef49981ce%26itag%3D22%26source%3Dblogger%26requiressl%3Dyes%26xpc%3DEgho7Zf3LnoBAQ%3D%3D%26met%3D1788689011%2C%26mh%3DnT%26mm%3D31%26mn%3Dsn-n4v7snls%26ms%3Dau%26mv%3Dm%26mvi%3D4%26pl%3D22%26rms%3Dau%2Cau%26susc%3Dbl%26svpuc%3D1%26eaua%3DuN7j3T-ZPmc%26mime%3Dvideo%2Fmp4%26vprv%3D1%26rqh%3D1%26dur%3D1423.847%26lmt%3D1679922046548580%26mt%3D1788688603%26txp%3D1311224%26sparams%3Dexpire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Csusc%2Csvpuc%2Ceaua%2Cmime%2Cvprv%2Crqh%2Cdur%2Clmt%26sig%3DAE0s2JYwRAIgJPUejUeDzEzj5zlDFHO830rfDlJzjJhqS-T53qhfOJ0CIE-bMtW6Vy9l7E4_p_9qkDmWltwV4JdaXoPxVFHnReIo%26lsparams%3Dmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%26lsig%3DAPaTxxMwRQIgMPjgZ1sTBzCqlqUptyVCqtGl64Vjj_45ifAbnZCLJ7cCIQCYZ8TZFO7mySsiRpFc8nSuqgUeDjBxx-rS2-AIbGRQ0Q%3D%3D&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "hack-sign",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2021/10/hack-Sign-dublado-categoria.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/23481/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "hack-sign"
+      }
     }
   }
 }
