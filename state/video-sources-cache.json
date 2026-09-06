@@ -4948,6 +4948,35 @@
         "fallbackProvider": "animesdigital",
         "requestedSlug": "alice-to-therese-no-maboroshi-koujou"
       }
+    },
+    "anime:hack-sign:2": {
+      "at": 1788689095012,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/1/hack-sign-dublado/02.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/23480/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2F1%2Fhack-sign-dublado%2F02.mp4%2Findex.m3u8&ref=animesdigital"
+          },
+          {
+            "type": "mp4",
+            "src": "https://rr5---sn-n4v7snlr.googlevideo.com/videoplayback?expire=1788717865&ei=qTqdaqW1JcWV-eUP_NGQoAw&ip=152.55.177.12&id=77e085b6718c71fc&itag=22&source=blogger&requiressl=yes&xpc=Egho7Zf3LnoBAQ==&cps=2&met=1788689065,&mh=IO&mm=31&mn=sn-n4v7snlr&ms=au&mv=m&mvi=5&pl=22&rms=au,au&susc=bl&svpuc=1&eaua=uN7j3T-ZPmc&mime=video/mp4&vprv=1&rqh=1&dur=1423.568&lmt=1679922174659356&mt=1788688603&txp=1311224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,svpuc,eaua,mime,vprv,rqh,dur,lmt&sig=AE0s2JYwRAIgcvhL4zvwhOGDbnN_8_fPeo-JeeDkzaHpS9Fc99goo4MCICcSBi_ubnC6t4tkSzQ6-qEkXE8mNt75nUX4OuMnRzgx&lsparams=cps,met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRgIhANByRgr7HwZjOwDvpGhy52zyKMzLSGLO6GlGvX13d2kdAiEA_c5JKESgcmXeLqz9byB_0Aj2ONxpVDCx3_brl2qfHms=",
+            "label": "Servidor 2",
+            "referer": "https://animesdigital.org/video/a/23480/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Frr5---sn-n4v7snlr.googlevideo.com%2Fvideoplayback%3Fexpire%3D1788717865%26ei%3DqTqdaqW1JcWV-eUP_NGQoAw%26ip%3D152.55.177.12%26id%3D77e085b6718c71fc%26itag%3D22%26source%3Dblogger%26requiressl%3Dyes%26xpc%3DEgho7Zf3LnoBAQ%3D%3D%26cps%3D2%26met%3D1788689065%2C%26mh%3DIO%26mm%3D31%26mn%3Dsn-n4v7snlr%26ms%3Dau%26mv%3Dm%26mvi%3D5%26pl%3D22%26rms%3Dau%2Cau%26susc%3Dbl%26svpuc%3D1%26eaua%3DuN7j3T-ZPmc%26mime%3Dvideo%2Fmp4%26vprv%3D1%26rqh%3D1%26dur%3D1423.568%26lmt%3D1679922174659356%26mt%3D1788688603%26txp%3D1311224%26sparams%3Dexpire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Csusc%2Csvpuc%2Ceaua%2Cmime%2Cvprv%2Crqh%2Cdur%2Clmt%26sig%3DAE0s2JYwRAIgcvhL4zvwhOGDbnN_8_fPeo-JeeDkzaHpS9Fc99goo4MCICcSBi_ubnC6t4tkSzQ6-qEkXE8mNt75nUX4OuMnRzgx%26lsparams%3Dcps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%26lsig%3DAPaTxxMwRgIhANByRgr7HwZjOwDvpGhy52zyKMzLSGLO6GlGvX13d2kdAiEA_c5JKESgcmXeLqz9byB_0Aj2ONxpVDCx3_brl2qfHms%3D&ref=animesdigital"
+          }
+        ],
+        "episode": 2,
+        "slug": "hack-sign",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2021/10/hack-Sign-dublado-categoria.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/23480/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "hack-sign"
+      }
     }
   }
 }
