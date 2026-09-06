@@ -5006,6 +5006,35 @@
         "fallbackProvider": "animesdigital",
         "requestedSlug": "bleach"
       }
+    },
+    "anime:bleach-sennen-kessen-hen:9": {
+      "at": 1788689846501,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/b/bleach-sennen-kessen-hen/09.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/6537100890/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fb%2Fbleach-sennen-kessen-hen%2F09.mp4%2Findex.m3u8&ref=animesdigital"
+          },
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/b/bleach-sennen-kessen-hen/09.mp4/index.m3u8",
+            "label": "Servidor 3",
+            "referer": "https://animesdigital.org/video/a/6537100890/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fb%2Fbleach-sennen-kessen-hen%2F09.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 9,
+        "slug": "bleach-sennen-kessen-hen",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2022/09/Bleach-Sennen-Kessen-henEp.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/6537100890/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "bleach-sennen-kessen-hen"
+      }
     }
   }
 }
