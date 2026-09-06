@@ -6963,6 +6963,72 @@
         "fallbackProvider": "animesdigital",
         "requestedSlug": "bleach-dublado"
       }
+    },
+    "anime:aharen-san-wa-hakarenai-2:4": {
+      "at": 1788706019485,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/a/aharen-san-wa-hakarenai-2/04.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/129010/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fa%2Faharen-san-wa-hakarenai-2%2F04.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 4,
+        "slug": "aharen-san-wa-hakarenai-2",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2025/04/Aharen-san-wa-Hakarenai-2.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/129010/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "aharen-san-wa-hakarenai-2"
+      }
+    },
+    "anime:aharen-san-wa-hakarenai-2:2": {
+      "at": 1788706019863,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/a/aharen-san-wa-hakarenai-2/02.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/128466/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fa%2Faharen-san-wa-hakarenai-2%2F02.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 2,
+        "slug": "aharen-san-wa-hakarenai-2",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2025/04/Aharen-san-wa-Hakarenai-2.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/128466/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "aharen-san-wa-hakarenai-2"
+      }
+    },
+    "anime:aharen-san-wa-hakarenai-2:1": {
+      "at": 1788706019939,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/a/aharen-san-wa-hakarenai-2/01.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/128270/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fa%2Faharen-san-wa-hakarenai-2%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "aharen-san-wa-hakarenai-2",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2025/04/Aharen-san-wa-Hakarenai-2.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/128270/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "aharen-san-wa-hakarenai-2"
+      }
     }
   }
 }
