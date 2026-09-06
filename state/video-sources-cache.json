@@ -7249,6 +7249,28 @@
         "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNC8xMC9BY3JvLVRyaXBFcC5qcGc",
         "episodeUrl": "https://animesdigital.org/video/a/123253/"
       }
+    },
+    "anime:86-eighty-six:2": {
+      "at": 1788720217420,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/e/eighty-six/02.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/73715/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fe%2Feighty-six%2F02.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 2,
+        "slug": "86-eighty-six",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2023/04/assistir-eighty-six-todos-os-episodios-online-animes-online.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/73715/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "86-eighty-six"
+      }
     }
   }
 }
