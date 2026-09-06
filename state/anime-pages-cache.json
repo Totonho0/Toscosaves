@@ -93,11 +93,11 @@
       }
     },
     "oshi-no-ko-3rd-season": {
-      "at": 1788649749172,
+      "at": 1788719074302,
       "data": {
         "slug": "oshi-no-ko-3rd-season",
         "title": "oshi no ko 3rd season",
-        "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDE4MjU4Ny1mc1U4TE9qbWQ3b2ouanBn",
+        "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvNDkyNjQvcG9zdGVyX2ltYWdlL2xhcmdlLWIzOGZjNmRjMjllNDFiM2Q4NDc2NGUwNjkwODFjZDk0LmpwZWc",
         "synopsis": "",
         "episodes": [
           {
@@ -182,6 +182,41 @@
         "defaultEpisode": 1,
         "kind": "anime",
         "provider": "animesdigital",
+        "relatedSeasons": [
+          {
+            "slug": "oshi-no-ko",
+            "title": "Oshi no Ko",
+            "poster": "https://meusanimes.blog/wp-content/uploads/2025/06/jTaASK9psBL7q7BrXbtwqO64DYy.jpg",
+            "season": 1,
+            "part": 0,
+            "final": false,
+            "named": "",
+            "dublado": false,
+            "label": "Temporada 1"
+          },
+          {
+            "slug": "oshi-no-ko-2",
+            "title": "Oshi no Ko 2",
+            "poster": "https://image.tmdb.org/t/p/w500/71aIM1RK1eZsAiPBpfnZH8sHxGW.jpg",
+            "season": 2,
+            "part": 0,
+            "final": false,
+            "named": "",
+            "dublado": false,
+            "label": "Temporada 2"
+          },
+          {
+            "slug": "oshi-no-ko-3rd-season",
+            "title": "[Oshi no Ko] 3rd Season",
+            "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182587-fsU8LOjmd7oj.jpg",
+            "season": 3,
+            "part": 0,
+            "final": false,
+            "named": "",
+            "dublado": false,
+            "label": "Temporada 3"
+          }
+        ],
         "seasons": [
           {
             "season": 1,
@@ -577,11 +612,11 @@
       }
     },
     "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-outo-de-kimama-ni-kurashitai": {
-      "at": 1788649749951,
+      "at": 1788719074717,
       "data": {
         "slug": "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-outo-de-kimama-ni-kurashitai",
         "title": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
-        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZWZpcmUuaW8vaW1nL2FuaW1lcy9vbWFlLWdvdG9raS1nYS1tYW91LW5pLWthdGVydS10by1vbW91bmEtdG8teXV1c2hhLXBhcnR5LXdvLXRzdWlob3Utc2FyZXRhLW5vZGUtb3V0by1kZS1raW1hbWEtbmkta3VyYXNoaXRhaS1sYXJnZS53ZWJw",
+        "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvNTAzMzQvcG9zdGVyX2ltYWdlL2xhcmdlLTBkNDU3NjU3NjFjZGMyYmM3NDA4YmMzYjMyNzQ4YjZkLmpwZWc",
         "synopsis": "Sinopse:  Flum Apricot nunca foi concebido para ser um herói. Apesar de zero estatísticas e um poder que ela nem consegue usar, ela de alguma forma se vê incluída em um grupo de heróis. Mas a vida de Flum chega ao fundo do poço quando o renomado sábio do partido, Jean Inteige, decide que a garota inútil é um peso morto e faz com que ela seja vendida como escrava. Jogada aos monstros para ser banqueteada para entretenimento do seu mestre, Flum faz a escolha desesperada de pegar uma arma amaldiçoada... e algo novo desperta dentro dela. Uma história sombria sobre a busca sangrenta de uma mulher para recuperar sua vida!",
         "episodes": [
           {
@@ -1010,96 +1045,108 @@
       }
     },
     "07-ghost": {
-      "at": 1788649750667,
+      "at": 1788719076708,
       "data": {
         "slug": "07-ghost",
         "title": "07 ghost",
-        "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9tZWRpdW0vNTUyNS5qcGc",
+        "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvcG9zdGVyX2ltYWdlcy80MTM1L2xhcmdlLmpwZw",
         "synopsis": "",
         "episodes": [
           {
             "number": 1,
-            "epInSeason": 1,
+            "title": "Ghost Concert: missing Songs Episódio 01 5 meses atrás",
+            "url": "https://animesdigital.org/video/a/135411b",
+            "videoId": "135411b",
             "season": 1,
-            "title": "Episódio 1",
-            "url": "https://animefire.io/animes/07-ghost/1"
+            "epInSeason": 1
           },
           {
             "number": 2,
-            "epInSeason": 2,
+            "title": "Ghost Concert: missing Songs Episódio 02 5 meses atrás",
+            "url": "https://animesdigital.org/video/a/135617/",
+            "videoId": "135617",
             "season": 1,
-            "title": "Episódio 2",
-            "url": "https://animefire.io/animes/07-ghost/2"
+            "epInSeason": 2
           },
           {
             "number": 3,
-            "epInSeason": 3,
+            "title": "Ghost Concert: missing Songs Episódio 03 5 meses atrás",
+            "url": "https://animesdigital.org/video/a/135788/",
+            "videoId": "135788",
             "season": 1,
-            "title": "Episódio 3",
-            "url": "https://animefire.io/animes/07-ghost/3"
+            "epInSeason": 3
           },
           {
             "number": 4,
-            "epInSeason": 4,
+            "title": "Ghost Concert: missing Songs Episódio 04 4 meses atrás",
+            "url": "https://animesdigital.org/video/a/135874/",
+            "videoId": "135874",
             "season": 1,
-            "title": "Episódio 4",
-            "url": "https://animefire.io/animes/07-ghost/4"
+            "epInSeason": 4
           },
           {
             "number": 5,
-            "epInSeason": 5,
+            "title": "Ghost Concert: missing Songs Episódio 05 4 meses atrás",
+            "url": "https://animesdigital.org/video/a/135942/",
+            "videoId": "135942",
             "season": 1,
-            "title": "Episódio 5",
-            "url": "https://animefire.io/animes/07-ghost/5"
+            "epInSeason": 5
           },
           {
             "number": 6,
-            "epInSeason": 6,
+            "title": "Ghost Concert: missing Songs Episódio 06 4 meses atrás",
+            "url": "https://animesdigital.org/video/a/136057/",
+            "videoId": "136057",
             "season": 1,
-            "title": "Episódio 6",
-            "url": "https://animefire.io/animes/07-ghost/6"
+            "epInSeason": 6
           },
           {
             "number": 7,
-            "epInSeason": 7,
+            "title": "Ghost Concert: missing Songs Episódio 07 4 meses atrás",
+            "url": "https://animesdigital.org/video/a/136174/",
+            "videoId": "136174",
             "season": 1,
-            "title": "Episódio 7",
-            "url": "https://animefire.io/animes/07-ghost/7"
+            "epInSeason": 7
           },
           {
             "number": 8,
-            "epInSeason": 8,
+            "title": "Ghost Concert: missing Songs Episódio 08 4 meses atrás",
+            "url": "https://animesdigital.org/video/a/136336/",
+            "videoId": "136336",
             "season": 1,
-            "title": "Episódio 8",
-            "url": "https://animefire.io/animes/07-ghost/8"
+            "epInSeason": 8
           },
           {
             "number": 9,
-            "epInSeason": 9,
+            "title": "Ghost Concert: missing Songs Episódio 09 3 meses atrás",
+            "url": "https://animesdigital.org/video/a/136423/",
+            "videoId": "136423",
             "season": 1,
-            "title": "Episódio 9",
-            "url": "https://animefire.io/animes/07-ghost/9"
+            "epInSeason": 9
           },
           {
             "number": 10,
-            "epInSeason": 10,
+            "title": "Ghost Concert: missing Songs Episódio 10 3 meses atrás",
+            "url": "https://animesdigital.org/video/a/136489/",
+            "videoId": "136489",
             "season": 1,
-            "title": "Episódio 10",
-            "url": "https://animefire.io/animes/07-ghost/10"
+            "epInSeason": 10
           },
           {
             "number": 11,
-            "epInSeason": 11,
+            "title": "Ghost Concert: missing Songs Episódio 11 3 meses atrás",
+            "url": "https://animesdigital.org/video/a/136626/",
+            "videoId": "136626",
             "season": 1,
-            "title": "Episódio 11",
-            "url": "https://animefire.io/animes/07-ghost/11"
+            "epInSeason": 11
           },
           {
             "number": 12,
-            "epInSeason": 12,
+            "title": "Ghost Concert: missing Songs Episódio 12 3 meses atrás",
+            "url": "https://animesdigital.org/video/a/136697/",
+            "videoId": "136697",
             "season": 1,
-            "title": "Episódio 12",
-            "url": "https://animefire.io/animes/07-ghost/12"
+            "epInSeason": 12
           },
           {
             "number": 13,
@@ -9132,11 +9179,11 @@
       }
     },
     "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-outo-de-kimama-ni-kurashitai-dublado": {
-      "at": 1788651150973,
+      "at": 1788719072457,
       "data": {
         "slug": "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-outo-de-kimama-ni-kurashitai-dublado",
         "title": "omae gotoki ga maou ni kateru to omouna to yuusha party wo tsuihou sareta node outo de kimama ni kurashitai dublado",
-        "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDE5MTcxOC1GZVI2Ym5sa3FGMEoucG5n",
+        "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvNTAzMzQvcG9zdGVyX2ltYWdlL2xhcmdlLTBkNDU3NjU3NjFjZGMyYmM3NDA4YmMzYjMyNzQ4YjZkLmpwZWc",
         "synopsis": "",
         "episodes": [
           {
