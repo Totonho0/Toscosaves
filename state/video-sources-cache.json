@@ -5137,6 +5137,57 @@
         "fallbackProvider": "animesdigital",
         "requestedSlug": "bleach-sennen-kessen-hen-ketsubetsu-tan"
       }
+    },
+    "anime:oshi-no-ko:2": {
+      "at": 1788689935912,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/o/oshi-no-ko/02.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/69472/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fo%2Foshi-no-ko%2F02.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 2,
+        "slug": "oshi-no-ko",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2023/03/Oshi-no-KoEp.jpeg",
+        "episodeUrl": "https://animesdigital.org/video/a/69472/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "oshi-no-ko"
+      }
+    },
+    "anime:oshi-no-ko:1": {
+      "at": 1788689936279,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/o/oshi-no-ko/01v2.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/69471x001",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fo%2Foshi-no-ko%2F01v2.mp4%2Findex.m3u8&ref=animesdigital"
+          },
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/o/oshi-no-ko/01.mp4/index.m3u8",
+            "label": "Servidor 3",
+            "referer": "https://animesdigital.org/video/a/69471x001",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fo%2Foshi-no-ko%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "oshi-no-ko",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2023/03/Oshi-no-KoEp.jpeg",
+        "episodeUrl": "https://animesdigital.org/video/a/69471x001",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "oshi-no-ko"
+      }
     }
   }
 }
