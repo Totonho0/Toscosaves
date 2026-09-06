@@ -1672,6 +1672,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDExNjU4OS1LYXdYSEI2c0FwRnQuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "86-eighty-six": {
+      "slug": "86-eighty-six",
+      "title": "86 eighty six",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8wNC9hc3Npc3Rpci1laWdodHktc2l4LXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pbWVzLW9ubGluZS5qcGc",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2839,9 +2846,17 @@
     ],
     "86-dublado": [
       1
+    ],
+    "86-eighty-six": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "86-eighty-six",
+      "ep": 1,
+      "at": 1788719756152
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -5111,5 +5126,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788719744175
+  "updatedAt": 1788719757811
 }
