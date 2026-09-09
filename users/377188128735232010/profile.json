@@ -1357,8 +1357,9 @@
     "bleach-sennen-kessen-hen-soukoku-tan": {
       "slug": "bleach-sennen-kessen-hen-soukoku-tan",
       "title": "bleach sennen kessen hen soukoku tan",
-      "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDE2OTc1NS1ScWI3TWpuemRUYzYuanBn",
-      "kind": "anime"
+      "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvNDgwMTUvcG9zdGVyX2ltYWdlL2xhcmdlLWY0YmFkMjc0MTZkNzE5ZjNhNmQ1NGNlOWE4YzY2ZWMwLmpwZWc",
+      "kind": "anime",
+      "adult": false
     },
     "senran-kagura": {
       "slug": "senran-kagura",
@@ -2785,6 +2786,7 @@
     "bleach-sennen-kessen-hen-soukoku-tan": [
       1,
       14,
+      27,
       40
     ],
     "senran-kagura": [
@@ -2954,6 +2956,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "bleach-sennen-kessen-hen-soukoku-tan",
+      "ep": 27,
+      "at": 1788947899532
+    },
     {
       "slug": "30-sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii",
       "ep": 1,
@@ -5273,5 +5280,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788947827965
+  "updatedAt": 1788947900067
 }
