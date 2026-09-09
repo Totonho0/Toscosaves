@@ -1756,6 +1756,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNC8wMS8zMC1zYWktbWFkZS1Eb3V0ZWktZGF0by1NYWhvdXRzdWthaS1uaS1OYXJlcnUtUmFzaGlpLmpwZw",
       "kind": "anime",
       "adult": false
+    },
+    "akibas-trip-the-animation": {
+      "slug": "akibas-trip-the-animation",
+      "title": "akibas trip the animation",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvcG9zdGVyX2ltYWdlcy8xMjUzMi9sYXJnZS5qcGc",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2953,9 +2960,17 @@
     ],
     "30-sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii": [
       1
+    ],
+    "akibas-trip-the-animation": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "akibas-trip-the-animation",
+      "ep": 1,
+      "at": 1788948897602
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -5280,5 +5295,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1788948832040
+  "updatedAt": 1788948898055
 }
