@@ -7867,6 +7867,28 @@
         "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvcG9zdGVyX2ltYWdlcy8xMzY1Mi9sYXJnZS5qcGc",
         "episodeUrl": "https://animefire.io/animes/acca-13-ku-kansatsu-ka/1"
       }
+    },
+    "anime:30-sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii:1": {
+      "at": 1789159227761,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/1/30-sai-made-doutei-dato-mahoutsukai-no-nareru-rashii/01.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/110287/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2F1%2F30-sai-made-doutei-dato-mahoutsukai-no-nareru-rashii%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "30-sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2024/01/30-sai-made-Doutei-dato-Mahoutsukai-ni-Nareru-Rashii.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/110287/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "30-sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii"
+      }
     }
   }
 }
