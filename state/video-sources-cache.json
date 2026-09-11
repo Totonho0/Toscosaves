@@ -7847,6 +7847,26 @@
         "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvNDMwNzgvcG9zdGVyX2ltYWdlL2xhcmdlLWJmMzZkYzNlZDAwOTdjOGI4YzQ5ZTA2NGJmMGVhYTc5LmpwZWc",
         "episodeUrl": "https://animesdigital.org/video/a//"
       }
+    },
+    "anime:acca-13-ku-kansatsu-ka:1": {
+      "at": 1789159172025,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/a/acca-13-ku-kansatsu-ka/01.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animefire.io/animes/acca-13-ku-kansatsu-ka/1",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fa%2Facca-13-ku-kansatsu-ka%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "acca-13-ku-kansatsu-ka",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvcG9zdGVyX2ltYWdlcy8xMzY1Mi9sYXJnZS5qcGc",
+        "episodeUrl": "https://animefire.io/animes/acca-13-ku-kansatsu-ka/1"
+      }
     }
   }
 }
