@@ -7787,6 +7787,26 @@
         "fallbackProvider": "animesdigital",
         "requestedSlug": "bleach-dublado"
       }
+    },
+    "anime:bleach-dublado:47": {
+      "at": 1789153676741,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/b/bleach-dublado/47.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a//",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fb%2Fbleach-dublado%2F47.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 47,
+        "slug": "bleach-dublado",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvNDMwNzgvcG9zdGVyX2ltYWdlL2xhcmdlLWJmMzZkYzNlZDAwOTdjOGI4YzQ5ZTA2NGJmMGVhYTc5LmpwZWc",
+        "episodeUrl": "https://animesdigital.org/video/a//"
+      }
     }
   }
 }
