@@ -8402,6 +8402,50 @@
         "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvcG9zdGVyX2ltYWdlcy8xMzMxMy9sYXJnZS5qcGc",
         "episodeUrl": "https://animesdigital.org/video/a/3423z"
       }
+    },
+    "anime:boku-no-hero-academia-5-dublado:6": {
+      "at": 1789238923934,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/b/boku-no-hero-academia-5-dublado/06.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/3431z0",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fb%2Fboku-no-hero-academia-5-dublado%2F06.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 6,
+        "slug": "boku-no-hero-academia-5-dublado",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-boku-no-hero-academia-5-dublado-dublado-todos-os-episodios-online-animesdigital.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/3431z0",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "boku-no-hero-academia-5-dublado"
+      }
+    },
+    "anime:boku-no-hero-academia-5-dublado:16": {
+      "at": 1789238924399,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/b/boku-no-hero-academia-5-dublado/16.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/3421z001",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fb%2Fboku-no-hero-academia-5-dublado%2F16.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 16,
+        "slug": "boku-no-hero-academia-5-dublado",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-boku-no-hero-academia-5-dublado-dublado-todos-os-episodios-online-animesdigital.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/3421z001",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "boku-no-hero-academia-5-dublado"
+      }
     }
   }
 }
