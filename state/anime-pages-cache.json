@@ -5905,7 +5905,7 @@
       }
     },
     "86-dublado": {
-      "at": 1789168980771,
+      "at": 1789222689556,
       "data": {
         "slug": "86-dublado",
         "title": "86 dublado",
@@ -5943,7 +5943,7 @@
       }
     },
     "3x3-eyes": {
-      "at": 1789168974611,
+      "at": 1789222688566,
       "data": {
         "slug": "3x3-eyes",
         "title": "3x3 eyes",
@@ -10321,7 +10321,7 @@
       }
     },
     "5-toubun-no-hanayome-movie": {
-      "at": 1789168973799,
+      "at": 1789222690417,
       "data": {
         "slug": "5-toubun-no-hanayome-movie",
         "title": "5 toubun no hanayome movie",
@@ -22694,6 +22694,133 @@
             ]
           }
         ]
+      }
+    },
+    "86-eighty-six-dublado": {
+      "at": 1789222689602,
+      "data": {
+        "slug": "86-eighty-six-dublado",
+        "title": "86 eighty six dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDExNjU4OS1LYXdYSEI2c0FwRnQuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "epInSeason": 1,
+            "season": 1,
+            "title": "Episódio 1",
+            "url": "https://animefire.io/animes/86-eighty-six-dublado/1"
+          },
+          {
+            "number": 2,
+            "epInSeason": 2,
+            "season": 1,
+            "title": "Episódio 2",
+            "url": "https://animefire.io/animes/86-eighty-six-dublado/2"
+          },
+          {
+            "number": 3,
+            "epInSeason": 3,
+            "season": 1,
+            "title": "Episódio 3",
+            "url": "https://animefire.io/animes/86-eighty-six-dublado/3"
+          },
+          {
+            "number": 4,
+            "epInSeason": 4,
+            "season": 1,
+            "title": "Episódio 4",
+            "url": "https://animefire.io/animes/86-eighty-six-dublado/4"
+          },
+          {
+            "number": 5,
+            "epInSeason": 5,
+            "season": 1,
+            "title": "Episódio 5",
+            "url": "https://animefire.io/animes/86-eighty-six-dublado/5"
+          },
+          {
+            "number": 6,
+            "epInSeason": 6,
+            "season": 1,
+            "title": "Episódio 6",
+            "url": "https://animefire.io/animes/86-eighty-six-dublado/6"
+          },
+          {
+            "number": 7,
+            "epInSeason": 7,
+            "season": 1,
+            "title": "Episódio 7",
+            "url": "https://animefire.io/animes/86-eighty-six-dublado/7"
+          },
+          {
+            "number": 8,
+            "epInSeason": 8,
+            "season": 1,
+            "title": "Episódio 8",
+            "url": "https://animefire.io/animes/86-eighty-six-dublado/8"
+          },
+          {
+            "number": 9,
+            "epInSeason": 9,
+            "season": 1,
+            "title": "Episódio 9",
+            "url": "https://animefire.io/animes/86-eighty-six-dublado/9"
+          },
+          {
+            "number": 10,
+            "epInSeason": 10,
+            "season": 1,
+            "title": "Episódio 10",
+            "url": "https://animefire.io/animes/86-eighty-six-dublado/10"
+          },
+          {
+            "number": 11,
+            "epInSeason": 11,
+            "season": 1,
+            "title": "Episódio 11",
+            "url": "https://animefire.io/animes/86-eighty-six-dublado/11"
+          }
+        ],
+        "totalEpisodes": 11,
+        "defaultEpisode": 1,
+        "kind": "anime",
+        "provider": "animesdigital",
+        "seasons": [
+          {
+            "season": 1,
+            "episodes": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ]
+          }
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "86-eighty-six",
+              "title": "86 Eighty-Six",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "86-eighty-six-dublado",
+              "title": "86 Eighty-Six Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
       }
     }
   }
