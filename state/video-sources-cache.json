@@ -8326,6 +8326,33 @@
         "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDEwNDI3Ni1TbkVvd012ZXNXSUUucG5n",
         "episodeUrl": "https://animesdigital.org/video/a/78925b00"
       }
+    },
+    "anime:boku-no-hero-academia-4:25": {
+      "at": 1789238897538,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/b/boku-no-hero-4/25.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/3256z0",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fb%2Fboku-no-hero-4%2F25.mp4%2Findex.m3u8&ref=animesdigital"
+          },
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/b/boku-no-hero-academia-4/25.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/3256z0",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fb%2Fboku-no-hero-academia-4%2F25.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 25,
+        "slug": "boku-no-hero-academia-4",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDEwNDI3Ni1TbkVvd012ZXNXSUUucG5n",
+        "episodeUrl": "https://animesdigital.org/video/a/3256z0"
+      }
     }
   }
 }
