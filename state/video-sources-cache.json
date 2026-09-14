@@ -8858,6 +8858,72 @@
         "fallbackProvider": "animesdigital",
         "requestedSlug": "bleach-dublado"
       }
+    },
+    "anime:kimetsu-no-yaiba-dublado:2": {
+      "at": 1789390758015,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba/02.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/16182b0z001",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fk%2Fkimetsu-no-yaiba%2F02.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 2,
+        "slug": "kimetsu-no-yaiba-dublado",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-kimetsu-no-yaiba-todos-os-episodios-online-animesdigital.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/16182b0z001",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "kimetsu-no-yaiba-dublado"
+      }
+    },
+    "anime:kimetsu-no-yaiba-dublado:24": {
+      "at": 1789390758720,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba/24.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/16160b0z0",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fk%2Fkimetsu-no-yaiba%2F24.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 24,
+        "slug": "kimetsu-no-yaiba-dublado",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-kimetsu-no-yaiba-todos-os-episodios-online-animesdigital.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/16160b0z0",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "kimetsu-no-yaiba-dublado"
+      }
+    },
+    "anime:kimetsu-no-yaiba-dublado:1": {
+      "at": 1789390759447,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba/01.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/16183b0z001",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fk%2Fkimetsu-no-yaiba%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "kimetsu-no-yaiba-dublado",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-kimetsu-no-yaiba-todos-os-episodios-online-animesdigital.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/16183b0z001",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "kimetsu-no-yaiba-dublado"
+      }
     }
   }
 }
