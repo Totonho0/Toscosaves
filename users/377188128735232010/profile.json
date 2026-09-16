@@ -1825,6 +1825,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvNDg0NjIvcG9zdGVyX2ltYWdlL2xhcmdlLThkYWVmZDQyMjhjY2ZkNjMzMWM0MDYzNjMyMDA5NDYxLmpwZWc",
       "kind": "anime",
       "adult": false
+    },
+    "anitore-ex": {
+      "slug": "anitore-ex",
+      "title": "anitore ex",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvcG9zdGVyX2ltYWdlcy8xMTkwNi9sYXJnZS5qcGc",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -3061,9 +3068,17 @@
     ],
     "agate": [
       1
+    ],
+    "anitore-ex": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "anitore-ex",
+      "ep": 1,
+      "at": 1789572097226
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -5444,5 +5459,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1789572072873
+  "updatedAt": 1789572113121
 }
