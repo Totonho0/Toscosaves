@@ -10323,6 +10323,28 @@
         "fallbackProvider": "animesdigital",
         "requestedSlug": "2-5-jigen-no-ririsa"
       }
+    },
+    "anime:2-5-jigen-no-ririsa-dublado:1": {
+      "at": 1789685820470,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn-sv01.maximaimg.online/stream/1/2-5-jigen-no-ririsa/01.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/123544/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn-sv01.maximaimg.online%2Fstream%2F1%2F2-5-jigen-no-ririsa%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "2-5-jigen-no-ririsa-dublado",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2024/10/assistir-2-5-jigen-no-ririsa-todos-os-episodios-online-animes-online.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/123544/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "2-5-jigen-no-ririsa-dublado"
+      }
     }
   }
 }
