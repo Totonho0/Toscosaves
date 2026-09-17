@@ -1831,6 +1831,13 @@
       "title": "anitore ex",
       "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvcG9zdGVyX2ltYWdlcy8xMTkwNi9sYXJnZS5qcGc",
       "kind": "anime"
+    },
+    "smoking-behind-the-supermarket-with-you-dublado": {
+      "slug": "smoking-behind-the-supermarket-with-you-dublado",
+      "title": "smoking behind the supermarket with you dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDE5NjE4Ny0wZGdGaTJDUHAzeG4uanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -3074,10 +3081,16 @@
       1
     ],
     "smoking-behind-the-supermarket-with-you-dublado": [
+      1,
       41
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "smoking-behind-the-supermarket-with-you-dublado",
+      "ep": 1,
+      "at": 1789633413471
+    },
     {
       "slug": "smoking-behind-the-supermarket-with-you-dublado",
       "ep": 41,
@@ -5484,5 +5497,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1789633402500
+  "updatedAt": 1789633412684
 }
