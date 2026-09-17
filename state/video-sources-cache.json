@@ -10225,6 +10225,33 @@
         "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvNTA1NzMvcG9zdGVyX2ltYWdlL2xhcmdlLTVkNTgwNTBmY2M5YjVhNTU3ZTlmMjA1YTM4M2Y5NTUxLmpwZWc",
         "episodeUrl": "https://animesdigital.org/video/a/134116/"
       }
+    },
+    "anime:android-wa-keiken-ninzuu-ni-hairimasu-ka:2": {
+      "at": 1789685140620,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn-sv01.maximaimg.online/stream/a/android-wa-keiken-ninzuu-ni-hairimasu-ka/02.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/134115/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn-sv01.maximaimg.online%2Fstream%2Fa%2Fandroid-wa-keiken-ninzuu-ni-hairimasu-ka%2F02.mp4%2Findex.m3u8&ref=animesdigital"
+          },
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/a/android-wa-keiken-ninzuu-ni-hairimasu-ka/02.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/134115/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fa%2Fandroid-wa-keiken-ninzuu-ni-hairimasu-ka%2F02.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 2,
+        "slug": "android-wa-keiken-ninzuu-ni-hairimasu-ka",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvNTA1NzMvcG9zdGVyX2ltYWdlL2xhcmdlLTVkNTgwNTBmY2M5YjVhNTU3ZTlmMjA1YTM4M2Y5NTUxLmpwZWc",
+        "episodeUrl": "https://animesdigital.org/video/a/134115/"
+      }
     }
   }
 }
