@@ -10345,6 +10345,50 @@
         "fallbackProvider": "animesdigital",
         "requestedSlug": "2-5-jigen-no-ririsa-dublado"
       }
+    },
+    "anime:centaur-no-nayami:2": {
+      "at": 1789743819582,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn-sv01.maximaimg.online/stream/c/centaur-no-nayami/02.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/6843/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn-sv01.maximaimg.online%2Fstream%2Fc%2Fcentaur-no-nayami%2F02.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 2,
+        "slug": "centaur-no-nayami",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-centaur-no-nayami-todos-os-episodios-online-animesdigital.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/6843/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "centaur-no-nayami"
+      }
+    },
+    "anime:centaur-no-nayami:1": {
+      "at": 1789743820198,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn-sv01.maximaimg.online/stream/c/centaur-no-nayami/01.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/6844/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn-sv01.maximaimg.online%2Fstream%2Fc%2Fcentaur-no-nayami%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "centaur-no-nayami",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-centaur-no-nayami-todos-os-episodios-online-animesdigital.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/6844/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "centaur-no-nayami"
+      }
     }
   }
 }
