@@ -10455,6 +10455,28 @@
         "fallbackProvider": "animesdigital",
         "requestedSlug": "centaur-no-nayami"
       }
+    },
+    "anime:centaur-no-nayami:5": {
+      "at": 1789744456970,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn-sv01.maximaimg.online/stream/c/centaur-no-nayami/05.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/6840/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn-sv01.maximaimg.online%2Fstream%2Fc%2Fcentaur-no-nayami%2F05.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 5,
+        "slug": "centaur-no-nayami",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-centaur-no-nayami-todos-os-episodios-online-animesdigital.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/6840/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "centaur-no-nayami"
+      }
     }
   }
 }
