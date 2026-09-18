@@ -10521,6 +10521,50 @@
         "fallbackProvider": "animesdigital",
         "requestedSlug": "centaur-no-nayami"
       }
+    },
+    "anime:centaur-no-nayami:10": {
+      "at": 1789744891588,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn-sv01.maximaimg.online/stream/c/centaur-no-nayami/10.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/6835/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn-sv01.maximaimg.online%2Fstream%2Fc%2Fcentaur-no-nayami%2F10.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 10,
+        "slug": "centaur-no-nayami",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-centaur-no-nayami-todos-os-episodios-online-animesdigital.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/6835/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "centaur-no-nayami"
+      }
+    },
+    "anime:centaur-no-nayami:8": {
+      "at": 1789744892359,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn-sv01.maximaimg.online/stream/c/centaur-no-nayami/08.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/6837/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn-sv01.maximaimg.online%2Fstream%2Fc%2Fcentaur-no-nayami%2F08.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 8,
+        "slug": "centaur-no-nayami",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-centaur-no-nayami-todos-os-episodios-online-animesdigital.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/6837/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "centaur-no-nayami"
+      }
     }
   }
 }
