@@ -11528,6 +11528,28 @@
         "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDk3OTQwLWZ5aDhvN2dOYmhhMC5wbmc",
         "episodeUrl": "https://animesdigital.org/video/a/5059b5z"
       }
+    },
+    "anime:black-clover:1": {
+      "at": 1791301128071,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/b/black-clover/01.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/5065b0",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fb%2Fblack-clover%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "black-clover",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-black-clover-todos-os-episodios-online-animesdigital.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/5065b0",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "black-clover"
+      }
     }
   }
 }
