@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "one-piece-ptbr",
+      "titleId": "one-piece-ptbr",
+      "slug": "one-piece-ptbr",
+      "title": "One Piece",
+      "author": "Eiichiro Oda",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L09uZS1QaWVjZS1NYW5nYS1MaXZyZS0xNzV4MjM4LndlYnA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL29uZS1waWVjZS1wdGJyL2NhcGl0dWxvLTExOTIv",
+      "chapterName": "Capitulo 1192",
+      "adult": false,
+      "sub": "Capitulo 1192"
+    },
+    {
       "id": "the-beginning-after-the-end-ptbr",
       "titleId": "the-beginning-after-the-end-ptbr",
       "slug": "the-beginning-after-the-end-ptbr",
@@ -44,21 +59,6 @@
       "chapterName": "Capitulo 45",
       "adult": false,
       "sub": "Capitulo 45"
-    },
-    {
-      "id": "one-piece-ptbr",
-      "titleId": "one-piece-ptbr",
-      "slug": "one-piece-ptbr",
-      "title": "One Piece",
-      "author": "Eiichiro Oda",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L09uZS1QaWVjZS1NYW5nYS1MaXZyZS0xNzV4MjM4LndlYnA",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL29uZS1waWVjZS1wdGJyL2NhcGl0dWxvLTExOTAv",
-      "chapterName": "Capitulo 1190",
-      "adult": false,
-      "sub": "Capitulo 1190"
     },
     {
       "id": "nano-machine-ptbr",
@@ -991,7 +991,7 @@
       "sub": "Capitulo 10"
     }
   ],
-  "updatedAt": 1789949443912,
+  "updatedAt": 1791585175831,
   "total": 66,
   "genre": "fantasia",
   "source": "mangalivre"
