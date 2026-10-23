@@ -10689,14 +10689,28 @@
       }
     },
     "anime:bleach-dublado:88": {
-      "at": 1789841757541,
+      "at": 1792772162394,
       "data": {
         "sources": [
           {
             "type": "hls",
+            "src": "https://cdn-sv01.maximaimg.online/stream/b/bleach-dublado/88.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/43336/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn-sv01.maximaimg.online%2Fstream%2Fb%2Fbleach-dublado%2F88.mp4%2Findex.m3u8&ref=animesdigital"
+          },
+          {
+            "type": "hls",
+            "src": "https://cdn-sv01.maximaimg.online/stream/b/bleach-dublado/88.mp4/index.m3u8",
+            "label": "Servidor 3",
+            "referer": "https://animesdigital.org/video/a/43336/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn-sv01.maximaimg.online%2Fstream%2Fb%2Fbleach-dublado%2F88.mp4%2Findex.m3u8&ref=animesdigital"
+          },
+          {
+            "type": "hls",
             "src": "https://cdn.imagesskill.com/stream/b/bleach-dublado/88.mp4/index.m3u8",
             "label": "Servidor 1",
-            "referer": "https://animesdigital.org/video/a//",
+            "referer": "https://animesdigital.org/video/a/43336/",
             "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fb%2Fbleach-dublado%2F88.mp4%2Findex.m3u8&ref=animesdigital"
           }
         ],
@@ -10704,8 +10718,8 @@
         "slug": "bleach-dublado",
         "kind": "anime",
         "provider": "animefire",
-        "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDI2OS1kMkdtUmtKYk1vcHEucG5n",
-        "episodeUrl": "https://animesdigital.org/video/a//"
+        "poster": "https://animesdigital.org/wp-content/uploads/2021/11/assistir-bleach-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/43336/"
       }
     },
     "anime:bleach-dublado:89": {
