@@ -12177,6 +12177,57 @@
         "fallbackProvider": "animesdigital",
         "requestedSlug": "mobile-suit-gundam-the-witch-from-mercury-dublado"
       }
+    },
+    "anime:tengoku-daimakyou:1": {
+      "at": 1794083503079,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn-sv01.maximaimg.online/stream/t/tengoku-daimakyou/01.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animesdigital.org/video/a/69015/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn-sv01.maximaimg.online%2Fstream%2Ft%2Ftengoku-daimakyou%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          },
+          {
+            "type": "hls",
+            "src": "https://cdn-sv01.maximaimg.online/stream/t/tengoku-daimakyou/01.mp4/index.m3u8",
+            "label": "Servidor 3",
+            "referer": "https://animesdigital.org/video/a/69015/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn-sv01.maximaimg.online%2Fstream%2Ft%2Ftengoku-daimakyou%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "tengoku-daimakyou",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2023/03/129439l.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/69015/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "tengoku-daimakyou"
+      }
+    },
+    "anime:tengoku-daimakyou:3": {
+      "at": 1794083503350,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn-sv01.maximaimg.online/stream/t/tengoku-daimakyou/03.mp4/index.m3u8",
+            "label": "Servidor 2",
+            "referer": "https://animesdigital.org/video/a/69017/",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn-sv01.maximaimg.online%2Fstream%2Ft%2Ftengoku-daimakyou%2F03.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 3,
+        "slug": "tengoku-daimakyou",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "https://animesdigital.org/wp-content/uploads/2023/03/129439l.jpg",
+        "episodeUrl": "https://animesdigital.org/video/a/69017/",
+        "fallbackProvider": "animesdigital",
+        "requestedSlug": "tengoku-daimakyou"
+      }
     }
   }
 }
