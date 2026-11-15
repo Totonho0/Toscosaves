@@ -1927,6 +1927,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDE1NTc4My1Zb3NLYnNtWnp1REUuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "filmes/assistir-covil-de-ladroes-2-online": {
+      "slug": "filmes/assistir-covil-de-ladroes-2-online",
+      "title": "Covil de Ladrões 2",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC9sd1U4bFk2NVFxY0xPVFZsWnZMNERzZTFoNjkuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -3228,9 +3235,17 @@
     ],
     "tengoku-daimakyou-dublado": [
       1
+    ],
+    "filmes/assistir-covil-de-ladroes-2-online": [
+      1
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "filmes/assistir-covil-de-ladroes-2-online",
+      "ep": 1,
+      "at": 1794760714239
+    },
     {
       "slug": "maou-sama-retry",
       "ep": 1,
@@ -5754,5 +5769,5 @@
       "updatedAt": 1783778790206
     }
   },
-  "updatedAt": 1794760680272
+  "updatedAt": 1794760714809
 }
