@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "colorist-ptbr",
+      "titleId": "colorist-ptbr",
+      "slug": "colorist-ptbr",
+      "title": "Colorist",
+      "author": "",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzExL0NvbG9yaXN0LTE3NXgyMzgud2VicA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2NvbG9yaXN0LXB0YnIvY2FwaXR1bG8tNTEv",
+      "chapterName": "Capitulo 51",
+      "adult": false,
+      "sub": "Capitulo 51"
+    },
+    {
       "id": "one-piece-ptbr",
       "titleId": "one-piece-ptbr",
       "slug": "one-piece-ptbr",
@@ -10,10 +25,10 @@
       "language": "PT",
       "provider": "mangalivre",
       "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL29uZS1waWVjZS1wdGJyL2NhcGl0dWxvLTExOTIv",
-      "chapterName": "Capitulo 1192",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL29uZS1waWVjZS1wdGJyL2NhcGl0dWxvLTExOTYv",
+      "chapterName": "Capitulo 1196",
       "adult": false,
-      "sub": "Capitulo 1192"
+      "sub": "Capitulo 1196"
     },
     {
       "id": "boruto-two-blue-vortex-ptbr",
@@ -44,21 +59,6 @@
       "chapterName": "Capitulo 172",
       "adult": false,
       "sub": "Capitulo 172"
-    },
-    {
-      "id": "colorist-ptbr",
-      "titleId": "colorist-ptbr",
-      "slug": "colorist-ptbr",
-      "title": "Colorist",
-      "author": "",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzExL0NvbG9yaXN0LTE3NXgyMzgud2VicA",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2NvbG9yaXN0LXB0YnIvY2FwaXR1bG8tNDUv",
-      "chapterName": "Capitulo 45",
-      "adult": false,
-      "sub": "Capitulo 45"
     },
     {
       "id": "nano-machine-ptbr",
@@ -1036,7 +1036,7 @@
       "sub": "Kaneshiro"
     }
   ],
-  "updatedAt": 1792404803677,
+  "updatedAt": 1794740956042,
   "total": 69,
   "genre": "acao",
   "source": "mangalivre"
