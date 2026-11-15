@@ -12300,6 +12300,66 @@
         "fallbackProvider": "animesdigital",
         "requestedSlug": "86-eighty-six"
       }
+    },
+    "anime:aho-girl:3": {
+      "at": 1794744755763,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/a/aho-girl/03.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animefire.one/animes/aho-girl/3",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fa%2Faho-girl%2F03.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 3,
+        "slug": "aho-girl",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvcG9zdGVyX2ltYWdlcy8xMzI1OS9sYXJnZS5qcGc",
+        "episodeUrl": "https://animefire.one/animes/aho-girl/3"
+      }
+    },
+    "anime:aho-girl:9": {
+      "at": 1794744755850,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/a/aho-girl/09.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animefire.one/animes/aho-girl/9",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fa%2Faho-girl%2F09.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 9,
+        "slug": "aho-girl",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvcG9zdGVyX2ltYWdlcy8xMzI1OS9sYXJnZS5qcGc",
+        "episodeUrl": "https://animefire.one/animes/aho-girl/9"
+      }
+    },
+    "anime:aho-girl:1": {
+      "at": 1794744756096,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://cdn.imagesskill.com/stream/a/aho-girl/01.mp4/index.m3u8",
+            "label": "Servidor 1",
+            "referer": "https://animefire.one/animes/aho-girl/1",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcdn.imagesskill.com%2Fstream%2Fa%2Faho-girl%2F01.mp4%2Findex.m3u8&ref=animesdigital"
+          }
+        ],
+        "episode": 1,
+        "slug": "aho-girl",
+        "kind": "anime",
+        "provider": "animefire",
+        "poster": "/api/poster/r/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvYW5pbWUvcG9zdGVyX2ltYWdlcy8xMzI1OS9sYXJnZS5qcGc",
+        "episodeUrl": "https://animefire.one/animes/aho-girl/1"
+      }
     }
   }
 }
